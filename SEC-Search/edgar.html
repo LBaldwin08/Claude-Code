@@ -4,145 +4,78 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>SEC EDGAR Search</title>
-<meta name="description" content="Search SEC EDGAR filings in plain English — no login required">
+<meta name="description" content="Search SEC EDGAR filings in plain English">
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
 html{-webkit-text-size-adjust:100%}
-body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
-  background:#f0f4f8;color:#1a2332;min-height:100vh;line-height:1.5}
-
-/* ── Header ── */
-header{background:#1b3a6b;padding:16px 20px;display:flex;align-items:center;
-  justify-content:space-between;box-shadow:0 2px 8px rgba(0,0,0,.2)}
-.h-title{color:#fff;font-size:1.1rem;font-weight:700;letter-spacing:.2px}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#f0f4f8;color:#1a2332;min-height:100vh;line-height:1.5}
+header{background:#1b3a6b;padding:16px 20px;display:flex;align-items:center;justify-content:space-between;box-shadow:0 2px 8px rgba(0,0,0,.2)}
+.h-title{color:#fff;font-size:1.1rem;font-weight:700}
 .h-sub{color:rgba(255,255,255,.65);font-size:.78rem;margin-top:1px}
-.h-badge{background:#c8001e;color:#fff;font-size:.68rem;font-weight:800;
-  padding:3px 8px;border-radius:4px;letter-spacing:.8px;white-space:nowrap;
-  flex-shrink:0;margin-left:12px}
-
-/* ── Main layout ── */
+.h-badge{background:#c8001e;color:#fff;font-size:.68rem;font-weight:800;padding:3px 8px;border-radius:4px;letter-spacing:.8px;white-space:nowrap;flex-shrink:0;margin-left:12px}
 main{max-width:860px;margin:0 auto;padding:24px 16px 64px}
-
-/* ── Search card ── */
-.search-card{background:#fff;border-radius:14px;padding:22px 20px 18px;
-  box-shadow:0 1px 4px rgba(0,0,0,.08);margin-bottom:20px}
-.search-label{font-size:.75rem;font-weight:700;color:#4a6080;
-  text-transform:uppercase;letter-spacing:.6px;margin-bottom:9px}
+.search-card{background:#fff;border-radius:14px;padding:22px 20px 18px;box-shadow:0 1px 4px rgba(0,0,0,.08);margin-bottom:20px}
+.search-label{font-size:.75rem;font-weight:700;color:#4a6080;text-transform:uppercase;letter-spacing:.6px;margin-bottom:9px}
 .search-row{display:flex;gap:8px}
-#q{flex:1;min-width:0;border:2px solid #d0d9e8;border-radius:10px;
-  padding:12px 14px;font-size:1rem;color:#1a2332;outline:none;
-  transition:border-color .15s;-webkit-appearance:none;background:#fff}
+#q{flex:1;min-width:0;border:2px solid #d0d9e8;border-radius:10px;padding:12px 14px;font-size:1rem;color:#1a2332;outline:none;transition:border-color .15s;-webkit-appearance:none;background:#fff}
 #q:focus{border-color:#1b3a6b}
-#btn{background:#1b3a6b;color:#fff;border:none;border-radius:10px;
-  padding:12px 22px;font-size:.95rem;font-weight:700;cursor:pointer;
-  white-space:nowrap;transition:background .15s;-webkit-tap-highlight-color:transparent;
-  min-width:80px}
+#btn{background:#1b3a6b;color:#fff;border:none;border-radius:10px;padding:12px 22px;font-size:.95rem;font-weight:700;cursor:pointer;white-space:nowrap;transition:background .15s;-webkit-tap-highlight-color:transparent;min-width:80px}
 #btn:hover{background:#0e2347}
 #btn:disabled{background:#8aa0c0;cursor:not-allowed}
-
-/* ── Example chips ── */
 .chips{margin-top:12px;display:flex;flex-wrap:wrap;gap:7px;align-items:center}
 .ex{font-size:.78rem;color:#8a9fb8;white-space:nowrap}
-.chip{background:#f0f4f8;border:1px solid #d0d9e8;border-radius:20px;
-  padding:5px 13px;font-size:.8rem;color:#1b3a6b;cursor:pointer;
-  transition:all .15s;font-family:inherit;-webkit-tap-highlight-color:transparent}
+.chip{background:#f0f4f8;border:1px solid #d0d9e8;border-radius:20px;padding:5px 13px;font-size:.8rem;color:#1b3a6b;cursor:pointer;transition:all .15s;font-family:inherit;-webkit-tap-highlight-color:transparent}
 .chip:hover,.chip:active{background:#1b3a6b;color:#fff;border-color:#1b3a6b}
-
-/* ── Filter summary ── */
-#summary{display:none;margin-top:13px;padding:9px 13px;background:#f0f4f8;
-  border-radius:8px;font-size:.82rem;color:#4a6080;line-height:1.8;
-  word-break:break-word}
+#summary{display:none;margin-top:13px;padding:9px 13px;background:#f0f4f8;border-radius:8px;font-size:.82rem;color:#4a6080;line-height:1.8;word-break:break-word}
 .sk{font-weight:700;color:#1b3a6b}
 .sdiv{margin:0 10px;color:#c0ccd8}
-
-/* ── Status ── */
 #status{text-align:center;padding:52px 20px;color:#8a9fb8;font-size:.95rem}
-.spinner{display:inline-block;width:22px;height:22px;border:3px solid #d0d9e8;
-  border-top-color:#1b3a6b;border-radius:50%;animation:spin .7s linear infinite;
-  vertical-align:middle;margin-right:8px}
+.spinner{display:inline-block;width:22px;height:22px;border:3px solid #d0d9e8;border-top-color:#1b3a6b;border-radius:50%;animation:spin .7s linear infinite;vertical-align:middle;margin-right:8px}
 @keyframes spin{to{transform:rotate(360deg)}}
-
-/* ── Error ── */
-.error{background:#fff0f2;border:1px solid #ffc0cb;border-radius:10px;
-  padding:16px 18px;color:#8b0020;font-size:.9rem;margin-bottom:16px}
-.error strong{display:block;margin-bottom:4px}
-
-/* ── Results header ── */
-.res-header{display:flex;align-items:center;justify-content:space-between;
-  margin-bottom:12px;gap:10px;flex-wrap:wrap}
+.error-box{background:#fff8f0;border:1px solid #f5c080;border-radius:12px;padding:20px 22px;margin-bottom:12px}
+.error-box h3{color:#8b4000;font-size:.95rem;margin-bottom:8px}
+.error-box p{color:#5a3000;font-size:.85rem;line-height:1.6}
+.error-box a{color:#1b3a6b;font-weight:600}
+.error-box .try-link{display:inline-block;margin-top:12px;background:#1b3a6b;color:#fff;text-decoration:none;padding:9px 18px;border-radius:8px;font-size:.85rem;font-weight:700}
+.error-box .try-link:hover{background:#0e2347}
+.res-header{display:flex;align-items:center;justify-content:space-between;margin-bottom:12px;gap:10px;flex-wrap:wrap}
 .res-count{font-size:.88rem;color:#4a6080;font-weight:600}
-
-/* ── Cards grid ── */
-.cards{display:grid;gap:12px;
-  grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr))}
-
-/* ── Individual card ── */
-.card{background:#fff;border-radius:12px;padding:18px 18px 14px;
-  box-shadow:0 1px 4px rgba(0,0,0,.07);display:flex;flex-direction:column;gap:0;
-  transition:box-shadow .15s,transform .1s;border:1px solid transparent}
-.card:hover{box-shadow:0 4px 14px rgba(0,0,0,.1);transform:translateY(-1px);
-  border-color:#d0d9e8}
-.card-top{display:flex;align-items:flex-start;justify-content:space-between;
-  gap:10px;margin-bottom:8px}
-.co-name{font-weight:700;font-size:.97rem;color:#1a2332;line-height:1.35;
-  flex:1;min-width:0;word-break:break-word}
-.badge{flex-shrink:0;display:inline-block;padding:3px 9px;border-radius:5px;
-  font-size:.72rem;font-weight:800;letter-spacing:.3px;white-space:nowrap;
-  margin-top:1px}
-.b-10k {background:#fff0e0;color:#b05500}
-.b-10q {background:#e0f5f5;color:#006060}
-.b-8k  {background:#e0e8ff;color:#003399}
-.b-def {background:#ede0ff;color:#5500aa}
-.b-s1  {background:#e0ffe8;color:#005522}
-.b-f4  {background:#e8f5e0;color:#2d6a00}
-.b-etc {background:#f0f0f0;color:#4a5568}
-
+.cards{display:grid;gap:12px;grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr))}
+.card{background:#fff;border-radius:12px;padding:18px 18px 14px;box-shadow:0 1px 4px rgba(0,0,0,.07);display:flex;flex-direction:column;transition:box-shadow .15s,transform .1s;border:1px solid transparent}
+.card:hover{box-shadow:0 4px 14px rgba(0,0,0,.1);transform:translateY(-1px);border-color:#d0d9e8}
+.card-top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px;margin-bottom:8px}
+.co-name{font-weight:700;font-size:.97rem;color:#1a2332;line-height:1.35;flex:1;min-width:0;word-break:break-word}
+.badge{flex-shrink:0;display:inline-block;padding:3px 9px;border-radius:5px;font-size:.72rem;font-weight:800;letter-spacing:.3px;white-space:nowrap;margin-top:1px}
+.b-10k{background:#fff0e0;color:#b05500}
+.b-10q{background:#e0f5f5;color:#006060}
+.b-8k{background:#e0e8ff;color:#003399}
+.b-def{background:#ede0ff;color:#5500aa}
+.b-s1{background:#e0ffe8;color:#005522}
+.b-f4{background:#e8f5e0;color:#2d6a00}
+.b-etc{background:#f0f0f0;color:#4a5568}
 .card-date{font-size:.8rem;color:#6b7c93;margin-bottom:6px}
-.card-desc{font-size:.83rem;color:#4a6080;line-height:1.45;margin-bottom:10px;
-  display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
+.card-desc{font-size:.83rem;color:#4a6080;line-height:1.45;margin-bottom:10px;display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;overflow:hidden}
 .card-items{display:flex;flex-wrap:wrap;gap:5px;margin-bottom:10px}
-.itag{background:#f0f4f8;border-radius:4px;padding:2px 8px;font-size:.73rem;
-  color:#4a6080}
-.card-footer{margin-top:auto;padding-top:10px;
-  border-top:1px solid #f0f4f8;display:flex;align-items:center;
-  justify-content:space-between;gap:10px}
+.itag{background:#f0f4f8;border-radius:4px;padding:2px 8px;font-size:.73rem;color:#4a6080}
+.card-footer{margin-top:auto;padding-top:10px;border-top:1px solid #f0f4f8;display:flex;align-items:center;justify-content:space-between;gap:10px}
 .cik{font-size:.75rem;color:#9ab0c8}
-.view-btn{display:inline-flex;align-items:center;gap:4px;background:#1b3a6b;
-  color:#fff;text-decoration:none;border-radius:7px;padding:7px 14px;
-  font-size:.82rem;font-weight:700;transition:background .15s;white-space:nowrap;
-  -webkit-tap-highlight-color:transparent}
+.view-btn{display:inline-flex;align-items:center;gap:4px;background:#1b3a6b;color:#fff;text-decoration:none;border-radius:7px;padding:7px 14px;font-size:.82rem;font-weight:700;transition:background .15s;white-space:nowrap;-webkit-tap-highlight-color:transparent}
 .view-btn:hover{background:#0e2347}
-
-/* ── No results ── */
 .no-res{text-align:center;padding:52px 20px}
 .no-res h3{font-size:1.05rem;color:#4a6080;margin-bottom:8px}
 .no-res p{font-size:.88rem;color:#8a9fb8}
-
-/* ── Load more ── */
 .more-wrap{text-align:center;padding:22px 0 0}
-#moreBtn{background:#fff;border:2px solid #d0d9e8;border-radius:10px;
-  padding:11px 30px;font-size:.9rem;font-weight:700;color:#1b3a6b;cursor:pointer;
-  transition:all .15s;font-family:inherit}
+#moreBtn{background:#fff;border:2px solid #d0d9e8;border-radius:10px;padding:11px 30px;font-size:.9rem;font-weight:700;color:#1b3a6b;cursor:pointer;transition:all .15s;font-family:inherit}
 #moreBtn:hover{background:#1b3a6b;color:#fff;border-color:#1b3a6b}
 #moreBtn:disabled{opacity:.5;cursor:not-allowed}
-
-@media(max-width:500px){
-  .h-sub{display:none}
-  #btn{padding:12px 16px}
-  .cards{grid-template-columns:1fr}
-}
+@media(max-width:500px){.h-sub{display:none}#btn{padding:12px 16px}.cards{grid-template-columns:1fr}}
 </style>
 </head>
 <body>
-
 <header>
-  <div>
-    <div class="h-title">SEC EDGAR Search</div>
-    <div class="h-sub">Search public filings in plain English</div>
-  </div>
+  <div><div class="h-title">SEC EDGAR Search</div><div class="h-sub">Search public filings in plain English</div></div>
   <span class="h-badge">SEC</span>
 </header>
-
 <main>
   <div class="search-card">
     <div class="search-label">What are you looking for?</div>
@@ -161,269 +94,182 @@ main{max-width:860px;margin:0 auto;padding:24px 16px 64px}
     </div>
     <div id="summary"></div>
   </div>
-
-  <div id="results">
-    <div id="status">Enter a search above to find SEC filings.</div>
-  </div>
+  <div id="results"><div id="status">Enter a search above to find SEC filings.</div></div>
 </main>
-
 <script>
 'use strict';
-
-// ── Constants ───────────────────────────────────────────────────────────────
 var EDGAR = 'https://efts.sec.gov/LATEST/search-index';
 var PROXY = 'https://corsproxy.io/?';
+var FALLBACK = 'https://www.sec.gov/cgi-bin/srqsb';
+var _filters=null,_offset=0,_total=0,_rows=[];
 
-// ── State ───────────────────────────────────────────────────────────────────
-var _filters = null;
-var _offset  = 0;
-var _total   = 0;
-var _rows    = [];
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
+function fmtDate(d){if(!d)return '';var p=d.split('-'),mn=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];return mn[+p[1]-1]+' '+(+p[2])+', '+p[0];}
+function go(el){document.getElementById('q').value=el.textContent;doSearch();}
 
-// ── Helpers ─────────────────────────────────────────────────────────────────
-function esc(s) {
-  return String(s || '')
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
-    .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
-}
-function fmtDate(d) {
-  if (!d) return '';
-  var parts = d.split('-');
-  var mn = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  return mn[+parts[1]-1] + ' ' + +parts[2] + ', ' + parts[0];
-}
-function go(el) {
-  document.getElementById('q').value = el.textContent;
-  doSearch();
-}
-
-// ── NL Parser ────────────────────────────────────────────────────────────────
-function parse(raw) {
-  var q  = raw.trim();
-  var ql = q.toLowerCase();
-  var now = new Date();
-  var out = { forms:[], startdt:null, enddt:null, terms:[] };
-
-  // Form type detection
-  var formRules = [
-    [/\b10-?k\b|annual\s+report/i,              ['10-K']],
-    [/\b10-?q\b|quarterly\s+report/i,            ['10-Q']],
-    [/\b8-?k\b/i,                                ['8-K']],
+function parse(raw){
+  var q=raw.trim(),ql=q.toLowerCase(),now=new Date();
+  var out={forms:[],startdt:null,enddt:null,terms:[]};
+  var FR=[
+    [/\b10-?k\b|annual\s+report/i,['10-K']],
+    [/\b10-?q\b|quarterly\s+report/i,['10-Q']],
+    [/\b8-?k\b/i,['8-K']],
     [/\bdefm?14a\b|proxy\s+state|merger\s+prox/i,['DEF 14A','DEFM14A']],
-    [/\bsc\s*13/i,                               ['SC 13G','SC 13D']],
-    [/\bform\s*4\b|insider\s+trad/i,             ['4']],
-    [/\bmerger|acquisition|takeover/i,           ['8-K','DEF 14A','DEFM14A']],
-    [/\bearnings|revenue|quarterly|profit/i,     ['10-K','10-Q']],
-    [/\bipo\b|s-1\b|prospectus/i,               ['S-1','S-1/A']],
+    [/\bform\s*4\b|insider\s+trad/i,['4']],
+    [/\bmerger|acquisition|takeover/i,['8-K','DEF 14A','DEFM14A']],
+    [/\bearnings|revenue|quarterly|profit/i,['10-K','10-Q']],
+    [/\bipo\b|s-1\b|prospectus/i,['S-1','S-1/A']],
   ];
-  for (var i=0; i<formRules.length; i++) {
-    if (formRules[i][0].test(q)) { out.forms = formRules[i][1]; break; }
+  for(var i=0;i<FR.length;i++){if(FR[i][0].test(q)){out.forms=FR[i][1];break;}}
+  var lm=ql.match(/last\s+(\d+)\s+months?/);
+  if(lm){var d0=new Date(now);d0.setMonth(d0.getMonth()-+lm[1]);out.startdt=d0.toISOString().slice(0,10);}
+  else if(/last\s+year/.test(ql)){var ly=now.getFullYear()-1;out.startdt=ly+'-01-01';out.enddt=ly+'-12-31';}
+  else if(/this\s+year/.test(ql)){out.startdt=now.getFullYear()+'-01-01';}
+  else{
+    var qm=q.match(/\bQ([1-4])\s*(\d{4})\b/i);
+    if(qm){var qt=+qm[1],yr=qm[2],sm=(qt-1)*3+1,em=qt*3,eday=new Date(+yr,em,0).getDate();
+      out.startdt=yr+'-'+String(sm).padStart(2,'0')+'-01';
+      out.enddt=yr+'-'+String(em).padStart(2,'0')+'-'+String(eday).padStart(2,'0');}
+    else{var ym=q.match(/\b(20\d{2})\b/);if(ym){out.startdt=ym[1]+'-01-01';out.enddt=ym[1]+'-12-31';}}
   }
-
-  // Date detection
-  var lm = ql.match(/last\s+(\d+)\s+months?/);
-  if (lm) {
-    var d0 = new Date(now); d0.setMonth(d0.getMonth() - +lm[1]);
-    out.startdt = d0.toISOString().slice(0,10);
-  } else if (/last\s+year/.test(ql)) {
-    var ly = now.getFullYear()-1;
-    out.startdt = ly+'-01-01'; out.enddt = ly+'-12-31';
-  } else if (/this\s+year/.test(ql)) {
-    out.startdt = now.getFullYear()+'-01-01';
-  } else {
-    var qm = q.match(/\bQ([1-4])\s*(\d{4})\b/i);
-    if (qm) {
-      var qt=+qm[1], yr=qm[2], sm=(qt-1)*3+1, em=qt*3;
-      var eday = new Date(+yr, em, 0).getDate();
-      out.startdt = yr+'-'+String(sm).padStart(2,'0')+'-01';
-      out.enddt   = yr+'-'+String(em).padStart(2,'0')+'-'+String(eday).padStart(2,'0');
-    } else {
-      var ym = q.match(/\b(20\d{2})\b/);
-      if (ym) { out.startdt = ym[1]+'-01-01'; out.enddt = ym[1]+'-12-31'; }
-    }
-  }
-
-  // Build search terms (strip noise, keep meaningful words)
-  var stop = {show:1,me:1,find:1,get:1,the:1,a:1,an:1,for:1,and:1,or:1,in:1,
-    of:1,from:1,about:1,with:1,on:1,at:1,by:1,to:1,this:1,last:1,year:1,
-    month:1,months:1,recent:1,latest:1,new:1,all:1,annual:1,quarterly:1,
-    report:1,reports:1,filing:1,filings:1,proxy:1,proxies:1,earnings:1,
-    revenue:1,profit:1,acquisition:1,merger:1,takeover:1,statement:1,
-    form:1,insider:1,trading:1,some:1,any:1,was:1,were:1,has:1,have:1};
-  var skipRe = /^(10-?k|10-?q|8-?k|defm?14a|s-1|20\d{2}|q[1-4]|ipo)$/i;
-  var words = q.replace(/[^\w\s]/g,' ').split(/\s+/)
-    .filter(function(w){ return w.length>1 && !stop[w.toLowerCase()] && !skipRe.test(w); });
-  out.terms = Array.from(new Set(words)).slice(0,6);
+  var stop={show:1,me:1,find:1,get:1,the:1,a:1,an:1,for:1,and:1,or:1,in:1,of:1,from:1,about:1,
+    with:1,on:1,at:1,by:1,to:1,this:1,last:1,year:1,month:1,months:1,recent:1,latest:1,new:1,
+    all:1,annual:1,quarterly:1,report:1,reports:1,filing:1,filings:1,proxy:1,proxies:1,
+    earnings:1,revenue:1,profit:1,acquisition:1,merger:1,takeover:1,statement:1,form:1,
+    insider:1,trading:1,some:1,any:1,was:1,were:1,has:1,have:1};
+  var skipRe=/^(10-?k|10-?q|8-?k|defm?14a|s-1|20\d{2}|q[1-4]|ipo)$/i;
+  var words=q.replace(/[^\w\s]/g,' ').split(/\s+/).filter(function(w){
+    return w.length>1&&!stop[w.toLowerCase()]&&!skipRe.test(w);});
+  out.terms=Array.from(new Set(words)).slice(0,6);
   return out;
 }
 
-// ── EDGAR fetch (direct → proxy fallback) ───────────────────────────────────
-async function fetchEdgar(qs) {
-  var direct = EDGAR + '?' + qs;
-  try {
-    var r = await fetch(direct);
-    if (r.ok) return await r.json();
-  } catch(e) { /* CORS or network — fall through */ }
-  // Proxy fallback
-  var r2 = await fetch(PROXY + direct);
-  if (!r2.ok) throw new Error('EDGAR returned HTTP ' + r2.status);
-  return await r2.json();
-}
-
-function buildQS(filters, from) {
-  var terms = filters.terms.length ? filters.terms : ['SEC'];
-  var p = new URLSearchParams({ q:terms.join(' '), from:String(from), size:'40' });
-  if (filters.forms.length) p.set('forms', filters.forms.join(','));
-  if (filters.startdt || filters.enddt) {
-    p.set('dateRange','custom');
-    if (filters.startdt) p.set('startdt', filters.startdt);
-    if (filters.enddt)   p.set('enddt',   filters.enddt);
-  }
+function buildQS(f,from){
+  var terms=f.terms.length?f.terms:['SEC'];
+  var p=new URLSearchParams({q:terms.join(' '),from:String(from),size:'40','hits.hits.total.value':'true'});
+  if(f.forms.length)p.set('forms',f.forms.join(','));
+  if(f.startdt||f.enddt){p.set('dateRange','custom');if(f.startdt)p.set('startdt',f.startdt);if(f.enddt)p.set('enddt',f.enddt);}
   return p.toString();
 }
 
-// ── Parse hit → row object ───────────────────────────────────────────────────
-function toRow(h) {
-  var src      = h._source || {};
-  var acc      = src.adsh  || (h._id || '').split(':')[0] || '';
-  var ciks     = src.ciks  || [];
-  var cikRaw   = ciks[0]   || '';
-  var cikNum   = cikRaw.replace(/^0+/,'') || '';
-  var names    = src.display_names || [];
-  var name     = (names[0] || 'Unknown').replace(/\(CIK[^)]*\)/,'').trim();
-  var form     = src.form  || (src.root_forms || [''])[0] || '';
-  var date     = src.file_date || '';
-  var items    = src.items || [];
-  var desc     = src.file_description || '';
-  var accClean = acc.replace(/-/g,'');
-  var url = (cikNum && acc)
-    ? 'https://www.sec.gov/Archives/edgar/data/'+cikNum+'/'+accClean+'/'+acc+'-index.htm'
-    : '';
-  return { name:name, form:form, date:date, items:items, desc:desc,
-           url:url, cikNum:cikNum };
+async function fetchEdgar(qs){
+  var direct=EDGAR+'?'+qs;
+  // 1. Try direct with explicit CORS mode
+  try{
+    var r=await fetch(direct,{mode:'cors'});
+    if(r.ok)return await r.json();
+  }catch(e){}
+  // 2. CORS proxy fallback (fixes mobile browser restrictions)
+  try{
+    var r2=await fetch(PROXY+direct,{mode:'cors'});
+    if(r2.ok)return await r2.json();
+    throw new Error('HTTP '+r2.status);
+  }catch(e2){
+    var err=new Error(e2.message||'Network error');
+    err.isCors=true;
+    throw err;
+  }
 }
 
-// ── Badge ─────────────────────────────────────────────────────────────────────
-function badge(form) {
-  var cls = 'b-etc';
-  if (/^10-K/i.test(form))    cls='b-10k';
-  else if (/^10-Q/i.test(form)) cls='b-10q';
-  else if (/^8-K/i.test(form))  cls='b-8k';
-  else if (/^DEF/i.test(form))  cls='b-def';
-  else if (/^S-1/i.test(form))  cls='b-s1';
-  else if (form==='4')           cls='b-f4';
+function toRow(h){
+  var src=h._source||{},acc=src.adsh||(h._id||'').split(':')[0]||'';
+  var ciks=src.ciks||[],cikNum=(ciks[0]||'').replace(/^0+/,'')||'';
+  var names=src.display_names||[],name=(names[0]||'Unknown').replace(/\(CIK[^)]*\)/,'').trim();
+  var form=src.form||(src.root_forms||[''])[0]||'',date=src.file_date||'';
+  var items=src.items||[],desc=src.file_description||'',accClean=acc.replace(/-/g,'');
+  var url=(cikNum&&acc)?'https://www.sec.gov/Archives/edgar/data/'+cikNum+'/'+accClean+'/'+acc+'-index.htm':'';
+  return{name:name,form:form,date:date,items:items,desc:desc,url:url,cikNum:cikNum};
+}
+
+function badge(form){
+  var cls='b-etc';
+  if(/^10-K/i.test(form))cls='b-10k';
+  else if(/^10-Q/i.test(form))cls='b-10q';
+  else if(/^8-K/i.test(form))cls='b-8k';
+  else if(/^DEF/i.test(form))cls='b-def';
+  else if(/^S-1/i.test(form))cls='b-s1';
+  else if(form==='4')cls='b-f4';
   return '<span class="badge '+cls+'">'+esc(form)+'</span>';
 }
 
-// ── Render cards ─────────────────────────────────────────────────────────────
-function renderCard(r) {
-  var itemsHtml = '';
-  if (r.items && r.items.length) {
-    itemsHtml = '<div class="card-items">'
-      + r.items.map(function(i){ return '<span class="itag">Item '+esc(i)+'</span>'; }).join('')
-      + '</div>';
-  }
-  var descHtml = (r.desc && !/^form\s/i.test(r.desc))
-    ? '<div class="card-desc">'+esc(r.desc)+'</div>' : '';
-  var linkHtml = r.url
-    ? '<a class="view-btn" href="'+esc(r.url)+'" target="_blank" rel="noopener">View Filing &#8599;</a>'
-    : '<span></span>';
+function renderCard(r){
+  var itags=r.items.map(function(i){return '<span class="itag">Item '+esc(i)+'</span>';}).join('');
+  var descHtml=(r.desc&&!/^form\s/i.test(r.desc))?'<div class="card-desc">'+esc(r.desc)+'</div>':'';
+  var link=r.url?'<a class="view-btn" href="'+esc(r.url)+'" target="_blank" rel="noopener">View &#8599;</a>':'<span></span>';
   return '<div class="card">'
-    + '<div class="card-top">'
-    +   '<div class="co-name">'+esc(r.name)+'</div>'
-    +   badge(r.form)
-    + '</div>'
-    + '<div class="card-date">'+esc(fmtDate(r.date))+'</div>'
-    + descHtml
-    + itemsHtml
-    + '<div class="card-footer">'
-    +   '<span class="cik">'+(r.cikNum ? 'CIK '+esc(r.cikNum) : '')+'</span>'
-    +   linkHtml
-    + '</div>'
-    + '</div>';
-}
-
-function renderResults() {
-  var area = document.getElementById('results');
-  if (!_rows.length) {
-    area.innerHTML = '<div class="no-res"><h3>No results found</h3>'
-      +'<p>Try different keywords, remove the date filter, or check the spelling.</p></div>';
-    return;
-  }
-  var hdr = '<div class="res-header">'
-    +'<span class="res-count">Showing '+_rows.length+' of ~'+_total.toLocaleString()+' results</span>'
+    +'<div class="card-top"><div class="co-name">'+esc(r.name)+'</div>'+badge(r.form)+'</div>'
+    +'<div class="card-date">'+esc(fmtDate(r.date))+'</div>'
+    +descHtml
+    +(itags?'<div class="card-items">'+itags+'</div>':'')
+    +'<div class="card-footer"><span class="cik">'+(r.cikNum?'CIK '+esc(r.cikNum):'')+' </span>'+link+'</div>'
     +'</div>';
-  var cards = '<div class="cards">'+_rows.map(renderCard).join('')+'</div>';
-  var more = (_offset < _total)
-    ? '<div class="more-wrap"><button id="moreBtn" onclick="loadMore()">Load more results</button></div>'
-    : '';
-  area.innerHTML = hdr + cards + more;
 }
 
-function showSummary(f) {
-  var parts = [];
-  if (f.forms.length)  parts.push('<span class="sk">Types:</span> '+esc(f.forms.join(', ')));
-  if (f.startdt)       parts.push('<span class="sk">From:</span> '+esc(f.startdt));
-  if (f.enddt)         parts.push('<span class="sk">To:</span> '+esc(f.enddt));
-  if (f.terms.length)  parts.push('<span class="sk">Search:</span> '+esc(f.terms.join(', ')));
-  var el = document.getElementById('summary');
-  el.style.display = parts.length ? 'block' : 'none';
-  el.innerHTML = '<b>Searching for:</b>&nbsp;&nbsp;'
-    + parts.join('<span class="sdiv">|</span>');
+function renderResults(){
+  var area=document.getElementById('results');
+  if(!_rows.length){area.innerHTML='<div class="no-res"><h3>No results found</h3><p>Try different keywords, remove the date filter, or check spelling.</p></div>';return;}
+  var hdr='<div class="res-header"><span class="res-count">Showing '+_rows.length+' of ~'+_total.toLocaleString()+' results</span></div>';
+  var cards='<div class="cards">'+_rows.map(renderCard).join('')+'</div>';
+  var more=(_offset<_total)?'<div class="more-wrap"><button id="moreBtn" onclick="loadMore()">Load more results</button></div>':'';
+  area.innerHTML=hdr+cards+more;
 }
 
-// ── Search ────────────────────────────────────────────────────────────────────
-async function doSearch() {
-  var q = document.getElementById('q').value.trim();
-  if (!q) return;
+function corsError(query){
+  var q=encodeURIComponent(query||'');
+  return '<div class="error-box">'
+    +'<h3>Unable to connect to SEC EDGAR</h3>'
+    +'<p>Your browser is blocking the request (a CORS restriction common on mobile browsers or when '
+    +'opening the file directly from your device).<br><br>'
+    +'<strong>Try searching directly on the SEC EDGAR website:</strong></p>'
+    +'<a class="try-link" href="'+FALLBACK+'?text='+q+'&first=1&last=40" target="_blank" rel="noopener">'
+    +'Open SEC EDGAR &#8599;</a>'
+    +'</div>';
+}
 
-  var btn  = document.getElementById('btn');
-  var area = document.getElementById('results');
-  btn.disabled = true;
-  area.innerHTML = '<div id="status"><span class="spinner"></span>Searching SEC EDGAR...</div>';
+function showSummary(f){
+  var parts=[];
+  if(f.forms.length)parts.push('<span class="sk">Types:</span> '+esc(f.forms.join(', ')));
+  if(f.startdt)parts.push('<span class="sk">From:</span> '+esc(f.startdt));
+  if(f.enddt)parts.push('<span class="sk">To:</span> '+esc(f.enddt));
+  if(f.terms.length)parts.push('<span class="sk">Search:</span> '+esc(f.terms.join(', ')));
+  var el=document.getElementById('summary');
+  el.style.display=parts.length?'block':'none';
+  el.innerHTML='<b>Searching for:</b>&nbsp;&nbsp;'+parts.join('<span class="sdiv">|</span>');
+}
 
-  try {
-    _filters = parse(q);
-    _offset  = 0;
-    _rows    = [];
+async function doSearch(){
+  var q=document.getElementById('q').value.trim();
+  if(!q)return;
+  var btn=document.getElementById('btn'),area=document.getElementById('results');
+  btn.disabled=true;
+  area.innerHTML='<div id="status"><span class="spinner"></span>Searching SEC EDGAR...</div>';
+  try{
+    _filters=parse(q);_offset=0;_rows=[];
     showSummary(_filters);
-
-    var data   = await fetchEdgar(buildQS(_filters, 0));
-    var hits   = (data.hits && data.hits.hits) ? data.hits.hits : [];
-    _total     = (data.hits && data.hits.total)
-      ? (typeof data.hits.total === 'object' ? data.hits.total.value : +data.hits.total)
-      : hits.length;
-    _rows    = hits.map(toRow);
-    _offset  = _rows.length;
+    var data=await fetchEdgar(buildQS(_filters,0));
+    var hits=(data.hits&&data.hits.hits)?data.hits.hits:[];
+    _total=(data.hits&&data.hits.total)?(typeof data.hits.total==='object'?data.hits.total.value:+data.hits.total):hits.length;
+    _rows=hits.map(toRow);_offset=_rows.length;
     renderResults();
-  } catch(err) {
-    area.innerHTML = '<div class="error"><strong>'+esc(err.message)+'</strong>'
-      +'Could not reach SEC EDGAR. Check your internet connection and try again.</div>';
-  } finally {
-    btn.disabled = false;
-  }
+  }catch(err){
+    area.innerHTML=err.isCors?corsError(q)
+      :'<div class="error-box"><h3>Search failed</h3><p>'+esc(err.message)
+      +'<br><br>You can also <a href="'+FALLBACK+'" target="_blank">search on SEC EDGAR directly</a>.</p></div>';
+  }finally{btn.disabled=false;}
 }
 
-async function loadMore() {
-  var btn2 = document.getElementById('moreBtn');
-  if (btn2) { btn2.disabled=true; btn2.textContent='Loading...'; }
-  try {
-    var data = await fetchEdgar(buildQS(_filters, _offset));
-    var hits = (data.hits && data.hits.hits) ? data.hits.hits : [];
-    _rows    = _rows.concat(hits.map(toRow));
-    _offset  = _rows.length;
-    renderResults();
-  } catch(e) {
-    var b2 = document.getElementById('moreBtn');
-    if (b2) { b2.disabled=false; b2.textContent='Load more results'; }
-  }
+async function loadMore(){
+  var b=document.getElementById('moreBtn');
+  if(b){b.disabled=true;b.textContent='Loading...';}
+  try{
+    var data=await fetchEdgar(buildQS(_filters,_offset));
+    var hits=(data.hits&&data.hits.hits)?data.hits.hits:[];
+    _rows=_rows.concat(hits.map(toRow));_offset=_rows.length;renderResults();
+  }catch(e){var b2=document.getElementById('moreBtn');if(b2){b2.disabled=false;b2.textContent='Load more results';}}
 }
 
-// ── Events ────────────────────────────────────────────────────────────────────
-document.getElementById('q').addEventListener('keydown', function(e) {
-  if (e.key === 'Enter') doSearch();
-});
-document.getElementById('btn').addEventListener('click', doSearch);
+document.getElementById('q').addEventListener('keydown',function(e){if(e.key==='Enter')doSearch();});
+document.getElementById('btn').addEventListener('click',doSearch);
 </script>
 </body>
 </html>
