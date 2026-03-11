@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Projects</title>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg: #0f0f0d;
+      --surface: #1a1a16;
+      --border: #2e2e28;
+      --accent: #c8b97a;
+      --accent-dim: #8a7d50;
+      --text: #e8e4d8;
+      --text-muted: #7a7568;
+    }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'DM Mono', monospace;
+      min-height: 100vh;
+      padding: 48px 24px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 56px;
+    }
+
+    .eyebrow {
+      font-size: 11px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--accent-dim);
+      margin-bottom: 16px;
+    }
+
+    h1 {
+      font-family: 'DM Serif Display', serif;
+      font-size: clamp(2.4rem, 6vw, 3.8rem);
+      font-weight: 400;
+      line-height: 1.1;
+      color: var(--text);
+    }
+
+    h1 em {
+      font-style: italic;
+      color: var(--accent);
+    }
+
+    .projects {
+      width: 100%;
+      max-width: 600px;
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+
+    .section-label {
+      font-size: 10px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+      color: var(--text-muted);
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border);
+      margin-top: 8px;
+    }
+
+    .card {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 20px 24px;
+      text-decoration: none;
+      color: var(--text);
+      transition: border-color 0.2s, background 0.2s;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .card::before {
+      content: '';
+      position: absolute;
+      left: 0; top: 0; bottom: 0;
+      width: 3px;
+      background: var(--accent);
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .card:hover {
+      border-color: var(--accent-dim);
+      background: #1e1e19;
+    }
+
+    .card:hover::before {
+      opacity: 1;
+    }
+
+    .card-left {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .card-title {
+      font-family: 'DM Serif Display', serif;
+      font-size: 1.15rem;
+      font-weight: 400;
+    }
+
+    .card-sub {
+      font-size: 11px;
+      color: var(--text-muted);
+    }
+
+    .arrow {
+      font-size: 18px;
+      color: var(--accent-dim);
+      transition: transform 0.2s, color 0.2s;
+    }
+
+    .card:hover .arrow {
+      transform: translateX(4px);
+      color: var(--accent);
+    }
+
+    footer {
+      margin-top: 64px;
+      font-size: 11px;
+      color: var(--text-muted);
+      letter-spacing: 0.1em;
+    }
+
+    /* Mobile */
+    @media (max-width: 480px) {
+      body { padding: 36px 16px; }
+      .card { padding: 16px 18px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <p class="eyebrow">Claude Code Projects</p>
+    <h1>My <em>Projects</em></h1>
+  </header>
+
+  <div class="projects">
+
+    <p class="section-label">Travel</p>
+
+    <a class="card" href="Panama-Planning/panama-flashpack.html">
+      <div class="card-left">
+        <span class="card-title">Panama Planning</span>
+        <span class="card-sub">panama-flashpack</span>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+
+    <p class="section-label">Law Firm Jobs — Newsletter</p>
+
+    <a class="card" href="LawFirmJobTracker/law_firm_jobs_2026-03-08.html">
+      <div class="card-left">
+        <span class="card-title">Law Firm Jobs</span>
+        <span class="card-sub">Issue — March 8, 2026</span>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+
+    <a class="card" href="LawFirmJobTracker/law_firm_jobs_2026-03-09.html">
+      <div class="card-left">
+        <span class="card-title">Law Firm Jobs</span>
+        <span class="card-sub">Issue — March 9, 2026</span>
+      </div>
+      <span class="arrow">→</span>
+    </a>
+
+  </div>
+
+  <footer>updated march 2026</footer>
+
+</body>
+</html>
