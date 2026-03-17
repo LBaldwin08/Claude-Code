@@ -263,7 +263,7 @@ Law firms and lead partners advising ${company} on deals. Which firm on which de
 - Counsel relationship gaps
 - Recommended pitch angle for a new firm
 
-Be specific with names, dates, and figures. Search thoroughly before writing each section. Cite every factual claim with a [[source]](URL) inline link. End with a ## Sources section.`;
+Be specific with names, dates, and figures. Limit yourself to 1–2 searches per section to stay within API rate limits. Cite every factual claim with a [[source]](URL) inline link. End with a ## Sources section.`;
 }
 
 // ── Sources panel ──
@@ -338,9 +338,38 @@ async function generateReport() {
   el('progress-section').scrollIntoView({ behavior: 'smooth', block: 'start' });
 
   try {
-    await streamReport(company, apiKey);
+    await streamReportWithRetry(company, apiKey);
   } catch (err) {
     showError(err.message || String(err));
+  }
+}
+
+async function countdown(seconds) {
+  for (let i = seconds; i > 0; i--) {
+    el('generate-btn').textContent = `Retrying in ${i}s…`;
+    addProgress(`⏳ Rate limit hit — retrying in ${i} seconds…`);
+    await new Promise(r => setTimeout(r, 1000));
+    // Update last progress item instead of spamming
+    const items = el('progress-log').querySelectorAll('.progress-item');
+    if (items.length) items[items.length - 1].textContent = `⏳ Rate limit hit — retrying in ${i - 1 > 0 ? i - 1 : 0} seconds…`;
+  }
+  el('generate-btn').textContent = 'Researching…';
+  addProgress('↩ Retrying request…');
+}
+
+async function streamReportWithRetry(company, apiKey, attempt = 1) {
+  try {
+    await streamReport(company, apiKey);
+  } catch (err) {
+    if (err.isRateLimit && attempt <= 3) {
+      await countdown(65);
+      fullText = '';
+      el('report-output').innerHTML = '';
+      el('report-output').classList.add('streaming-cursor');
+      await streamReportWithRetry(company, apiKey, attempt + 1);
+    } else {
+      throw err;
+    }
   }
 }
 
@@ -368,13 +397,16 @@ async function streamReport(company, apiKey) {
 
   if (!response.ok) {
     let msg = `API error ${response.status}`;
+    let isRateLimit = false;
     try {
       const err = await response.json();
       msg = err.error?.message || msg;
       if (response.status === 401) msg = 'Invalid API key. Please check and re-enter your key.';
-      if (response.status === 429) msg = 'Rate limit hit. Wait 60 seconds and try again.';
+      if (response.status === 429) { msg = 'Rate limit reached.'; isRateLimit = true; }
     } catch(e) {}
-    throw new Error(msg);
+    const error = new Error(msg);
+    error.isRateLimit = isRateLimit;
+    throw error;
   }
 
   const reader = response.body.getReader();
