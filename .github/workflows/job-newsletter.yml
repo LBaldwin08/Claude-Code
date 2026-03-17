@@ -1,0 +1,31 @@
+name: Law Firm Job Newsletter
+
+on:
+  schedule:
+    # Every Monday at 12:00 UTC = 7 AM EST / 8 AM EDT
+    - cron: "0 12 * * 1"
+  workflow_dispatch:
+    # Allows manual trigger from the GitHub Actions tab
+
+jobs:
+  send-newsletter:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run newsletter script
+        env:
+          GMAIL_ADDRESS: lbaldwin08@gmail.com
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python scripts/send_newsletter.py
