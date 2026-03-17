@@ -92,6 +92,8 @@
     #report-output hr { border: none; border-top: 1px solid var(--gray-100); margin: 1.8rem 0; }
     #report-output a { color: var(--gold); text-decoration: none; }
     #report-output a:hover { text-decoration: underline; }
+    #report-output a[href]:not([href=""]) { font-size: .78rem; vertical-align: super; line-height: 0; color: var(--gold); opacity: .8; }
+    #report-output a[href]:not([href=""]):hover { opacity: 1; }
     #report-output blockquote { border-left: 3px solid var(--gold); padding: .45rem .9rem; margin: .9rem 0; color: var(--gray-500); background: var(--gray-50); border-radius: 0 4px 4px 0; }
     #report-output table { width: 100%; border-collapse: collapse; margin: .9rem 0; font-size: .85rem; }
     #report-output th { background: var(--navy); color: var(--white); padding: .55rem .9rem; text-align: left; font-weight: 500; }
@@ -100,6 +102,22 @@
 
     .streaming-cursor::after { content: '▌'; color: var(--gold); animation: blink .9s step-end infinite; }
     @keyframes blink { 50% { opacity: 0; } }
+
+    /* Sources panel */
+    .sources-toggle { margin-top: .9rem; }
+    .sources-toggle-btn { background: none; border: none; color: rgba(255,255,255,.55); font-size: .75rem; cursor: pointer; letter-spacing: .06em; display: flex; align-items: center; gap: .35rem; margin: 0 auto; padding: .2rem .5rem; transition: color .2s; }
+    .sources-toggle-btn:hover { color: var(--gold-light); }
+    .sources-toggle-btn .arrow { font-size: .6rem; transition: transform .2s; }
+    .sources-toggle-btn.open .arrow { transform: rotate(180deg); }
+    #sources-panel { display: none; margin-top: .75rem; background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.12); border-radius: 8px; padding: .9rem 1.1rem; max-width: 660px; margin-left: auto; margin-right: auto; }
+    #sources-panel.visible { display: block; }
+    .sources-label { font-size: .68rem; text-transform: uppercase; letter-spacing: .1em; color: rgba(255,255,255,.45); margin-bottom: .6rem; }
+    .sources-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: .4rem; }
+    .source-item { display: flex; align-items: center; gap: .45rem; padding: .35rem .6rem; background: rgba(255,255,255,.05); border-radius: 5px; border: 1px solid rgba(255,255,255,.09); cursor: pointer; transition: background .15s; }
+    .source-item:hover { background: rgba(255,255,255,.1); }
+    .source-item input[type=checkbox] { accent-color: var(--gold); width: 13px; height: 13px; flex-shrink: 0; cursor: pointer; }
+    .source-item label { font-size: .75rem; color: rgba(255,255,255,.75); cursor: pointer; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .source-item input:checked + label { color: var(--gold-light); }
 
     @media print {
       header, #api-bar, .hero, #progress-section, .report-toolbar { display: none !important; }
@@ -143,6 +161,28 @@
     <input type="text" id="company-input" placeholder="Enter company name (e.g. Tesla, Inc.)" autocomplete="off" />
     <button id="generate-btn" onclick="generateReport()">Generate Report</button>
   </div>
+  <div class="sources-toggle">
+    <button class="sources-toggle-btn" id="sources-btn" onclick="toggleSources()">
+      <span class="arrow">▲</span> Preferred Sources
+    </button>
+    <div id="sources-panel">
+      <div class="sources-label">Prioritize searches on these sites</div>
+      <div class="sources-grid">
+        <div class="source-item"><input type="checkbox" id="src-law360" value="law360.com" /><label for="src-law360">Law360</label></div>
+        <div class="source-item"><input type="checkbox" id="src-bloomberg" value="bloomberglaw.com" /><label for="src-bloomberg">Bloomberg Law</label></div>
+        <div class="source-item"><input type="checkbox" id="src-reuters" value="reuters.com" /><label for="src-reuters">Reuters</label></div>
+        <div class="source-item"><input type="checkbox" id="src-lawcom" value="law.com" /><label for="src-lawcom">The American Lawyer</label></div>
+        <div class="source-item"><input type="checkbox" id="src-courtlistener" value="courtlistener.com" /><label for="src-courtlistener">CourtListener (PACER)</label></div>
+        <div class="source-item"><input type="checkbox" id="src-sec" value="sec.gov" /><label for="src-sec">SEC EDGAR</label></div>
+        <div class="source-item"><input type="checkbox" id="src-businesswire" value="businesswire.com" /><label for="src-businesswire">Business Wire</label></div>
+        <div class="source-item"><input type="checkbox" id="src-prnewswire" value="prnewswire.com" /><label for="src-prnewswire">PR Newswire</label></div>
+        <div class="source-item"><input type="checkbox" id="src-wsj" value="wsj.com" /><label for="src-wsj">Wall Street Journal</label></div>
+        <div class="source-item"><input type="checkbox" id="src-ft" value="ft.com" /><label for="src-ft">Financial Times</label></div>
+        <div class="source-item"><input type="checkbox" id="src-linkedin" value="linkedin.com" /><label for="src-linkedin">LinkedIn</label></div>
+        <div class="source-item"><input type="checkbox" id="src-nylj" value="law.com/newyorklawjournal" /><label for="src-nylj">NY Law Journal</label></div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <main>
@@ -179,11 +219,25 @@ Your reports must be:
 - Current: focus on the past 12–24 months
 - Actionable: highlight what matters for a law firm partner's BD strategy
 - Comprehensive: cover every requested section before concluding
+- Cited: every factual claim must include an inline citation linking to the source
+
+CITATION FORMAT: After every factual statement, add a markdown link in this format: [[source]](URL)
+Example: "Apple filed suit against Samsung in the Northern District of California [[source]](https://law360.com/...)"
+At the end of the report, add a ## Sources section listing all cited URLs with brief descriptions.
 
 When identifying legal counsel, always specify: law firm name, lead partner(s) if identifiable, and the specific matter(s) they handled. Generic references to "outside counsel" without names are not useful.`;
 
+function getSelectedSources() {
+  return Array.from(document.querySelectorAll('#sources-panel input[type=checkbox]:checked'))
+    .map(cb => cb.value);
+}
+
 function makePrompt(company) {
-  return `Research and compile a competitive intelligence report on **${company}** for a senior law firm partner. Search the web for current information and structure your report as follows:
+  const sources = getSelectedSources();
+  const sourceInstruction = sources.length > 0
+    ? `\n\nPREFERRED SOURCES: Prioritize searching and citing these specific sites when possible: ${sources.map(s => `site:${s}`).join(', ')}. Use targeted site-specific searches for each section.\n`
+    : '';
+  return `Research and compile a competitive intelligence report on **${company}** for a senior law firm partner. Search the web for current information and structure your report as follows:${sourceInstruction}
 
 ## 1. Company Overview
 - Full legal name, HQ, ticker (if public), key executives (CEO, GC, CFO), revenue/scale
@@ -209,7 +263,15 @@ Law firms and lead partners advising ${company} on deals. Which firm on which de
 - Counsel relationship gaps
 - Recommended pitch angle for a new firm
 
-Be specific with names, dates, and figures. Search thoroughly before writing each section.`;
+Be specific with names, dates, and figures. Search thoroughly before writing each section. Cite every factual claim with a [[source]](URL) inline link. End with a ## Sources section.`;
+}
+
+// ── Sources panel ──
+function toggleSources() {
+  const panel = el('sources-panel');
+  const btn = el('sources-btn');
+  const isOpen = panel.classList.toggle('visible');
+  btn.classList.toggle('open', isOpen);
 }
 
 // ── API Key management ──
@@ -292,7 +354,7 @@ async function streamReport(company, apiKey) {
       'anthropic-dangerous-direct-browser-access': 'true',
     },
     body: JSON.stringify({
-      model: 'claude-haiku-4-5',
+      model: 'claude-sonnet-4-6',
       max_tokens: 6000,
       stream: true,
       system: SYSTEM_PROMPT,
