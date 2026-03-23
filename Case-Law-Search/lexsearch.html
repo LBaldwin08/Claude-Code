@@ -36,7 +36,6 @@
             padding: 52px 24px 72px;
             text-align: center;
             position: relative;
-            overflow: hidden;
         }
         .header::after {
             content: '';
@@ -272,6 +271,16 @@
             font-style: normal; font-weight: 500;
             padding: 0 2px; border-radius: 2px;
         }
+        .snippet-unavail {
+            color: var(--text-muted); font-style: italic; font-size: 12.5px;
+            display: flex; align-items: center; gap: 6px;
+        }
+        .snippet-unavail::before {
+            content: '';
+            width: 14px; height: 14px; flex-shrink: 0;
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%2394a3b8' stroke-width='2'%3E%3Cpath d='M14 2H6a2 2 0 00-2 2v16a2 2 0 002 2h12a2 2 0 002-2V8z'/%3E%3Cpolyline points='14 2 14 8 20 8'/%3E%3Cline x1='16' y1='13' x2='8' y2='13'/%3E%3Cline x1='16' y1='17' x2='8' y2='17'/%3E%3C/svg%3E");
+            background-repeat: no-repeat; background-size: contain;
+        }
 
         .card-foot {
             display: flex; justify-content: space-between; align-items: center;
@@ -363,6 +372,112 @@
         .footer a { color: var(--text-secondary); text-decoration: none; }
         .footer a:hover { color: var(--gold); }
 
+        /* ── API Connect Button ── */
+        .api-btn {
+            position: absolute;
+            top: 16px; right: 20px;
+            display: flex; align-items: center; gap: 7px;
+            background: rgba(255,255,255,0.08);
+            border: 1px solid rgba(255,255,255,0.2);
+            color: rgba(255,255,255,0.7);
+            font-family: 'Inter', sans-serif;
+            font-size: 12px; font-weight: 500;
+            padding: 7px 14px; border-radius: 20px;
+            cursor: pointer; transition: all 0.2s;
+            z-index: 2;
+        }
+        .api-btn:hover { background: rgba(255,255,255,0.16); color: #fff; }
+        .api-dot {
+            width: 7px; height: 7px; border-radius: 50%;
+            background: rgba(255,255,255,0.35); flex-shrink: 0;
+        }
+        .api-btn.connected { background: rgba(16,185,129,0.15); border-color: rgba(16,185,129,0.4); color: #6ee7b7; }
+        .api-btn.connected .api-dot { background: #34d399; box-shadow: 0 0 6px rgba(52,211,153,0.6); }
+
+        /* ── Modal ── */
+        .modal-overlay {
+            position: fixed; inset: 0; z-index: 1000;
+            background: rgba(0,0,0,0.55);
+            display: flex; align-items: center; justify-content: center;
+            padding: 16px;
+            backdrop-filter: blur(4px);
+            animation: fadeIn 0.18s ease;
+        }
+        @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+        .modal {
+            background: #fff; border-radius: 16px;
+            width: 100%; max-width: 460px;
+            box-shadow: 0 24px 80px rgba(0,0,0,0.3);
+            animation: slideUp 0.2s ease;
+        }
+        @keyframes slideUp { from { transform: translateY(12px); opacity: 0; } to { transform: none; opacity: 1; } }
+        .modal-head {
+            display: flex; justify-content: space-between; align-items: center;
+            padding: 20px 24px 0;
+        }
+        .modal-head h3 { font-size: 16px; font-weight: 700; color: var(--navy); }
+        .modal-x {
+            width: 28px; height: 28px;
+            display: flex; align-items: center; justify-content: center;
+            background: var(--bg); border: none; border-radius: 50%;
+            font-size: 18px; line-height: 1; cursor: pointer; color: var(--text-muted);
+            transition: all 0.18s;
+        }
+        .modal-x:hover { background: #e2e8f0; color: var(--navy); }
+        .modal-body { padding: 14px 24px 24px; }
+        .modal-body > p { font-size: 13.5px; color: var(--text-secondary); line-height: 1.65; margin-bottom: 16px; }
+        .modal-steps {
+            background: var(--bg); border-radius: 10px;
+            padding: 12px 14px; margin-bottom: 18px;
+            display: flex; flex-direction: column; gap: 8px;
+        }
+        .modal-step {
+            display: flex; align-items: flex-start; gap: 10px;
+            font-size: 13px; color: var(--text-secondary);
+        }
+        .step-num {
+            min-width: 20px; height: 20px;
+            background: var(--navy); color: #fff;
+            border-radius: 50%;
+            display: flex; align-items: center; justify-content: center;
+            font-size: 11px; font-weight: 700; flex-shrink: 0; margin-top: 1px;
+        }
+        .modal-step a { color: var(--gold); text-decoration: none; font-weight: 500; }
+        .modal-step a:hover { text-decoration: underline; }
+        .token-wrap { position: relative; margin-bottom: 12px; }
+        .token-input {
+            width: 100%; padding: 10px 40px 10px 14px;
+            border: 1px solid var(--border); border-radius: var(--radius-sm);
+            font-family: 'Inter', sans-serif; font-size: 13px;
+            color: var(--text-primary); background: var(--bg);
+            transition: border-color 0.2s;
+        }
+        .token-input:focus { outline: none; border-color: var(--gold); box-shadow: 0 0 0 3px rgba(201,146,42,0.12); }
+        .token-eye {
+            position: absolute; right: 10px; top: 50%; transform: translateY(-50%);
+            background: none; border: none; cursor: pointer; color: var(--text-muted);
+            padding: 2px; line-height: 0;
+        }
+        .token-eye:hover { color: var(--text-secondary); }
+        .modal-actions { display: flex; gap: 8px; }
+        .btn-save {
+            flex: 1; padding: 10px;
+            background: var(--navy); color: #fff;
+            border: none; border-radius: var(--radius-sm);
+            font-family: 'Inter', sans-serif; font-size: 13px; font-weight: 600;
+            cursor: pointer; transition: background 0.18s;
+        }
+        .btn-save:hover { background: #1e293b; }
+        .btn-clear {
+            padding: 10px 16px;
+            background: var(--bg); color: var(--text-secondary);
+            border: 1px solid var(--border); border-radius: var(--radius-sm);
+            font-family: 'Inter', sans-serif; font-size: 13px;
+            cursor: pointer; transition: all 0.18s;
+        }
+        .btn-clear:hover { background: #fee2e2; color: #dc2626; border-color: #fca5a5; }
+        .modal-note { margin-top: 12px; font-size: 11.5px; color: var(--text-muted); text-align: center; line-height: 1.5; }
+
         @media (max-width: 600px) {
             .header { padding: 36px 16px 60px; }
             .filters { flex-direction: column; }
@@ -370,6 +485,8 @@
             .card-top { flex-direction: column; }
             .card-foot { flex-direction: column; align-items: flex-start; }
             .hint-chips { display: none; }
+            #apiBtnLabel { font-size: 11px; }
+            .api-btn { top: 12px; right: 12px; padding: 6px 10px; }
         }
     </style>
 </head>
@@ -378,6 +495,10 @@
 <!-- ═══════════════════════════════════════ HEADER ══ -->
 <header class="header">
     <div class="header-glow"></div>
+    <button class="api-btn" id="apiBtn" onclick="openModal()">
+        <span class="api-dot"></span>
+        <span id="apiBtnLabel">Connect API Key</span>
+    </button>
     <div class="header-badge">Powered by CourtListener</div>
     <h1 class="header-title">Lex<span>Search</span></h1>
     <p class="header-subtitle">Search millions of federal and state court opinions using plain language</p>
@@ -499,6 +620,46 @@
     <div id="pagination" class="pagination" style="display:none"></div>
 </main>
 
+<!-- ═══════════════════════════════════════ MODAL ══ -->
+<div class="modal-overlay" id="apiModal" style="display:none" onclick="overlayClick(event)">
+    <div class="modal">
+        <div class="modal-head">
+            <h3>Connect CourtListener API Key</h3>
+            <button class="modal-x" onclick="closeModal()">&#215;</button>
+        </div>
+        <div class="modal-body">
+            <p>A free API key unlocks <strong>relevant text snippets</strong> — showing you exactly which passage from each opinion matches your query, with your search terms highlighted.</p>
+            <div class="modal-steps">
+                <div class="modal-step">
+                    <span class="step-num">1</span>
+                    <span>Register at <a href="https://www.courtlistener.com/sign-in/" target="_blank">courtlistener.com</a> — it's free, no credit card needed.</span>
+                </div>
+                <div class="modal-step">
+                    <span class="step-num">2</span>
+                    <span>Go to your profile and click <strong>API Token</strong> to generate a token.</span>
+                </div>
+                <div class="modal-step">
+                    <span class="step-num">3</span>
+                    <span>Paste your token below and click <strong>Save</strong>.</span>
+                </div>
+            </div>
+            <div class="token-wrap">
+                <input type="password" class="token-input" id="tokenInput" placeholder="Paste your API token here…" autocomplete="off">
+                <button class="token-eye" onclick="toggleTokenVis()" title="Show/hide token">
+                    <svg id="eyeIcon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/>
+                    </svg>
+                </button>
+            </div>
+            <div class="modal-actions">
+                <button class="btn-save" onclick="saveToken()">Save Token</button>
+                <button class="btn-clear" onclick="clearToken()">Remove</button>
+            </div>
+            <p class="modal-note">Your token is stored only in your browser's local storage and is never sent anywhere except CourtListener's API.</p>
+        </div>
+    </div>
+</div>
+
 <footer class="footer">
     Case data provided by <a href="https://www.courtlistener.com" target="_blank">CourtListener</a>
     from the <a href="https://free.law" target="_blank">Free Law Project</a> &mdash; open-source legal research &mdash; not legal advice
@@ -511,10 +672,66 @@
 const API = 'https://www.courtlistener.com/api/rest/v4/search/';
 const CL  = 'https://www.courtlistener.com';
 const PER_PAGE = 20;
+const TOKEN_KEY = 'cl_api_token';
 
 let currentPage  = 1;
 let currentQuery = '';
 let totalCount   = 0;
+
+// ─────────────────────────────────────────────────────────
+//  API Token management
+// ─────────────────────────────────────────────────────────
+function getToken() { return localStorage.getItem(TOKEN_KEY) || ''; }
+
+function updateApiStatus() {
+    const btn   = document.getElementById('apiBtn');
+    const label = document.getElementById('apiBtnLabel');
+    if (getToken()) {
+        btn.classList.add('connected');
+        label.textContent = 'API Connected';
+    } else {
+        btn.classList.remove('connected');
+        label.textContent = 'Connect API Key';
+    }
+}
+
+function saveToken() {
+    const val = document.getElementById('tokenInput').value.trim();
+    if (!val) { alert('Please paste a token first.'); return; }
+    localStorage.setItem(TOKEN_KEY, val);
+    updateApiStatus();
+    closeModal();
+    if (currentQuery) doSearch(currentPage); // re-run with auth
+}
+
+function clearToken() {
+    localStorage.removeItem(TOKEN_KEY);
+    document.getElementById('tokenInput').value = '';
+    updateApiStatus();
+    closeModal();
+    if (currentQuery) doSearch(currentPage);
+}
+
+function openModal() {
+    document.getElementById('tokenInput').value = getToken();
+    document.getElementById('apiModal').style.display = 'flex';
+}
+
+function closeModal() { document.getElementById('apiModal').style.display = 'none'; }
+
+function overlayClick(e) { if (e.target === document.getElementById('apiModal')) closeModal(); }
+
+function toggleTokenVis() {
+    const inp  = document.getElementById('tokenInput');
+    const icon = document.getElementById('eyeIcon');
+    if (inp.type === 'password') {
+        inp.type = 'text';
+        icon.innerHTML = '<path d="M17.94 17.94A10.07 10.07 0 0112 20c-7 0-11-8-11-8a18.45 18.45 0 015.06-5.94"/><path d="M9.9 4.24A9.12 9.12 0 0112 4c7 0 11 8 11 8a18.5 18.5 0 01-2.16 3.19"/><line x1="1" y1="1" x2="23" y2="23"/>';
+    } else {
+        inp.type = 'password';
+        icon.innerHTML = '<path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/>';
+    }
+}
 
 // ─────────────────────────────────────────────────────────
 //  Court lookup
@@ -615,11 +832,12 @@ function dateParam() {
     return `&filed_after=${d.toISOString().split('T')[0]}`;
 }
 
+
 // ─────────────────────────────────────────────────────────
-//  Snippet sanitizer — allow only <em> tags
+//  Snippet sanitizer — allow only <em> tags (for authenticated highlights)
 // ─────────────────────────────────────────────────────────
 function sanitizeSnippet(raw) {
-    if (!raw) return 'No preview available.';
+    if (!raw) return '';
     const div = document.createElement('div');
     div.innerHTML = raw;
     function walk(node) {
@@ -631,7 +849,7 @@ function sanitizeSnippet(raw) {
         }
         return out;
     }
-    return walk(div) || 'No preview available.';
+    return walk(div);
 }
 
 function escHtml(s) {
@@ -657,8 +875,12 @@ async function doSearch(page) {
     showLoading();
     document.getElementById('filters').style.display = 'flex';
 
+    const token   = getToken();
+    const headers = token ? { 'Authorization': `Token ${token}` } : {};
+
     try {
-        const res = await fetch(url);
+        const res = await fetch(url, { headers });
+        if (res.status === 401) throw new Error('Invalid API token — check your token in the API Key settings.');
         if (res.status === 429) throw new Error('Rate limit reached — please wait a moment and try again.');
         if (!res.ok) throw new Error(`API returned status ${res.status}. Try again shortly.`);
         const data = await res.json();
@@ -722,7 +944,18 @@ function card(r) {
     if (r.status === 'Unpublished') { statusClass = 'unpub'; statusLabel = 'Unpublished'; }
     else if (r.status === 'Memorandum') { statusClass = 'memo'; statusLabel = 'Memorandum'; }
 
-    const snippet = sanitizeSnippet(r.snippet);
+    // Authenticated search returns r.snippet with highlighted <em> terms.
+    // Unauthenticated: fall back to syllabus → posture → procedural_history.
+    let snippet;
+    const authSnippet = sanitizeSnippet(r.snippet);
+    if (authSnippet) {
+        snippet = authSnippet;
+    } else {
+        const fallback = (r.syllabus || r.posture || r.procedural_history || '').trim();
+        snippet = fallback
+            ? escHtml(fallback.slice(0, 500))
+            : '<span class="snippet-unavail">No summary available — click View Opinion to read on CourtListener</span>';
+    }
 
     return `
     <article class="case-card">
@@ -837,6 +1070,11 @@ function showErr(msg) {
 document.getElementById('searchInput').addEventListener('keydown', e => {
     if (e.key === 'Enter') doSearch(1);
 });
+document.getElementById('tokenInput').addEventListener('keydown', e => {
+    if (e.key === 'Enter') saveToken();
+    if (e.key === 'Escape') closeModal();
+});
+updateApiStatus();
 document.getElementById('searchInput').focus();
 </script>
 </body>
