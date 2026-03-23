@@ -219,20 +219,20 @@ def get_all_jobs() -> list:
         wd_count += len(results)
     print(f"  Workday: {wd_count} results from {len(WORKDAY_FIRMS)} firm portals")
 
-    # LinkedIn guest API
-    linkedin_queries = ["law firm research", "law firm librarian", "law firm library knowledge management"]
-    li_count = 0
-    for q in linkedin_queries:
-        results = search_linkedin(q)
-        all_jobs.extend(results)
-        li_count += len(results)
-    print(f"  LinkedIn: {li_count} raw results")
-
-    # Deduplicate then filter to target firms
+    # Deduplicate then filter Indeed/Workday to target firms
     unique   = deduplicate(all_jobs)
     filtered = [j for j in unique if is_target_firm(j["company"])]
-    print(f"  Matched {len(filtered)} job(s) at target firms")
-    return filtered
+    print(f"  Matched {len(filtered)} job(s) at target firms (Indeed/Workday)")
+
+    # LinkedIn guest API — include all results (query is already law-firm specific)
+    linkedin_jobs = []
+    linkedin_queries = ["law firm research", "law firm librarian", "law firm library knowledge management"]
+    for q in linkedin_queries:
+        linkedin_jobs.extend(search_linkedin(q))
+    linkedin_jobs = deduplicate(linkedin_jobs)
+    print(f"  LinkedIn: {len(linkedin_jobs)} results (all law firms)")
+
+    return deduplicate(filtered + linkedin_jobs)
 
 # ── HTML Generation ───────────────────────────────────────────────────────────
 
