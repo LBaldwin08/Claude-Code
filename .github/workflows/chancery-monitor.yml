@@ -25,7 +25,7 @@ jobs:
 
       - name: Run monitor
         env:
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_APP_PASSWORD: ${{ secrets.CHANCERY_GMAIL_APP_PASSWORD }}
         run: python check_chancery.py
 
       - name: Commit updated state
