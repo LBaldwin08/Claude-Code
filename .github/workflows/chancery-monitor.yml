@@ -1,0 +1,37 @@
+name: DE Chancery Opinion Monitor
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # every 30 minutes
+  workflow_dispatch:         # allow manual runs from GitHub UI
+
+jobs:
+  check-opinions:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write        # needed to commit state file back
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run monitor
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python check_chancery.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add chancery_state.json
+          git diff --staged --quiet || git commit -m "Update chancery state [skip ci]"
+          git push
