@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Conspiracy Theory Generator</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0a0a0f;
+      color: #d0d0e8;
+      min-height: 100vh;
+      padding: 2rem;
+    }
+
+    header {
+      max-width: 760px;
+      margin: 0 auto 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+    header a { color: #5555aa; text-decoration: none; font-size: 0.9rem; }
+    header a:hover { color: #a78bfa; }
+    h1 {
+      font-size: 1.8rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, #f59e0b, #ef4444, #a855f7);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+
+    .container { max-width: 760px; margin: 0 auto; }
+
+    .api-key-section {
+      background: #111118;
+      border: 1px solid #222230;
+      border-radius: 12px;
+      padding: 1rem 1.25rem;
+      margin-bottom: 1.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+    }
+    .api-key-section label { font-size: 0.85rem; color: #666688; white-space: nowrap; }
+    .api-key-section input {
+      flex: 1;
+      background: #0a0a0f;
+      border: 1px solid #222230;
+      border-radius: 8px;
+      padding: 0.5rem 0.75rem;
+      color: #d0d0e8;
+      font-size: 0.9rem;
+    }
+    .api-key-section input:focus { outline: none; border-color: #a855f7; }
+
+    .input-section {
+      background: #111118;
+      border: 1px solid #222230;
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .input-row {
+      display: flex;
+      gap: 1rem;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+    }
+
+    .field {
+      display: flex;
+      flex-direction: column;
+      gap: 0.4rem;
+      flex: 1;
+      min-width: 160px;
+    }
+    .field label {
+      font-size: 0.8rem;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #666688;
+    }
+    input[type="text"], select {
+      background: #0a0a0f;
+      border: 1px solid #222230;
+      border-radius: 8px;
+      padding: 0.6rem 0.75rem;
+      color: #d0d0e8;
+      font-size: 0.95rem;
+      font-family: inherit;
+      width: 100%;
+    }
+    input[type="text"]:focus, select:focus { outline: none; border-color: #a855f7; }
+    input[type="text"]::placeholder { color: #333355; }
+    select option { background: #111118; }
+
+    button.generate-btn {
+      width: 100%;
+      background: linear-gradient(135deg, #7c3aed, #dc2626, #d97706);
+      background-size: 200% 200%;
+      animation: gradientShift 4s ease infinite;
+      border: none;
+      border-radius: 10px;
+      padding: 0.9rem;
+      color: #fff;
+      font-size: 1rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: opacity 0.2s, transform 0.1s;
+      letter-spacing: 0.02em;
+    }
+    button.generate-btn:hover { opacity: 0.9; transform: translateY(-1px); }
+    button.generate-btn:disabled { opacity: 0.4; cursor: not-allowed; transform: none; animation: none; background: #333; }
+    @keyframes gradientShift {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+
+    .results {
+      display: none;
+      margin-top: 1.5rem;
+    }
+    .results.visible { display: block; }
+
+    .loading {
+      text-align: center;
+      padding: 2.5rem;
+      color: #555577;
+    }
+    .spinner {
+      display: inline-block;
+      width: 32px;
+      height: 32px;
+      border: 3px solid #222230;
+      border-top-color: #a855f7;
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+      margin-bottom: 0.75rem;
+    }
+    .loading p { font-style: italic; }
+    @keyframes spin { to { transform: rotate(360deg); } }
+
+    .conspiracy-card {
+      background: #111118;
+      border: 1px solid #2a1a4a;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 0 40px rgba(168, 85, 247, 0.08);
+    }
+
+    .card-header {
+      background: linear-gradient(135deg, #1a0a2a, #200a0a);
+      border-bottom: 1px solid #2a1a4a;
+      padding: 1.25rem 1.5rem;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .card-header h2 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: #f0c060;
+      line-height: 1.3;
+      flex: 1;
+    }
+    .credibility-badge {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 0.2rem;
+    }
+    .credibility-label { font-size: 0.65rem; text-transform: uppercase; letter-spacing: 0.08em; color: #555577; }
+    .credibility-value {
+      font-size: 1.4rem;
+      font-weight: 800;
+      color: #ef4444;
+    }
+
+    .card-body { padding: 1.5rem; }
+
+    .section { margin-bottom: 1.5rem; }
+    .section:last-child { margin-bottom: 0; }
+    .section-label {
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      color: #555577;
+      margin-bottom: 0.5rem;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+    }
+    .section-label::after {
+      content: '';
+      flex: 1;
+      height: 1px;
+      background: #1a1a2a;
+    }
+
+    .theory-text {
+      font-size: 0.95rem;
+      line-height: 1.7;
+      color: #c0c0d8;
+    }
+
+    .evidence-list {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    .evidence-list li {
+      display: flex;
+      gap: 0.5rem;
+      font-size: 0.88rem;
+      color: #a0a0c0;
+      line-height: 1.5;
+    }
+    .evidence-list li::before {
+      content: '⚠️';
+      flex-shrink: 0;
+      margin-top: 0.05rem;
+    }
+
+    .suspects {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+    }
+    .suspect-tag {
+      background: #1a0a2a;
+      border: 1px solid #3a1a5a;
+      border-radius: 6px;
+      padding: 0.3rem 0.75rem;
+      font-size: 0.83rem;
+      color: #c084fc;
+    }
+
+    .disclaimer {
+      margin-top: 1rem;
+      padding: 0.75rem 1rem;
+      background: #0f0f18;
+      border: 1px dashed #222230;
+      border-radius: 8px;
+      font-size: 0.75rem;
+      color: #444466;
+      text-align: center;
+      font-style: italic;
+    }
+
+    .error-box {
+      background: #200a0a;
+      border: 1px solid #6b2020;
+      border-radius: 10px;
+      padding: 1rem;
+      color: #f08080;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <a href="index.html">← Back</a>
+    <h1>🕵️ Conspiracy Theory Generator</h1>
+  </header>
+
+  <div class="container">
+    <div class="api-key-section">
+      <label for="apiKey">Anthropic API Key</label>
+      <input type="password" id="apiKey" placeholder="sk-ant-..." />
+    </div>
+
+    <div class="input-section">
+      <div class="input-row">
+        <div class="field" style="flex: 2;">
+          <label for="topic">Topic</label>
+          <input type="text" id="topic" placeholder="e.g. WiFi, dolphins, daylight saving time..." />
+        </div>
+        <div class="field">
+          <label for="absurdity">Absurdity Level</label>
+          <select id="absurdity">
+            <option value="mild">Mild 🤔</option>
+            <option value="medium" selected>Medium 😳</option>
+            <option value="extreme">Extreme 🤯</option>
+            <option value="unhinged">Completely Unhinged 🌀</option>
+          </select>
+        </div>
+      </div>
+      <button class="generate-btn" id="generateBtn" onclick="generateConspiracy()">
+        🔍 Uncover the Truth
+      </button>
+    </div>
+
+    <div class="results" id="results"></div>
+  </div>
+
+  <script>
+    const savedKey = localStorage.getItem('anthropic_api_key');
+    if (savedKey) document.getElementById('apiKey').value = savedKey;
+
+    document.getElementById('apiKey').addEventListener('change', (e) => {
+      localStorage.setItem('anthropic_api_key', e.target.value);
+    });
+
+    const loadingMessages = [
+      "Connecting to deep state servers...",
+      "Cross-referencing with secret archives...",
+      "Decoding hidden messages in plain sight...",
+      "Contacting anonymous sources...",
+      "Following the money...",
+      "Checking who benefits from this...",
+    ];
+
+    async function generateConspiracy() {
+      const apiKey = document.getElementById('apiKey').value.trim();
+      const topic = document.getElementById('topic').value.trim();
+      const absurdity = document.getElementById('absurdity').value;
+      const resultsDiv = document.getElementById('results');
+      const btn = document.getElementById('generateBtn');
+
+      if (!apiKey) { alert('Please enter your Anthropic API key.'); return; }
+      if (!topic) { alert('Please enter a topic.'); return; }
+
+      localStorage.setItem('anthropic_api_key', apiKey);
+
+      btn.disabled = true;
+      const loadingMsg = loadingMessages[Math.floor(Math.random() * loadingMessages.length)];
+      resultsDiv.className = 'results visible';
+      resultsDiv.innerHTML = `<div class="loading"><div class="spinner"></div><br/><p>${loadingMsg}</p></div>`;
+
+      const absurdityDescriptions = {
+        mild: 'slightly suspicious and plausible-sounding',
+        medium: 'moderately wild with entertaining logical leaps',
+        extreme: 'extremely far-fetched and hilariously absurd',
+        unhinged: 'completely unhinged, maximally absurd, and utterly ridiculous'
+      };
+
+      const systemPrompt = `You are a satirical conspiracy theory generator. Create obviously fictional, clearly absurd conspiracy theories for entertainment and humor. These are parody — never claim they are real.
+
+Respond ONLY with valid JSON in this exact format:
+{
+  "title": "A dramatic, sensationalist title for the conspiracy (max 12 words)",
+  "theory": "3-4 sentences describing the conspiracy theory in an earnest, dramatic tone. Be creative and funny.",
+  "evidence": ["a suspiciously vague 'clue'", "another ridiculous piece of 'evidence'", "a third absurd 'fact'"],
+  "suspects": ["The Suspected Party 1", "Shadowy Organization 2", "Suspicious Individual 3"],
+  "credibility_score": "a percentage like 0.3% or 2% — always laughably low"
+}
+
+The theory should be ${absurdityDescriptions[absurdity]}. Include dramatic language, vague references to "they" and "the truth," and clearly satirical humor.`;
+
+      try {
+        const response = await fetch('https://api.anthropic.com/v1/messages', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'x-api-key': apiKey,
+            'anthropic-version': '2023-06-01',
+            'anthropic-dangerous-direct-browser-access': 'true'
+          },
+          body: JSON.stringify({
+            model: 'claude-opus-4-6',
+            max_tokens: 800,
+            system: systemPrompt,
+            messages: [{ role: 'user', content: `Generate a conspiracy theory about: ${topic}` }]
+          })
+        });
+
+        if (!response.ok) {
+          const err = await response.json();
+          throw new Error(err.error?.message || `API error ${response.status}`);
+        }
+
+        const data = await response.json();
+        const raw = data.content[0].text;
+        const jsonMatch = raw.match(/\{[\s\S]*\}/);
+        if (!jsonMatch) throw new Error('Unexpected response format');
+        const result = JSON.parse(jsonMatch[0]);
+
+        const evidenceHTML = result.evidence.map(e => `<li>${e}</li>`).join('');
+        const suspectsHTML = result.suspects.map(s => `<span class="suspect-tag">${s}</span>`).join('');
+
+        resultsDiv.innerHTML = `
+          <div class="conspiracy-card">
+            <div class="card-header">
+              <h2>${result.title}</h2>
+              <div class="credibility-badge">
+                <span class="credibility-label">Credibility</span>
+                <span class="credibility-value">${result.credibility_score}</span>
+              </div>
+            </div>
+            <div class="card-body">
+              <div class="section">
+                <div class="section-label">The Theory</div>
+                <p class="theory-text">${result.theory}</p>
+              </div>
+              <div class="section">
+                <div class="section-label">Suspicious Evidence</div>
+                <ul class="evidence-list">${evidenceHTML}</ul>
+              </div>
+              <div class="section">
+                <div class="section-label">Suspected Parties</div>
+                <div class="suspects">${suspectsHTML}</div>
+              </div>
+            </div>
+          </div>
+          <div class="disclaimer">
+            ⚠️ 100% fictional parody. Generated for entertainment only. Do not actually believe any of this.
+          </div>
+        `;
+      } catch (err) {
+        resultsDiv.innerHTML = `<div class="error-box">⚠️ ${err.message}</div>`;
+      } finally {
+        btn.disabled = false;
+      }
+    }
+
+    document.getElementById('topic').addEventListener('keydown', (e) => {
+      if (e.key === 'Enter') generateConspiracy();
+    });
+  </script>
+</body>
+</html>

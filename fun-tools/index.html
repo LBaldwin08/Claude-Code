@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Fun Tools</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #0f0f1a;
+      color: #e0e0f0;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+    }
+    h1 {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 0.5rem;
+      background: linear-gradient(135deg, #a78bfa, #60a5fa);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+    }
+    p.subtitle {
+      color: #8888aa;
+      margin-bottom: 3rem;
+      font-size: 1.1rem;
+    }
+    .tools {
+      display: flex;
+      gap: 2rem;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    .tool-card {
+      background: #1a1a2e;
+      border: 1px solid #2a2a4a;
+      border-radius: 16px;
+      padding: 2rem;
+      width: 280px;
+      text-align: center;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.2s, border-color 0.2s, box-shadow 0.2s;
+    }
+    .tool-card:hover {
+      transform: translateY(-4px);
+      border-color: #6366f1;
+      box-shadow: 0 8px 30px rgba(99,102,241,0.2);
+    }
+    .tool-card .icon { font-size: 3rem; margin-bottom: 1rem; }
+    .tool-card h2 { font-size: 1.3rem; margin-bottom: 0.5rem; color: #c0c0e0; }
+    .tool-card p { font-size: 0.9rem; color: #6666aa; line-height: 1.5; }
+    footer { margin-top: 4rem; color: #444466; font-size: 0.8rem; }
+  </style>
+</head>
+<body>
+  <h1>AI Fun Tools</h1>
+  <p class="subtitle">Powered by Claude</p>
+  <div class="tools">
+    <a class="tool-card" href="email-tone-checker.html">
+      <div class="icon">📧</div>
+      <h2>Email Tone Checker</h2>
+      <p>Paste your email and find out if you sound passive-aggressive, too casual, or perfectly professional.</p>
+    </a>
+    <a class="tool-card" href="conspiracy-generator.html">
+      <div class="icon">🕵️</div>
+      <h2>Conspiracy Theory Generator</h2>
+      <p>Enter any topic and watch as we spin a completely absurd, obviously fictional conspiracy theory.</p>
+    </a>
+  </div>
+  <footer>Built with Claude API &mdash; for entertainment purposes</footer>
+</body>
+</html>
