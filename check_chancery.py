@@ -1,8 +1,10 @@
 """
-DE Court of Chancery Opinion Monitor
-Checks for new opinions and sends an email alert.
+DE Courts Opinion Monitor
+Checks for new opinions across all DE courts and sends an email alert.
 State is stored in chancery_state.json in the same directory.
 Config (email credentials) is stored in chancery_config.json.
+
+Run with --seed to snapshot current opinions without sending email.
 """
 
 import json
@@ -26,7 +28,7 @@ SCRIPT_DIR = Path(__file__).parent
 STATE_FILE = SCRIPT_DIR / "chancery_state.json"
 CONFIG_FILE = SCRIPT_DIR / "chancery_config.json"
 LOG_FILE = SCRIPT_DIR / "chancery_log.txt"
-URL = "https://courts.delaware.gov/opinions/List.aspx?ag=Court+of+Chancery"
+URL = "https://courts.delaware.gov/opinions/List.aspx"
 OPINION_BASE = "https://courts.delaware.gov/opinions/"
 
 HEADERS = {
@@ -59,10 +61,10 @@ def fetch_opinions():
             row = link.find_parent("tr")
             cells = row.find_all("td") if row else []
 
-            # Extract fields from table cells
             title = link.get_text(strip=True)
             date = cells[1].get_text(strip=True) if len(cells) > 1 else ""
             case_num = cells[2].get_text(strip=True) if len(cells) > 2 else ""
+            court = cells[3].get_text(strip=True) if len(cells) > 3 else ""
             judge = cells[5].get_text(strip=True) if len(cells) > 5 else ""
             description = cells[6].get_text(strip=True) if len(cells) > 6 else ""
 
@@ -71,6 +73,7 @@ def fetch_opinions():
                 "title": title,
                 "date": date,
                 "case_num": case_num,
+                "court": court,
                 "judge": judge,
                 "description": description,
                 "url": OPINION_BASE + href.lstrip("/"),
@@ -108,9 +111,9 @@ def send_email(new_opinions):
     cfg = load_config()
     count = len(new_opinions)
     subject = (
-        f"New DE Chancery Opinion: {new_opinions[0]['title'][:60]}"
+        f"New DE Court Opinion: {new_opinions[0]['title'][:60]}"
         if count == 1
-        else f"{count} New DE Chancery Opinions"
+        else f"{count} New DE Court Opinions"
     )
 
     # Build plain-text and HTML bodies
@@ -118,13 +121,14 @@ def send_email(new_opinions):
     rows_html = []
     for op in new_opinions:
         rows_text.append(
-            f"{op['date']}  |  {op['title']}\n"
+            f"{op['date']}  |  {op['court']}  |  {op['title']}\n"
             f"  {op['case_num']}  •  {op['judge']}\n"
             f"  {op['url']}\n"
         )
         rows_html.append(
             f"<tr>"
             f"<td style='padding:4px 8px;white-space:nowrap'>{op['date']}</td>"
+            f"<td style='padding:4px 8px;white-space:nowrap'>{op['court']}</td>"
             f"<td style='padding:4px 8px'><a href='{op['url']}'>{op['title']}</a></td>"
             f"<td style='padding:4px 8px;white-space:nowrap'>{op['case_num']}</td>"
             f"<td style='padding:4px 8px'>{op['judge']}</td>"
@@ -134,11 +138,12 @@ def send_email(new_opinions):
     body_text = "\n".join(rows_text) + f"\n\nView all: {URL}"
     body_html = f"""
 <html><body style="font-family:Arial,sans-serif;font-size:14px">
-<h2 style="color:#1a3a5c">DE Court of Chancery — New Opinion{"s" if count > 1 else ""}</h2>
+<h2 style="color:#1a3a5c">DE Courts — New Opinion{"s" if count > 1 else ""}</h2>
 <table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border-color:#ccc">
   <thead style="background:#1a3a5c;color:white">
     <tr>
       <th style="padding:6px 8px">Date</th>
+      <th style="padding:6px 8px">Court</th>
       <th style="padding:6px 8px">Parties</th>
       <th style="padding:6px 8px">Case No.</th>
       <th style="padding:6px 8px">Judge</th>
@@ -166,8 +171,9 @@ def send_email(new_opinions):
         server.sendmail(cfg["email_from"], cfg["email_to"], msg.as_string())
 
 
-def main():
-    log("Checking for new DE Chancery opinions...")
+def main(seed=False):
+    action = "Seeding" if seed else "Checking for new"
+    log(f"{action} DE court opinions...")
 
     try:
         opinions = fetch_opinions()
@@ -182,12 +188,14 @@ def main():
 
     new_opinions = [op for op in opinions if op["id"] not in seen_ids]
 
-    if not new_opinions:
+    if seed:
+        log(f"Seed mode: marking {len(new_opinions)} opinions as seen (no email sent).")
+    elif not new_opinions:
         log("No new opinions.")
     else:
         log(f"{len(new_opinions)} new opinion(s)!")
         for op in new_opinions:
-            log(f"  NEW: [{op['date']}] {op['title']} | {op['case_num']} | {op['judge']}")
+            log(f"  NEW: [{op['date']}] [{op['court']}] {op['title']} | {op['case_num']} | {op['judge']}")
             log(f"       {op['url']}")
 
         try:
@@ -196,9 +204,7 @@ def main():
         except Exception as e:
             log(f"ERROR sending email: {e}")
 
-        # Update state
-        seen_ids.update(op["id"] for op in new_opinions)
-
+    seen_ids.update(op["id"] for op in new_opinions)
     state["seen_ids"] = list(seen_ids)
     state["last_run"] = datetime.now().isoformat()
     save_state(state)
@@ -207,4 +213,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main(seed="--seed" in sys.argv)
