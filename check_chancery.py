@@ -11,6 +11,7 @@ import json
 import os
 import smtplib
 import sys
+import time
 from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
@@ -49,8 +50,17 @@ def log(msg):
 
 
 def fetch_opinions():
-    resp = requests.get(URL, headers=HEADERS, timeout=30)
-    resp.raise_for_status()
+    for attempt in range(1, 4):
+        try:
+            resp = requests.get(URL, headers=HEADERS, timeout=60)
+            resp.raise_for_status()
+            break
+        except Exception as e:
+            log(f"Attempt {attempt}/3 failed: {e}")
+            if attempt < 3:
+                time.sleep(30)
+            else:
+                raise
     soup = BeautifulSoup(resp.text, "html.parser")
 
     opinions = []
@@ -178,8 +188,9 @@ def main(seed=False):
     try:
         opinions = fetch_opinions()
     except Exception as e:
-        log(f"ERROR fetching page: {e}")
-        sys.exit(1)
+        log(f"ERROR fetching page after 3 attempts: {e}")
+        log("Skipping this run — will retry next scheduled check.")
+        sys.exit(0)
 
     log(f"Found {len(opinions)} opinions on page.")
 
