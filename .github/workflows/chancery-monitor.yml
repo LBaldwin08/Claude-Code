@@ -5,9 +5,14 @@ on:
     - cron: '*/30 * * * *'  # every 30 minutes
   workflow_dispatch:         # allow manual runs from GitHub UI
 
+concurrency:
+  group: chancery-monitor
+  cancel-in-progress: false  # let the current run finish; queue the next
+
 jobs:
   check-opinions:
     runs-on: ubuntu-latest
+    timeout-minutes: 8
     permissions:
       contents: write        # needed to commit state file back
 
@@ -34,4 +39,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add chancery_state.json
           git diff --staged --quiet || git commit -m "Update chancery state [skip ci]"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD

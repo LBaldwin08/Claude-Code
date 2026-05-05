@@ -52,7 +52,7 @@ def log(msg):
 def fetch_opinions():
     for attempt in range(1, 4):
         try:
-            resp = requests.get(URL, headers=HEADERS, timeout=60)
+            resp = requests.get(URL, headers=HEADERS, timeout=(15, 60))
             resp.raise_for_status()
             break
         except Exception as e:
