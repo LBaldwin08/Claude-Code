@@ -234,9 +234,20 @@ def fetch_html_playwright(source):
         return None
 
 
+def resolve_dynamic_url(source):
+    """Return source with press_url resolved if dynamic_url template is set."""
+    dynamic_url = source.get("dynamic_url")
+    if not dynamic_url:
+        return source
+    now = datetime.now()
+    resolved = dynamic_url.format(year=now.year, month=now.month)
+    return {**source, "press_url": resolved}
+
+
 def fetch_press_releases(source):
     """Return list of press release dicts for a state source config."""
     abbr = source["abbr"]
+    source = resolve_dynamic_url(source)
 
     rss_url = source.get("rss_url")
     if rss_url:

@@ -308,9 +308,9 @@
     "press_url": "https://nmdoj.gov/press-releases/",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "h2 a, h3 a, article a",
+    "item_selector": "a[href*='/press-release/']",
     "base_url": "https://nmdoj.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "Use URL pattern to exclude nav/bio links"
   },
   {
     "state": "New York",
@@ -355,12 +355,12 @@
   {
     "state": "Oklahoma",
     "abbr": "OK",
-    "press_url": "https://oklahoma.gov/oag/news/newsroom.html",
+    "press_url": "https://oklahoma.gov/oag/news/newsreleases.html",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "a[href*='/news/'], h3 a, h2 a",
+    "item_selector": "a[href*='/newsrelease/'], a[href*='/news/release'], h3 a, h2 a",
     "base_url": "https://oklahoma.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "newsroom.html is a nav page; newsreleases.html has actual releases"
   },
   {
     "state": "Oregon",
@@ -368,9 +368,9 @@
     "press_url": "https://www.doj.state.or.us/media/news-media-releases/all-media-releases/",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "h3 a, h2 a, article a",
+    "item_selector": "a[href*='/media-home/news-media-releases/']:not([href*='/category/'])",
     "base_url": "https://www.doj.state.or.us",
-    "notes": "Confirmed URL from user"
+    "notes": "Exclude nav/category links; real releases use /media-home/news-media-releases/[slug]"
   },
   {
     "state": "Pennsylvania",
@@ -405,12 +405,13 @@
   {
     "state": "South Dakota",
     "abbr": "SD",
-    "press_url": "https://atg.sd.gov/OurOffice/Media/pressreleases.aspx",
+    "press_url": "https://atg.sd.gov/pressreleasearchive.aspx",
     "rss_url": null,
+    "dynamic_url": "https://atg.sd.gov/pressreleasearchive.aspx?year={year}&month={month}",
     "container_selector": null,
-    "item_selector": "a[href*='pressrelease'], a[href*='PressRelease'], td a",
+    "item_selector": "a[href*='pressreleasedetail'], a[href*='PressReleaseDetail'], td a[href*='.aspx']",
     "base_url": "https://atg.sd.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "Archive calendar; dynamic_url uses current month to get individual releases"
   },
   {
     "state": "Tennessee",
@@ -487,10 +488,11 @@
     "abbr": "WI",
     "press_url": "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
-    "item_selector": "td a, a[href*='press-release'], h3 a",
+    "item_selector": "a[href*='/Pages/'], a[href*='/press-release'], td a",
     "base_url": "https://www.wisdoj.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "SharePoint site, JavaScript-rendered; uses Playwright"
   },
   {
     "state": "Wyoming",
