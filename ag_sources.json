@@ -289,13 +289,13 @@
   {
     "state": "New Hampshire",
     "abbr": "NH",
-    "press_url": "https://www.doj.nh.gov/news-and-media/press-releases",
+    "press_url": "https://www.doj.nh.gov/resources/press-releases",
     "rss_url": null,
     "use_playwright": true,
     "container_selector": null,
     "item_selector": "h3 a, h2 a, article a",
     "base_url": "https://www.doj.nh.gov",
-    "notes": "403 without headless browser; uses Playwright"
+    "notes": "URL corrected; Cloudflare blocks all automated access including Playwright"
   },
   {
     "state": "New Jersey",
