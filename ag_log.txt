@@ -1502,3 +1502,9 @@
 [2026-05-06 17:53:02] [OK] Found 20 item(s) on page.
 [2026-05-06 17:53:02] [OK] Seed mode: marking 20 items as seen.
 [2026-05-06 17:53:02] Done.
+[2026-05-06 18:00:57] Seeding AG press releases...
+[2026-05-06 18:00:57] Checking 1 state(s).
+[2026-05-06 18:00:57] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-05-06 18:00:58] [AK] Found 50 item(s) on page.
+[2026-05-06 18:00:58] [AK] Seed mode: marking 50 items as seen.
+[2026-05-06 18:00:58] Done.
