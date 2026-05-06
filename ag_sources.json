@@ -1,0 +1,502 @@
+[
+  {
+    "state": "Alabama",
+    "abbr": "AL",
+    "press_url": "https://ago.alabama.gov/newsroom",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ago.alabama.gov",
+    "notes": "Site frequently blocks scrapers; may need manual URL verification"
+  },
+  {
+    "state": "Alaska",
+    "abbr": "AK",
+    "press_url": "https://law.alaska.gov/press/pressReleases.html",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://law.alaska.gov",
+    "notes": "WAF may block; fallback URL to verify manually"
+  },
+  {
+    "state": "Arizona",
+    "abbr": "AZ",
+    "press_url": "https://az.gov/media/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/press-release/']",
+    "base_url": "https://az.gov",
+    "notes": "Confirmed. Cards with /press-release/[slug] URLs"
+  },
+  {
+    "state": "Arkansas",
+    "abbr": "AR",
+    "press_url": "https://arkansasag.gov/news-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "article a, .news-item a",
+    "base_url": "https://arkansasag.gov",
+    "notes": "Confirmed. Article cards, reverse chronological"
+  },
+  {
+    "state": "California",
+    "abbr": "CA",
+    "press_url": "https://oag.ca.gov/news",
+    "rss_url": "https://oag.ca.gov/news/feed",
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://oag.ca.gov",
+    "notes": "RSS confirmed valid"
+  },
+  {
+    "state": "Colorado",
+    "abbr": "CO",
+    "press_url": "https://coag.gov/media-center/press-room/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://coag.gov",
+    "notes": "Press Room page confirmed; listing URL may need manual verification"
+  },
+  {
+    "state": "Connecticut",
+    "abbr": "CT",
+    "press_url": "https://portal.ct.gov/ag/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://portal.ct.gov",
+    "notes": "Confirmed. Paginated list, date + linked title format"
+  },
+  {
+    "state": "Delaware",
+    "abbr": "DE",
+    "press_url": "https://news.delaware.gov/category/justice/",
+    "rss_url": "https://news.delaware.gov/category/justice/feed/",
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://news.delaware.gov",
+    "notes": "RSS confirmed valid. State news portal, category=justice"
+  },
+  {
+    "state": "Florida",
+    "abbr": "FL",
+    "press_url": "https://www.myfloridalegal.com/newsreleases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/newsrelease/']",
+    "base_url": "https://www.myfloridalegal.com",
+    "notes": "Confirmed. Links follow /newsrelease/[slug] pattern"
+  },
+  {
+    "state": "Georgia",
+    "abbr": "GA",
+    "press_url": "https://law.georgia.gov/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/press-releases/']",
+    "base_url": "https://law.georgia.gov",
+    "notes": "Confirmed. Links follow /press-releases/YYYY-MM-DD/[slug]"
+  },
+  {
+    "state": "Hawaii",
+    "abbr": "HI",
+    "press_url": "https://ag.hawaii.gov/news-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/news-releases/']",
+    "base_url": "https://ag.hawaii.gov",
+    "notes": "Confirmed. Year-based archive structure under /news-releases/"
+  },
+  {
+    "state": "Idaho",
+    "abbr": "ID",
+    "press_url": "https://www.ag.idaho.gov/newsroom/category/press-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "h3 a, h2 a",
+    "base_url": "https://www.ag.idaho.gov",
+    "notes": "Confirmed. Heading links with date, category tags per item"
+  },
+  {
+    "state": "Illinois",
+    "abbr": "IL",
+    "press_url": "https://illinoisattorneygeneral.gov/news-room/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/news/story/']",
+    "base_url": "https://illinoisattorneygeneral.gov",
+    "notes": "Confirmed. Links follow /news/story/[slug], grouped by month/year"
+  },
+  {
+    "state": "Indiana",
+    "abbr": "IN",
+    "press_url": "https://www.in.gov/attorneygeneral/newsroom",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.in.gov",
+    "notes": "Confirmed. Year-collapsible listing"
+  },
+  {
+    "state": "Iowa",
+    "abbr": "IA",
+    "press_url": "https://ag.iowa.gov/media/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ag.iowa.gov",
+    "notes": "Connection refused during research; URL needs manual verification"
+  },
+  {
+    "state": "Kansas",
+    "abbr": "KS",
+    "press_url": "https://ag.ks.gov/about-the-office/news/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ag.ks.gov",
+    "notes": "403 during research; URL needs manual verification"
+  },
+  {
+    "state": "Kentucky",
+    "abbr": "KY",
+    "press_url": "https://ag.ky.gov/news/Pages/default.aspx",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ag.ky.gov",
+    "notes": "Confirmed page. Uses dynamic JS search interface — may be hard to scrape"
+  },
+  {
+    "state": "Louisiana",
+    "abbr": "LA",
+    "press_url": "https://ag.louisiana.gov/News",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/Article/']",
+    "base_url": "https://ag.louisiana.gov",
+    "notes": "Confirmed. Links follow /Article/[ID] pattern, paginated"
+  },
+  {
+    "state": "Maine",
+    "abbr": "ME",
+    "press_url": "https://www.maine.gov/ag/news-and-library/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/ag/news-and-library/press-releases/']",
+    "base_url": "https://www.maine.gov",
+    "notes": "Confirmed. UL/LI list, date colon title format"
+  },
+  {
+    "state": "Maryland",
+    "abbr": "MD",
+    "press_url": "https://oag.maryland.gov/News/Pages/press-release-archive.aspx",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://oag.maryland.gov",
+    "notes": "Confirmed. Dynamic search interface — may require JS rendering"
+  },
+  {
+    "state": "Massachusetts",
+    "abbr": "MA",
+    "press_url": "https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.mass.gov",
+    "notes": "403 during research; URL needs manual verification"
+  },
+  {
+    "state": "Michigan",
+    "abbr": "MI",
+    "press_url": "https://www.michigan.gov/ag/in-the-news/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.michigan.gov",
+    "notes": "403 during research; URL needs manual verification"
+  },
+  {
+    "state": "Minnesota",
+    "abbr": "MN",
+    "press_url": "https://www.ag.state.mn.us/Office/Communications.asp",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.ag.state.mn.us",
+    "notes": "Confirmed. Dynamic date filter interface — may require adjustment"
+  },
+  {
+    "state": "Mississippi",
+    "abbr": "MS",
+    "press_url": "https://www.ago.ms.gov/press-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.ago.ms.gov",
+    "notes": "DNS errors during research; URL needs manual verification"
+  },
+  {
+    "state": "Missouri",
+    "abbr": "MO",
+    "press_url": "https://ago.mo.gov/press-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "h2 a, h3 a",
+    "base_url": "https://ago.mo.gov",
+    "notes": "Confirmed. H2/H3 heading links with date/author attribution"
+  },
+  {
+    "state": "Montana",
+    "abbr": "MT",
+    "press_url": "https://dojmt.gov/category/press-release/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "h3 a",
+    "base_url": "https://dojmt.gov",
+    "notes": "Confirmed. H3 heading links with published date and excerpt"
+  },
+  {
+    "state": "Nebraska",
+    "abbr": "NE",
+    "press_url": "https://ago.nebraska.gov/index.php/news",
+    "rss_url": "https://ago.nebraska.gov/rss/news",
+    "container_selector": null,
+    "item_selector": "h3 a",
+    "base_url": "https://ago.nebraska.gov",
+    "notes": "RSS confirmed valid"
+  },
+  {
+    "state": "Nevada",
+    "abbr": "NV",
+    "press_url": "https://ag.nv.gov/News/Press_Releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ag.nv.gov",
+    "notes": "Confirmed. Separate archived releases page also available"
+  },
+  {
+    "state": "New Hampshire",
+    "abbr": "NH",
+    "press_url": "https://www.doj.nh.gov/news-and-media/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.doj.nh.gov",
+    "notes": "403 during research; URL needs manual verification"
+  },
+  {
+    "state": "New Jersey",
+    "abbr": "NJ",
+    "press_url": "https://www.njoag.gov/news/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "h2 a, h3 a",
+    "base_url": "https://www.njoag.gov",
+    "notes": "Confirmed. WordPress blog format with heading links"
+  },
+  {
+    "state": "New Mexico",
+    "abbr": "NM",
+    "press_url": "https://www.nmag.gov/news-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.nmag.gov",
+    "notes": "403 during research; URL needs manual verification"
+  },
+  {
+    "state": "New York",
+    "abbr": "NY",
+    "press_url": "https://ag.ny.gov/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/press-release/']",
+    "base_url": "https://ag.ny.gov",
+    "notes": "Confirmed. 25-per-page pagination, links follow /press-release/YYYY/[slug]"
+  },
+  {
+    "state": "North Carolina",
+    "abbr": "NC",
+    "press_url": "https://ncdoj.gov/newsroom/press-releases/",
+    "rss_url": null,
+    "container_selector": "table",
+    "item_selector": "td a",
+    "base_url": "https://ncdoj.gov",
+    "notes": "Confirmed. Table format: date column + linked title column"
+  },
+  {
+    "state": "North Dakota",
+    "abbr": "ND",
+    "press_url": "https://ag.nd.gov/news/press-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ag.nd.gov",
+    "notes": "Connection refused during research; URL needs manual verification"
+  },
+  {
+    "state": "Ohio",
+    "abbr": "OH",
+    "press_url": "https://www.ohioattorneygeneral.gov/Media/News-Releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a[href*='/News-Releases/']",
+    "base_url": "https://www.ohioattorneygeneral.gov",
+    "notes": "Confirmed. 10-per-page pagination, links follow /Media/News-Releases/Month-Year/Title"
+  },
+  {
+    "state": "Oklahoma",
+    "abbr": "OK",
+    "press_url": "https://oklahoma.gov/oag/newsroom.html",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://oklahoma.gov",
+    "notes": "oag.ok.gov redirects to oklahoma.gov/oag; newsroom URL needs manual verification"
+  },
+  {
+    "state": "Oregon",
+    "abbr": "OR",
+    "press_url": "https://www.doj.state.or.us/media-home/news-media-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.doj.state.or.us",
+    "notes": "404 during research; URL needs manual verification"
+  },
+  {
+    "state": "Pennsylvania",
+    "abbr": "PA",
+    "press_url": "https://www.pa.gov/agencies/oag/newsroom/press-releases.html",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.pa.gov",
+    "notes": "404 during research; URL needs manual verification"
+  },
+  {
+    "state": "Rhode Island",
+    "abbr": "RI",
+    "press_url": "https://riag.ri.gov/press-releases",
+    "rss_url": "https://riag.ri.gov/press-releases.xml",
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://riag.ri.gov",
+    "notes": "RSS confirmed valid"
+  },
+  {
+    "state": "South Carolina",
+    "abbr": "SC",
+    "press_url": "https://www.scag.gov/about-the-office/news/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "h2 a, h3 a",
+    "base_url": "https://www.scag.gov",
+    "notes": "Confirmed. Article card layout, paginated"
+  },
+  {
+    "state": "South Dakota",
+    "abbr": "SD",
+    "press_url": "https://atg.sd.gov/news/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://atg.sd.gov",
+    "notes": "404 during research; URL needs manual verification"
+  },
+  {
+    "state": "Tennessee",
+    "abbr": "TN",
+    "press_url": "https://www.tn.gov/attorneygeneral/news.html",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.tn.gov",
+    "notes": "Connection error during research; URL needs manual verification"
+  },
+  {
+    "state": "Texas",
+    "abbr": "TX",
+    "press_url": "https://www.texasattorneygeneral.gov/news/releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.texasattorneygeneral.gov",
+    "notes": "Anti-bot 402 errors during research; may need headers or delay"
+  },
+  {
+    "state": "Utah",
+    "abbr": "UT",
+    "press_url": "https://attorneygeneral.utah.gov/newsroom/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "h2 a, h3 a",
+    "base_url": "https://attorneygeneral.utah.gov",
+    "notes": "Confirmed. Elementor page builder, card layout with READ MORE links"
+  },
+  {
+    "state": "Vermont",
+    "abbr": "VT",
+    "press_url": "https://ago.vermont.gov/press-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ago.vermont.gov",
+    "notes": "403 during research; URL needs manual verification"
+  },
+  {
+    "state": "Virginia",
+    "abbr": "VA",
+    "press_url": "https://www.oag.state.va.us/media-center/news-releases",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.oag.state.va.us",
+    "notes": "Confirmed. ag.virginia.gov redirects here"
+  },
+  {
+    "state": "Washington",
+    "abbr": "WA",
+    "press_url": "https://www.atg.wa.gov/news/news-releases",
+    "rss_url": "https://www.atg.wa.gov/news/news-releases-rss",
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.atg.wa.gov",
+    "notes": "RSS confirmed valid"
+  },
+  {
+    "state": "West Virginia",
+    "abbr": "WV",
+    "press_url": "https://ago.wv.gov/pressroom/Pages/Press-Releases.aspx",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ago.wv.gov",
+    "notes": "404 during research; URL needs manual verification"
+  },
+  {
+    "state": "Wisconsin",
+    "abbr": "WI",
+    "press_url": "https://www.wisdoj.gov/news-releases/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://www.wisdoj.gov",
+    "notes": "doj.state.wi.us redirects to wisdoj.gov; press release URL needs manual verification"
+  },
+  {
+    "state": "Wyoming",
+    "abbr": "WY",
+    "press_url": "https://ag.wyo.gov/news-room/",
+    "rss_url": null,
+    "container_selector": null,
+    "item_selector": "a",
+    "base_url": "https://ag.wyo.gov",
+    "notes": "404 during research; URL needs manual verification"
+  }
+]

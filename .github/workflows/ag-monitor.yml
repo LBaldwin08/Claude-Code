@@ -1,0 +1,45 @@
+name: AG Press Release Monitor
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch:
+
+concurrency:
+  group: ag-monitor
+  cancel-in-progress: false
+
+jobs:
+  check-press-releases:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 lxml
+
+      - name: Run AG press release monitor
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python check_ag_pressreleases.py
+
+      - name: Configure git
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+
+      - name: Commit and push state
+        run: |
+          git add ag_state.json ag_log.txt
+          git commit -m "Update AG state [skip ci]" || true
+          git rebase origin/main
+          git push
