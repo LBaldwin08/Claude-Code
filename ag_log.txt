@@ -1244,3 +1244,252 @@
 [2026-05-06 17:42:37] [NH] No items returned (fetch failed or empty page).
 [2026-05-06 17:42:37] States with fetch errors: NH
 [2026-05-06 17:42:37] Done.
+[2026-05-06 21:47:37] Checking for new AG press releases...
+[2026-05-06 21:47:37] Checking 50 state(s).
+[2026-05-06 21:47:37] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-05-06 21:47:37]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-05-06 21:47:40]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (218111 chars)
+[2026-05-06 21:47:40]   Playwright found 27 item(s) with configured selector
+[2026-05-06 21:47:40] [AL] Found 27 item(s) on page.
+[2026-05-06 21:47:40] [AL] No new items.
+[2026-05-06 21:47:40] [AK] Fetching https://law.alaska.gov/press/pressReleases.html
+[2026-05-06 21:47:40] [AK] No items returned (fetch failed or empty page).
+[2026-05-06 21:47:40] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-05-06 21:47:40] [AZ] Found 10 item(s) on page.
+[2026-05-06 21:47:40] [AZ] No new items.
+[2026-05-06 21:47:40] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-05-06 21:47:41] [AR] Found 50 item(s) on page.
+[2026-05-06 21:47:41] [AR] No new items.
+[2026-05-06 21:47:41] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-05-06 21:47:42] [CA] Found 10 item(s) on page.
+[2026-05-06 21:47:42] [CA] No new items.
+[2026-05-06 21:47:42] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-05-06 21:47:42] [CO] Found 49 item(s) on page.
+[2026-05-06 21:47:42] [CO] No new items.
+[2026-05-06 21:47:42] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-05-06 21:47:43] [CT] Found 34 item(s) on page.
+[2026-05-06 21:47:43] [CT] No new items.
+[2026-05-06 21:47:43] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-05-06 21:47:45] [DE] Found 300 item(s) on page.
+[2026-05-06 21:47:45] [DE] No new items.
+[2026-05-06 21:47:45] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-05-06 21:47:45] [FL] Found 20 item(s) on page.
+[2026-05-06 21:47:45] [FL] No new items.
+[2026-05-06 21:47:45] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-05-06 21:47:45] [GA] Found 11 item(s) on page.
+[2026-05-06 21:47:45] [GA] No new items.
+[2026-05-06 21:47:45] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-05-06 21:47:45] [HI] Found 26 item(s) on page.
+[2026-05-06 21:47:45] [HI] No new items.
+[2026-05-06 21:47:45] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 21:47:45]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 21:47:49]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65010 chars)
+[2026-05-06 21:47:49]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-05-06 21:47:49] [ID] Found 28 item(s) on page.
+[2026-05-06 21:47:49] [ID] No new items.
+[2026-05-06 21:47:49] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-05-06 21:47:50] [IL] Found 50 item(s) on page.
+[2026-05-06 21:47:50] [IL] No new items.
+[2026-05-06 21:47:50] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-05-06 21:47:50] [IN] Found 38 item(s) on page.
+[2026-05-06 21:47:50] [IN] No new items.
+[2026-05-06 21:47:50] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-05-06 21:47:50] [IA] Found 10 item(s) on page.
+[2026-05-06 21:47:50] [IA] No new items.
+[2026-05-06 21:47:50] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:47:50]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:47:53]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-05-06 21:47:53]   Playwright: page loaded but no links matched — check selectors
+[2026-05-06 21:47:53]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 21:47:54]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:48:14]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:48:34]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:48:34] [KS] No items returned (fetch failed or empty page).
+[2026-05-06 21:48:34] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-05-06 21:48:35] [KY] Found 26 item(s) on page.
+[2026-05-06 21:48:35] [KY] No new items.
+[2026-05-06 21:48:35] [LA] Fetching https://ag.louisiana.gov/News
+[2026-05-06 21:48:35] [LA] Found 20 item(s) on page.
+[2026-05-06 21:48:35] [LA] No new items.
+[2026-05-06 21:48:35] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-05-06 21:48:36] [ME] Found 5 item(s) on page.
+[2026-05-06 21:48:36] [ME] No new items.
+[2026-05-06 21:48:36] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-05-06 21:48:37] [MD] Found 50 item(s) on page.
+[2026-05-06 21:48:37] [MD] No new items.
+[2026-05-06 21:48:37] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-06 21:48:37]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-06 21:48:40]   Playwright loaded page: 'News and Announcements | Mass.gov' (172825 chars)
+[2026-05-06 21:48:40]   Playwright found 15 item(s) with configured selector
+[2026-05-06 21:48:40] [MA] Found 15 item(s) on page.
+[2026-05-06 21:48:40] [MA] No new items.
+[2026-05-06 21:48:40] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-05-06 21:48:40]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-05-06 21:48:43]   Playwright loaded page: 'Attorney General: Press Releases' (377907 chars)
+[2026-05-06 21:48:43]   Playwright found 10 item(s) with configured selector
+[2026-05-06 21:48:43] [MI] Found 10 item(s) on page.
+[2026-05-06 21:48:43] [MI] No new items.
+[2026-05-06 21:48:43] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-05-06 21:48:43] [MN] Found 50 item(s) on page.
+[2026-05-06 21:48:43] [MN] No new items.
+[2026-05-06 21:48:43] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-05-06 21:48:44] [MS] Found 1 item(s) on page.
+[2026-05-06 21:48:44] [MS] No new items.
+[2026-05-06 21:48:44] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-05-06 21:48:44] [MO] Found 50 item(s) on page.
+[2026-05-06 21:48:44] [MO] No new items.
+[2026-05-06 21:48:44] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-05-06 21:48:44] [MT] Found 10 item(s) on page.
+[2026-05-06 21:48:44] [MT] No new items.
+[2026-05-06 21:48:44] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-05-06 21:48:44] [NE] Found 10 item(s) on page.
+[2026-05-06 21:48:44] [NE] 1 new item(s):
+[2026-05-06 21:48:44]   NEW: U.S. Fifth Circuit Court of Appeals Panel of Judges Blocks Access Through the Mail to Mifepristone Abortion Pill | Wed, 06 May 2026 21:33:10 +0000 | https://ago.nebraska.gov/us-fifth-circuit-court-appeals-panel-judges-blocks-access-through-mail-mifepristone-abortion-pill
+[2026-05-06 21:48:44] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-05-06 21:48:45] [NV] Found 50 item(s) on page.
+[2026-05-06 21:48:45] [NV] No new items.
+[2026-05-06 21:48:45] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-05-06 21:48:45]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-05-06 21:48:48]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-05-06 21:48:48]   Playwright: page loaded but no links matched — check selectors
+[2026-05-06 21:48:48]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 21:48:48]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-06 21:49:08]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-06 21:49:28]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-06 21:49:28] [NH] No items returned (fetch failed or empty page).
+[2026-05-06 21:49:28] [NJ] Fetching https://www.njoag.gov/news/
+[2026-05-06 21:49:30] [NJ] Found 5 item(s) on page.
+[2026-05-06 21:49:30] [NJ] No new items.
+[2026-05-06 21:49:30] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-05-06 21:49:30] [NM] Found 10 item(s) on page.
+[2026-05-06 21:49:30] [NM] No new items.
+[2026-05-06 21:49:30] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-05-06 21:49:30] [NY] Found 25 item(s) on page.
+[2026-05-06 21:49:30] [NY] No new items.
+[2026-05-06 21:49:30] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-05-06 21:49:37] [NC] Found 10 item(s) on page.
+[2026-05-06 21:49:37] [NC] No new items.
+[2026-05-06 21:49:37] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-05-06 21:49:37] [ND] Found 10 item(s) on page.
+[2026-05-06 21:49:37] [ND] No new items.
+[2026-05-06 21:49:37] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-05-06 21:49:38] [OH] Found 10 item(s) on page.
+[2026-05-06 21:49:38] [OH] No new items.
+[2026-05-06 21:49:38] [OK] Fetching https://oklahoma.gov/oag/news/newsreleases.html
+[2026-05-06 21:49:38]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsreleases.html
+[2026-05-06 21:49:41]   Playwright loaded page: 'News Releases' (834710 chars)
+[2026-05-06 21:49:41]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:49:41] [OK] Found 50 item(s) on page.
+[2026-05-06 21:49:41] [OK] 50 new item(s):
+[2026-05-06 21:49:41]   NEW: State Agencies |  | https://oklahoma.gov/stateagency.html
+[2026-05-06 21:49:41]   NEW: About |  | https://oklahoma.gov/oag/about.html
+[2026-05-06 21:49:41]   NEW: Speaker Short Bio |  | https://oklahoma.gov/oag/about/bio/speaker-short-bio.html
+[2026-05-06 21:49:41]   NEW: Contact |  | https://oklahoma.gov/oag/about/contact.html
+[2026-05-06 21:49:41]   NEW: Data Collection |  | https://oklahoma.gov/oag/about/data-collection.html
+[2026-05-06 21:49:41]   NEW: Divisions |  | https://oklahoma.gov/oag/about/divisions.html
+[2026-05-06 21:49:41]   NEW: Charity Enforcement Unit |  | https://oklahoma.gov/oag/about/divisions/charity-enforcement.html
+[2026-05-06 21:49:41]   NEW: Civil Rights Enforcement |  | https://oklahoma.gov/oag/about/divisions/civil-rights-enforcement.html
+[2026-05-06 21:49:41]   NEW: Consumer Protection Unit |  | https://oklahoma.gov/oag/about/divisions/cpu.html
+[2026-05-06 21:49:41]   NEW: Lethality Assessment Protocol |  | https://oklahoma.gov/oag/about/divisions/lap.html
+[2026-05-06 21:49:41]   NEW: Litigation |  | https://oklahoma.gov/oag/about/divisions/litigation.html
+[2026-05-06 21:49:41]   NEW: Long-Term Care Ombudsman |  | https://oklahoma.gov/oag/about/divisions/ltco.html
+[2026-05-06 21:49:41]   NEW: Medicaid Fraud Control Unit |  | https://oklahoma.gov/oag/about/divisions/mfcu.html
+[2026-05-06 21:49:41]   NEW: Opioid Abatement |  | https://oklahoma.gov/oag/about/divisions/opioid-abatement.html
+[2026-05-06 21:49:41]   NEW: PBM Compliance and Enforcement |  | https://oklahoma.gov/oag/about/divisions/pbm.html
+[2026-05-06 21:49:41]   NEW: Tobacco Enforcement Unit |  | https://oklahoma.gov/oag/about/divisions/tobacco-enforcement-unit.html
+[2026-05-06 21:49:41]   NEW: Utility Regulation Unit |  | https://oklahoma.gov/oag/about/divisions/utility-regulation.html
+[2026-05-06 21:49:41]   NEW: Victim Advocacy and Services Unit |  | https://oklahoma.gov/oag/about/divisions/victim-advocacy-and-services-unit.html
+[2026-05-06 21:49:41]   NEW: Workers’ Compensation and Insurance Fraud Unit (WCIFU) |  | https://oklahoma.gov/oag/about/divisions/wcifu.html
+[2026-05-06 21:49:41]   NEW: More Divisions |  | https://oklahoma.gov/oag/about/divisions/more.html
+[2026-05-06 21:49:41]   NEW: Frequently Asked Questions |  | https://oklahoma.gov/oag/about/faqs.html
+[2026-05-06 21:49:41]   NEW: BioLearn about Oklahoma Attorney General Gentner Drummond — decorated Air Force veteran, attorney, and rancher sworn into office on Jan. 9, 2023. |  | https://oklahoma.gov/oag/about/bio.html
+[2026-05-06 21:49:41]   NEW: Need Help? |  | https://oklahoma.gov/oag/complaints-tiplines.html
+[2026-05-06 21:49:41]   NEW: Complaints |  | https://oklahoma.gov/oag/complaints-tiplines/complaints.html
+[2026-05-06 21:49:41]   NEW: Airline Complaint Form |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/airline.html
+[2026-05-06 21:49:41]   NEW: Charitable Organization Complaint Form |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/charity.html
+[2026-05-06 21:49:41]   NEW: Citizen Complaint |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/citizen.html
+[2026-05-06 21:49:41]   NEW: Civil Rights Complaints |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/civil-rights.html
+[2026-05-06 21:49:41]   NEW: Consumer Complaint |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/consumer.html
+[2026-05-06 21:49:41]   NEW: Cryptocurrency Kiosk Complaint Form |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/cryptocurrency.html
+[2026-05-06 21:49:41]   NEW: Medicaid Fraud Control Unit Complaint |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/mfcu.html
+[2026-05-06 21:49:41]   NEW: Oklahoma Telemarketer Restriction Act Consumer Registry |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/tracor.html
+[2026-05-06 21:49:41]   NEW: PBM Audit Integrity Act |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/pbm-audit-integrity-act.html
+[2026-05-06 21:49:41]   NEW: PBM Patients |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/pbm-patients.html
+[2026-05-06 21:49:41]   NEW: PBM Pharmacy |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/pbm-pharmacy.html
+[2026-05-06 21:49:41]   NEW: PBM PSAO |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/pbm-psao.html
+[2026-05-06 21:49:41]   NEW: Public Access Counselor Complaint |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/pac-complaint.html
+[2026-05-06 21:49:41]   NEW: Senior Fraud |  | https://oklahoma.gov/oag/complaints-tiplines/complaints/senior-fraud.html
+[2026-05-06 21:49:41]   NEW: Tiplines |  | https://oklahoma.gov/oag/complaints-tiplines/tiplines.html
+[2026-05-06 21:49:41]   NEW: Illegal Marijuana Grow/Business Tipline |  | https://oklahoma.gov/oag/complaints-tiplines/tiplines/illegal-marijuana-grow-business-tipline.html
+[2026-05-06 21:49:41]   NEW: Winter Storm Uri Tipline |  | https://oklahoma.gov/oag/complaints-tiplines/tiplines/winter-storm-uri-tipline.html
+[2026-05-06 21:49:41]   NEW: Required Notice |  | https://oklahoma.gov/oag/about/divisions/charity-enforcement/required-notice.html
+[2026-05-06 21:49:41]   NEW: Tips for Charitable Donors |  | https://oklahoma.gov/oag/about/divisions/charity-enforcement/donor-tips.html
+[2026-05-06 21:49:41]   NEW: Charity Complaint Form |  | https://oklahoma.gov/oag/about/divisions/charity-enforcement/charity-complaint.html
+[2026-05-06 21:49:41]   NEW: Civil Rights Enforcement FAQs |  | https://oklahoma.gov/oag/about/divisions/civil-rights-enforcement/faqs.html
+[2026-05-06 21:49:41]   NEW: Civil Rights Complaints |  | https://oklahoma.gov/oag/about/divisions/civil-rights-enforcement/complaints.html
+[2026-05-06 21:49:41]   NEW: Employment Law Symposium |  | https://oklahoma.gov/oag/about/divisions/civil-rights-enforcement/employment-law-symposium.html
+[2026-05-06 21:49:41]   NEW: Airline Complaints |  | https://oklahoma.gov/oag/about/divisions/cpu/airline-complaints.html
+[2026-05-06 21:49:41]   NEW: Consumer Complaints |  | https://oklahoma.gov/oag/about/divisions/cpu/consumer-complaints.html
+[2026-05-06 21:49:41]   NEW: Charitable Organization Complaints |  | https://oklahoma.gov/oag/about/divisions/cpu/charitable-organization-complaints.html
+[2026-05-06 21:49:41] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-05-06 21:49:42] [OR] Found 10 item(s) on page.
+[2026-05-06 21:49:42] [OR] No new items.
+[2026-05-06 21:49:42] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-05-06 21:49:43] [PA] Found 30 item(s) on page.
+[2026-05-06 21:49:43] [PA] No new items.
+[2026-05-06 21:49:43] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-05-06 21:49:43] [RI] Found 10 item(s) on page.
+[2026-05-06 21:49:43] [RI] No new items.
+[2026-05-06 21:49:43] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-06 21:49:43]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-05-06 21:49:46]   Playwright loaded page: 'News - South Carolina Attorney General' (110976 chars)
+[2026-05-06 21:49:46]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-05-06 21:49:46] [SC] Found 9 item(s) on page.
+[2026-05-06 21:49:46] [SC] No new items.
+[2026-05-06 21:49:46] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-05-06 21:49:46]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=5
+[2026-05-06 21:49:49]   Playwright loaded page: 'South Dakota Attorney General' (38224 chars)
+[2026-05-06 21:49:49]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-05-06 21:49:49] [SD] Found 1 item(s) on page.
+[2026-05-06 21:49:49] [SD] No new items.
+[2026-05-06 21:49:49] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-05-06 21:49:49]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-05-06 21:50:09] [TN] Found 50 item(s) on page.
+[2026-05-06 21:50:09] [TN] No new items.
+[2026-05-06 21:50:09] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-05-06 21:50:10] [TX] Found 50 item(s) on page.
+[2026-05-06 21:50:10] [TX] No new items.
+[2026-05-06 21:50:10] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-05-06 21:50:10]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-05-06 21:50:13]   Playwright loaded page: 'Press Releases - Utah Attorney General' (295392 chars)
+[2026-05-06 21:50:13]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:50:13] [UT] Found 50 item(s) on page.
+[2026-05-06 21:50:13] [UT] No new items.
+[2026-05-06 21:50:13] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-05-06 21:50:13] [VT] Found 50 item(s) on page.
+[2026-05-06 21:50:13] [VT] No new items.
+[2026-05-06 21:50:13] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-05-06 21:50:15] [VA] Found 50 item(s) on page.
+[2026-05-06 21:50:15] [VA] No new items.
+[2026-05-06 21:50:15] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-05-06 21:50:15] [WA] Found 15 item(s) on page.
+[2026-05-06 21:50:15] [WA] No new items.
+[2026-05-06 21:50:15] [WV] Fetching https://ago.wv.gov/news
+[2026-05-06 21:50:15]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-05-06 21:50:18]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54541 chars)
+[2026-05-06 21:50:18]   Playwright found 30 item(s) with configured selector
+[2026-05-06 21:50:18] [WV] Found 30 item(s) on page.
+[2026-05-06 21:50:18] [WV] No new items.
+[2026-05-06 21:50:18] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-06 21:50:18]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-06 21:50:22]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1505889 chars)
+[2026-05-06 21:50:22]   Playwright found 28 item(s) with configured selector
+[2026-05-06 21:50:22] [WI] Found 28 item(s) on page.
+[2026-05-06 21:50:22] [WI] No new items.
+[2026-05-06 21:50:22] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-05-06 21:50:22] [WY] Found 1 item(s) on page.
+[2026-05-06 21:50:22] [WY] No new items.
+[2026-05-06 21:50:22] States with fetch errors: AK, KS, NH
+[2026-05-06 21:50:22] Sending email: 51 new item(s) across 2 state(s).
+[2026-05-06 21:50:24] Email sent.
+[2026-05-06 21:50:24] Done.
