@@ -360,13 +360,14 @@
   {
     "state": "Oklahoma",
     "abbr": "OK",
-    "press_url": "https://oklahoma.gov/oag/news/newsreleases.html",
+    "press_url": "https://oklahoma.gov/oag/news/newsroom.html",
     "rss_url": null,
     "use_playwright": true,
     "container_selector": "main",
-    "item_selector": "a[href*='/newsrelease/'], a[href*='/news/release'], h3 a, h2 a",
+    "item_selector": "a[href*='/news/newsroom/20']",
+    "item_url_pattern": "/news/newsroom/20",
     "base_url": "https://oklahoma.gov",
-    "notes": "JS-rendered; newsroom.html is a nav page; newsreleases.html has actual releases"
+    "notes": "Real releases at /oag/news/newsroom/YYYY/month/slug; double-filter with selector+pattern"
   },
   {
     "state": "Oregon",

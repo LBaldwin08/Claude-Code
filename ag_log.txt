@@ -1493,3 +1493,12 @@
 [2026-05-06 21:50:22] Sending email: 51 new item(s) across 2 state(s).
 [2026-05-06 21:50:24] Email sent.
 [2026-05-06 21:50:24] Done.
+[2026-05-06 17:52:56] Seeding AG press releases...
+[2026-05-06 17:52:56] Checking 1 state(s).
+[2026-05-06 17:52:56] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-06 17:52:56]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-06 17:53:02]   Playwright loaded page: 'News Releases' (863318 chars)
+[2026-05-06 17:53:02]   Playwright found 20 item(s) with configured selector
+[2026-05-06 17:53:02] [OK] Found 20 item(s) on page.
+[2026-05-06 17:53:02] [OK] Seed mode: marking 20 items as seen.
+[2026-05-06 17:53:02] Done.
