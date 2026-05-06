@@ -293,9 +293,9 @@
     "rss_url": null,
     "use_playwright": true,
     "container_selector": null,
-    "item_selector": "h3 a, h2 a, article a",
+    "item_selector": "a[href*='/news-and-media/']",
     "base_url": "https://www.doj.nh.gov",
-    "notes": "URL corrected; Cloudflare blocks all automated access including Playwright"
+    "notes": "New URL is listing page; real releases link to /news-and-media/ paths; works on GHA but 403 locally"
   },
   {
     "state": "New Jersey",
