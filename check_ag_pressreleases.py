@@ -181,6 +181,10 @@ def fetch_html(source):
             seen.add(item["id"])
             deduped.append(item)
 
+    # Cap to first N items — we only need recent items for change detection
+    max_items = source.get("max_items", 50)
+    deduped = deduped[:max_items]
+
     return deduped if deduped else None
 
 
