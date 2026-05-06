@@ -115,10 +115,11 @@
     "abbr": "ID",
     "press_url": "https://www.ag.idaho.gov/newsroom/category/press-releases/",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
     "item_selector": "h3 a, h2 a, .entry-title a",
     "base_url": "https://www.ag.idaho.gov",
-    "notes": "Category page filters to press releases only"
+    "notes": "JavaScript-rendered; uses Playwright"
   },
   {
     "state": "Illinois",
