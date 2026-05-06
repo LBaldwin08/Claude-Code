@@ -1197,3 +1197,24 @@
 [2026-05-06 21:28:44] Sending email: 113 new item(s) across 8 state(s).
 [2026-05-06 21:28:45] Email sent.
 [2026-05-06 21:28:45] Done.
+[2026-05-06 17:32:25] Seeding AG press releases...
+[2026-05-06 17:32:25] Checking 3 state(s).
+[2026-05-06 17:32:25] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 17:32:25]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 17:32:38]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65049 chars)
+[2026-05-06 17:32:38]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-05-06 17:32:38] [ID] Found 28 item(s) on page.
+[2026-05-06 17:32:38] [ID] Seed mode: marking 28 items as seen.
+[2026-05-06 17:32:38] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-06 17:32:38]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-05-06 17:32:42]   Playwright loaded page: 'News - South Carolina Attorney General' (110976 chars)
+[2026-05-06 17:32:42]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-05-06 17:32:42] [SC] Found 9 item(s) on page.
+[2026-05-06 17:32:42] [SC] Seed mode: marking 9 items as seen.
+[2026-05-06 17:32:42] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-05-06 17:32:42]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=5
+[2026-05-06 17:32:46]   Playwright loaded page: 'South Dakota Attorney General' (38222 chars)
+[2026-05-06 17:32:46]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-05-06 17:32:46] [SD] Found 1 item(s) on page.
+[2026-05-06 17:32:46] [SD] Seed mode: marking 1 items as seen.
+[2026-05-06 17:32:46] Done.

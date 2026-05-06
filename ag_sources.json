@@ -119,8 +119,9 @@
     "use_playwright": true,
     "container_selector": "main",
     "item_selector": "h3 a, h2 a, .entry-title a",
+    "item_url_pattern": "/newsroom/",
     "base_url": "https://www.ag.idaho.gov",
-    "notes": "JavaScript-rendered; uses Playwright; main container to exclude nav"
+    "notes": "JavaScript-rendered; uses Playwright; item_url_pattern excludes ?showall and non-news links"
   },
   {
     "state": "Illinois",
@@ -406,8 +407,9 @@
     "use_playwright": true,
     "container_selector": "main",
     "item_selector": "h2 a, h3 a, article a",
+    "item_url_pattern": "/news/",
     "base_url": "https://www.scag.gov",
-    "notes": "JavaScript-rendered; uses Playwright; main container to exclude nav"
+    "notes": "JavaScript-rendered; uses Playwright; item_url_pattern restricts to /news/ paths"
   },
   {
     "state": "South Dakota",
@@ -418,8 +420,9 @@
     "dynamic_url": "https://atg.sd.gov/pressreleasearchive.aspx?year={year}&month={month}",
     "container_selector": null,
     "item_selector": "a[href*='pressreleasedetail'], a[href*='PressReleaseDetail'], td a[href*='.aspx']",
+    "item_url_pattern": "(?i)pressrelease",
     "base_url": "https://atg.sd.gov",
-    "notes": "Archive calendar; dynamic_url uses current month; Playwright for JS-rendered ASPX"
+    "notes": "Archive calendar; dynamic_url uses current month; item_url_pattern filters out nav links"
   },
   {
     "state": "Tennessee",

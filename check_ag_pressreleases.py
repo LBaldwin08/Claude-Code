@@ -141,7 +141,7 @@ def parse_html_content(html, source, page_url):
 
     for link in links:
         href = link.get("href", "")
-        if not href or href.startswith("#") or href.startswith("mailto:") or href.startswith("tel:"):
+        if not href or href.startswith("#") or href.startswith("mailto:") or href.startswith("tel:") or href.startswith("javascript:"):
             continue
 
         full_url = href if href.startswith("http") else urljoin(base_url, href)
