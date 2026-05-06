@@ -2,12 +2,12 @@
   {
     "state": "Alabama",
     "abbr": "AL",
-    "press_url": "https://ago.alabama.gov/newsroom",
+    "press_url": "https://www.alabamaag.gov/news/",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "a",
-    "base_url": "https://ago.alabama.gov",
-    "notes": "Site frequently blocks scrapers; may need manual URL verification"
+    "item_selector": "h2 a, h3 a, article a",
+    "base_url": "https://www.alabamaag.gov",
+    "notes": "Confirmed URL from user"
   },
   {
     "state": "Alaska",
@@ -142,12 +142,12 @@
   {
     "state": "Iowa",
     "abbr": "IA",
-    "press_url": "https://ag.iowa.gov/media/press-releases",
+    "press_url": "https://www.iowaattorneygeneral.gov/newsroom",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "a",
-    "base_url": "https://ag.iowa.gov",
-    "notes": "Connection refused during research; URL needs manual verification"
+    "item_selector": "h2 a, h3 a, article a",
+    "base_url": "https://www.iowaattorneygeneral.gov",
+    "notes": "Confirmed URL from user"
   },
   {
     "state": "Kansas",
@@ -232,12 +232,12 @@
   {
     "state": "Mississippi",
     "abbr": "MS",
-    "press_url": "https://www.ago.ms.gov/press-releases/",
+    "press_url": "https://attorneygenerallynnfitch.com/media/press-releases/",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "a",
-    "base_url": "https://www.ago.ms.gov",
-    "notes": "DNS errors during research; URL needs manual verification"
+    "item_selector": "h2 a, h3 a, article a",
+    "base_url": "https://attorneygenerallynnfitch.com",
+    "notes": "Confirmed URL from user"
   },
   {
     "state": "Missouri",
@@ -332,12 +332,12 @@
   {
     "state": "North Dakota",
     "abbr": "ND",
-    "press_url": "https://ag.nd.gov/news/press-releases/",
+    "press_url": "https://attorneygeneral.nd.gov/news/",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "a",
-    "base_url": "https://ag.nd.gov",
-    "notes": "Connection refused during research; URL needs manual verification"
+    "item_selector": "h2 a, h3 a, article a",
+    "base_url": "https://attorneygeneral.nd.gov",
+    "notes": "Confirmed URL from user"
   },
   {
     "state": "Ohio",
