@@ -209,10 +209,28 @@ def fetch_html_playwright(source):
             page.goto(url, timeout=30000, wait_until="domcontentloaded")
             page.wait_for_timeout(2000)
             html = page.content()
+            title = page.title()
             browser.close()
-        return parse_html_content(html, source, url)
+
+        log(f"  Playwright loaded page: '{title}' ({len(html)} chars)")
+
+        # Try configured selectors first, then fall back to all links
+        items = parse_html_content(html, source, url)
+        if items:
+            log(f"  Playwright found {len(items)} item(s) with configured selector")
+            return items
+
+        # Fallback: try with generic "a" selector to see what links are available
+        fallback_source = dict(source, item_selector="a", container_selector=None)
+        items = parse_html_content(html, fallback_source, url)
+        if items:
+            log(f"  Playwright found {len(items)} item(s) with fallback 'a' selector")
+            return items
+
+        log(f"  Playwright: page loaded but no links matched — check selectors")
+        return None
     except Exception as e:
-        log(f"  Playwright fetch failed for {url}: {e}")
+        log(f"  Playwright error for {url}: {e}")
         return None
 
 
