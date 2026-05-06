@@ -330,3 +330,558 @@
 [2026-05-06 16:47:13] [KS] No items returned (fetch failed or empty page).
 [2026-05-06 16:47:13] States with fetch errors: KS
 [2026-05-06 16:47:13] Done.
+[2026-05-06 21:10:14] Checking for new AG press releases...
+[2026-05-06 21:10:14] Checking 50 state(s).
+[2026-05-06 21:10:14] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-05-06 21:10:14]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-05-06 21:10:18]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (218111 chars)
+[2026-05-06 21:10:18]   Playwright found 33 item(s) with fallback 'a' selector
+[2026-05-06 21:10:18] [AL] Found 33 item(s) on page.
+[2026-05-06 21:10:18] [AL] 33 new item(s):
+[2026-05-06 21:10:18]   NEW: Meet The Attorney General |  | https://www.alabamaag.gov/about/
+[2026-05-06 21:10:18]   NEW: Roles of the Attorney General |  | https://www.alabamaag.gov/roles/
+[2026-05-06 21:10:18]   NEW: Employment Opportunities |  | https://www.alabamaag.gov/employment/
+[2026-05-06 21:10:18]   NEW: Divisions |  | https://www.alabamaag.gov/divisions/
+[2026-05-06 21:10:18]   NEW: Forms and Links |  | https://www.alabamaag.gov/forms-and-links/
+[2026-05-06 21:10:18]   NEW: Opinions Search |  | https://www.alabamaag.gov/opinions/
+[2026-05-06 21:10:18]   NEW: Requesting an Opinion |  | https://www.alabamaag.gov/requesting-an-opinion/
+[2026-05-06 21:10:18]   NEW: Opinions History |  | https://www.alabamaag.gov/opinions-history/
+[2026-05-06 21:10:18]   NEW: Historical Opinions |  | https://www.alabamaag.gov/historical-opinions/
+[2026-05-06 21:10:18]   NEW: Firearms Law |  | https://www.alabamaag.gov/firearms-law/
+[2026-05-06 21:10:18]   NEW: Data Breach Notification |  | https://www.alabamaag.gov/data-breach-notification/
+[2026-05-06 21:10:18]   NEW: Licensing and Registration |  | https://www.alabamaag.gov/consumer-license/
+[2026-05-06 21:10:18]   NEW: Consumer Complaint |  | https://www.alabamaag.gov/consumer-complaint/
+[2026-05-06 21:10:18]   NEW: Speaker Request |  | https://www.alabamaag.gov/wp-content/uploads/2023/04/Speaker-Request-Form.pdf
+[2026-05-06 21:10:18]   NEW: Questionnaires |  | https://www.alabamaag.gov/consumer-questionnaires/
+[2026-05-06 21:10:18]   NEW: Victim Assistance Information |  | https://www.alabamaag.gov/victim-assistance/
+[2026-05-06 21:10:18]   NEW: Victim Notification |  | https://www.alabamaag.gov/victim-notification/
+[2026-05-06 21:10:18]   NEW: Sexual Assault Survivor’s Rights |  | https://www.alabamaag.gov/survivors-rights/
+[2026-05-06 21:10:18]   NEW: Victim Brochure |  | https://www.alabamaag.gov/wp-content/uploads/2026/04/Victims-Brochures-04-16-2026.pdf
+[2026-05-06 21:10:18]   NEW: Human Trafficking Information |  | https://www.alabamaag.gov/the-alliance/
+[2026-05-06 21:10:18]   NEW: Human Trafficking Brochure |  | https://www.alabamaag.gov/wp-content/uploads/2023/04/Stop-Human-Trafficking.pdf
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-moves-to-restore-alabamas-congressional-map-ahead-of-may-19-primary/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/conviction-upheld-in-the-2019-capital-murder-of-mobile-officer-sean-tuder/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-files-emergency-motion-with-eleventh-circuit-to-vacate-or-stay-state-senate-redistricting-injunctions/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-files-emergency-motions-to-lift-congressional-map-injunctions-in-wake-of-u-s-supreme-courts-callais-decision/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-applauds-momentous-supreme-court-redistricting-decision/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-to-top-credit-ratings-agencies-stop-the-unlawful-esg-policies/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-fights-to-defend-president-trumps-executive-order-on-election-integrity/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-12-2-million-settlement-with-roblox-to-ensure-child-safety/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/tuscaloosa-tax-preparer-convicted-on-two-felony-counts-ordered-to-repay-over-63000-and-permanently-barred-from-practice/
+[2026-05-06 21:10:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-steve-marshall-announces-arrests-for-absentee-ballot-fraud-in-ft-deposit-municipal-election/
+[2026-05-06 21:10:18]   NEW: (334) 242-7300 |  | tel:334-242-7300
+[2026-05-06 21:10:18]   NEW: Contact |  | https://www.alabamaag.gov/general-contact/
+[2026-05-06 21:10:18] [AK] Fetching https://law.alaska.gov/press/pressReleases.html
+[2026-05-06 21:10:19] [AK] Found 1 item(s) on page.
+[2026-05-06 21:10:19] [AK] No new items.
+[2026-05-06 21:10:19] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-05-06 21:10:19] [AZ] Found 10 item(s) on page.
+[2026-05-06 21:10:19] [AZ] No new items.
+[2026-05-06 21:10:19] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-05-06 21:10:20] [AR] Found 50 item(s) on page.
+[2026-05-06 21:10:20] [AR] No new items.
+[2026-05-06 21:10:20] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-05-06 21:10:21] [CA] Found 10 item(s) on page.
+[2026-05-06 21:10:21] [CA] 1 new item(s):
+[2026-05-06 21:10:21]   NEW: Attorney General Bonta Opposes Trump Administration's Proposal to Unlawfully Collect Backup Power Generation Data | Wed, 06 May 2026 17:51:40 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-trump-administrations-proposal-unlawfully-collect
+[2026-05-06 21:10:21] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-05-06 21:10:21] [CO] Found 50 item(s) on page.
+[2026-05-06 21:10:21] [CO] No new items.
+[2026-05-06 21:10:21] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-05-06 21:10:21] [CT] Found 34 item(s) on page.
+[2026-05-06 21:10:21] [CT] No new items.
+[2026-05-06 21:10:21] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-05-06 21:10:22] [DE] Found 300 item(s) on page.
+[2026-05-06 21:10:22] [DE] No new items.
+[2026-05-06 21:10:22] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-05-06 21:10:23] [FL] Found 20 item(s) on page.
+[2026-05-06 21:10:23] [FL] No new items.
+[2026-05-06 21:10:23] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-05-06 21:10:23] [GA] Found 11 item(s) on page.
+[2026-05-06 21:10:23] [GA] No new items.
+[2026-05-06 21:10:23] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-05-06 21:10:23] [HI] Found 27 item(s) on page.
+[2026-05-06 21:10:23] [HI] No new items.
+[2026-05-06 21:10:23] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 21:10:23]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 21:10:27]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (64947 chars)
+[2026-05-06 21:10:27]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:10:27] [ID] Found 50 item(s) on page.
+[2026-05-06 21:10:27] [ID] 50 new item(s):
+[2026-05-06 21:10:27]   NEW: Archive |  | https://www.ag.idaho.gov/archive/
+[2026-05-06 21:10:27]   NEW: Press Releases |  | https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 21:10:27]   NEW: Meet the AG |  | https://www.ag.idaho.gov/about/
+[2026-05-06 21:10:27]   NEW: Newsletter |  | https://www.ag.idaho.gov/newsroom/
+[2026-05-06 21:10:27]   NEW: Contact |  | https://www.ag.idaho.gov/contact/
+[2026-05-06 21:10:27]   NEW: Idaho Office of Attorney GeneralOFFICEof theATTORNEY GENERALState of IdahoRaúl R. LabradorOFFICEof theATTORNEY GENERALState of IdahoRaúl R. Labrador |  | https://www.ag.idaho.gov
+[2026-05-06 21:10:27]   NEW: Consumer Protection |  | https://www.ag.idaho.gov/consumer-protection/
+[2026-05-06 21:10:27]   NEW: Report Scams Idaho |  | https://www.ag.idaho.gov/consumer-protection/report-scams-idaho/
+[2026-05-06 21:10:27]   NEW: Alerts |  | https://www.ag.idaho.gov/consumer-protection/alerts/
+[2026-05-06 21:10:27]   NEW: Business Response Letter |  | https://www.ag.idaho.gov/consumer-protection/business-response-letter/
+[2026-05-06 21:10:27]   NEW: ICAPA – Charitable Organization’s Notice of Dissolution |  | https://www.ag.idaho.gov/idaho-code-%c2%a7-48-19071-notice/
+[2026-05-06 21:10:27]   NEW: Consumer Annual Reports |  | https://www.ag.idaho.gov/consumer-protection/consumer-annual-reports/
+[2026-05-06 21:10:27]   NEW: Consumer Manuals |  | https://www.ag.idaho.gov/consumer-protection/consumer-manuals/
+[2026-05-06 21:10:27]   NEW: Do Not Call |  | https://www.ag.idaho.gov/consumer-protection/do-not-call/
+[2026-05-06 21:10:27]   NEW: Opioid Settlement |  | https://www.ag.idaho.gov/consumer-protection/opioid-settlement/
+[2026-05-06 21:10:27]   NEW: Request Consumer Outreach Presentation |  | https://www.ag.idaho.gov/consumer-protection/request-for-consumer-outreach-presentation/
+[2026-05-06 21:10:27]   NEW: Security Breaches |  | https://www.ag.idaho.gov/consumer-protection/security-breaches/
+[2026-05-06 21:10:27]   NEW: Telephone Solicitors |  | https://www.ag.idaho.gov/consumer-protection/telephone-solicitors/
+[2026-05-06 21:10:27]   NEW: Tobacco |  | https://www.ag.idaho.gov/consumer-protection/tobacco-settlement/
+[2026-05-06 21:10:27]   NEW: Office Resources |  | https://www.ag.idaho.gov/office-resources/
+[2026-05-06 21:10:27]   NEW: Advance Directives and Registry Services |  | https://www.ag.idaho.gov/office-resources/advance-directives-and-registry-services/
+[2026-05-06 21:10:27]   NEW: AG Annual Reports |  | https://www.ag.idaho.gov/office-resources/ag-annual-reports/
+[2026-05-06 21:10:27]   NEW: Annual Child Sexual Abuse Reports |  | https://www.ag.idaho.gov/office-resources/sexual-child-abuse-reports/
+[2026-05-06 21:10:27]   NEW: Career Opportunities |  | https://www.ag.idaho.gov/about/jobs/
+[2026-05-06 21:10:27]   NEW: Concealed Weapons |  | https://www.ag.idaho.gov/office-resources/concealed-weapons/
+[2026-05-06 21:10:27]   NEW: Forms |  | https://www.ag.idaho.gov/office-resources/online-forms/
+[2026-05-06 21:10:27]   NEW: Human Trafficking Reports |  | https://www.ag.idaho.gov/office-resources/human-trafficking-reports/
+[2026-05-06 21:10:27]   NEW: Manuals |  | https://www.ag.idaho.gov/office-resources/manuals/
+[2026-05-06 21:10:27]   NEW: Medicaid Fraud |  | https://www.ag.idaho.gov/office-resources/medicaid-fraud/
+[2026-05-06 21:10:27]   NEW: Opinions |  | https://www.ag.idaho.gov/office-resources/opinions/
+[2026-05-06 21:10:27]   NEW: Public Corruption |  | https://www.ag.idaho.gov/office-resources/public-corruption/
+[2026-05-06 21:10:27]   NEW: Public Records |  | https://www.ag.idaho.gov/office-resources/public-records/
+[2026-05-06 21:10:27]   NEW: Victim Assistance |  | https://www.ag.idaho.gov/victims/
+[2026-05-06 21:10:27]   NEW: Receive Updates from Our Office |  | https://www.ag.idaho.gov/subscribe/
+[2026-05-06 21:10:27]   NEW: May 62026AG Labrador Announces $7.4 Billion Opioid Settlement with Big Pharma Giant | May 62026 | https://www.ag.idaho.gov/newsroom/ag-labrador-announces-7-4-billion-opioid-settlement-with-big-pharma-giant/
+[2026-05-06 21:10:27]   NEW: Consumer Protection |  | https://www.ag.idaho.gov/newsroom/category/consumer-protection/
+[2026-05-06 21:10:27]   NEW: Settlement Info |  | https://www.ag.idaho.gov/newsroom/category/settlement-information/
+[2026-05-06 21:10:27]   NEW: Apr 302026AG Labrador Demands Answers from Credit Agencies Accused of Using ESG Policies to Drive Up Energy Costs | Apr 302026 | https://www.ag.idaho.gov/newsroom/ag-labrador-demands-answers-from-credit-agencies-accused-of-using-esg-policies-to-drive-up-energy-costs/
+[2026-05-06 21:10:27]   NEW: Apr 162026AG Labrador Calls Out Deceptive and Shameful Political Attacks Exploiting Child Protection Efforts | Apr 162026 | https://www.ag.idaho.gov/newsroom/ag-labrador-calls-out-deceptive-and-shameful-political-attacks-exploiting-child-protection-efforts/
+[2026-05-06 21:10:27]   NEW: Apr 72026AG Labrador Pushes for State, Local Authority to Combat Illegal Drone Drops at Prisons | Apr 72026 | https://www.ag.idaho.gov/newsroom/ag-labrador-pushes-for-state-local-authority-to-combat-illegal-drone-drops-at-prisons/
+[2026-05-06 21:10:27]   NEW: Apr 22026Idaho AG Defends 2nd Amendment Against New York Lawsuits | Apr 22026 | https://www.ag.idaho.gov/newsroom/idaho-ag-defends-2nd-amendment-against-new-york-lawsuits/
+[2026-05-06 21:10:27]   NEW: Mar 312026AG Labrador: Supreme Court Should Restore Original Understanding of Birthright Citizenship | Mar 312026 | https://www.ag.idaho.gov/newsroom/ag-raul-labrador-supreme-court-should-restore-original-understanding-of-birthright-citizenship/
+[2026-05-06 21:10:27]   NEW: SCOTUS |  | https://www.ag.idaho.gov/newsroom/category/scotus/
+[2026-05-06 21:10:27]   NEW: Mar 302026Idaho AG Urges Supreme Court to Block Federal Agencies from Writing Criminal Law | Mar 302026 | https://www.ag.idaho.gov/newsroom/idaho-ag-urges-supreme-court-to-block-federal-agencies-from-writing-criminal-law/
+[2026-05-06 21:10:27]   NEW: Mar 262026AG Labrador Leads Multi-State Coalition Opposing Court-Ordered Sex-Change Surgeries for Prisoners | Mar 262026 | https://www.ag.idaho.gov/newsroom/ag-labrador-leads-multi-state-coalition-opposing-court-ordered-sex-change-surgeries-for-prisoners/
+[2026-05-06 21:10:27]   NEW: Mar 232026AG Labrador Defends Idaho’s Authority to Regulate Sports Betting | Mar 232026 | https://www.ag.idaho.gov/newsroom/ag-labrador-defends-idahos-authority-to-regulate-sports-betting/
+[2026-05-06 21:10:27]   NEW: Mar 202026AG Labrador Announces Sentencing of Canyon County Man for Possession of Child Pornography | Mar 202026 | https://www.ag.idaho.gov/newsroom/ag-labrador-announces-sentencing-of-canyon-county-man-for-possession-of-child-pornography/
+[2026-05-06 21:10:27]   NEW: Mar 172026Attorney General Labrador’s Office Arrests Canyon County Man for Alleged Enticement of a Child | Mar 172026 | https://www.ag.idaho.gov/newsroom/attorney-general-labradors-office-arrests-canyon-county-man-for-alleged-enticement-of-a-child/
+[2026-05-06 21:10:27]   NEW: Mar 112026Attorney General Labrador’s Office Charges Meridian Man for Alleged Enticement of a Child | Mar 112026 | https://www.ag.idaho.gov/newsroom/attorney-general-labradors-office-charges-meridian-man-for-alleged-enticement-of-a-child/
+[2026-05-06 21:10:27]   NEW: « Older | May 62026 | https://www.ag.idaho.gov/newsroom/category/press-releases/page/2/
+[2026-05-06 21:10:27] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-05-06 21:10:28] [IL] Found 50 item(s) on page.
+[2026-05-06 21:10:28] [IL] 22 new item(s):
+[2026-05-06 21:10:28]   NEW: May 05, 2026ATTORNEY GENERAL RAOUL: ROCK ISLAND COUNTY JUDGE FINDS CONVICTED SEX OFFENDER SEXUALLY VIOLENT | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-rock-island-county-judge-finds-convicted-sex-offender-sexually-violent
+[2026-05-06 21:10:28]   NEW: May 04, 2026ATTORNEY GENERAL RAOUL OPPOSES PROPOSED POSTAL SERVICE RULE THAT WOULD ALLOW UNLAWFUL ACCESS TO GUNS BY MAIL | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-proposed-postal-service-rule-that-would-allow-unlawful-access-to-guns-by-mail
+[2026-05-06 21:10:28]   NEW: May 04, 2026ATTORNEY GENERAL RAOUL: SUPREME COURT ENTERS ADMINISTRATIVE STAY, PREVENTING RESTRICTIONS ON MIFEPRISTONE GOING INTO EFFECT | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-supreme-court-enters-administrative-stay-preventing-restrictions-on-mifepristone-going-into-effect
+[2026-05-06 21:10:28]   NEW: May 01, 2026ATTORNEY GENERAL RAOUL SECURES FINAL APPROVAL IN $700 MILLION GOOGLE SETTLEMENT OVER APP STORE MONOPOLY | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-secures-final-approval-in-700-million-google-settlement-over-app-store-monopoly
+[2026-05-06 21:10:28]   NEW: April 30, 2026ATTORNEY GENERAL RAOUL ANNOUNCES FORMER CITY OF CHICAGO INSPECTOR GENERAL DEBORAH WITZBURG AS CHIEF OF STAFF | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-former-city-of-chicago-inspector-general-deborah-witzburg-as-chief-of-staff
+[2026-05-06 21:10:28]   NEW: April 28, 2026ATTORNEY GENERAL RAOUL JOINS BIPARTISAN EFFORT TO CURB SALES OF ILLEGAL VAPING PRODUCTS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-joins-bipartisan-effort-to-curb-sales-of-illegal-vaping-products
+[2026-05-06 21:10:28]   NEW: April 24, 2026***CONSUMER ALERT*** ATTORNEY GENERAL RAOUL WARNS STATE EMPLOYEES AND RETIREES ABOUT INVESTMENT SCAMS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-warns-state-employees-and-retirees-about-investment-scams
+[2026-05-06 21:10:28]   NEW: April 24, 2026ATTORNEY GENERAL RAOUL OBTAINS RESTITUTION FROM RETIRED STATE POLICE OFFICER WHO PLEADED GUILTY TO PPP LOAN FRAUD | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-restitution-from-retired-state-police-officer-who-pleaded-guilty-to-ppp-loan-fraud
+[2026-05-06 21:10:28]   NEW: April 22, 2026ATTORNEY GENERAL RAOUL ANNOUNCES FEDERAL ACCOUNTABILITY ACTIONS HAVE PROTECTED $8.6 BILLION FOR ILLINOIS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-federal-accountability-actions-have-protected-86-billion-for-illinois
+[2026-05-06 21:10:28]   NEW: April 20, 2026ATTORNEY GENERAL RAOUL ISSUES STATEMENT AFTER U.S. DISTRICT COURT DECLARES NATIONAL GUARD ORDERS "DEFUNCT" AND CASE MOOT | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-statement-after-us-district-court-declares-case-over-national-guard-deployment-moot
+[2026-05-06 21:10:28]   NEW: April 17, 2026ATTORNEY GENERAL RAOUL ISSUES STATEMENT ON PASSING OF BARBARA FLYNN CURRIE | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-statement-on-passing-of-barbara-flynn-currie
+[2026-05-06 21:10:28]   NEW: April 16, 2026HOUSE APPROVES ATTORNEY GENERAL RAOUL’S LEGISLATION TO STRENGTHEN HIS OFFICE’S ABILITY TO DEFEND WORKPLACE RIGHTS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/house-approves-attorney-general-raouls-legislation-to-strengthen-his-offices-ability-to-defend-workplace-rights
+[2026-05-06 21:10:28]   NEW: April 15, 2026ATTORNEY GENERAL RAOUL, COALITION WIN TRIAL AGAINST LIVE NATION AND TICKETMASTER | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-coalition-win-trial-against-live-nation-and-ticketmaster
+[2026-05-06 21:10:28]   NEW: April 13, 2026ATTORNEY GENERAL RAOUL LEADS COALITION URGING SUPREME COURT TO PRESERVE TEMPORARY PROTECTED STATUS FOR HAITIANS AND SYRIANS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-urging-supreme-court-to-preserve-temporary-protected-status-for-haitians-and-syrians
+[2026-05-06 21:10:28]   NEW: April 10, 2026ATTORNEY GENERAL RAOUL ANNOUNCES SETTLEMENT WITH NORWEGIAN CRUISE LINE OVER BUSINESS PRACTICES DURING COVID-19 PUBLIC HEALTH EMERGENCY | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-settlement-with-norwegian-cruise-line-over-business-practices-during-covid-19-public-health-emergency
+[2026-05-06 21:10:28]   NEW: April 09, 2026ATTORNEY GENERAL RAOUL CHARGES FORMER U.S. POSTAL SERVICE WORKER WITH THEFT, FORGERY | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-former-us-postal-service-worker-with-theft-forgery-4-9-26
+[2026-05-06 21:10:28]   NEW: April 03, 2026ATTORNEY GENERAL RAOUL LEADS COALITION SUPPORTING LAW FIRMS TARGETED FOR RETRIBUTION BY TRUMP ADMINISTRATION | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-supporting-law-firms-targeted-for-retribution-by-trump-administration
+[2026-05-06 21:10:28]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL SUCCESSFULLY PROTECTS STATE ENERGY PROGRAMS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-successfully-protects-state-energy-programs
+[2026-05-06 21:10:28]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL CHALLENGES UNLAWFUL TRUMP ADMINISTRATION MOVE TO FORCE INDIANA COAL-FIRED POWER PLANTS TO CONTINUE OPERATING BEYOND RETIREMENT DATES | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-challenges-unlawful-trump-administration-move-to-force-indiana-coal-fired-power-plants-to-continue-operating-beyond-retirement-dates
+[2026-05-06 21:10:28]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL WINS APPEALS COURT RULING AGAINST HUD OVER HOUSING ASSISTANCE PROGRAMS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-wins-appeals-court-ruling-against-hud-over-housing-assistance-programs
+[2026-05-06 21:10:28]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL OBTAINS INJUNCTION IN LAWSUIT OVER 2025 ASPHALT SPILL IMPACTING CHICAGO SANITARY AND SHIP CANAL | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-injunction-in-lawsuit-over-2025-asphalt-spill-impacting-chicago-sanitary-and-ship-canal
+[2026-05-06 21:10:28]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL FILES U.S. SUPREME COURT BRIEF DEFENDING STATES’ RIGHT TO PROTECT PUBLIC HEALTH | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-us-supreme-court-brief-defending-states-right-to-protect-public-health
+[2026-05-06 21:10:28] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-05-06 21:10:28] [IN] Found 43 item(s) on page.
+[2026-05-06 21:10:28] [IN] No new items.
+[2026-05-06 21:10:28] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-05-06 21:10:29] [IA] Found 10 item(s) on page.
+[2026-05-06 21:10:29] [IA] No new items.
+[2026-05-06 21:10:29] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:10:29]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:10:32]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-05-06 21:10:32]   Playwright: page loaded but no links matched — check selectors
+[2026-05-06 21:10:32]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 21:10:32]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:10:52]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:11:13]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:11:13] [KS] No items returned (fetch failed or empty page).
+[2026-05-06 21:11:13] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-05-06 21:11:13] [KY] Found 26 item(s) on page.
+[2026-05-06 21:11:13] [KY] No new items.
+[2026-05-06 21:11:13] [LA] Fetching https://ag.louisiana.gov/News
+[2026-05-06 21:11:14] [LA] Found 20 item(s) on page.
+[2026-05-06 21:11:14] [LA] No new items.
+[2026-05-06 21:11:14] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-05-06 21:11:14] [ME] Found 5 item(s) on page.
+[2026-05-06 21:11:14] [ME] No new items.
+[2026-05-06 21:11:14] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-05-06 21:11:14] [MD] Found 50 item(s) on page.
+[2026-05-06 21:11:14] [MD] No new items.
+[2026-05-06 21:11:14] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-06 21:11:14]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-06 21:11:18]   Playwright loaded page: 'News and Announcements | Mass.gov' (172825 chars)
+[2026-05-06 21:11:18]   Playwright found 15 item(s) with configured selector
+[2026-05-06 21:11:18] [MA] Found 15 item(s) on page.
+[2026-05-06 21:11:18] [MA] 15 new item(s):
+[2026-05-06 21:11:18]   NEW: AG Campbell Urges Supreme Court To Block Restrictions On Mifepristone | 5/04/2026 | https://www.mass.gov/news/ag-campbell-urges-supreme-court-to-block-restrictions-on-mifepristone
+[2026-05-06 21:11:18]   NEW: $7.4 Billion Settlement With Purdue Pharma And Sackler Family Goes Into Effect | 5/01/2026 | https://www.mass.gov/news/74-billion-settlement-with-purdue-pharma-and-sackler-family-goes-into-effect
+[2026-05-06 21:11:18]   NEW: AG Campbell Joins Bipartisan Coalition In Challenging $6.2 Billion Nexstar/TEGNA Merger | 5/01/2026 | https://www.mass.gov/news/ag-campbell-joins-bipartisan-coalition-in-challenging-62-billion-nexstartegna-merger
+[2026-05-06 21:11:18]   NEW: AG Campbell Issues Statement in Response to Supreme Court Decision in Louisiana v. Callais | 4/30/2026 | https://www.mass.gov/news/ag-campbell-issues-statement-in-response-to-supreme-court-decision-in-louisiana-v-callais
+[2026-05-06 21:11:18]   NEW: AG Campbell Urges SCOTUS to Uphold Temporary Protected Status for Haiti and Syria Ahead of Today's Arguments | 4/29/2026 | https://www.mass.gov/news/ag-campbell-urges-scotus-to-uphold-temporary-protected-status-for-haiti-and-syria-ahead-of-todays-arguments
+[2026-05-06 21:11:18]   NEW: AG Campbell Secures $5 Million Settlement with Adroit for Unfair and Deceptive Sales and Administration of Health Plans | 4/29/2026 | https://www.mass.gov/news/ag-campbell-secures-5-million-settlement-with-adroit-for-unfair-and-deceptive-sales-and-administration-of-health-plans
+[2026-05-06 21:11:18]   NEW: AG’s Office Secures Indictments Against Plymouth County Caregiver For Caretaker Neglect, Kidnapping, And Unemployment Fraud | 4/28/2026 | https://www.mass.gov/news/ags-office-secures-indictments-against-plymouth-county-caregiver-for-caretaker-neglect-kidnapping-and-unemployment-fraud
+[2026-05-06 21:11:18]   NEW: Governor Healey, Attorney General Campbell and Auditor DiZoglio Announce Marisol Garcia as Next Child Advocate | 4/27/2026 | https://www.mass.gov/news/governor-healey-attorney-general-campbell-and-auditor-dizoglio-announce-marisol-garcia-as-next-child-advocate
+[2026-05-06 21:11:18]   NEW: AG Campbell Moves To Permanently Block President Trump's Executive Order Restricting Mail Voting, Exerting Federal Control Over Elections | 4/24/2026 | https://www.mass.gov/news/ag-campbell-moves-to-permanently-block-president-trumps-executive-order-restricting-mail-voting-exerting-federal-control-over-elections
+[2026-05-06 21:11:18]   NEW: AG Campbell Sues Trump Administration Over Failure to Implement Lifesaving Soot Standard | 4/24/2026 | https://www.mass.gov/news/ag-campbell-sues-trump-administration-over-failure-to-implement-lifesaving-soot-standard
+[2026-05-06 21:11:18]   NEW: AG's Office Sues Millbury-Based Renovation Company, Subcontractor, Property Manager Over Improper Asbestos Abatement Work | 4/23/2026 | https://www.mass.gov/news/ags-office-sues-millbury-based-renovation-company-subcontractor-property-manager-over-improper-asbestos-abatement-work
+[2026-05-06 21:11:18]   NEW: AG Campbell Wins Lawsuit Protecting Gender-Affirming Care | 4/21/2026 | https://www.mass.gov/news/ag-campbell-wins-lawsuit-protecting-gender-affirming-care
+[2026-05-06 21:11:18]   NEW: AG Campbell Defends Temporary Protected Status For Immigrants From Somalia | 4/16/2026 | https://www.mass.gov/news/ag-campbell-defends-temporary-protected-status-for-immigrants-from-somalia
+[2026-05-06 21:11:18]   NEW: AG Campbell Issues Statement After Jury Finds Live Nation Operates As An Illegal Monopoly | 4/15/2026 | https://www.mass.gov/news/ag-campbell-issues-statement-after-jury-finds-live-nation-operates-as-an-illegal-monopoly
+[2026-05-06 21:11:18]   NEW: AG Campbell Urges Supreme Court To Preserve Temporary Protected Status For Haitians And Syrians | 4/13/2026 | https://www.mass.gov/news/ag-campbell-urges-supreme-court-to-preserve-temporary-protected-status-for-haitians-and-syrians
+[2026-05-06 21:11:18] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-05-06 21:11:18]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-05-06 21:11:21]   Playwright loaded page: 'Attorney General: Press Releases' (377932 chars)
+[2026-05-06 21:11:21]   Playwright found 10 item(s) with configured selector
+[2026-05-06 21:11:21] [MI] Found 10 item(s) on page.
+[2026-05-06 21:11:21] [MI] 10 new item(s):
+[2026-05-06 21:11:21]   NEW: New Boston Woman Sentenced for Embezzling More Than $2 Million from Employer |  | https://www.michigan.gov/ag/news/press-releases/2026/05/06/new-boston-woman-sentenced-for-embezzling
+[2026-05-06 21:11:21]   NEW: AG Nessel Charges Fay Beydoun with 16 Felonies for Stealing Global Link International Grant Funding |  | https://www.michigan.gov/ag/news/press-releases/2026/05/06/ag-nessel-charges-fay-beydoun
+[2026-05-06 21:11:21]   NEW: AG Nessel and Bipartisan Coalition to Secure Final Approval in $700 Million Google Settlement over App Store Monopoly |  | https://www.michigan.gov/ag/news/press-releases/2026/05/05/ag-nessel-and-bipartisan-coalition-to-secure-final-approval-in-700m-google-settlement
+[2026-05-06 21:11:21]   NEW: AG Nessel Highlights Department’s Task Force on National Missing and Murdered Indigenous Persons Awareness Day |  | https://www.michigan.gov/ag/news/press-releases/2026/05/05/ag-nessel-highlights-department-task-force
+[2026-05-06 21:11:21]   NEW: Kentucky Man Sentenced to 17-30 Years for First-Degree Criminal Sexual Conduct Following Extradition to Wexford County |  | https://www.michigan.gov/ag/news/press-releases/2026/05/04/kentucky-man-sentenced-to-17-to-30-years-for-first-degree-csc
+[2026-05-06 21:11:21]   NEW: AG Nessel Urges Pistons Fans to be Vigilant Against Online Ticket Scams |  | https://www.michigan.gov/ag/news/press-releases/2026/05/04/ag-nessel-urges-pistons-fans-to-be-vigilant-against-online-ticket-scams
+[2026-05-06 21:11:21]   NEW: Attorney General Nessel Files Brief Urging Supreme Court to Stay Restrictions on Mifepristone |  | https://www.michigan.gov/ag/news/press-releases/2026/05/04/attorney-general-nessel-files-brief-urging-supreme-court-to-stay-restrictions-on-mifepristone
+[2026-05-06 21:11:21]   NEW: Monroe Man Convicted of Assault with Intent to Murder, Witness Tampering |  | https://www.michigan.gov/ag/news/press-releases/2026/05/01/monroe-man-convicted-of-assault-with-intent-to-murder-witness-tampering
+[2026-05-06 21:11:21]   NEW: AG Nessel Calls for Stricter Laws Following East Lansing High School Swatting Incident |  | https://www.michigan.gov/ag/news/press-releases/2026/05/01/ag-nessel-calls-for-stricter-laws-following-east-lansing-high-school-swatting-incident
+[2026-05-06 21:11:21]   NEW: Purdue/Sackler $7.4 Billion Opioid Settlement Goes into Effect |  | https://www.michigan.gov/ag/news/press-releases/2026/05/01/purdue-sackler-opioid-settlement-goes-into-effect
+[2026-05-06 21:11:21] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-05-06 21:11:21] [MN] Found 50 item(s) on page.
+[2026-05-06 21:11:21] [MN] No new items.
+[2026-05-06 21:11:21] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-05-06 21:11:22] [MS] Found 1 item(s) on page.
+[2026-05-06 21:11:22] [MS] No new items.
+[2026-05-06 21:11:22] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-05-06 21:11:22] [MO] Found 50 item(s) on page.
+[2026-05-06 21:11:22] [MO] No new items.
+[2026-05-06 21:11:22] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-05-06 21:11:22] [MT] Found 10 item(s) on page.
+[2026-05-06 21:11:22] [MT] No new items.
+[2026-05-06 21:11:22] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-05-06 21:11:22] [NE] Found 10 item(s) on page.
+[2026-05-06 21:11:22] [NE] No new items.
+[2026-05-06 21:11:22] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-05-06 21:11:23] [NV] Found 50 item(s) on page.
+[2026-05-06 21:11:23] [NV] No new items.
+[2026-05-06 21:11:23] [NH] Fetching https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:11:23]   Using Playwright headless browser for https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:11:26]   Playwright loaded page: 'Access Denied' (321 chars)
+[2026-05-06 21:11:26]   Playwright: page loaded but no links matched — check selectors
+[2026-05-06 21:11:26]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 21:11:26]   Attempt 1/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:11:46]   Attempt 2/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:12:06]   Attempt 3/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:12:06] [NH] No items returned (fetch failed or empty page).
+[2026-05-06 21:12:06] [NJ] Fetching https://www.njoag.gov/news/
+[2026-05-06 21:12:08] [NJ] Found 5 item(s) on page.
+[2026-05-06 21:12:08] [NJ] No new items.
+[2026-05-06 21:12:08] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-05-06 21:12:08] [NM] Found 10 item(s) on page.
+[2026-05-06 21:12:08] [NM] No new items.
+[2026-05-06 21:12:08] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-05-06 21:12:08] [NY] Found 25 item(s) on page.
+[2026-05-06 21:12:08] [NY] 1 new item(s):
+[2026-05-06 21:12:08]   NEW: Attorney General James Stops Forged Temporary License Plate Scheme Operating in Brooklyn |  | https://ag.ny.gov/press-release/2026/attorney-general-james-stops-forged-temporary-license-plate-scheme-operating
+[2026-05-06 21:12:08] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-05-06 21:12:15] [NC] Found 10 item(s) on page.
+[2026-05-06 21:12:15] [NC] No new items.
+[2026-05-06 21:12:15] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-05-06 21:12:15] [ND] Found 10 item(s) on page.
+[2026-05-06 21:12:15] [ND] No new items.
+[2026-05-06 21:12:15] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-05-06 21:12:15] [OH] Found 10 item(s) on page.
+[2026-05-06 21:12:15] [OH] No new items.
+[2026-05-06 21:12:15] [OK] Fetching https://oklahoma.gov/oag/news/newsreleases.html
+[2026-05-06 21:12:16] [OK] No items returned (fetch failed or empty page).
+[2026-05-06 21:12:16] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-05-06 21:12:16] [OR] Found 10 item(s) on page.
+[2026-05-06 21:12:16] [OR] No new items.
+[2026-05-06 21:12:16] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-05-06 21:12:18] [PA] Found 32 item(s) on page.
+[2026-05-06 21:12:18] [PA] 32 new item(s):
+[2026-05-06 21:12:18]   NEW: News & Media |  | https://www.attorneygeneral.gov/taking-action/
+[2026-05-06 21:12:18]   NEW: 05/06/2026 | 05/06/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-announces-launch-of-new-online-dashboard-for-home-improvement-contractor-registration-system/
+[2026-05-06 21:12:18]   NEW: 05/05/2026 | 05/05/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-offers-tips-to-consumers-impacted-by-the-sudden-shutdown-of-spirit-airlines/
+[2026-05-06 21:12:18]   NEW: 05/04/2026 | 05/04/2026 | https://www.attorneygeneral.gov/taking-action/charges-2-corrections-officers-former-inmate-conspired-to-traffic-k2-suboxone-to-inmates-at-sci-fayette/
+[2026-05-06 21:12:18]   NEW: 05/01/2026 | 05/01/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-purdue-sackler-7-4-billion-national-opioid-settlement-goes-into-effect/
+[2026-05-06 21:12:18]   NEW: 05/01/2026 | 05/01/2026 | https://www.attorneygeneral.gov/taking-action/hazleton-man-jailed-up-to-30-years-for-shooting-his-then-girlfriend-in-the-chest/
+[2026-05-06 21:12:18]   NEW: 05/01/2026 | 05/01/2026 | https://www.attorneygeneral.gov/taking-action/pa-supreme-court-upholds-consumer-right-to-cancel-home-improvement-contracts-within-three-days-regardless-of-medium/
+[2026-05-06 21:12:18]   NEW: 04/30/2026 | 04/30/2026 | https://www.attorneygeneral.gov/taking-action/ag-sunday-joins-litigation-to-stop-nexstar-tegna-merger-that-would-limit-pennsylvanians-broadcast-tv-options/
+[2026-05-06 21:12:18]   NEW: 04/30/2026 | 04/30/2026 | https://www.attorneygeneral.gov/taking-action/leader-of-criminal-organization-jailed-for-using-fake-checks-and-cash-to-buy-designer-dogs-in-lucrative-resale-scheme/
+[2026-05-06 21:12:18]   NEW: 04/29/2026 | 04/29/2026 | https://www.attorneygeneral.gov/taking-action/ag-sundays-child-predator-section-secures-state-prison-sentence-for-lackawanna-county-man-who-had-200-child-sexual-abuse-material-files/
+[2026-05-06 21:12:18]   NEW: 04/28/2026 | 04/28/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-leads-bipartisan-effort-calling-on-credit-card-companies-payment-apps-to-curb-sales-of-illegal-vaping-products/
+[2026-05-06 21:12:18]   NEW: 04/27/2026 | 04/27/2026 | https://www.attorneygeneral.gov/taking-action/state-director-pleads-guilty-to-offering-financial-incentives-to-street-canvassers-during-voter-registration-drives-in-3-central-pa-counties/
+[2026-05-06 21:12:18]   NEW: 04/23/2026 | 04/23/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-reaches-40k-settlement-with-florida-based-company-that-allegedly-posed-as-pa-state-agency-targeting-new-business-owners/
+[2026-05-06 21:12:18]   NEW: 04/23/2026 | 04/23/2026 | https://www.attorneygeneral.gov/taking-action/2-delaware-county-police-officers-charged-with-assisting-drug-dealer-received-cocaine-in-exchange-for-privileged-information/
+[2026-05-06 21:12:18]   NEW: 04/22/2026 | 04/22/2026 | https://www.attorneygeneral.gov/taking-action/lehigh-county-man-sentenced-to-prison-for-posing-as-a-medical-professional/
+[2026-05-06 21:12:18]   NEW: 04/20/2026 | 04/20/2026 | https://www.attorneygeneral.gov/taking-action/ag-sundays-child-predator-section-nabs-wanted-man-with-gun-in-bethlehem-fugitive-also-charged-with-manufacturing-child-sexual-abuse-material/
+[2026-05-06 21:12:18]   NEW: 04/20/2026 | 04/20/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-warns-pennsylvanians-of-cash-scams-involving-trusted-person-pickups/
+[2026-05-06 21:12:18]   NEW: 04/16/2026 | 04/16/2026 | https://www.attorneygeneral.gov/taking-action/ag-sundays-organized-retail-crime-section-charges-3-motorcycle-club-members-with-thefts-robbery-at-harley-davidson-lots-in-5-counties/
+[2026-05-06 21:12:18]   NEW: 04/16/2026 | 04/16/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-secures-settlement-with-mv-realty-over-misleading-homeowner-benefit-program-company-to-terminate-all-pennsylvania-mortgages/
+[2026-05-06 21:12:18]   NEW: 04/15/2026 | 04/15/2026 | https://www.attorneygeneral.gov/taking-action/verdict-ag-sunday-announces-federal-jury-finds-live-nation-ticketmaster-operated-monopoly-over-live-entertainment-industry/
+[2026-05-06 21:12:18]   NEW: 04/15/2026 | 04/15/2026 | https://www.attorneygeneral.gov/taking-action/ag-sunday-warns-of-ticket-scams-as-flyers-penguins-and-76ers-begin-post-season/
+[2026-05-06 21:12:18]   NEW: 04/14/2026 | 04/14/2026 | https://www.attorneygeneral.gov/taking-action/ag-sunday-encourages-nfl-draft-attendees-to-enjoy-themselves-but-warns-criminals-of-increased-police-presence-we-will-be-watching/
+[2026-05-06 21:12:18]   NEW: 04/13/2026 | 04/13/2026 | https://www.attorneygeneral.gov/taking-action/allegheny-county-man-pleads-guilty-sentenced-to-state-prison-for-providing-fatal-fentanyl-dose-to-15-year-old-girl/
+[2026-05-06 21:12:18]   NEW: 04/13/2026 | 04/13/2026 | https://www.attorneygeneral.gov/taking-action/n-y-man-sentenced-to-prison-ordered-to-pay-66k-for-stolen-credit-card-scheme-involving-high-end-liquors-from-pa-stores/
+[2026-05-06 21:12:18]   NEW: 04/09/2026 | 04/09/2026 | https://www.attorneygeneral.gov/taking-action/e-cigarette-vape-manufacturers-now-required-to-be-certified-with-office-of-attorney-general-with-act-57-of-2025-now-in-effect/
+[2026-05-06 21:12:18]   NEW: 04/08/2026 | 04/08/2026 | https://www.attorneygeneral.gov/taking-action/teentalk-in-erie-county-attorney-general-sunday-meets-with-students-for-discussion-on-social-medias-impact-on-mental-health/
+[2026-05-06 21:12:18]   NEW: 04/08/2026 | 04/08/2026 | https://www.attorneygeneral.gov/taking-action/pa-state-police-cpl-pleads-guilty-to-using-work-computer-to-create-a-i-involved-pornography-also-secretly-recorded-photographed-individuals/
+[2026-05-06 21:12:18]   NEW: 04/08/2026 | 04/08/2026 | https://www.attorneygeneral.gov/taking-action/western-pa-amusement-companies-plead-guilty-to-widespread-distribution-of-illegal-gaming-devices-agree-to-5m-forfeiture-dissolve-companies/
+[2026-05-06 21:12:18]   NEW: 04/07/2026 | 04/07/2026 | https://www.attorneygeneral.gov/taking-action/philadelphia-man-a-repeat-offender-charged-with-disseminating-child-sexual-abuse-material-secretly-filming-woman/
+[2026-05-06 21:12:18]   NEW: 04/06/2026 | 04/06/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-warns-pennsylvanians-to-beware-of-investment-scams-on-facebook-instagram-whatsapp/
+[2026-05-06 21:12:18]   NEW: 04/02/2026 | 04/02/2026 | https://www.attorneygeneral.gov/taking-action/2-nepa-men-sentenced-to-state-prison-for-separate-crimes-in-luzerne-co-possession-of-hundreds-of-child-sexual-abuse-material-files-aggravated-indecent-assault-at-gentlemens-club/
+[2026-05-06 21:12:18]   NEW: Next » |  | https://www.attorneygeneral.gov/taking-action/page/2/
+[2026-05-06 21:12:18] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-05-06 21:12:18] [RI] Found 10 item(s) on page.
+[2026-05-06 21:12:18] [RI] No new items.
+[2026-05-06 21:12:18] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-06 21:12:18]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-05-06 21:12:21]   Playwright loaded page: 'News - South Carolina Attorney General' (110976 chars)
+[2026-05-06 21:12:21]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:12:21] [SC] Found 50 item(s) on page.
+[2026-05-06 21:12:21] [SC] 50 new item(s):
+[2026-05-06 21:12:21]   NEW: 1-803-734-3970 |  | tel:1-803-734-3970
+[2026-05-06 21:12:21]   NEW: 1-803-737-3953 |  | tel:1-803-737-3953
+[2026-05-06 21:12:21]   NEW: 1-800-213-5652 |  | tel:1-800-213-5652
+[2026-05-06 21:12:21]   NEW: 1-803-734-3243 |  | tel:1-803-734-3243
+[2026-05-06 21:12:21]   NEW: 1-803-734-9916 |  | tel:1-803-734-9916
+[2026-05-06 21:12:21]   NEW: 1-803-734-1221 |  | tel:1-803-734-1221
+[2026-05-06 21:12:21]   NEW: 1-888-373-7888 |  | tel:1-888-373-7888
+[2026-05-06 21:12:21]   NEW: 1-888-95-FRAUD |  | tel:1-888-95-FRAUD
+[2026-05-06 21:12:21]   NEW: 1-803-734-3660 |  | tel:1-803-734-3660
+[2026-05-06 21:12:21]   NEW: 1-800-32-CHILD |  | tel:1-800-32-CHILD
+[2026-05-06 21:12:21]   NEW: 1-803-896-8531 |  | tel:1-803-896-8531
+[2026-05-06 21:12:21]   NEW: 1-803-737-9000 |  | tel:1-803-737-9000
+[2026-05-06 21:12:21]   NEW: 1-800-799-7233 |  | tel:1-800-799-7233
+[2026-05-06 21:12:21]   NEW: 1-800-656-4673 |  | tel:1-800-656-4673
+[2026-05-06 21:12:21]   NEW: About the Office |  | https://www.scag.gov/about-the-office/
+[2026-05-06 21:12:21]   NEW: Our Responsibilities |  | https://www.scag.gov/about-the-office/our-responsibilities/
+[2026-05-06 21:12:21]   NEW: Meet the Attorney General |  | https://www.scag.gov/about-the-office/meet-the-attorney-general/
+[2026-05-06 21:12:21]   NEW: Careers |  | https://www.scag.gov/about-the-office/careers/
+[2026-05-06 21:12:21]   NEW: Transparency |  | https://www.scag.gov/about-the-office/transparency/
+[2026-05-06 21:12:21]   NEW: Contact Us |  | https://www.scag.gov/about-the-office/contact-us/
+[2026-05-06 21:12:21]   NEW: History of the Office |  | https://www.scag.gov/about-the-office/history-of-the-office/
+[2026-05-06 21:12:21]   NEW: Crime Victim Services |  | https://www.scag.gov/crime-victim-services/
+[2026-05-06 21:12:21]   NEW: Victims' Rights |  | https://www.scag.gov/crime-victim-services/victims-rights/
+[2026-05-06 21:12:21]   NEW: Address Confidentiality Program (ACP) |  | https://www.scag.gov/crime-victim-services/address-confidentiality-program-acp/
+[2026-05-06 21:12:21]   NEW: Department of Crime Victim Assistance Grants |  | https://www.scag.gov/crime-victim-services/department-of-crime-victim-assistance-grants/
+[2026-05-06 21:12:21]   NEW: Department of Crime Victim Compensation |  | https://www.scag.gov/crime-victim-services/department-of-crime-victim-compensation/
+[2026-05-06 21:12:21]   NEW: Department of Crime Victim Ombudsman |  | https://www.scag.gov/crime-victim-services/department-of-crime-victim-ombudsman/
+[2026-05-06 21:12:21]   NEW: Department of Crime Victim Services Training, Provider Certification, and Statistical Analysis |  | https://www.scag.gov/crime-victim-services/department-of-crime-victim-services-training-provider-certification-and-statistical-analysis/
+[2026-05-06 21:12:21]   NEW: Victim Services Coordinating Council |  | https://www.scag.gov/crime-victim-services/victim-services-coordinating-council/
+[2026-05-06 21:12:21]   NEW: Quick Links |  | https://www.scag.gov/quick-links/
+[2026-05-06 21:12:21]   NEW: Contact Us |  | https://www.scag.gov/quick-links/contact-us/
+[2026-05-06 21:12:21]   NEW: Careers |  | https://www.scag.gov/quick-links/careers/
+[2026-05-06 21:12:21]   NEW: Law Clerk Application |  | https://www.scag.gov/quick-links/law-clerk-application/
+[2026-05-06 21:12:21]   NEW: Internship Application |  | https://www.scag.gov/quick-links/internship-application/
+[2026-05-06 21:12:21]   NEW: Tobacco Directory |  | https://www.scag.gov/quick-links/tobacco-directory/
+[2026-05-06 21:12:21]   NEW: Litigation Retention  Agreements |  | https://www.scag.gov/quick-links/litigation-retention-agreements/
+[2026-05-06 21:12:21]   NEW: Opinions |  | https://www.scag.gov/quick-links/opinions/
+[2026-05-06 21:12:21]   NEW: Meet the Attorney General |  | https://www.scag.gov/quick-links/meet-the-attorney-general/
+[2026-05-06 21:12:21]   NEW: Post Conviction Relief |  | https://www.scag.gov/quick-links/post-conviction-relief/
+[2026-05-06 21:12:21]   NEW: Inside the Office |  | https://www.scag.gov/inside-the-office/
+[2026-05-06 21:12:21]   NEW: Legal Services Division |  | https://www.scag.gov/inside-the-office/legal-services-division/
+[2026-05-06 21:12:21]   NEW: Securities |  | https://www.scag.gov/inside-the-office/legal-services-division/securities/
+[2026-05-06 21:12:21]   NEW: Registration |  | https://www.scag.gov/inside-the-office/legal-services-division/securities/registration/
+[2026-05-06 21:12:21]   NEW: Enforcement |  | https://www.scag.gov/inside-the-office/legal-services-division/securities/enforcement/
+[2026-05-06 21:12:21]   NEW: Investor Education and Outreach |  | https://www.scag.gov/inside-the-office/legal-services-division/securities/investor-education-and-outreach/
+[2026-05-06 21:12:21]   NEW: Money Services |  | https://www.scag.gov/inside-the-office/legal-services-division/money-services/
+[2026-05-06 21:12:21]   NEW: Money Services Enforcement |  | https://www.scag.gov/inside-the-office/legal-services-division/money-services/money-services-enforcement/
+[2026-05-06 21:12:21]   NEW: Tobacco |  | https://www.scag.gov/inside-the-office/legal-services-division/tobacco/
+[2026-05-06 21:12:21]   NEW: Civil Litigation |  | https://www.scag.gov/inside-the-office/legal-services-division/civil-litigation/
+[2026-05-06 21:12:21]   NEW: Consumer Protection & Antitrust |  | https://www.scag.gov/inside-the-office/legal-services-division/consumer-protection-antitrust/
+[2026-05-06 21:12:21] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-05-06 21:12:21] [SD] No items returned (fetch failed or empty page).
+[2026-05-06 21:12:21] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-05-06 21:12:21]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-05-06 21:12:41]   Attempt 2/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-05-06 21:13:02] [TN] Found 50 item(s) on page.
+[2026-05-06 21:13:02] [TN] No new items.
+[2026-05-06 21:13:02] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-05-06 21:13:02] [TX] Found 50 item(s) on page.
+[2026-05-06 21:13:02] [TX] No new items.
+[2026-05-06 21:13:02] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-05-06 21:13:02]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-05-06 21:13:05]   Playwright loaded page: 'Press Releases - Utah Attorney General' (295482 chars)
+[2026-05-06 21:13:05]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:13:05] [UT] Found 50 item(s) on page.
+[2026-05-06 21:13:05] [UT] 50 new item(s):
+[2026-05-06 21:13:05]   NEW: What We Do |  | https://attorneygeneral.utah.gov/office-of-the-utah-attorney-general/
+[2026-05-06 21:13:05]   NEW: Meet AG Brown |  | https://attorneygeneral.utah.gov/attorney-general-derek-brown/
+[2026-05-06 21:13:05]   NEW: Who We Are |  | https://attorneygeneral.utah.gov/attorney-general-of-utah/
+[2026-05-06 21:13:05]   NEW: Our People |  | https://attorneygeneral.utah.gov/our-people/
+[2026-05-06 21:13:05]   NEW: History |  | https://attorneygeneral.utah.gov/utah-attorney-generals-office-history/
+[2026-05-06 21:13:05]   NEW: Executive Team |  | https://attorneygeneral.utah.gov/executive-team/
+[2026-05-06 21:13:05]   NEW: Frequently Asked Questions |  | https://attorneygeneral.utah.gov/faq/
+[2026-05-06 21:13:05]   NEW: Annual Report |  | https://attorneygeneral.utah.gov/annual-report/
+[2026-05-06 21:13:05]   NEW: File a Criminal Complaint |  | https://attorneygeneral.utah.gov/file-a-criminal-complaint-utah-ag/
+[2026-05-06 21:13:05]   NEW: Tip Lines |  | https://attorneygeneral.utah.gov/tip-lines/
+[2026-05-06 21:13:05]   NEW: Criminal Department Policies |  | https://attorneygeneral.utah.gov/criminal-department-policies/
+[2026-05-06 21:13:05]   NEW: Victim Services |  | https://attorneygeneral.utah.gov/victim-services/
+[2026-05-06 21:13:05]   NEW: Utah@EASE |  | https://attorneygeneral.utah.gov/utahease/
+[2026-05-06 21:13:05]   NEW: Firearm Safety Education |  | https://attorneygeneral.utah.gov/lets-stay-safe/
+[2026-05-06 21:13:05]   NEW: Data Privacy |  | https://attorneygeneral.utah.gov/data-privacy-2/
+[2026-05-06 21:13:05]   NEW: Social Media Policy |  | https://attorneygeneral.utah.gov/social-media-policy/
+[2026-05-06 21:13:05]   NEW: Financial Crime Prevention |  | https://attorneygeneral.utah.gov/financial-crime-prevention/
+[2026-05-06 21:13:05]   NEW: Identity Theft |  | https://attorneygeneral.utah.gov/identity-theft/
+[2026-05-06 21:13:05]   NEW: CART Team |  | https://attorneygeneral.utah.gov/cart/
+[2026-05-06 21:13:05]   NEW: Offender Registry |  | https://attorneygeneral.utah.gov/offender-registry/
+[2026-05-06 21:13:05]   NEW: Appellate |  | https://attorneygeneral.utah.gov/appeals/
+[2026-05-06 21:13:05]   NEW: Constitutional Defense and Special Litigation |  | https://attorneygeneral.utah.gov/constitutional-defense-and-special-litigation/
+[2026-05-06 21:13:05]   NEW: Civil Appeals |  | https://attorneygeneral.utah.gov/civil-appeals/
+[2026-05-06 21:13:05]   NEW: Criminal Appeals |  | https://attorneygeneral.utah.gov/criminal-appeals/
+[2026-05-06 21:13:05]   NEW: Civil |  | https://attorneygeneral.utah.gov/civil/
+[2026-05-06 21:13:05]   NEW: Natural Resources |  | https://attorneygeneral.utah.gov/natural-resources/
+[2026-05-06 21:13:05]   NEW: State Agency Counsel |  | https://attorneygeneral.utah.gov/state-agency-counsel/
+[2026-05-06 21:13:05]   NEW: Litigation |  | https://attorneygeneral.utah.gov/litigation/
+[2026-05-06 21:13:05]   NEW: Highways and Utilities |  | https://attorneygeneral.utah.gov/highways-and-utilities/
+[2026-05-06 21:13:05]   NEW: Tax, Transit, and Financial Services |  | https://attorneygeneral.utah.gov/tax-transit-and-financial-services/
+[2026-05-06 21:13:05]   NEW: Education |  | https://attorneygeneral.utah.gov/education/
+[2026-05-06 21:13:05]   NEW: Environment, Health, and Human Services |  | https://attorneygeneral.utah.gov/environment-health-and-human-services/
+[2026-05-06 21:13:05]   NEW: Child Protection |  | https://attorneygeneral.utah.gov/child-protection/
+[2026-05-06 21:13:05]   NEW: Child and Family Support |  | https://attorneygeneral.utah.gov/child-and-family-support/
+[2026-05-06 21:13:05]   NEW: Criminal |  | https://attorneygeneral.utah.gov/criminal/
+[2026-05-06 21:13:05]   NEW: Justice |  | https://attorneygeneral.utah.gov/justice/
+[2026-05-06 21:13:05]   NEW: Investigations |  | https://attorneygeneral.utah.gov/investigations/
+[2026-05-06 21:13:05]   NEW: Internet Crimes Against Children Task Force |  | https://attorneygeneral.utah.gov/utah-icac/
+[2026-05-06 21:13:05]   NEW: CASE Strike Force |  | https://attorneygeneral.utah.gov/case-strike-force/
+[2026-05-06 21:13:05]   NEW: SECURE Strike Force |  | https://attorneygeneral.utah.gov/secure-strike-force/
+[2026-05-06 21:13:05]   NEW: Cooperative Disability Investigation Unit |  | https://attorneygeneral.utah.gov/cdiu/
+[2026-05-06 21:13:05]   NEW: Mortgage and Financial Fraud |  | https://attorneygeneral.utah.gov/mortgage-and-financial-fraud/
+[2026-05-06 21:13:05]   NEW: Utah Prosecution Council |  | https://attorneygeneral.utah.gov/utah-prosecution-council/
+[2026-05-06 21:13:05]   NEW: Medicaid Fraud and Patient Abuse |  | https://attorneygeneral.utah.gov/medicaid-fraud/
+[2026-05-06 21:13:05]   NEW: Children’s Justice Center Program |  | https://attorneygeneral.utah.gov/childrens-justice-center/
+[2026-05-06 21:13:05]   NEW: Felony Review |  | https://attorneygeneral.utah.gov/first-degree-felony-review/
+[2026-05-06 21:13:05]   NEW: Utah Trafficking In Persons Task Force |  | https://attorneygeneral.utah.gov/utip/
+[2026-05-06 21:13:05]   NEW: Special Prosecutions |  | https://attorneygeneral.utah.gov/special-prosecutions/
+[2026-05-06 21:13:05]   NEW: Public Protection |  | https://attorneygeneral.utah.gov/public-protection/
+[2026-05-06 21:13:05]   NEW: Antitrust and Data Privacy |  | https://attorneygeneral.utah.gov/antitrust/
+[2026-05-06 21:13:05] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-05-06 21:13:05] [VT] Found 50 item(s) on page.
+[2026-05-06 21:13:05] [VT] No new items.
+[2026-05-06 21:13:05] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-05-06 21:13:07] [VA] Found 50 item(s) on page.
+[2026-05-06 21:13:07] [VA] No new items.
+[2026-05-06 21:13:07] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-05-06 21:13:07] [WA] Found 15 item(s) on page.
+[2026-05-06 21:13:07] [WA] No new items.
+[2026-05-06 21:13:07] [WV] Fetching https://ago.wv.gov/news
+[2026-05-06 21:13:07]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-05-06 21:13:10]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54541 chars)
+[2026-05-06 21:13:10]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:13:10] [WV] Found 50 item(s) on page.
+[2026-05-06 21:13:10] [WV] 50 new item(s):
+[2026-05-06 21:13:10]   NEW: Office of the WV Attorney General John B. McCuskey |  | https://ago.wv.gov/
+[2026-05-06 21:13:10]   NEW: About Us |  | https://ago.wv.gov/about/attorney-generals-office-wv
+[2026-05-06 21:13:10]   NEW: Meet the AG |  | https://ago.wv.gov/about-us/meet-attorney-general-jb-mccuskey
+[2026-05-06 21:13:10]   NEW: Divisions |  | https://ago.wv.gov/about-us/divisions
+[2026-05-06 21:13:10]   NEW: Consumer Protection |  | https://ago.wv.gov/consumer-protection-and-antitrust-division
+[2026-05-06 21:13:10]   NEW: File a Complaint |  | https://ago.wv.gov/file-complaint-consumer-protection-division
+[2026-05-06 21:13:10]   NEW: Latest Scams |  | https://ago.wv.gov/consumer-protection/latest-scams
+[2026-05-06 21:13:10]   NEW: Robo Calls |  | https://ago.wv.gov/consumer-protection/preventing-robocalls
+[2026-05-06 21:13:10]   NEW: Identity Theft Protection |  | https://ago.wv.gov/consumer-protection/identity-theft-protection-prevention
+[2026-05-06 21:13:10]   NEW: Price Gouging |  | https://ago.wv.gov/consumer-protection/price-gouging
+[2026-05-06 21:13:10]   NEW: Preneed Funeral Contracts |  | https://ago.wv.gov/preneed-funeral-contracts
+[2026-05-06 21:13:10]   NEW: Transparency |  | https://ago.wv.gov/transparency
+[2026-05-06 21:13:10]   NEW: Opinions |  | https://ago.wv.gov/attorney-general-opinions
+[2026-05-06 21:13:10]   NEW: Outside Counsel |  | https://ago.wv.gov/transparency/outside-counsel
+[2026-05-06 21:13:10]   NEW: Annual Reports |  | https://ago.wv.gov/annual-reports-0
+[2026-05-06 21:13:10]   NEW: Freedom of Information (FOIA) |  | https://ago.wv.gov/freedom-information-foia
+[2026-05-06 21:13:10]   NEW: Careers |  | https://ago.wv.gov/careers
+[2026-05-06 21:13:10]   NEW: Contact Us |  | https://ago.wv.gov/contact-us-0
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-05-01T12:00:00Z | https://ago.wv.gov/article/74-billion-purdue-pharma-sackler-family-opioid-settlement-goes-effect
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-23T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-praises-supreme-court-decision-wounded-veteran-case
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-22T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-encourages-mountain-state-residents-participate-national-drug
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-21T12:00:00Z | https://ago.wv.gov/article/west-virginia-reaches-11-million-settlement-roblox-prompts-major-child-safety-overhaul
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-20T12:00:00Z | https://ago.wv.gov/article/supreme-court-hear-religious-freedom-case-championed-attorney-general-mccuskeys-22-state
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-16T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-ftc-and-seven-other-states-reach-agreement-antitrust-lawsuit
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-16T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-joins-bipartisan-coalition-support-federal-rule-increase
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-10T12:00:00Z | https://ago.wv.gov/article/west-virginia-supreme-court-rules-favor-state-cabell-county-election-integrity-case
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-07T12:00:00Z | https://ago.wv.gov/article/west-virginia-urging-doj-protect-federal-attorneys-political-groups-who-are-weaponizing-bar
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-04-03T12:00:00Z | https://ago.wv.gov/article/top-scams-reported-west-virginia-attorney-generals-office-march-2026
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-03-31T12:00:00Z | https://ago.wv.gov/article/west-virginia-joins-bipartisan-letter-urging-congress-pass-combating-xylazine-act
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-03-30T12:00:00Z | https://ago.wv.gov/article/west-virginia-attorney-general-pushes-state-local-authority-combat-illegal-drone-drops
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-03-26T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-files-complaints-against-putnam-county-roofing-contractor
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-03-23T12:00:00Z | https://ago.wv.gov/article/federal-judicial-center-confirms-climate-chapter-removal-responds-west-virginia-led
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-03-10T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-wins-court-battle-protect-medicaid-dollars-preserve-coverage
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-03-04T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-announces-slam-scam-day
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-02-24T12:00:00Z | https://ago.wv.gov/article/west-virginia-leads-21-state-coalition-urging-supreme-court-block-federal-rule-eliminating
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-02-19T12:00:00Z | https://ago.wv.gov/article/west-virginia-attorney-general-sues-apple-role-distribution-child-sexual-abuse-material
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-02-12T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-praises-rollback-costly-epa-over-regulation
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-02-06T12:00:00Z | https://ago.wv.gov/article/federal-judicial-center-announces-its-dropping-controversial-climate-chapter-following
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-02-05T12:00:00Z | https://ago.wv.gov/article/consumer-alert-attorney-general-mccuskey-warns-consumers-about-tax-scams
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-02-03T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-announces-nearly-18-million-settlement-drug-companies
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-01-29T12:00:00Z | https://ago.wv.gov/article/west-virginia-leads-fight-against-efforts-climate-activists-improperly-influence-federal
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-01-23T12:00:00Z | https://ago.wv.gov/article/west-virginia-joins-coalition-protect-section-504-rule-removing-woke-biden-era-language
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-01-21T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-leads-24-state-coalition-supporting-epas-cancellation-billions
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-01-16T12:00:00Z | https://ago.wv.gov/article/attorney-generals-office-warns-top-scams-2025-medicare-scams-lead-list
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-01-09T12:00:00Z | https://ago.wv.gov/article/west-virginia-co-leads-23-states-supreme-court-brief-defending-farmer-facing-2-million
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-01-07T12:00:00Z | https://ago.wv.gov/article/west-virginia-set-argue-landmark-boys-girls-sports-case-us-supreme-court-protect-female
+[2026-05-06 21:13:10]   NEW: Full Story | 2026-01-07T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-urges-federal-agencies-restore-state-authority-over-water
+[2026-05-06 21:13:10]   NEW: Full Story | 2025-12-17T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-leads-coalition-stand-children-and-religious-freedom
+[2026-05-06 21:13:10]   NEW: Current page1 |  | https://ago.wv.gov?page=0
+[2026-05-06 21:13:10]   NEW: Page2 |  | https://ago.wv.gov?page=1
+[2026-05-06 21:13:10] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-06 21:13:10]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-06 21:13:14]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1505877 chars)
+[2026-05-06 21:13:14]   Playwright found 50 item(s) with configured selector
+[2026-05-06 21:13:14] [WI] Found 50 item(s) on page.
+[2026-05-06 21:13:14] [WI] 49 new item(s):
+[2026-05-06 21:13:14]   NEW: School Safety |  | https://www.wisdoj.gov/Pages/PublicSafety/school-safety.aspx
+[2026-05-06 21:13:14]   NEW: Internet Crimes Against Children |  | https://www.wisdoj.gov/Pages/PublicSafety/internet-crimes-against-children.aspx
+[2026-05-06 21:13:14]   NEW: Human Trafficking |  | https://www.wisdoj.gov/Pages/PublicSafety/human-trafficking.aspx
+[2026-05-06 21:13:14]   NEW: Missing Persons & Crime Alerts |  | https://www.wisdoj.gov/Pages/PublicSafety/crime-alerts.aspx
+[2026-05-06 21:13:14]   NEW: Protecting the Elderly |  | https://www.wisdoj.gov/Pages/PublicSafety/protecting-the-elderly.aspx
+[2026-05-06 21:13:14]   NEW: Protecting Consumers |  | https://www.wisdoj.gov/Pages/PublicSafety/protecting-consumers.aspx
+[2026-05-06 21:13:14]   NEW: Protecting the Environment |  | https://www.wisdoj.gov/Pages/PublicSafety/protecting-the-environment.aspx
+[2026-05-06 21:13:14]   NEW: Drug Take Back |  | https://www.wisdoj.gov/Pages/PublicSafety/Drug-Take-Back-Day.aspx
+[2026-05-06 21:13:14]   NEW: Firearms Background Check |  | https://www.wisdoj.gov/Pages/PublicSafety/firearms-background-check.aspx
+[2026-05-06 21:13:14]   NEW: Concealed Carry Weapon License (CCW) |  | https://www.wisdoj.gov/Pages/PublicSafety/concealed-carry-weapon-license.aspx
+[2026-05-06 21:13:14]   NEW: Crime Victim Services |  | https://www.wisdoj.gov/Pages/CrimeVictimServices/crime-victim-services.aspx
+[2026-05-06 21:13:14]   NEW: Victim & Witness Rights |  | https://www.wisdoj.gov/Pages/CrimeVictimServices/victim-and-witness-rights.aspx
+[2026-05-06 21:13:14]   NEW: Crime Victim Compensation Program |  | https://www.wisdoj.gov/Pages/CrimeVictimServices/crime-victim-compensation-program.aspx
+[2026-05-06 21:13:14]   NEW: Crime Victims Rights Board |  | https://www.wisdoj.gov/Pages/CrimeVictimServices/crime-victims-rights-board.aspx
+[2026-05-06 21:13:14]   NEW: Victim Services Professionals |  | https://www.wisdoj.gov/Pages/CrimeVictimServices/victim-services-professionals.aspx
+[2026-05-06 21:13:14]   NEW: Safe at Home Address Confidentiality Program |  | https://www.wisdoj.gov/Pages/CrimeVictimServices/safe-at-home-address-confidentiality-program.aspx
+[2026-05-06 21:13:14]   NEW: Forensic Nursing Program |  | https://www.wisdoj.gov/Pages/CrimeVictimServices/forensic-nursing-sane-program.aspx
+[2026-05-06 21:13:14]   NEW: Sexual Assault Forensic Exam Fund (SAFE) |  | https://www.wisdoj.gov/Pages/CrimeVictimServices/sexual-assault-forensic-exam-fund.aspx
+[2026-05-06 21:13:14]   NEW: Crime Victim Service Grants |  | https://www.wisdoj.gov/Pages/Grants/grant-programs.aspx
+[2026-05-06 21:13:14]   NEW: Criminal Background Check Resources |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/criminal-background-check.aspx
+[2026-05-06 21:13:14]   NEW: Criminal Investigation |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/criminal-investigation-response-map.aspx
+[2026-05-06 21:13:14]   NEW: State Fire Marshal |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/state-fire-marshal.aspx
+[2026-05-06 21:13:14]   NEW: Wisconsin State Crime Laboratories |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/wisconsin-state-crime-laboratories.aspx
+[2026-05-06 21:13:14]   NEW: Crime Scene Response Team |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/crime-scene-response-team.aspx
+[2026-05-06 21:13:14]   NEW: Quality Assurance |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/quality-assurance.aspx
+[2026-05-06 21:13:14]   NEW: Drug Case Data |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/drug-case-dashboard.aspx
+[2026-05-06 21:13:14]   NEW: Advisory Committee |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/advisory-committee.aspx
+[2026-05-06 21:13:14]   NEW: Friction Ridge Database |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/friction-ridge-database.aspx
+[2026-05-06 21:13:14]   NEW: Controlled Substances |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/controlled-substances.aspx
+[2026-05-06 21:13:14]   NEW: Evidence Submission |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/evidence-submission.aspx
+[2026-05-06 21:13:14]   NEW: Firearms & Toolmarks |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/firearms-and-toolmarks.aspx
+[2026-05-06 21:13:14]   NEW: Forensic Imaging |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/forensic-imaging.aspx
+[2026-05-06 21:13:14]   NEW: Latent Prints and Footwear |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/latent-prints-and-footwear.aspx
+[2026-05-06 21:13:14]   NEW: Toxicology |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/toxicology.aspx
+[2026-05-06 21:13:14]   NEW: Trace Evidence |  | https://www.wisdoj.gov/Pages/CriminalJusticeServices/trace-evidence.aspx
+[2026-05-06 21:13:14]   NEW: Civil Matters |  | https://www.wisdoj.gov/Pages/LegalServices/civil.aspx
+[2026-05-06 21:13:14]   NEW: Criminal Matters |  | https://www.wisdoj.gov/Pages/LegalServices/criminal.aspx
+[2026-05-06 21:13:14]   NEW: Tobacco Directory |  | https://www.wisdoj.gov/Pages/LegalServices/tobacco-directory.aspx
+[2026-05-06 21:13:14]   NEW: Service of Process |  | https://www.wisdoj.gov/Pages/LegalServices/service-process.aspx
+[2026-05-06 21:13:14]   NEW: Attorney General Opinions |  | https://www.wisdoj.gov/Pages/AboutUs/attorney-general-opinions.aspx
+[2026-05-06 21:13:14]   NEW: Grants |  | https://www.wisdoj.gov/Pages/Grants/grants.aspx
+[2026-05-06 21:13:14]   NEW: Egrants |  | https://www.wisdoj.gov/Pages/Grants/egrants-system.aspx
+[2026-05-06 21:13:14]   NEW: Subgrantee Civil Rights/Discrimination |  | https://www.wisdoj.gov/Pages/Grants/subgrantee-civil-rights.aspx
+[2026-05-06 21:13:14]   NEW: Dashboards |  | https://www.wisdoj.gov/Pages/DataAndStatistics/dashboards.aspx
+[2026-05-06 21:13:14]   NEW: Reports |  | https://www.wisdoj.gov/Pages/DataAndStatistics/reports.aspx
+[2026-05-06 21:13:14]   NEW: About DOJ |  | https://www.wisdoj.gov/Pages/AboutUs/doj.aspx
+[2026-05-06 21:13:14]   NEW: Officer Involved Critical Incidents |  | https://www.wisdoj.gov/Pages/AboutUs/officer-involved-critical-incidents.aspx
+[2026-05-06 21:13:14]   NEW: Public Records |  | https://www.wisdoj.gov/Pages/AboutUs/public-records.aspx
+[2026-05-06 21:13:14]   NEW: Open Meetings |  | https://www.wisdoj.gov/Pages/AboutUs/open-meetings.aspx
+[2026-05-06 21:13:14] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-05-06 21:13:14] [WY] Found 2 item(s) on page.
+[2026-05-06 21:13:14] [WY] No new items.
+[2026-05-06 21:13:14] States with fetch errors: KS, NH, OK, SD
+[2026-05-06 21:13:14] Sending email: 363 new item(s) across 12 state(s).
+[2026-05-06 21:13:15] Email sent.
+[2026-05-06 21:13:15] Done.
