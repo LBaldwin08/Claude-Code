@@ -204,13 +204,13 @@
   {
     "state": "Massachusetts",
     "abbr": "MA",
-    "press_url": "https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general",
+    "press_url": "https://www.mass.gov/orgs/office-of-the-attorney-general/news",
     "rss_url": null,
     "use_playwright": true,
     "container_selector": null,
     "item_selector": "h3 a, h2 a, .ma__general-teaser__title a",
     "base_url": "https://www.mass.gov",
-    "notes": "403 without headless browser; uses Playwright"
+    "notes": "Correct URL from user; uses Playwright for bot protection"
   },
   {
     "state": "Michigan",
