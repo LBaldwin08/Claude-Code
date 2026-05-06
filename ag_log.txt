@@ -885,3 +885,315 @@
 [2026-05-06 21:13:14] Sending email: 363 new item(s) across 12 state(s).
 [2026-05-06 21:13:15] Email sent.
 [2026-05-06 21:13:15] Done.
+[2026-05-06 21:25:17] Checking for new AG press releases...
+[2026-05-06 21:25:17] Checking 50 state(s).
+[2026-05-06 21:25:17] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-05-06 21:25:17]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-05-06 21:25:20]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (218111 chars)
+[2026-05-06 21:25:20]   Playwright found 27 item(s) with configured selector
+[2026-05-06 21:25:20] [AL] Found 27 item(s) on page.
+[2026-05-06 21:25:20] [AL] No new items.
+[2026-05-06 21:25:20] [AK] Fetching https://law.alaska.gov/press/pressReleases.html
+[2026-05-06 21:25:20] [AK] Found 1 item(s) on page.
+[2026-05-06 21:25:20] [AK] No new items.
+[2026-05-06 21:25:20] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-05-06 21:25:20] [AZ] Found 10 item(s) on page.
+[2026-05-06 21:25:20] [AZ] No new items.
+[2026-05-06 21:25:20] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-05-06 21:25:21] [AR] Found 50 item(s) on page.
+[2026-05-06 21:25:21] [AR] No new items.
+[2026-05-06 21:25:21] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-05-06 21:25:22] [CA] Found 10 item(s) on page.
+[2026-05-06 21:25:22] [CA] No new items.
+[2026-05-06 21:25:22] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-05-06 21:25:23] [CO] Found 49 item(s) on page.
+[2026-05-06 21:25:23] [CO] No new items.
+[2026-05-06 21:25:23] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-05-06 21:25:24] [CT] Found 34 item(s) on page.
+[2026-05-06 21:25:24] [CT] No new items.
+[2026-05-06 21:25:24] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-05-06 21:25:25] [DE] Found 300 item(s) on page.
+[2026-05-06 21:25:25] [DE] No new items.
+[2026-05-06 21:25:25] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-05-06 21:25:25] [FL] Found 20 item(s) on page.
+[2026-05-06 21:25:25] [FL] No new items.
+[2026-05-06 21:25:25] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-05-06 21:25:26] [GA] Found 11 item(s) on page.
+[2026-05-06 21:25:26] [GA] No new items.
+[2026-05-06 21:25:26] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-05-06 21:25:26] [HI] Found 26 item(s) on page.
+[2026-05-06 21:25:26] [HI] No new items.
+[2026-05-06 21:25:26] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 21:25:26]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-06 21:25:29]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (64947 chars)
+[2026-05-06 21:25:29]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:25:29] [ID] Found 50 item(s) on page.
+[2026-05-06 21:25:29] [ID] 1 new item(s):
+[2026-05-06 21:25:29]   NEW: SHOW ALL |  | https://www.ag.idaho.gov?showall=true
+[2026-05-06 21:25:29] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-05-06 21:25:30] [IL] Found 50 item(s) on page.
+[2026-05-06 21:25:30] [IL] 4 new item(s):
+[2026-05-06 21:25:30]   NEW: April 28, 2026ATTORNEY GENERAL RAOUL OBTAINS GUILTY PLEA FROM TRANSPORTATION BUSINESS OWNER OVER MEDICAID FRAUD | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-guilty-plea-from-transportation-business-owner-over-medicaid-fraud
+[2026-05-06 21:25:30]   NEW: April 16, 2026HOUSE APPROVES ATTORNEY GENERAL RAOUL’S LEGISLATION TO STRENGTHEN HIS OFFICE’S ABILITY TO DEFEND WORKPLACE RIGHTS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/house-approves-attorney-general-raouls-legislation-to-strengthen-his-offices-ability-to-defend-workplace-rights
+[2026-05-06 21:25:30]   NEW: April 10, 2026ATTORNEY GENERAL RAOUL ANNOUNCES SETTLEMENT WITH NORWEGIAN CRUISE LINE OVER BUSINESS PRACTICES DURING COVID-19 PUBLIC HEALTH EMERGENCY | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-settlement-with-norwegian-cruise-line-over-business-practices-during-covid-19-public-health-emergency
+[2026-05-06 21:25:30]   NEW: March 31, 2026ATTORNEY GENERAL RAOUL LEADS COALITION CHALLENGING ROLLBACK OF LIMITS ON DANGEROUS EMISSIONS OF MERCURY AND OTHER HAZARDOUS AIR POLLUTANTS FROM POWER PLANTS | 2026-03-31 3:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-challenging-rollback-of-limits-on-dangerous-emissions-of-mercury-and-other-hazardous-air-pollutants-from-power-plants
+[2026-05-06 21:25:30] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-05-06 21:25:31] [IN] Found 40 item(s) on page.
+[2026-05-06 21:25:31] [IN] No new items.
+[2026-05-06 21:25:31] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-05-06 21:25:32] [IA] Found 10 item(s) on page.
+[2026-05-06 21:25:32] [IA] No new items.
+[2026-05-06 21:25:32] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:25:32]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:25:35]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-05-06 21:25:35]   Playwright: page loaded but no links matched — check selectors
+[2026-05-06 21:25:35]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 21:25:35]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:25:56]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:26:16]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 21:26:16] [KS] No items returned (fetch failed or empty page).
+[2026-05-06 21:26:16] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-05-06 21:26:19] [KY] Found 26 item(s) on page.
+[2026-05-06 21:26:19] [KY] No new items.
+[2026-05-06 21:26:19] [LA] Fetching https://ag.louisiana.gov/News
+[2026-05-06 21:26:20] [LA] Found 20 item(s) on page.
+[2026-05-06 21:26:20] [LA] No new items.
+[2026-05-06 21:26:20] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-05-06 21:26:21] [ME] Found 5 item(s) on page.
+[2026-05-06 21:26:21] [ME] No new items.
+[2026-05-06 21:26:21] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-05-06 21:26:22] [MD] Found 50 item(s) on page.
+[2026-05-06 21:26:22] [MD] No new items.
+[2026-05-06 21:26:22] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-06 21:26:22]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-06 21:26:25]   Playwright loaded page: 'News and Announcements | Mass.gov' (172825 chars)
+[2026-05-06 21:26:25]   Playwright found 15 item(s) with configured selector
+[2026-05-06 21:26:25] [MA] Found 15 item(s) on page.
+[2026-05-06 21:26:25] [MA] No new items.
+[2026-05-06 21:26:25] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-05-06 21:26:25]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-05-06 21:26:29]   Playwright loaded page: 'Attorney General: Press Releases' (377937 chars)
+[2026-05-06 21:26:29]   Playwright found 10 item(s) with configured selector
+[2026-05-06 21:26:29] [MI] Found 10 item(s) on page.
+[2026-05-06 21:26:29] [MI] 1 new item(s):
+[2026-05-06 21:26:29]   NEW: AG Nessel Opposes Postal Service Proposed Rule Undermining Federal Gun Law |  | https://www.michigan.gov/ag/news/press-releases/2026/05/06/ag-nessel-opposes-postal-service-proposed-rule-undermining-federal-gun-law
+[2026-05-06 21:26:29] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-05-06 21:26:29] [MN] Found 50 item(s) on page.
+[2026-05-06 21:26:29] [MN] No new items.
+[2026-05-06 21:26:29] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-05-06 21:26:30] [MS] Found 1 item(s) on page.
+[2026-05-06 21:26:30] [MS] No new items.
+[2026-05-06 21:26:30] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-05-06 21:26:30] [MO] Found 50 item(s) on page.
+[2026-05-06 21:26:30] [MO] No new items.
+[2026-05-06 21:26:30] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-05-06 21:26:30] [MT] Found 10 item(s) on page.
+[2026-05-06 21:26:30] [MT] No new items.
+[2026-05-06 21:26:30] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-05-06 21:26:31] [NE] Found 10 item(s) on page.
+[2026-05-06 21:26:31] [NE] No new items.
+[2026-05-06 21:26:31] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-05-06 21:26:31] [NV] Found 50 item(s) on page.
+[2026-05-06 21:26:31] [NV] No new items.
+[2026-05-06 21:26:31] [NH] Fetching https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:26:31]   Using Playwright headless browser for https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:26:34]   Playwright loaded page: 'Access Denied' (319 chars)
+[2026-05-06 21:26:34]   Playwright: page loaded but no links matched — check selectors
+[2026-05-06 21:26:34]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 21:26:34]   Attempt 1/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:26:54]   Attempt 2/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:27:14]   Attempt 3/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 21:27:14] [NH] No items returned (fetch failed or empty page).
+[2026-05-06 21:27:14] [NJ] Fetching https://www.njoag.gov/news/
+[2026-05-06 21:27:16] [NJ] Found 5 item(s) on page.
+[2026-05-06 21:27:16] [NJ] No new items.
+[2026-05-06 21:27:16] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-05-06 21:27:16] [NM] Found 10 item(s) on page.
+[2026-05-06 21:27:16] [NM] No new items.
+[2026-05-06 21:27:16] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-05-06 21:27:16] [NY] Found 25 item(s) on page.
+[2026-05-06 21:27:16] [NY] 1 new item(s):
+[2026-05-06 21:27:16]   NEW: Attorney General James’ Office of Special Investigation Releases Report on Death of Margaret Lucey |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-releases-report-death-0
+[2026-05-06 21:27:16] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-05-06 21:27:31] [NC] Found 10 item(s) on page.
+[2026-05-06 21:27:31] [NC] No new items.
+[2026-05-06 21:27:31] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-05-06 21:27:32] [ND] Found 10 item(s) on page.
+[2026-05-06 21:27:32] [ND] No new items.
+[2026-05-06 21:27:32] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-05-06 21:27:33] [OH] Found 10 item(s) on page.
+[2026-05-06 21:27:33] [OH] No new items.
+[2026-05-06 21:27:33] [OK] Fetching https://oklahoma.gov/oag/news/newsreleases.html
+[2026-05-06 21:27:33]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsreleases.html
+[2026-05-06 21:27:36]   Playwright loaded page: 'News Releases' (863318 chars)
+[2026-05-06 21:27:36]   Playwright found 20 item(s) with configured selector
+[2026-05-06 21:27:36] [OK] Found 20 item(s) on page.
+[2026-05-06 21:27:36] [OK] 20 new item(s):
+[2026-05-06 21:27:36]   NEW: Drummond refuses to approve sketchy investment contract, warns of suit if Treasurer proceeds |  | https://oklahoma.gov/oag/news/newsroom/2026/may/drummond-refuses-to-approve-sketchy-investment-contract-warns-of-suit-if-treasurer-proceeds.html
+[2026-05-06 21:27:36]   NEW: Drummond: Stitt's veto of Open Meeting Act bill raises questions about who he's protecting |  | https://oklahoma.gov/oag/news/newsroom/2026/may/drummond-stitts-veto-of-open-meeting-act-bill-raises-questions-about-who-hes-protecting.html
+[2026-05-06 21:27:36]   NEW: Drummond urges CFTC to recognize state authority over sports gambling on prediction market platforms |  | https://oklahoma.gov/oag/news/newsroom/2026/may/drummond-urges-cftc-to-recognize-state-authority-over-sports-gambling-on-prediction-market-platforms.html
+[2026-05-06 21:27:36]   NEW: Drummond comments on court ruling in Epic Charter Schools case |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-comments-on-court-ruling-in-epic-charter-schools-case.html
+[2026-05-06 21:27:36]   NEW: Drummond requests state audit of Oklahoma Health Care Authority |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-requests-state-audit-of-oklahoma-health-care-authority.html
+[2026-05-06 21:27:36]   NEW: Drummond raises concerns over ESG policies at top credit rating agencies |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-raises-concerns-over-esg-policies-at-top-credit-rating-agencies.html
+[2026-05-06 21:27:36]   NEW: Drummond secures bond denial for Hao Chen amid 18 felony charges |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-secures-bond-denial-for-hao-chen-amid-18-felony-charges.html
+[2026-05-06 21:27:36]   NEW: Cleveland County Sheriff pleads no contest to embezzlement, resigns from office |  | https://oklahoma.gov/oag/news/newsroom/2026/april/cleveland-county-sheriff-pleads-no-contest-to-embezzlement-resigns-from-office.html
+[2026-05-06 21:27:36]   NEW: Drummond rallies 28 states to defend police; U.S. Supreme Court delivers victory |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-rallies-28-states-to-defend-police.html
+[2026-05-06 21:27:36]   NEW: Drummond comments on passing of Deputy Thomas "Walker" LeMay |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-comments-on-passing-of-deputy-thomas-walker-lemay.html
+[2026-05-06 21:27:36]   NEW: 10 Most Wanted Oklahoma fugitive convicted after vanishing |  | https://oklahoma.gov/oag/news/newsroom/2026/april/10-most-wanted-oklahoma-fugitive-convicted-after-vanishing.html
+[2026-05-06 21:27:36]   NEW: Drummond leads push for prescription drug pricing transparency |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-leads-push-for-prescription-drug-pricing-transparency.html
+[2026-05-06 21:27:36]   NEW: Organized Crime Task Force raids grow operations, processing facilities in Tulsa, Claremore |  | https://oklahoma.gov/oag/news/newsroom/2026/april/organized-crime-task-force-raids-grow-operations-processing-facilities-in-tulsa-claremore.html
+[2026-05-06 21:27:36]   NEW: Drummond commends Pardon and Parole Board for clemency denial |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-commends-pardon-and-parole-board-for-clemency-denial.html
+[2026-05-06 21:27:36]   NEW: Drummond acts to defend Illinois River Watershed settlements |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-acts-to-defend-illinois-river-watershed-settlements.html
+[2026-05-06 21:27:36]   NEW: Drummond announces Carolyn Thompson as new chief of staff |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-announces-carolyn-thompson-as-new-chief-of-staff.html
+[2026-05-06 21:27:36]   NEW: Drummond warns Oklahomans of scam investment ads |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-warns-oklahomans-of-scam-investment-ads.html
+[2026-05-06 21:27:36]   NEW: Drummond warns of contractor fraud after severe weather |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-warns-of-contractor-fraud-after-severe-weather.html
+[2026-05-06 21:27:36]   NEW: Registration now open for 2026 Partners for Change Conference |  | https://oklahoma.gov/oag/news/newsroom/2026/april/registration-now-open-for-2026-partners-for-change-conference.html
+[2026-05-06 21:27:36]   NEW: Drummond urges Congress to protect communities from illicit xylazine |  | https://oklahoma.gov/oag/news/newsroom/2026/april/drummond-urges-congress-to-protect-communities-from-illicit-xylazine.html
+[2026-05-06 21:27:36] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-05-06 21:27:37] [OR] Found 10 item(s) on page.
+[2026-05-06 21:27:37] [OR] No new items.
+[2026-05-06 21:27:37] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-05-06 21:27:39] [PA] Found 30 item(s) on page.
+[2026-05-06 21:27:39] [PA] No new items.
+[2026-05-06 21:27:39] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-05-06 21:27:39] [RI] Found 10 item(s) on page.
+[2026-05-06 21:27:39] [RI] No new items.
+[2026-05-06 21:27:39] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-06 21:27:39]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-05-06 21:27:43]   Playwright loaded page: 'News - South Carolina Attorney General' (110976 chars)
+[2026-05-06 21:27:43]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:27:43] [SC] Found 50 item(s) on page.
+[2026-05-06 21:27:43] [SC] 14 new item(s):
+[2026-05-06 21:27:43]   NEW: Nonprofit Dissolution |  | https://www.scag.gov/inside-the-office/legal-services-division/consumer-protection-antitrust/nonprofit-dissolution/
+[2026-05-06 21:27:43]   NEW: Criminal Division |  | https://www.scag.gov/inside-the-office/criminal-division/
+[2026-05-06 21:27:43]   NEW: Post Adjudication |  | https://www.scag.gov/inside-the-office/criminal-division/post-adjudication/
+[2026-05-06 21:27:43]   NEW: Capital & Collateral Litigation |  | https://www.scag.gov/inside-the-office/criminal-division/post-adjudication/capital-collateral-litigation/
+[2026-05-06 21:27:43]   NEW: Criminal Appeals |  | https://www.scag.gov/inside-the-office/criminal-division/post-adjudication/criminal-appeals/
+[2026-05-06 21:27:43]   NEW: Post Conviction Relief |  | https://www.scag.gov/inside-the-office/criminal-division/post-adjudication/post-conviction-relief/
+[2026-05-06 21:27:43]   NEW: Sexually Violent Predator |  | https://www.scag.gov/inside-the-office/criminal-division/post-adjudication/sexually-violent-predator/
+[2026-05-06 21:27:43]   NEW: General Prosecution |  | https://www.scag.gov/inside-the-office/criminal-division/general-prosecution/
+[2026-05-06 21:27:43]   NEW: Securities/White Collar |  | https://www.scag.gov/inside-the-office/criminal-division/general-prosecution/securities-white-collar/
+[2026-05-06 21:27:43]   NEW: Insurance Fraud Division |  | https://www.scag.gov/inside-the-office/criminal-division/general-prosecution/insurance-fraud-division/
+[2026-05-06 21:27:43]   NEW: Solicitor Referrals |  | https://www.scag.gov/inside-the-office/criminal-division/general-prosecution/solicitor-referrals/
+[2026-05-06 21:27:43]   NEW: Internet Crimes Against Children |  | https://www.scag.gov/inside-the-office/criminal-division/general-prosecution/internet-crimes-against-children/
+[2026-05-06 21:27:43]   NEW: Unauthorized Practice of Law |  | https://www.scag.gov/inside-the-office/criminal-division/general-prosecution/unauthorized-practice-of-law/
+[2026-05-06 21:27:43]   NEW: Special Prosecution |  | https://www.scag.gov/inside-the-office/criminal-division/special-prosecution/
+[2026-05-06 21:27:43] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-05-06 21:27:43]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=5
+[2026-05-06 21:27:46]   Playwright loaded page: 'South Dakota Attorney General' (38224 chars)
+[2026-05-06 21:27:46]   Playwright found 44 item(s) with fallback 'a' selector
+[2026-05-06 21:27:46] [SD] Found 44 item(s) on page.
+[2026-05-06 21:27:46] [SD] 43 new item(s):
+[2026-05-06 21:27:46]   NEW: Appellate |  | https://atg.sd.gov/OurOffice/Departments/appellate.aspx
+[2026-05-06 21:27:46]   NEW: Civil |  | https://atg.sd.gov/OurOffice/Departments/civil.aspx
+[2026-05-06 21:27:46]   NEW: Criminal |  | https://atg.sd.gov/OurOffice/Departments/criminal.aspx
+[2026-05-06 21:27:46]   NEW: Medicaid FANS |  | https://atg.sd.gov/OurOffice/Departments/MFCU/default.aspx
+[2026-05-06 21:27:46]   NEW: Forensic Lab |  | https://atg.sd.gov/LawEnforcement/Forensics/default.aspx
+[2026-05-06 21:27:46]   NEW: Intel |  | https://atg.sd.gov/OurOffice/Departments/DCI/intel.aspx
+[2026-05-06 21:27:46]   NEW: SD Unresolved Cases |  | https://atg.sd.gov/OurOffice/Departments/DCI/UnresolvedCases.aspx
+[2026-05-06 21:27:46]   NEW: Employment Opportunities |  | https://atg.sd.gov/OurOffice/employmentopportunities.aspx
+[2026-05-06 21:27:46]   NEW: John R Justice Program |  | https://atg.sd.gov/OurOffice/JohnJusticeProgram.aspx
+[2026-05-06 21:27:46]   NEW: Attorney General Marty Jackley Biography |  | https://atg.sd.gov/OurOffice/bio.aspx
+[2026-05-06 21:27:46]   NEW: Chief Deputy Brent Kempema Biography |  | https://atg.sd.gov/OurOffice/chiefbio.aspx
+[2026-05-06 21:27:46]   NEW: Publications |  | https://atg.sd.gov/OurOffice/Media/Publications/default.aspx
+[2026-05-06 21:27:46]   NEW: Official Opinions |  | https://atg.sd.gov/OurOffice/OfficialOpinions/default.aspx
+[2026-05-06 21:27:46]   NEW: Request for Proposals |  | https://atg.sd.gov/OurOffice/rfp.aspx
+[2026-05-06 21:27:46]   NEW: Technology Contacts |  | https://atg.sd.gov/LawEnforcement/technologycontacts.aspx
+[2026-05-06 21:27:46]   NEW: DCI History |  | https://atg.sd.gov/OurOffice/Departments/DCI/DCIHistory.aspx
+[2026-05-06 21:27:46]   NEW: Open Government |  | https://atg.sd.gov/Legal/OpenGovernment/default.aspx
+[2026-05-06 21:27:46]   NEW: Government Accountability Board |  | https://atg.sd.gov/Legal/governmentaccountabilityboard.aspx
+[2026-05-06 21:27:46]   NEW: State Authorities/Boards/Commissions |  | https://atg.sd.gov/Legal/OpenGovernment/authorityboardcommission.aspx
+[2026-05-06 21:27:46]   NEW: 24/7 Sobriety Program |  | https://atg.sd.gov/legal/DUI247/default.aspx
+[2026-05-06 21:27:46]   NEW: Draft Ballot Explanation |  | https://atg.sd.gov/Legal/ballotexplanations.aspx
+[2026-05-06 21:27:46]   NEW: Drug Asset Civil Forfeiture |  | https://atg.sd.gov/LawEnforcement/DrugAssetCivilForfeiture/default.aspx
+[2026-05-06 21:27:46]   NEW: Division of Criminal Investigation |  | https://atg.sd.gov/OurOffice/Departments/DCI/home.aspx
+[2026-05-06 21:27:46]   NEW: Law Enforcement Training Calendar |  | https://atg.sd.gov/LawEnforcement/Training/calendar.aspx
+[2026-05-06 21:27:46]   NEW: Statistical Analysis Center (SAC) |  | https://atg.sd.gov/OurOffice/Departments/DCI/SAC/default.aspx
+[2026-05-06 21:27:46]   NEW: Police Management Study publications |  | https://atg.sd.gov/OurOffice/Departments/DCI/SAC/PoliceManagementStudy.aspx
+[2026-05-06 21:27:46]   NEW: Sheriff Management Study publications |  | https://atg.sd.gov/OurOffice/Departments/DCI/SAC/SheriffManagementStudy.aspx
+[2026-05-06 21:27:46]   NEW: Murdered Indigenous Persons on Indian Country |  | https://atg.sd.gov/OurOffice/Departments/DCI/SAC/MurderedIndigenousPersons.aspx
+[2026-05-06 21:27:46]   NEW: Law Enforcement Training |  | https://atg.sd.gov/LawEnforcement/Training/default.aspx
+[2026-05-06 21:27:46]   NEW: School Sentinel Training |  | https://atg.sd.gov/LawEnforcement/Training/schoolsentinel.aspx
+[2026-05-06 21:27:46]   NEW: Telecommunicator Training |  | https://atg.sd.gov/LawEnforcement/Training/Certification/911telecommunicator.aspx
+[2026-05-06 21:27:46]   NEW: Fingerprint Background Checks |  | https://atg.sd.gov/LawEnforcement/Identification/backgroundcheckrequirements.aspx
+[2026-05-06 21:27:46]   NEW: Identification Section |  | https://atg.sd.gov/LawEnforcement/Identification/default.aspx
+[2026-05-06 21:27:46]   NEW: Law Enforcement Standards and Training Commission |  | https://atg.sd.gov/LawEnforcement/training/commission.aspx
+[2026-05-06 21:27:46]   NEW: Heroes Wellness Grant |  | https://atg.sd.gov/LawEnforcement/heroeswellnessgrant.aspx 
+[2026-05-06 21:27:46]   NEW: Crime Victim Services |  | https://atg.sd.gov/victim/crimevictimservices/default.aspx
+[2026-05-06 21:27:46]   NEW: Interagency Multidisciplinary Teams |  | https://atg.sd.gov/victim/MDT/default.aspx
+[2026-05-06 21:27:46]   NEW: Missing Persons |  | https://atg.sd.gov/LawEnforcement/missingpersons/default.aspx
+[2026-05-06 21:27:46]   NEW: Marsy's Law |  | https://atg.sd.gov/victim/marsyslaw.aspx
+[2026-05-06 21:27:46]   NEW: SAVIN |  | https://atg.sd.gov/victim/savin/default.aspx
+[2026-05-06 21:27:46]   NEW: Senior Citizens Resources |  | https://atg.sd.gov/victim/seniors/default.aspx
+[2026-05-06 21:27:46]   NEW: Complaint Form |  | https://atg.sd.gov/OurOffice/Departments/MFCU/complaintform.aspx
+[2026-05-06 21:27:46]   NEW: Contact Us |  | https://atg.sd.gov/Contact.aspx
+[2026-05-06 21:27:46] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-05-06 21:27:46]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-05-06 21:28:07] [TN] Found 50 item(s) on page.
+[2026-05-06 21:28:07] [TN] No new items.
+[2026-05-06 21:28:07] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-05-06 21:28:07] [TX] Found 50 item(s) on page.
+[2026-05-06 21:28:07] [TX] No new items.
+[2026-05-06 21:28:07] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-05-06 21:28:07]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-05-06 21:28:10]   Playwright loaded page: 'Press Releases - Utah Attorney General' (295527 chars)
+[2026-05-06 21:28:11]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-06 21:28:11] [UT] Found 50 item(s) on page.
+[2026-05-06 21:28:11] [UT] No new items.
+[2026-05-06 21:28:11] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-05-06 21:28:11] [VT] Found 50 item(s) on page.
+[2026-05-06 21:28:11] [VT] No new items.
+[2026-05-06 21:28:11] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-05-06 21:28:35] [VA] Found 50 item(s) on page.
+[2026-05-06 21:28:35] [VA] No new items.
+[2026-05-06 21:28:35] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-05-06 21:28:35] [WA] Found 15 item(s) on page.
+[2026-05-06 21:28:35] [WA] No new items.
+[2026-05-06 21:28:35] [WV] Fetching https://ago.wv.gov/news
+[2026-05-06 21:28:35]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-05-06 21:28:38]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54541 chars)
+[2026-05-06 21:28:38]   Playwright found 30 item(s) with configured selector
+[2026-05-06 21:28:38] [WV] Found 30 item(s) on page.
+[2026-05-06 21:28:38] [WV] No new items.
+[2026-05-06 21:28:38] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-06 21:28:38]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-06 21:28:43]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1505769 chars)
+[2026-05-06 21:28:43]   Playwright found 29 item(s) with configured selector
+[2026-05-06 21:28:43] [WI] Found 29 item(s) on page.
+[2026-05-06 21:28:43] [WI] 29 new item(s):
+[2026-05-06 21:28:43]   NEW: Wisconsin DOJ and Bipartisan Coalition to Secure Final Approval in $700 Million Google Settlement over App Store Monopoly Allegations |  | https://www.wisdoj.gov/PressReleases/press-release-google-play-store-settlement.pdf
+[2026-05-06 21:28:43]   NEW: Officer Involved Death Investigation in Eau Claire County, Wis. |  | https://www.wisdoj.gov/PressReleases/press-release-union-oid-may-2026.pdf
+[2026-05-06 21:28:43]   NEW: Purdue/Sackler $7.4 Billion Opioid Settlement Goes into Effect |  | https://www.wisdoj.gov/PressReleases/press-release-Purdue-goes-into-effect.pdf
+[2026-05-06 21:28:43]   NEW: Wisconsin DOJ Sues Trump Administration Over Failure to Implement Clean Air Act Rule |  | https://www.wisdoj.gov/PressReleases/press-release-soot.pdf
+[2026-05-06 21:28:43]   NEW: Wisconsin DOJ Sues To Stop Alleged Illegal Sports Betting Operations  in Wisconsin |  | https://www.wisdoj.gov/PressReleases/press-release-sports-betting.pdf
+[2026-05-06 21:28:43]   NEW: UPDATE: Officer Involved Death Investigation in Superior, Wis. |  | https://www.wisdoj.gov/PressReleases/press-release-superior-oid-april-2026-update.pdf
+[2026-05-06 21:28:43]   NEW: Drug Take Back Day is April 25 |  | https://www.wisdoj.gov/PressReleases/press-release-drug-take-back-april-2026.pdf
+[2026-05-06 21:28:43]   NEW: UPDATE: Officer Involved Death Investigation in Chippewa Falls, Wis. |  | https://www.wisdoj.gov/PressReleases/press-release-chippewa-falls-oid-april-2026-update.pdf
+[2026-05-06 21:28:43]   NEW: Wisconsin Department of Justice and a Coalition of States Win Trial Against Live Nation and Ticketmaster |  | https://www.wisdoj.gov/PressReleases/press-release-live-nation-verdict.pdf
+[2026-05-06 21:28:43]   NEW: Wisconsin Internet Crimes Against Children Task Force Sees Continued Increase in CyberTips as Annual Conference on Missing and Exploited Children Kicks Off |  | https://www.wisdoj.gov/PressReleases/press-release-icac-conference.pdf
+[2026-05-06 21:28:43]   NEW: Division of Criminal Investigation Announces New Electronic Storage Detection Canine |  | https://www.wisdoj.gov/PressReleases/press-release-dci-canine-granger.pdf
+[2026-05-06 21:28:43]   NEW: Officer Involved Death Investigation in Chippewa Falls, Wis. |  | https://www.wisdoj.gov/PressReleases/press-release-chippewa-falls-oid-april-2026.pdf
+[2026-05-06 21:28:43]   NEW: Officer Involved Death Investigation in Superior, Wis. |  | https://www.wisdoj.gov/PressReleases/press-release-superior-oid-april-2026.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Sues Trump Administration Over Unlawful Executive Order Attempting to Exert Federal Control Over Elections |  | https://www.wisdoj.gov/PressReleases/press-release-election-eo.pdf
+[2026-05-06 21:28:43]   NEW: Joint Statement On Trump v. Barbara Oral Argument |  | https://www.wisdoj.gov/PressReleases/press-release-birthright-statement.pdf
+[2026-05-06 21:28:43]   NEW: Racine Man Charged with Six Counts of Possession of Child Pornography |  | https://www.wisdoj.gov/PressReleases/press-release-racine-co-icac.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Joins Coalition Challenging Rollback of Limits on Dangerous Emissions of Mercury and Other Hazardous Air Pollutants from Power Plants |  | https://www.wisdoj.gov/PressReleases/press-release-mats.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Secures Federal Court Order Blocking Federal Attempt to Limit Access to Gender-Affirming Care |  | https://www.wisdoj.gov/PressReleases/press-release-gac-win.pdf
+[2026-05-06 21:28:43]   NEW: Former Village of Plainfield Fire Chief Charged for Alleged Theft of More Than $100,000 from Village |  | https://www.wisdoj.gov/PressReleases/press-release-plainfield-fire-chief-arrest.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Files Lawsuit Against Trump Administration for Holding Hostage Billions in Critical USDA Funding |  | https://www.wisdoj.gov/PressReleases/press-release-usda.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Challenges Unlawful Rescission of Landmark 2009 Greenhouse Gas Endangerment Finding |  | https://www.wisdoj.gov/PressReleases/press-release-endangerment.pdf
+[2026-05-06 21:28:43]   NEW: Former Village of Neosho and Village of Chenequa Clerk/Treasurer Charged with Theft and Misconduct in Public Office |  | https://www.wisdoj.gov/PressReleases/press-release-village-treasurer-arrest.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Sues Trump Administration to Stop Unlawful Data Demand to Colleges And Universities |  | https://www.wisdoj.gov/PressReleases/press-release-ipeds.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Secures Court Order Requiring Trump Administration to Restore Hundreds of Millions in Disaster Mitigation Funding |  | https://www.wisdoj.gov/PressReleases/press-release-fema-bric-motion-to-enforce.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Announces $250,000 Settlement with Apogee Wausau Group, Inc. for Alleged Air Pollution Control Law Violations |  | https://www.wisdoj.gov/PressReleases/press-release-apogee-judgment.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul and State Coalition Will Continue Case Against Live Nation for Alleged Antitrust Violations |  | https://www.wisdoj.gov/PressReleases/press-release-live-nation.pdf
+[2026-05-06 21:28:43]   NEW: During National Consumer Protection Week, AG Kaul Encourages Wisconsinites to Recognize Financial Scam Warning Signs |  | https://www.wisdoj.gov/PressReleases/press-release-consumer-protection-week.pdf
+[2026-05-06 21:28:43]   NEW: AG Kaul Sues Trump Administration to Stop Latest Round of Illegal Tariffs |  | https://www.wisdoj.gov/PressReleases/press-release-tariffs-update.pdf
+[2026-05-06 21:28:43]   NEW: Title |  | javascript: 
+[2026-05-06 21:28:43] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-05-06 21:28:44] [WY] Found 1 item(s) on page.
+[2026-05-06 21:28:44] [WY] No new items.
+[2026-05-06 21:28:44] States with fetch errors: KS, NH
+[2026-05-06 21:28:44] Sending email: 113 new item(s) across 8 state(s).
+[2026-05-06 21:28:45] Email sent.
+[2026-05-06 21:28:45] Done.
