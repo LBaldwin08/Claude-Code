@@ -154,10 +154,11 @@
     "abbr": "KS",
     "press_url": "https://ag.ks.gov/about-the-office/news/press-releases",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
-    "item_selector": "a",
+    "item_selector": "h3 a, h2 a, article a",
     "base_url": "https://ag.ks.gov",
-    "notes": "403 during research; URL needs manual verification"
+    "notes": "403 without headless browser; uses Playwright"
   },
   {
     "state": "Kentucky",
@@ -204,10 +205,11 @@
     "abbr": "MA",
     "press_url": "https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
-    "item_selector": "a",
+    "item_selector": "h3 a, h2 a, .ma__general-teaser__title a",
     "base_url": "https://www.mass.gov",
-    "notes": "403 during research; URL needs manual verification"
+    "notes": "403 without headless browser; uses Playwright"
   },
   {
     "state": "Michigan",
@@ -284,10 +286,11 @@
     "abbr": "NH",
     "press_url": "https://www.doj.nh.gov/news-and-media/press-releases",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
-    "item_selector": "a",
+    "item_selector": "h3 a, h2 a, article a",
     "base_url": "https://www.doj.nh.gov",
-    "notes": "403 during research; URL needs manual verification"
+    "notes": "403 without headless browser; uses Playwright"
   },
   {
     "state": "New Jersey",

@@ -27,6 +27,12 @@ except ImportError:
     print("  pip install requests beautifulsoup4")
     sys.exit(1)
 
+try:
+    from playwright.sync_api import sync_playwright
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    PLAYWRIGHT_AVAILABLE = False
+
 SCRIPT_DIR = Path(__file__).parent
 STATE_FILE = SCRIPT_DIR / "ag_state.json"
 SOURCES_FILE = SCRIPT_DIR / "ag_sources.json"
@@ -115,21 +121,15 @@ def fetch_rss(url):
     return items if items else None
 
 
-def fetch_html(source):
-    """Scrape an HTML press release listing page using the source config."""
-    url = source["press_url"]
-    resp = fetch_url(url)
-    if not resp:
-        return None
-
-    soup = BeautifulSoup(resp.text, "html.parser")
+def parse_html_content(html, source, page_url):
+    """Parse HTML string into list of {id, title, date, url} press release dicts."""
+    soup = BeautifulSoup(html, "html.parser")
     items = []
 
     container_sel = source.get("container_selector")
     item_sel = source.get("item_selector", "a")
-    base_url = source.get("base_url", url)
+    base_url = source.get("base_url", page_url)
 
-    # Find the container element if specified
     container = soup
     if container_sel:
         container = soup.select_one(container_sel) or soup
@@ -141,10 +141,8 @@ def fetch_html(source):
         if not href or href.startswith("#") or href.startswith("mailto:"):
             continue
 
-        # Make absolute URL
         full_url = href if href.startswith("http") else urljoin(base_url, href)
 
-        # Skip links pointing outside the AG domain (navigation pollution)
         parsed_base = urlparse(base_url)
         parsed_link = urlparse(full_url)
         if parsed_link.netloc and parsed_link.netloc != parsed_base.netloc:
@@ -154,7 +152,6 @@ def fetch_html(source):
         if not title or len(title) < 5:
             continue
 
-        # Try to find a date near the link
         parent = link.find_parent(["li", "tr", "div", "article"])
         date = ""
         if parent:
@@ -173,7 +170,6 @@ def fetch_html(source):
             "url": full_url,
         })
 
-    # Deduplicate by URL
     seen = set()
     deduped = []
     for item in items:
@@ -181,16 +177,47 @@ def fetch_html(source):
             seen.add(item["id"])
             deduped.append(item)
 
-    # Cap to first N items — we only need recent items for change detection
     max_items = source.get("max_items", 50)
     deduped = deduped[:max_items]
 
     return deduped if deduped else None
 
 
+def fetch_html(source):
+    """Scrape an HTML press release listing page using the source config."""
+    url = source["press_url"]
+    resp = fetch_url(url)
+    if not resp:
+        return None
+
+    return parse_html_content(resp.text, source, url)
+
+
+def fetch_html_playwright(source):
+    """Fetch a press release listing page using a headless browser (for bot-blocked sites)."""
+    if not PLAYWRIGHT_AVAILABLE:
+        log("  Playwright not installed. Run: pip install playwright && playwright install chromium")
+        return None
+
+    url = source["press_url"]
+    log(f"  Using Playwright headless browser for {url}")
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.set_extra_http_headers({"User-Agent": HEADERS["User-Agent"]})
+            page.goto(url, timeout=30000, wait_until="domcontentloaded")
+            page.wait_for_timeout(2000)
+            html = page.content()
+            browser.close()
+        return parse_html_content(html, source, url)
+    except Exception as e:
+        log(f"  Playwright fetch failed for {url}: {e}")
+        return None
+
+
 def fetch_press_releases(source):
     """Return list of press release dicts for a state source config."""
-    state = source["state"]
     abbr = source["abbr"]
 
     rss_url = source.get("rss_url")
@@ -200,8 +227,13 @@ def fetch_press_releases(source):
             return items
         log(f"  [{abbr}] RSS fetch failed, falling back to HTML scrape")
 
-    items = fetch_html(source)
-    return items
+    if source.get("use_playwright"):
+        items = fetch_html_playwright(source)
+        if items is not None:
+            return items
+        log(f"  [{abbr}] Playwright fetch failed, falling back to regular scrape")
+
+    return fetch_html(source)
 
 
 # ---------------------------------------------------------------------------
