@@ -188,412 +188,145 @@
 [2026-05-06 15:43:36] [WY] No items returned (fetch failed or empty page).
 [2026-05-06 15:43:36] States with fetch errors: AL, AZ, AR, ID, IA, KS, MA, MI, MS, NH, NM, ND, OK, OR, PA, SC, SD, UT, VT, WV, WI, WY
 [2026-05-06 15:43:36] Done.
-[2026-05-06 20:48:28] Checking for new AG press releases...
-[2026-05-06 20:48:28] Checking 50 state(s).
-[2026-05-06 20:48:28] [AL] Fetching https://www.alabamaag.gov/news/
-[2026-05-06 20:48:29] [AL] No items returned (fetch failed or empty page).
-[2026-05-06 20:48:29] [AK] Fetching https://law.alaska.gov/press/pressReleases.html
-[2026-05-06 20:48:29] [AK] Found 1 item(s) on page.
-[2026-05-06 20:48:29] [AK] No new items.
-[2026-05-06 20:48:29] [AZ] Fetching https://www.azag.gov/media/press-releases
-[2026-05-06 20:48:29] [AZ] Found 10 item(s) on page.
-[2026-05-06 20:48:29] [AZ] 10 new item(s):
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Moves to Hold Tucson Mobile Home Park in Contempt for Unfinished Electrical Repairs |  | https://www.azag.gov/press-release/attorney-general-mayes-moves-hold-tucson-mobile-home-park-contempt-unfinished
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Announces Sentencing in Methamphetamine Trafficking Case |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-sentencing-methamphetamine-trafficking-case
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Welcomes Supreme Court Stay on Mifepristone Restrictions, Warns Fight for Abortion Access Not Over |  | https://www.azag.gov/press-release/attorney-general-mayes-welcomes-supreme-court-stay-mifepristone-restrictions-warns
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Announces $7.4 Billion Opioid Settlement as Purdue/Sackler Agreement Goes into Effect |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-74-billion-opioid-settlement-purduesackler-agreement
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Announces Nearly 10 Year Sentence for Fentanyl Trafficker in Pima County |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-nearly-10-year-sentence-fentanyl-trafficker-pima
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Condemns Trump Administration's Gutting of Federal Law Enforcement |  | https://www.azag.gov/press-release/attorney-general-mayes-condemns-trump-administrations-gutting-federal-law-enforcement
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes and Secretary Fontes Issue Statement on Dismissal of DOJ’s Lawsuit Demanding Arizona’s Voter Rolls |  | https://www.azag.gov/press-release/attorney-general-mayes-and-secretary-fontes-issue-statement-dismissal-dojs-lawsuit
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Joins Bipartisan Effort to Curb Sales of Illegal Vaping Products |  | https://www.azag.gov/press-release/attorney-general-mayes-joins-bipartisan-effort-curb-sales-illegal-vaping-products
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Announces 15-year Prison Sentence in Child Sexual Abuse Material Case |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-15-year-prison-sentence-child-sexual-abuse-material
-[2026-05-06 20:48:29]   NEW: Attorney General Mayes Sues to Block Proposed ICE Detention Facility in Surprise |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-block-proposed-ice-detention-facility-surprise
-[2026-05-06 20:48:29] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
-[2026-05-06 20:48:30] [AR] Found 50 item(s) on page.
-[2026-05-06 20:48:30] [AR] 50 new item(s):
-[2026-05-06 20:48:30]   NEW: Friday, May 01, 2026Attorney General Griffin Announces $7.4 Billion Purdue Pharma Settlement Now in Effect, Arkansas’s Portion Estimated at $44.5 MillionRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-7-4-billion-purdue-pharma-settlement-now-in-effect-arkansass-portion-estimated-at-44-5-million/
-[2026-05-06 20:48:30]   NEW: Friday, May 01, 2026Attorney General Griffin Announces $847,000 Settlement with WalmartRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-847000-settlement-with-walmart/
-[2026-05-06 20:48:30]   NEW: Friday, April 24, 2026Attorney General Griffin Announces Conviction of Rector Man on Child Pornography Charges Following An Arrest Made by Special Investigations DivisionRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-conviction-of-rector-man-on-child-pornography-charges-following-an-arrest-made-by-special-investigations-division/
-[2026-05-06 20:48:30]   NEW: Friday, April 24, 2026Attorney General Griffin Announces Receipt of $44 Million in Tobacco Settlement DisbursementRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-receipt-of-44-million-in-tobacco-settlement-disbursement/
-[2026-05-06 20:48:30]   NEW: Wednesday, April 22, 2026Attorney General Griffin Certifies Act 934 of 2025, Expanding the Law on Intoxicating Hemp-Derived ProductsRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-certifies-act-934-of-2025-expanding-the-law-on-intoxicating-hemp-derived-products/
-[2026-05-06 20:48:30]   NEW: Thursday, April 09, 2026Attorney General Griffin Announces Two Arrests and One Conviction Made by His Medicaid Fraud Control UnitRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-two-arrests-and-one-conviction-made-by-his-medicaid-fraud-control-unit/
-[2026-05-06 20:48:30]   NEW: Thursday, April 09, 2026Attorney General Griffin Launches One Pill Can Kill Initiative at University of Central Arkansas in ConwayRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-launches-one-pill-can-kill-initiative-at-university-of-central-arkansas-in-conway/
-[2026-05-06 20:48:30]   NEW: Tuesday, April 07, 2026CONSUMER ALERT: Scammers Claiming to be Court System Target Arkansans Via Text with Fake Traffic CitationsRead More > |  | https://arkansasag.gov/news-release/consumer-alert-scammers-claiming-to-be-court-system-target-arkansans-via-text-with-fake-traffic-citations/
-[2026-05-06 20:48:30]   NEW: Wednesday, April 01, 2026Attorney General Griffin Launches One Pill Can Kill Initiative at University of Arkansas at MonticelloRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-launches-one-pill-can-kill-initiative-at-university-of-arkansas-at-monticello/
-[2026-05-06 20:48:30]   NEW: Wednesday, April 01, 2026Attorney General Griffin Co-Leads Letter from Bipartisan, 41-AG Coalition Asking Congress to Pass the Combatting Illicit Xylazine ActRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-co-leads-letter-from-bipartisan-41-ag-coalition-asking-congress-to-pass-the-combatting-illicit-xylazine-act/
-[2026-05-06 20:48:30]   NEW: Monday, March 30, 2026Attorney General Griffin Returns to the University of Arkansas for One Pill Can Kill Training; Notes State’s Decline in Opioid Overdose DeathsRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-returns-to-the-university-of-arkansas-for-one-pill-can-kill-training-notes-states-decline-in-opioid-overdose-deaths/
-[2026-05-06 20:48:30]   NEW: Wednesday, March 25, 2026Attorney General Griffin Announces 8 Arrests in Phillips County Related to 2024 Election Crimes in Justice of the Peace RunoffRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-8-arrests-in-phillips-county-related-to-2024-election-crimes-in-justice-of-the-peace-runoff/
-[2026-05-06 20:48:30]   NEW: Tuesday, March 24, 2026Attorney General Griffin Announces Organized Retail Crime Charges for Little Rock Woman; 2 Women Remain at LargeRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-organized-retail-crime-charges-for-little-rock-woman-2-women-remain-at-large/
-[2026-05-06 20:48:30]   NEW: Monday, March 23, 2026Attorney General Griffin Secures Conviction of Conway Woman for Medicaid FraudRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-secures-conviction-of-conway-woman-for-medicaid-fraud/
-[2026-05-06 20:48:30]   NEW: Wednesday, March 18, 2026Attorney General Griffin Secures Conviction of Rector Woman for Medicaid FraudRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-secures-conviction-of-rector-woman-for-medicaid-fraud/
-[2026-05-06 20:48:30]   NEW: Tuesday, March 17, 2026Attorney General Griffin Expresses Support for U.S. Senator Tom Cotton’s Rx ACCESS ActRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-expresses-support-for-u-s-senator-tom-cottons-rx-access-act/
-[2026-05-06 20:48:30]   NEW: Tuesday, March 17, 2026Attorney General Griffin to Host First of ‘Emerging Issues Series’ May 11 with Focus of AI’s Impact on Legal PracticesRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-to-host-first-of-emerging-issues-series-may-11-with-focus-of-ais-impact-on-legal-practices/
-[2026-05-06 20:48:30]   NEW: Tuesday, March 17, 2026Attorney General Griffin Launches One Pill Can Kill Initiative at Hendrix College in ConwayRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-launches-one-pill-can-kill-initiative-at-hendrix-college-in-conway/
-[2026-05-06 20:48:30]   NEW: Friday, March 06, 2026Attorney General Griffin Secures Conviction of West Memphis Woman for Medicaid FraudRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-secures-conviction-of-west-memphis-woman-for-medicaid-fraud/
-[2026-05-06 20:48:30]   NEW: Monday, March 02, 2026South Arkansas College Becomes First Community College in Arkansas to Launch One Pill Can Kill InitiativeRead More > |  | https://arkansasag.gov/news-release/south-arkansas-college-becomes-first-community-college-in-arkansas-to-launch-one-pill-can-kill-initiative/
-[2026-05-06 20:48:30]   NEW: Friday, February 27, 2026Attorney General Griffin Announces Arrest of Conway Man on Child Pornography ChargesRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-arrest-of-conway-man-on-child-pornography-charges/
-[2026-05-06 20:48:30]   NEW: Thursday, February 26, 2026Attorney General Griffin Announces Upgrades to Opinions Search Feature on ArkansasAG.govRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-upgrades-to-opinions-search-feature-on-arkansasag-gov/
-[2026-05-06 20:48:30]   NEW: Wednesday, February 18, 2026Remains from 20-year-old Mississippi County Cold Case Identified Using Advanced DNA TestingRead More > |  | https://arkansasag.gov/news-release/remains-from-20-year-old-mississippi-county-cold-case-identified-using-advanced-dna-testing/
-[2026-05-06 20:48:30]   NEW: Friday, February 13, 2026Attorney General Griffin Appoints Damon Singleton to Serve on Arkansas Ethics CommissionRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-appoints-damon-singleton-to-serve-on-arkansas-ethics-commission/
-[2026-05-06 20:48:30]   NEW: Friday, February 13, 2026Attorney General Griffin Announces 9 Arrests for Sexual Solicitation Following Hot Springs OperationRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-9-arrests-for-sexual-solicitation-following-hot-springs-operation/
-[2026-05-06 20:48:30]   NEW: Wednesday, February 11, 2026Attorney General Griffin Announces Opening of New Office Space in FayettevilleRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-opening-of-new-office-space-in-fayetteville/
-[2026-05-06 20:48:30]   NEW: Monday, February 09, 2026Attorney General Griffin Launches One Pill Can Kill Initiative at Southern Arkansas University in MagnoliaRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-launches-one-pill-can-kill-initiative-at-southern-arkansas-university-in-magnolia/
-[2026-05-06 20:48:30]   NEW: Friday, February 06, 2026Attorney General Griffin Secures Conviction of Lepanto Woman for Medicaid FraudRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-secures-conviction-of-lepanto-woman-for-medicaid-fraud/
-[2026-05-06 20:48:30]   NEW: Wednesday, January 28, 2026Attorney General Griffin Announces Two Convictions and an Arrest Made by His Medicaid Fraud Control UnitRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-two-convictions-and-an-arrest-made-by-his-medicaid-fraud-control-unit/
-[2026-05-06 20:48:30]   NEW: Friday, January 23, 2026North Little Rock Man Pleads Guilty to Production of Child Sexual Abuse Materials and Sentenced to 27 Years in Federal PrisonRead More > |  | https://arkansasag.gov/news-release/north-little-rock-man-pleads-guilty-to-production-of-child-sexual-abuse-materials-and-sentenced-to-27-years-in-federal-prison/
-[2026-05-06 20:48:30]   NEW: Tuesday, January 13, 2026Attorney General Griffin Creates New Role of Senior Advisor of AI for Deputy General Counsel Kevin B. LeeRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-creates-new-role-of-senior-advisor-of-ai-for-deputy-general-counsel-kevin-b-lee/
-[2026-05-06 20:48:30]   NEW: Tuesday, January 13, 2026Attorney General Griffin Leads Letter Calling on Congress to Consider Preemption of Abortion Shield LawsRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-leads-letter-calling-on-congress-to-consider-preemption-of-abortion-shield-laws/
-[2026-05-06 20:48:30]   NEW: Tuesday, January 13, 2026Attorney General Griffin Marks Milestone of Construction on National Center for Opioid Research and Clinical EffectivenessRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-marks-milestone-of-construction-on-national-center-for-opioid-research-and-clinical-effectiveness/
-[2026-05-06 20:48:30]   NEW: Friday, January 09, 2026Attorney General Griffin Praises Federal Court Judgment Declaring Race-Based Quotas for Government Boards UnconstitutionalRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-praises-federal-court-judgment-declaring-race-based-quotas-for-government-boards-unconstitutional/
-[2026-05-06 20:48:30]   NEW: Wednesday, December 31, 2025Attorney General Griffin Praises Appointment of Boyce Hamlet as Chairman of the Post-Prison Transfer BoardRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-praises-appointment-of-boyce-hamlet-as-chairman-of-the-post-prison-transfer-board/
-[2026-05-06 20:48:30]   NEW: Tuesday, December 23, 2025Attorney General Griffin Leads Multistate Letter to Federal Communications Commission Supporting Proposal to Combat Contraband Cell Phones in PrisonsRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-leads-multistate-letter-to-federal-communications-commission-supporting-proposal-to-combat-contraband-cell-phones-in-prisons/
-[2026-05-06 20:48:30]   NEW: Tuesday, December 23, 2025Attorney General Griffin Announces Multistate $150 Million Settlement with Mercedes-Benz USA, LLC and Mercedes-Benz Group AG over Emissions FraudRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-multistate-150-million-settlement-with-mercedes-benz-usa-llc-and-mercedes-benz-group-ag-over-emissions-fraud/
-[2026-05-06 20:48:30]   NEW: Thursday, December 18, 2025Circuit Court Orders Joseph Schwartz to Report to Arkansas Department of Corrections by December 29Read More > |  | https://arkansasag.gov/news-release/circuit-court-orders-joseph-schwartz-to-report-to-arkansas-department-of-corrections-by-december-29/
-[2026-05-06 20:48:30]   NEW: Thursday, December 18, 2025Attorney General Griffin Leads Brief Supporting Florida Law That Prohibits Sexually Graphic Materials in Public-School LibrariesRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-leads-brief-supporting-florida-law-that-prohibits-sexually-graphic-materials-in-public-school-libraries/
-[2026-05-06 20:48:30]   NEW: Thursday, December 18, 2025Attorney General Griffin Announces Arrest of Grant County Man on Child Pornography ChargesRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-arrest-of-grant-county-man-on-child-pornography-charges/
-[2026-05-06 20:48:30]   NEW: Thursday, December 11, 2025Attorney General Griffin Announces Multistate $700 Million Settlement with GoogleRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-multistate-700-million-settlement-with-google/
-[2026-05-06 20:48:30]   NEW: Thursday, December 11, 2025Attorney General Griffin Honors Arkansas’s Top Law Enforcement Officers of 2025Read More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-honors-arkansass-top-law-enforcement-officers-of-2025/
-[2026-05-06 20:48:30]   NEW: Tuesday, November 18, 2025Attorney General Griffin Announces 2 Convictions and an Arrest Made by His Medicaid Fraud Control UnitRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-2-convictions-and-an-arrest-made-by-his-medicaid-fraud-control-unit/
-[2026-05-06 20:48:30]   NEW: Monday, November 17, 2025Attorney General Griffin Launches One Pill Can Kill Initiative at Arkansas Tech UniversityRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-launches-one-pill-can-kill-initiative-at-arkansas-tech-university/
-[2026-05-06 20:48:30]   NEW: Monday, November 10, 2025Attorney General Griffin Launches One Pill Can Kill Initiative at Arkansas State UniversityRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-launches-one-pill-can-kill-initiative-at-arkansas-state-university/
-[2026-05-06 20:48:30]   NEW: Tuesday, November 04, 2025Attorney General Griffin Announces 2 Arrests for Medicaid FraudRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-2-arrests-for-medicaid-fraud/
-[2026-05-06 20:48:30]   NEW: Monday, November 03, 2025Human Remains in Mississippi County Cold Case Identified as Charles Benjamin Rhoades, Missing More Than 35 YearsRead More > |  | https://arkansasag.gov/news-release/human-remains-in-mississippi-county-cold-case-identified-as-charles-benjamin-rhoades-missing-more-than-35-years/
-[2026-05-06 20:48:30]   NEW: Thursday, October 30, 2025Attorney General Griffin Announces Kevin B. Lee as New Deputy General CounselRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-kevin-b-lee-as-new-deputy-general-counsel/
-[2026-05-06 20:48:30]   NEW: Tuesday, October 28, 2025Attorney General Griffin Announces Arrest of Little Rock Man Following Retail Crime InvestigationRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-arrest-of-little-rock-man-following-retail-crime-investigation/
-[2026-05-06 20:48:30]   NEW: Tuesday, October 28, 2025Jacksonville Man Pleads Guilty to Child Sexual Abuse Materials Charges, Will Serve Entirety of Sentence under the Protect ActRead More > |  | https://arkansasag.gov/news-release/jacksonville-man-pleads-guilty-to-child-sexual-abuse-materials-charges-will-serve-entirety-of-sentence-under-the-protect-act/
-[2026-05-06 20:48:30] [CA] Fetching https://oag.ca.gov/news/feed
-[2026-05-06 20:48:31] [CA] Found 10 item(s) on page.
-[2026-05-06 20:48:31] [CA] 1 new item(s):
-[2026-05-06 20:48:31]   NEW: Attorney General Bonta Opposes Trump Administration's Proposal to Unlawfully Collect Backup Power Generation Data | Wed, 06 May 2026 17:51:40 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-trump-administrations-proposal-unlawfully-collect
-[2026-05-06 20:48:31] [CO] Fetching https://coag.gov/media-center/press-room/
-[2026-05-06 20:48:32] [CO] Found 50 item(s) on page.
-[2026-05-06 20:48:32] [CO] No new items.
-[2026-05-06 20:48:32] [CT] Fetching https://portal.ct.gov/ag/press-releases
-[2026-05-06 20:48:32] [CT] Found 34 item(s) on page.
-[2026-05-06 20:48:32] [CT] No new items.
-[2026-05-06 20:48:32] [DE] Fetching https://news.delaware.gov/category/justice/feed/
-[2026-05-06 20:48:32] [DE] Found 300 item(s) on page.
-[2026-05-06 20:48:32] [DE] No new items.
-[2026-05-06 20:48:32] [FL] Fetching https://www.myfloridalegal.com/newsreleases
-[2026-05-06 20:48:33] [FL] Found 20 item(s) on page.
-[2026-05-06 20:48:33] [FL] No new items.
-[2026-05-06 20:48:33] [GA] Fetching https://law.georgia.gov/press-releases
-[2026-05-06 20:48:33] [GA] Found 11 item(s) on page.
-[2026-05-06 20:48:33] [GA] No new items.
-[2026-05-06 20:48:33] [HI] Fetching https://ag.hawaii.gov/news-releases/
-[2026-05-06 20:48:34] [HI] Found 27 item(s) on page.
-[2026-05-06 20:48:34] [HI] No new items.
-[2026-05-06 20:48:34] [ID] Fetching https://www.ag.idaho.gov/newsroom/
-[2026-05-06 20:48:34] [ID] No items returned (fetch failed or empty page).
-[2026-05-06 20:48:34] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
-[2026-05-06 20:48:36] [IL] Found 50 item(s) on page.
-[2026-05-06 20:48:36] [IL] 22 new item(s):
-[2026-05-06 20:48:36]   NEW: May 05, 2026ATTORNEY GENERAL RAOUL: ROCK ISLAND COUNTY JUDGE FINDS CONVICTED SEX OFFENDER SEXUALLY VIOLENT | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-rock-island-county-judge-finds-convicted-sex-offender-sexually-violent
-[2026-05-06 20:48:36]   NEW: May 04, 2026ATTORNEY GENERAL RAOUL OPPOSES PROPOSED POSTAL SERVICE RULE THAT WOULD ALLOW UNLAWFUL ACCESS TO GUNS BY MAIL | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-proposed-postal-service-rule-that-would-allow-unlawful-access-to-guns-by-mail
-[2026-05-06 20:48:36]   NEW: May 04, 2026ATTORNEY GENERAL RAOUL: SUPREME COURT ENTERS ADMINISTRATIVE STAY, PREVENTING RESTRICTIONS ON MIFEPRISTONE GOING INTO EFFECT | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-supreme-court-enters-administrative-stay-preventing-restrictions-on-mifepristone-going-into-effect
-[2026-05-06 20:48:36]   NEW: May 01, 2026ATTORNEY GENERAL RAOUL SECURES FINAL APPROVAL IN $700 MILLION GOOGLE SETTLEMENT OVER APP STORE MONOPOLY | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-secures-final-approval-in-700-million-google-settlement-over-app-store-monopoly
-[2026-05-06 20:48:36]   NEW: April 30, 2026ATTORNEY GENERAL RAOUL ANNOUNCES FORMER CITY OF CHICAGO INSPECTOR GENERAL DEBORAH WITZBURG AS CHIEF OF STAFF | 2026-05-05 3:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-former-city-of-chicago-inspector-general-deborah-witzburg-as-chief-of-staff
-[2026-05-06 20:48:36]   NEW: April 28, 2026ATTORNEY GENERAL RAOUL JOINS BIPARTISAN EFFORT TO CURB SALES OF ILLEGAL VAPING PRODUCTS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-joins-bipartisan-effort-to-curb-sales-of-illegal-vaping-products
-[2026-05-06 20:48:36]   NEW: April 24, 2026***CONSUMER ALERT*** ATTORNEY GENERAL RAOUL WARNS STATE EMPLOYEES AND RETIREES ABOUT INVESTMENT SCAMS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/consumer-alert-attorney-general-raoul-warns-state-employees-and-retirees-about-investment-scams
-[2026-05-06 20:48:36]   NEW: April 24, 2026ATTORNEY GENERAL RAOUL OBTAINS RESTITUTION FROM RETIRED STATE POLICE OFFICER WHO PLEADED GUILTY TO PPP LOAN FRAUD | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-restitution-from-retired-state-police-officer-who-pleaded-guilty-to-ppp-loan-fraud
-[2026-05-06 20:48:36]   NEW: April 22, 2026ATTORNEY GENERAL RAOUL ANNOUNCES FEDERAL ACCOUNTABILITY ACTIONS HAVE PROTECTED $8.6 BILLION FOR ILLINOIS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-federal-accountability-actions-have-protected-86-billion-for-illinois
-[2026-05-06 20:48:36]   NEW: April 20, 2026ATTORNEY GENERAL RAOUL ISSUES STATEMENT AFTER U.S. DISTRICT COURT DECLARES NATIONAL GUARD ORDERS "DEFUNCT" AND CASE MOOT | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-statement-after-us-district-court-declares-case-over-national-guard-deployment-moot
-[2026-05-06 20:48:36]   NEW: April 17, 2026ATTORNEY GENERAL RAOUL ISSUES STATEMENT ON PASSING OF BARBARA FLYNN CURRIE | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-statement-on-passing-of-barbara-flynn-currie
-[2026-05-06 20:48:36]   NEW: April 16, 2026HOUSE APPROVES ATTORNEY GENERAL RAOUL’S LEGISLATION TO STRENGTHEN HIS OFFICE’S ABILITY TO DEFEND WORKPLACE RIGHTS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/house-approves-attorney-general-raouls-legislation-to-strengthen-his-offices-ability-to-defend-workplace-rights
-[2026-05-06 20:48:36]   NEW: April 15, 2026ATTORNEY GENERAL RAOUL, COALITION WIN TRIAL AGAINST LIVE NATION AND TICKETMASTER | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-coalition-win-trial-against-live-nation-and-ticketmaster
-[2026-05-06 20:48:36]   NEW: April 13, 2026ATTORNEY GENERAL RAOUL LEADS COALITION URGING SUPREME COURT TO PRESERVE TEMPORARY PROTECTED STATUS FOR HAITIANS AND SYRIANS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-urging-supreme-court-to-preserve-temporary-protected-status-for-haitians-and-syrians
-[2026-05-06 20:48:36]   NEW: April 10, 2026ATTORNEY GENERAL RAOUL ANNOUNCES SETTLEMENT WITH NORWEGIAN CRUISE LINE OVER BUSINESS PRACTICES DURING COVID-19 PUBLIC HEALTH EMERGENCY | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-settlement-with-norwegian-cruise-line-over-business-practices-during-covid-19-public-health-emergency
-[2026-05-06 20:48:36]   NEW: April 09, 2026ATTORNEY GENERAL RAOUL CHARGES FORMER U.S. POSTAL SERVICE WORKER WITH THEFT, FORGERY | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-former-us-postal-service-worker-with-theft-forgery-4-9-26
-[2026-05-06 20:48:36]   NEW: April 03, 2026ATTORNEY GENERAL RAOUL LEADS COALITION SUPPORTING LAW FIRMS TARGETED FOR RETRIBUTION BY TRUMP ADMINISTRATION | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-supporting-law-firms-targeted-for-retribution-by-trump-administration
-[2026-05-06 20:48:36]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL SUCCESSFULLY PROTECTS STATE ENERGY PROGRAMS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-successfully-protects-state-energy-programs
-[2026-05-06 20:48:36]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL CHALLENGES UNLAWFUL TRUMP ADMINISTRATION MOVE TO FORCE INDIANA COAL-FIRED POWER PLANTS TO CONTINUE OPERATING BEYOND RETIREMENT DATES | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-challenges-unlawful-trump-administration-move-to-force-indiana-coal-fired-power-plants-to-continue-operating-beyond-retirement-dates
-[2026-05-06 20:48:36]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL WINS APPEALS COURT RULING AGAINST HUD OVER HOUSING ASSISTANCE PROGRAMS | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-wins-appeals-court-ruling-against-hud-over-housing-assistance-programs
-[2026-05-06 20:48:36]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL OBTAINS INJUNCTION IN LAWSUIT OVER 2025 ASPHALT SPILL IMPACTING CHICAGO SANITARY AND SHIP CANAL | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-injunction-in-lawsuit-over-2025-asphalt-spill-impacting-chicago-sanitary-and-ship-canal
-[2026-05-06 20:48:36]   NEW: April 02, 2026ATTORNEY GENERAL RAOUL FILES U.S. SUPREME COURT BRIEF DEFENDING STATES’ RIGHT TO PROTECT PUBLIC HEALTH | 2026-04-30 6:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-us-supreme-court-brief-defending-states-right-to-protect-public-health
-[2026-05-06 20:48:36] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
-[2026-05-06 20:48:36] [IN] Found 43 item(s) on page.
-[2026-05-06 20:48:36] [IN] No new items.
-[2026-05-06 20:48:36] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
-[2026-05-06 20:48:36] [IA] Found 10 item(s) on page.
-[2026-05-06 20:48:36] [IA] 10 new item(s):
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Thanks Legislature | May 6, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-thanks-legislature/
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Announces Three Legislative Priorities that Protect Victims, Strengthen Public Safety, and Regulate Crypto ATMs are Now Iowa Law | May 6, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-three-legislative-priorities-that-protect-victims-strengthen/
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Urges Commodity Futures Trading Commission to Recognize State Authority Over Sports-Related Prediction Markets | May 4, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-urges-commodity-futures-trading-commission-to-recognize-state-authority/
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Announces Club Save, LLC to Fully Reimburse Affected Iowans | April 30, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-club-save-llc-to-fully-reimburse-affected-iowans/
-[2026-05-06 20:48:36]   NEW: Iowa Attorney General’s Office Concludes Des Moines Officers Acted with Legal Justification in Polk County Shooting | April 29, 2026 | https://www.iowaattorneygeneral.gov/newsroom/iowa-attorney-generals-office-concludes-des-moines-officers-acted-with-legal-justification-in-polk/
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Celebrates Victory in Protecting Iowa Farmers and Property Owners | April 23, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-celebrates-victory-in-protecting-iowa-farmers-and-property-owners/
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Urges Top Credit Ratings Agencies to Stop Using Unlawful Policies that Hurt Iowa Farmers | April 23, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-urges-top-credit-ratings-agencies-to-stop-using-unlawful-policies-that/
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Announces Important Update for Victims of Violent Crimes | April 20, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-important-update-for-victims-of-violent-crimes/
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Urges Payment Processors to Stop Transactions of Illegal Vapes Hurting Iowa Children | April 15, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-urges-payment-processors-to-stop-transactions-of-illegal-vapes-hurting/
-[2026-05-06 20:48:36]   NEW: Attorney General Brenna Bird Warns Iowans of Tax Day Scams | April 14, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-warns-iowans-of-tax-day-scams/
-[2026-05-06 20:48:36] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
-[2026-05-06 20:48:36]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
-[2026-05-06 20:48:41]   Playwright loaded page: 'Access Denied' (341 chars)
-[2026-05-06 20:48:41]   Playwright: page loaded but no links matched — check selectors
-[2026-05-06 20:48:41]   [KS] Playwright fetch failed, falling back to regular scrape
-[2026-05-06 20:48:41]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
-[2026-05-06 20:49:02]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
-[2026-05-06 20:49:22]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
-[2026-05-06 20:49:22] [KS] No items returned (fetch failed or empty page).
-[2026-05-06 20:49:22] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
-[2026-05-06 20:49:24] [KY] Found 26 item(s) on page.
-[2026-05-06 20:49:24] [KY] No new items.
-[2026-05-06 20:49:24] [LA] Fetching https://ag.louisiana.gov/News
-[2026-05-06 20:49:24] [LA] Found 20 item(s) on page.
-[2026-05-06 20:49:24] [LA] No new items.
-[2026-05-06 20:49:24] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
-[2026-05-06 20:49:25] [ME] Found 5 item(s) on page.
-[2026-05-06 20:49:25] [ME] No new items.
-[2026-05-06 20:49:25] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
-[2026-05-06 20:49:25] [MD] Found 50 item(s) on page.
-[2026-05-06 20:49:25] [MD] No new items.
-[2026-05-06 20:49:25] [MA] Fetching https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
-[2026-05-06 20:49:25]   Using Playwright headless browser for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
-[2026-05-06 20:49:28]   Playwright loaded page: 'Not found | Mass.gov' (87985 chars)
-[2026-05-06 20:49:28]   Playwright found 1 item(s) with fallback 'a' selector
-[2026-05-06 20:49:28] [MA] Found 1 item(s) on page.
-[2026-05-06 20:49:28] [MA] 1 new item(s):
-[2026-05-06 20:49:28]   NEW: Mass.gov |  | https://www.mass.gov/404
-[2026-05-06 20:49:28] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
-[2026-05-06 20:49:28] [MI] No items returned (fetch failed or empty page).
-[2026-05-06 20:49:28] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
-[2026-05-06 20:49:29] [MN] Found 50 item(s) on page.
-[2026-05-06 20:49:29] [MN] No new items.
-[2026-05-06 20:49:29] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
-[2026-05-06 20:49:29] [MS] Found 1 item(s) on page.
-[2026-05-06 20:49:29] [MS] 1 new item(s):
-[2026-05-06 20:49:29]   NEW: AG Fitch Urges CFTC to Recognize State Authority Over Sports-Related Prediction Markets (May 4, 2026) |  | https://attorneygenerallynnfitch.com/2026/05/04/ag-fitch-urges-cftc-to-recognize-state-authority-over-sports-related-prediction-markets-may-4-2026/
-[2026-05-06 20:49:29] [MO] Fetching https://ago.mo.gov/press-releases/
-[2026-05-06 20:49:29] [MO] Found 50 item(s) on page.
-[2026-05-06 20:49:29] [MO] No new items.
-[2026-05-06 20:49:29] [MT] Fetching https://dojmt.gov/category/press-release/
-[2026-05-06 20:49:29] [MT] Found 10 item(s) on page.
-[2026-05-06 20:49:29] [MT] No new items.
-[2026-05-06 20:49:29] [NE] Fetching https://ago.nebraska.gov/rss/news
-[2026-05-06 20:49:29] [NE] Found 10 item(s) on page.
-[2026-05-06 20:49:29] [NE] No new items.
-[2026-05-06 20:49:29] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
-[2026-05-06 20:49:30] [NV] Found 50 item(s) on page.
-[2026-05-06 20:49:30] [NV] No new items.
-[2026-05-06 20:49:30] [NH] Fetching https://www.doj.nh.gov/news-and-media/press-releases
-[2026-05-06 20:49:30]   Using Playwright headless browser for https://www.doj.nh.gov/news-and-media/press-releases
-[2026-05-06 20:49:33]   Playwright loaded page: 'Access Denied' (321 chars)
-[2026-05-06 20:49:33]   Playwright: page loaded but no links matched — check selectors
-[2026-05-06 20:49:33]   [NH] Playwright fetch failed, falling back to regular scrape
-[2026-05-06 20:49:33]   Attempt 1/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
-[2026-05-06 20:49:53]   Attempt 2/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
-[2026-05-06 20:50:13]   Attempt 3/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
-[2026-05-06 20:50:13] [NH] No items returned (fetch failed or empty page).
-[2026-05-06 20:50:13] [NJ] Fetching https://www.njoag.gov/news/
-[2026-05-06 20:50:14] [NJ] Found 5 item(s) on page.
-[2026-05-06 20:50:14] [NJ] No new items.
-[2026-05-06 20:50:14] [NM] Fetching https://nmdoj.gov/press-releases/
-[2026-05-06 20:50:15] [NM] Found 11 item(s) on page.
-[2026-05-06 20:50:15] [NM] 11 new item(s):
-[2026-05-06 20:50:15]   NEW: Raúl TorrezAttorney General |  | https://nmdoj.gov/meet-the-attorney-general
-[2026-05-06 20:50:15]   NEW: New Mexico Attorney General Raúl Torrez Joins Multistate Amicus; U.S. Supreme Court Issues Temporary Stay Preserving Access to Mifepristone |  | https://nmdoj.gov/press-release/new-mexico-attorney-general-raul-torrez-joins-multistate-amicus-u-s-supreme-court-issues-temporary-stay-preserving-access-to-mifepristone/
-[2026-05-06 20:50:15]   NEW: New Mexico Attorney General Raúl Torrez Secures Over $40 Million Settlement from Purdue Pharma and Sackler Family in Opioid Case |  | https://nmdoj.gov/press-release/new-mexico-attorney-general-raul-torrez-secures-over-40-million-settlement-from-purdue-pharma-and-sackler-family-in-opioid-case/
-[2026-05-06 20:50:15]   NEW: Statement from New Mexico Attorney General Raúl Torrez on  Meta’s Refusal to Protect Children |  | https://nmdoj.gov/press-release/statement-from-new-mexico-attorney-general-raul-torrez-on-metas-refusal-to-protect-children/
-[2026-05-06 20:50:15]   NEW: New Mexico Attorney General Raúl Torrez Secures 36-Year Sentence Against Serial Child Rapist |  | https://nmdoj.gov/press-release/new-mexico-attorney-general-raul-torrez-secures-36-year-sentence-against-serial-child-rapist/
-[2026-05-06 20:50:15]   NEW: Attorney General Raúl Torrez Takes Another Critical Step Toward Curbing Vaping Product Sales, Joins National Bipartisan Effort |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-takes-another-critical-step-toward-curbing-vaping-product-sales-joins-national-bipartisan-effort/
-[2026-05-06 20:50:15]   NEW: Attorney General Raúl Torrez Moves to Permanently Block President Trump’s Executive Order Restricting Mail Voting, Exerting Control over Elections |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-moves-to-permanently-block-president-trumps-executive-order-restricting-mail-voting-exerting-control-over-elections/
-[2026-05-06 20:50:15]   NEW: MEDIA ALERT: New Mexico Department of Justice Notches Another Victory in Critical Stream Access Case |  | https://nmdoj.gov/press-release/media-alert-new-mexico-department-of-justice-notches-another-victory-in-critical-stream-access-case/
-[2026-05-06 20:50:15]   NEW: Attorney General Raúl Torrez Announces Massive Multi-State Win; Jury Finds Live Nation Acts as an Illegal Monopoly |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-announces-massive-multi-state-win-jury-finds-live-nation-acts-as-an-illegal-monopoly/
-[2026-05-06 20:50:15]   NEW: Attorney General Raúl Torrez Secures $2.25 Million Settlement with Mylan Over EpiPen Pricing Practices |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-secures-2-25-million-settlement-with-mylan-over-epipen-pricing-practices/
-[2026-05-06 20:50:15]   NEW: Attorney General Raúl Torrez Joins U.S. Senators Durbin and Hawley, Advocates in Washington to Demand Congressional Action to Protect Children Online |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-joins-u-s-senators-durbin-and-hawley-advocates-in-washington-to-demand-congressional-action-to-protect-children-online/
-[2026-05-06 20:50:15] [NY] Fetching https://ag.ny.gov/press-releases
-[2026-05-06 20:50:15] [NY] Found 25 item(s) on page.
-[2026-05-06 20:50:15] [NY] 1 new item(s):
-[2026-05-06 20:50:15]   NEW: Attorney General James Stops Forged Temporary License Plate Scheme Operating in Brooklyn |  | https://ag.ny.gov/press-release/2026/attorney-general-james-stops-forged-temporary-license-plate-scheme-operating
-[2026-05-06 20:50:15] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
-[2026-05-06 20:50:22] [NC] Found 10 item(s) on page.
-[2026-05-06 20:50:22] [NC] No new items.
-[2026-05-06 20:50:22] [ND] Fetching https://attorneygeneral.nd.gov/news/
-[2026-05-06 20:50:23] [ND] Found 10 item(s) on page.
-[2026-05-06 20:50:23] [ND] 10 new item(s):
-[2026-05-06 20:50:23]   NEW: The North Dakota Attorney General issued an opinion to the Office of the State Tax Commissioner | April 27, 2026April 27, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-grand-forks-police-department-2/
-[2026-05-06 20:50:23]   NEW: The North Dakota Attorney General issued an opinion to the Grand Forks Police Department | March 23, 2026March 23, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-grand-forks-police-department/
-[2026-05-06 20:50:23]   NEW: The North Dakota Attorney General issued an opinion to the City of Mandan | March 23, 2026March 23, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-nd-state-city-of-mandan/
-[2026-05-06 20:50:23]   NEW: NORTH DAKOTANS WIN NEARLY A QUARTER MILLION DOLLARS | March 11, 2026March 16, 2026 | https://attorneygeneral.nd.gov/north-dakotans-win-nearly-a-quarter-million-dollars/
-[2026-05-06 20:50:23]   NEW: The North Dakota Attorney General issued an opinion to the ND State Auditor | March 4, 2026March 16, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-nd-state-auditor/
-[2026-05-06 20:50:23]   NEW: ATTORNEY GENERAL WRIGLEY ANNOUNCES ENFORCEMENT ACTION AGAINST BEULAH CVB FOLLOWING GAMING INVESTIGATION | March 2, 2026March 16, 2026 | https://attorneygeneral.nd.gov/attorney-general-wrigley-announces-enforcement-action-against-beulah-cvb-following-gaming-investigation/
-[2026-05-06 20:50:23]   NEW: The North Dakota Attorney General issued an opinion to the Mandan City Commission. | February 27, 2026March 16, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-mandan-city-commission/
-[2026-05-06 20:50:23]   NEW: Morton County did not violate North Dakota’s open records law when the County Auditor, within a reasonable time, informed the requester that the requested records were not in the County’s possession.. | February 27, 2026March 16, 2026 | https://attorneygeneral.nd.gov/morton-county-did-not-violate-north-dakotas-open-records-law-when-the-county-auditor-within-a-reasonable-time-informed-the-requester-that-the-requested-records-were-not-in-the-county/
-[2026-05-06 20:50:23]   NEW: ATTORNEY GENERAL WRIGLEY ANNOUNCES SETTLEMENT WITH COMPANY BEHIND DECEPTIVE INVOICE SOLICITATIONS | February 11, 2026March 16, 2026 | https://attorneygeneral.nd.gov/attorney-general-wrigley-announces-settlement-with-company-behind-deceptive-invoice-solicitations/
-[2026-05-06 20:50:23]   NEW: The North Dakota Attorney General issued an opinion to the Department of Health and Human Services. | January 30, 2026March 16, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-department-of-health-and-human-services/
-[2026-05-06 20:50:23] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
-[2026-05-06 20:50:23] [OH] Found 10 item(s) on page.
-[2026-05-06 20:50:23] [OH] No new items.
-[2026-05-06 20:50:23] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
-[2026-05-06 20:50:23] [OK] Found 9 item(s) on page.
-[2026-05-06 20:50:23] [OK] 9 new item(s):
-[2026-05-06 20:50:23]   NEW: Attorney General's Most Wanted |  | https://oklahoma.gov/oag/news/okmostwanted.html
-[2026-05-06 20:50:23]   NEW: Captured |  | https://oklahoma.gov/oag/news/okmostwanted/captured.html
-[2026-05-06 20:50:23]   NEW: Law Enforcement Request Form |  | https://oklahoma.gov/oag/news/okmostwanted/mw-request.html
-[2026-05-06 20:50:23]   NEW: Fighting the Opioid Epidemic |  | https://oklahoma.gov/oag/news/opioids.html
-[2026-05-06 20:50:23]   NEW: Generally Speaking |  | https://oklahoma.gov/oag/news/generallyspeaking.html
-[2026-05-06 20:50:23]   NEW: News Releases |  | https://oklahoma.gov/oag/news/newsreleases.html
-[2026-05-06 20:50:23]   NEW: Open Records Request |  | https://oklahoma.gov/oag/news/open-records-request.html
-[2026-05-06 20:50:23]   NEW: Open Records Act Request Form |  | https://oklahoma.gov/oag/news/open-records-request/ora-request.html
-[2026-05-06 20:50:23]   NEW: Download Open Records Act Fee Schedule |  | https://oklahoma.gov/oag/news/open-records-request/download-open-records-act-fee-schedule.html
-[2026-05-06 20:50:23] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
-[2026-05-06 20:50:24] [OR] Found 15 item(s) on page.
-[2026-05-06 20:50:24] [OR] 15 new item(s):
-[2026-05-06 20:50:24]   NEW: Oregon Department of Justice |  | https://www.doj.state.or.us/media
-[2026-05-06 20:50:24]   NEW: Sign Up For Media Releases |  | https://www.doj.state.or.us/media/news-media-releases/sign-up-for-media-releases/
-[2026-05-06 20:50:24]   NEW: Homepage |  | https://www.doj.state.or.us/media-home/news-media-releases/category/homepage/
-[2026-05-06 20:50:24]   NEW: U.S. Supreme Court Issues Temporary Stay on Restrictions on Mifepristone after Attorney General Rayfield and Coalition File Brief |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-brief-scotus-issues-temporary-stay-on-mifepristone-restrictions/
-[2026-05-06 20:50:24]   NEW: Oregon Department of Justice Secures Life Sentence for Coos County Woman Who Murdered Ex-Husband |  | https://www.doj.state.or.us/media-home/news-media-releases/odoj-secures-life-sentence-for-coos-county-woman-who-murdered-ex-husband/
-[2026-05-06 20:50:24]   NEW: AG Rayfield Calls on 5th Circuit to Immediately Stay Ruling that Blocks Access to Mifepristone |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-calls-for-stay-on-ruling-restricting-mifepristone-by-mail/
-[2026-05-06 20:50:24]   NEW: Lawsuits and Letters |  | https://www.doj.state.or.us/media-home/news-media-releases/category/lawsuit-and-letters/
-[2026-05-06 20:50:24]   NEW: Attorney General Rayfield, Expanding Bipartisan Coalition of State AGs Challenge Nexstar-Tegna Merger |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-and-expanding-bipartisan-coalition-challenge-nexstar-tegna-merger/
-[2026-05-06 20:50:24]   NEW: Oregon DOJ ICAC Task Force and Polk County DA Announce Child Sexual Abuse Material Charges Against Independence Man; Two Additional Indictments Obtained |  | https://www.doj.state.or.us/media-home/news-media-releases/oregon-doj-icac-task-force-arrests-independence-man/
-[2026-05-06 20:50:24]   NEW: Attorney General Rayfield Announces that Purdue/Sackler $7.4 Billion Opioid Settlement Takes Effect |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-announces-7-4b-purdue-sackler-opioid-settlement-now-in-effect/
-[2026-05-06 20:50:24]   NEW: Bankruptcy Court Orders Owner of Polluted Scrapyard to Surrender Property in North Portland, Allow Environmental Assessment |  | https://www.doj.state.or.us/media-home/news-media-releases/bankruptcy-court-orders-surrender-of-polluted-north-portland-scrapyard/
-[2026-05-06 20:50:24]   NEW: AG Rayfield Sues EPA Over Failure to Implement Life-Saving Clean Air Standard |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-sues-epa-over-failure-to-implement-life-saving-clean-air-standard/
-[2026-05-06 20:50:24]   NEW: Attorney General Rayfield Moves to Permanently Block President Trump’s Executive Order Restricting Mail Voting, Exerting Control over Elections |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-moves-to-permanently-block-trumps-order-restricting-mail-voting/
-[2026-05-06 20:50:24]   NEW: Oregon DOJ Secures 20-Year Sentence in 1983  Cold Case Homicide of Teresa Peroni |  | https://www.doj.state.or.us/media-home/news-media-releases/odoj-secures-20-year-sentence-in-1983-cold-case-homicide/
-[2026-05-06 20:50:24]   NEW: Prior Media Releases » |  | https://www.doj.state.or.us/media/news-media-releases/all-media-releases/?sf_paged=2
-[2026-05-06 20:50:24] [PA] Fetching https://www.attorneygeneral.gov/ta_cats/press-releases/
-[2026-05-06 20:50:26] [PA] No items returned (fetch failed or empty page).
-[2026-05-06 20:50:26] [RI] Fetching https://riag.ri.gov/press-releases.xml
-[2026-05-06 20:50:26] [RI] Found 10 item(s) on page.
-[2026-05-06 20:50:26] [RI] No new items.
-[2026-05-06 20:50:26] [SC] Fetching https://www.scag.gov/about-the-office/news/
-[2026-05-06 20:50:26] [SC] No items returned (fetch failed or empty page).
-[2026-05-06 20:50:26] [SD] Fetching https://atg.sd.gov/OurOffice/Media/pressreleases.aspx
-[2026-05-06 20:50:27] [SD] Found 50 item(s) on page.
-[2026-05-06 20:50:27] [SD] 50 new item(s):
-[2026-05-06 20:50:27]   NEW: Press Releases |  | https://atg.sd.gov/OurOffice/Media/pressreleases.aspx
-[2026-05-06 20:50:27]   NEW: April |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=4
-[2026-05-06 20:50:27]   NEW: March |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=3
-[2026-05-06 20:50:27]   NEW: February |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=2
-[2026-05-06 20:50:27]   NEW: January |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=1
-[2026-05-06 20:50:27]   NEW: December |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=12
-[2026-05-06 20:50:27]   NEW: November |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=11
-[2026-05-06 20:50:27]   NEW: October |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=10
-[2026-05-06 20:50:27]   NEW: September |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=9
-[2026-05-06 20:50:27]   NEW: August |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=8
-[2026-05-06 20:50:27]   NEW: April |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=4
-[2026-05-06 20:50:27]   NEW: March |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=3
-[2026-05-06 20:50:27]   NEW: February |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=2
-[2026-05-06 20:50:27]   NEW: January |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2025&month=1
-[2026-05-06 20:50:27]   NEW: December |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=12
-[2026-05-06 20:50:27]   NEW: November |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=11
-[2026-05-06 20:50:27]   NEW: October |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=10
-[2026-05-06 20:50:27]   NEW: September |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=9
-[2026-05-06 20:50:27]   NEW: August |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=8
-[2026-05-06 20:50:27]   NEW: April |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=4
-[2026-05-06 20:50:27]   NEW: March |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=3
-[2026-05-06 20:50:27]   NEW: February |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=2
-[2026-05-06 20:50:27]   NEW: January |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2024&month=1
-[2026-05-06 20:50:27]   NEW: December |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=12
-[2026-05-06 20:50:27]   NEW: November |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=11
-[2026-05-06 20:50:27]   NEW: October |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=10
-[2026-05-06 20:50:27]   NEW: September |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=9
-[2026-05-06 20:50:27]   NEW: August |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=8
-[2026-05-06 20:50:27]   NEW: April |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=4
-[2026-05-06 20:50:27]   NEW: March |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=3
-[2026-05-06 20:50:27]   NEW: February |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=2
-[2026-05-06 20:50:27]   NEW: January |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2023&month=1
-[2026-05-06 20:50:27]   NEW: December |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=12
-[2026-05-06 20:50:27]   NEW: November |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=11
-[2026-05-06 20:50:27]   NEW: October |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=10
-[2026-05-06 20:50:27]   NEW: September |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=9
-[2026-05-06 20:50:27]   NEW: August |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=8
-[2026-05-06 20:50:27]   NEW: April |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=4
-[2026-05-06 20:50:27]   NEW: March |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=3
-[2026-05-06 20:50:27]   NEW: February |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=2
-[2026-05-06 20:50:27]   NEW: January |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2022&month=1
-[2026-05-06 20:50:27]   NEW: December |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=12
-[2026-05-06 20:50:27]   NEW: November |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=11
-[2026-05-06 20:50:27]   NEW: October |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=10
-[2026-05-06 20:50:27]   NEW: September |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=9
-[2026-05-06 20:50:27]   NEW: August |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=8
-[2026-05-06 20:50:27]   NEW: April |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=4
-[2026-05-06 20:50:27]   NEW: March |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=3
-[2026-05-06 20:50:27]   NEW: February |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=2
-[2026-05-06 20:50:27]   NEW: January |  | https://atg.sd.gov/pressreleasearchive.aspx?year=2021&month=1
-[2026-05-06 20:50:27] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
-[2026-05-06 20:50:27]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-[2026-05-06 20:50:48] [TN] Found 50 item(s) on page.
-[2026-05-06 20:50:48] [TN] No new items.
-[2026-05-06 20:50:48] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
-[2026-05-06 20:50:48] [TX] Found 50 item(s) on page.
-[2026-05-06 20:50:48] [TX] No new items.
-[2026-05-06 20:50:48] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
-[2026-05-06 20:50:48] [UT] No items returned (fetch failed or empty page).
-[2026-05-06 20:50:48] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
-[2026-05-06 20:50:50] [VT] Found 50 item(s) on page.
-[2026-05-06 20:50:50] [VT] 50 new item(s):
-[2026-05-06 20:50:50]   NEW: Rutland City Police Officer Sentenced on Charge of Reckless Endangerment in Officer-Involved Shooting | DateMay 4, 2026 | https://ago.vermont.gov/blog/2026/05/04/rutland-city-police-officer-sentenced-charge-reckless-endangerment-officer-involved-shooting
-[2026-05-06 20:50:50]   NEW: Vergennes Resident Arrested for Domestic Assault | DateApril 29, 2026 | https://ago.vermont.gov/blog/2026/04/29/vergennes-resident-arrested-domestic-assault
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Announces $22 Million from Ongoing Settlement with Tobacco Manufacturers and Calls for Greater Scrutiny of Vape Market | DateApril 27, 2026 | https://ago.vermont.gov/blog/2026/04/27/attorney-general-clark-announces-22-million-ongoing-settlement-tobacco-manufacturers-and-calls
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Joins Multistate Coalition Opposing Federal Rule That Would Harm Workers, Make Worker Misclassification Easier | DateApril 27, 2026 | https://ago.vermont.gov/blog/2026/04/27/attorney-general-clark-joins-multistate-coalition-opposing-federal-rule-would-harm-workers-make
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Opposes Barriers to Legal Work Authorization for Asylum Seekers | DateApril 27, 2026 | https://ago.vermont.gov/blog/2026/04/27/attorney-general-clark-opposes-barriers-legal-work-authorization-asylum-seekers
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Moves to Permanently Block President Trump's Executive order Restricting Mail Voting, Exerting Control over Elections | DateApril 24, 2026 | https://ago.vermont.gov/blog/2026/04/24/attorney-general-clark-moves-permanently-block-president-trumps-executive-order-restricting-mail
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Sues Trump Administration Over Failure to Implement Life-Saving Soot Standard | DateApril 24, 2026 | https://ago.vermont.gov/blog/2026/04/24/attorney-general-clark-sues-trump-administration-over-failure-implement-life-saving-soot-standard
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Announces Conclusion of Sixth Annual Earth Day Essay Challenge | DateApril 22, 2026 | https://ago.vermont.gov/blog/2026/04/22/attorney-general-clark-announces-conclusion-sixth-annual-earth-day-essay-challenge
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Opposes Federal Effort to Strip Housing Support for Mixed-Status Immigrant Households | DateApril 21, 2026 | https://ago.vermont.gov/blog/2026/04/21/attorney-general-clark-opposes-federal-effort-strip-housing-support-mixed-status-immigrant
-[2026-05-06 20:50:50]   NEW: Burlington Resident Arrested for Sexual Exploitation of Children | DateApril 20, 2026 | https://ago.vermont.gov/blog/2026/04/20/burlington-resident-arrested-sexual-exploitation-children
-[2026-05-06 20:50:50]   NEW: Attorney General Clark and Coalition Win Lawsuit Protecting Gender-Affirming Care | DateApril 20, 2026 | https://ago.vermont.gov/blog/2026/04/20/attorney-general-clark-and-coalition-win-lawsuit-protecting-gender-affirming-care
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Calls on Consumer Financial Protection Bureau to Abandon Plan to Decimate Enforcement, Consumer Protection | DateApril 17, 2026 | https://ago.vermont.gov/blog/2026/04/17/attorney-general-clark-calls-consumer-financial-protection-bureau-abandon-plan-decimate-enforcement
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Defends Temporary Protected Status for Immigrants from Somalia | DateApril 16, 2026 | https://ago.vermont.gov/blog/2026/04/16/attorney-general-clark-defends-temporary-protected-status-immigrants-somalia
-[2026-05-06 20:50:50]   NEW: Attorney General’s Office Settles Agricultural Water Quality Case | DateApril 16, 2026 | https://ago.vermont.gov/blog/2026/04/16/attorney-generals-office-settles-agricultural-water-quality-case
-[2026-05-06 20:50:50]   NEW: Attorney General Clark and Coalition of States Win Trial Against Live Nation and Ticketmaster | DateApril 15, 2026 | https://ago.vermont.gov/blog/2026/04/15/attorney-general-clark-and-coalition-states-win-trial-against-live-nation-and-ticketmaster
-[2026-05-06 20:50:50]   NEW: Former Ferrisburgh Jolley / Stewart’s Shops Employee Convicted of Embezzlement | DateApril 13, 2026 | https://ago.vermont.gov/blog/2026/04/13/former-ferrisburgh-jolley-stewarts-shops-employee-convicted-embezzlement
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Urges Supreme Court to Preserve Temporary Protected Status for Haitians and Syrians | DateApril 13, 2026 | https://ago.vermont.gov/blog/2026/04/13/attorney-general-clark-urges-supreme-court-preserve-temporary-protected-status-haitians-and-syrians
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Joins Multistate Coalition Urging the Court to Uphold Constitutional Safeguards Against Tyranny of Trump Administration | DateApril 7, 2026 | https://ago.vermont.gov/blog/2026/04/07/attorney-general-clark-joins-multistate-coalition-urging-court-uphold-constitutional-safeguards
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Sues Trump Administration Over Mail-In Voting Executive Order | DateApril 3, 2026 | https://ago.vermont.gov/blog/2026/04/03/attorney-general-clark-sues-trump-administration-over-mail-voting-executive-order
-[2026-05-06 20:50:50]   NEW: Fair Haven Resident Sentenced to Probation for Possession of Child Sexual Abuse Materials | DateApril 3, 2026 | https://ago.vermont.gov/blog/2026/04/03/fair-haven-resident-sentenced-probation-possession-child-sexual-abuse-materials
-[2026-05-06 20:50:50]   NEW: Attorney General Clark and Coalition Support Law Firms Targeted for Retribution by Trump Administration | DateApril 3, 2026 | https://ago.vermont.gov/blog/2026/04/03/attorney-general-clark-and-coalition-support-law-firms-targeted-retribution-trump-administration
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Joins Multistate Coalition Defending States' Rights to Protect Public Health in U.S. Supreme Court | DateApril 1, 2026 | https://ago.vermont.gov/blog/2026/04/01/attorney-general-clark-joins-multistate-coalition-defending-states-rights-protect-public-health-us
-[2026-05-06 20:50:50]   NEW: Derby Line Resident Charged with Luring a Child and Possession of Child Sexual Abuse Materials | DateApril 1, 2026 | https://ago.vermont.gov/blog/2026/04/01/derby-line-resident-charged-luring-child-and-possession-child-sexual-abuse-materials
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Wins Appeals Court Ruling Against HUD Over Housing-Assistance Programs | DateApril 1, 2026 | https://ago.vermont.gov/blog/2026/04/01/attorney-general-clark-wins-appeals-court-ruling-against-hud-over-housing-assistance-programs
-[2026-05-06 20:50:50]   NEW: Joint Statement by 24 Attorneys General on Trump v. Barbara Oral Argument | DateApril 1, 2026 | https://ago.vermont.gov/blog/2026/04/01/joint-statement-24-attorneys-general-trump-v-barbara-oral-argument
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Joins Lawsuit Challenging Rollback of Limits on Dangerous Emissions of Mercury and Other Hazardous Air Pollutants from Power Plants | DateMarch 31, 2026 | https://ago.vermont.gov/blog/2026/03/31/attorney-general-clark-joins-lawsuit-challenging-rollback-limits-dangerous-emissions-mercury-and
-[2026-05-06 20:50:50]   NEW: Salisbury Resident Charged with Sexual Assault | DateMarch 30, 2026 | https://ago.vermont.gov/blog/2026/03/30/salisbury-resident-charged-sexual-assault
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Opposes Proposal by Trump Administration Targeting Diversity, Equity, and Inclusion Programs | DateMarch 27, 2026 | https://ago.vermont.gov/blog/2026/03/27/attorney-general-clark-opposes-proposal-trump-administration-targeting-diversity-equity-and
-[2026-05-06 20:50:50]   NEW: Burlington Police Officer Charged with Reckless Endangerment in Non-Lethal, Officer-Involved Shooting | DateMarch 27, 2026 | https://ago.vermont.gov/blog/2026/03/27/burlington-police-officer-charged-reckless-endangerment-non-lethal-officer-involved-shooting
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Asks Court to Enforce Order Blocking HHS from Sharing Large Swaths of Medicaid Data with ICE | DateMarch 27, 2026 | https://ago.vermont.gov/blog/2026/03/27/attorney-general-clark-asks-court-enforce-order-blocking-hhs-sharing-large-swaths-medicaid-data-ice
-[2026-05-06 20:50:50]   NEW: North Ferrisburgh Resident Charged with Aggravated Sexual Assault | DateMarch 25, 2026 | https://ago.vermont.gov/blog/2026/03/25/north-ferrisburgh-resident-charged-aggravated-sexual-assault
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Calls on Congress to Close Loophole Enabling Federal Mass Surveillance | DateMarch 24, 2026 | https://ago.vermont.gov/blog/2026/03/24/attorney-general-clark-calls-congress-close-loophole-enabling-federal-mass-surveillance
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Sues Trump Administration for Holding Hostage Billions in Critical USDA Funding Nationwide | DateMarch 23, 2026 | https://ago.vermont.gov/blog/2026/03/23/attorney-general-clark-sues-trump-administration-holding-hostage-billions-critical-usda-funding
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Challenges Unlawful Rescission of Landmark 2009 Greenhouse Gas Endangerment Finding | DateMarch 19, 2026 | https://ago.vermont.gov/blog/2026/03/19/attorney-general-clark-challenges-unlawful-rescission-landmark-2009-greenhouse-gas-endangerment
-[2026-05-06 20:50:50]   NEW: Attorney General Clark and Coalition Secures Federal Court Order Protecting Gender Affirming Care | DateMarch 19, 2026 | https://ago.vermont.gov/blog/2026/03/19/attorney-general-clark-and-coalition-secures-federal-court-order-protecting-gender-affirming-care
-[2026-05-06 20:50:50]   NEW: Vergennes Resident Charged with Human Trafficking | DateMarch 18, 2026 | https://ago.vermont.gov/blog/2026/03/18/vergennes-resident-charged-human-trafficking
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Calls on EPA to Resume Enforcement Activity | DateMarch 18, 2026 | https://ago.vermont.gov/blog/2026/03/18/attorney-general-clark-calls-epa-resume-enforcement-activity
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Calls on Congress to Pass Legislation Requiring Tariff Refunds | DateMarch 18, 2026 | https://ago.vermont.gov/blog/2026/03/18/attorney-general-clark-calls-congress-pass-legislation-requiring-tariff-refunds
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Joins Multistate Opposition to Trump Administration's Attacks on Independent Professional Medical Organizations | DateMarch 17, 2026 | https://ago.vermont.gov/blog/2026/03/17/attorney-general-clark-joins-multistate-opposition-trump-administrations-attacks-independent
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Announces Win in Federal Funding Freeze Case | DateMarch 16, 2026 | https://ago.vermont.gov/blog/2026/03/16/attorney-general-clark-announces-win-federal-funding-freeze-case
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Says Proposed Federal EV Charger Manufacturing Rule Sets 'Impossible' Standard | DateMarch 16, 2026 | https://ago.vermont.gov/blog/2026/03/16/attorney-general-clark-says-proposed-federal-ev-charger-manufacturing-rule-sets-impossible-standard
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Sues Trump Administration Over Attack on Fair Housing Laws | DateMarch 16, 2026 | https://ago.vermont.gov/blog/2026/03/16/attorney-general-clark-sues-trump-administration-over-attack-fair-housing-laws
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Urges Supreme Court to Preserve Block on Trump Administration's Unlawful Termination of Temporary Protected Status for Haitian Nationals | DateMarch 16, 2026 | https://ago.vermont.gov/blog/2026/03/16/attorney-general-clark-urges-supreme-court-preserve-block-trump-administrations-unlawful-termination
-[2026-05-06 20:50:50]   NEW: Attorney General’s Office Concludes Review of Ludlow Police Officer-Involved Shooting and Deems Use of Force Justified | DateMarch 13, 2026 | https://ago.vermont.gov/blog/2026/03/13/attorney-generals-office-concludes-review-ludlow-police-officer-involved-shooting-and-deems-use
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Seeks Court Order to Stop the Trump Administration's Illegal Tariffs | DateMarch 13, 2026 | https://ago.vermont.gov/blog/2026/03/13/attorney-general-clark-seeks-court-order-stop-trump-administrations-illegal-tariffs
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Announces $480,000 Settlement with United Counseling Services Over Public Safety Failures | DateMarch 12, 2026 | https://ago.vermont.gov/blog/2026/03/12/attorney-general-clark-announces-480000-settlement-united-counseling-services-over-public-safety
-[2026-05-06 20:50:50]   NEW: Barre Resident Sentenced to Probation for Possession of Child Sexual Abuse Materials | DateMarch 11, 2026 | https://ago.vermont.gov/blog/2026/03/11/barre-resident-sentenced-probation-possession-child-sexual-abuse-materials
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Sues Trump Administration to Stop Unlawful Data Demand to Colleges and Universities | DateMarch 11, 2026 | https://ago.vermont.gov/blog/2026/03/11/attorney-general-clark-sues-trump-administration-stop-unlawful-data-demand-colleges-and-universities
-[2026-05-06 20:50:50]   NEW: Attorney General Clark Joins Coalition Standing Up to Trump Administration Attacks on Professional Medical Organizations | DateMarch 10, 2026 | https://ago.vermont.gov/blog/2026/03/10/attorney-general-clark-joins-coalition-standing-trump-administration-attacks-professional-medical
-[2026-05-06 20:50:50]   NEW: Granville Resident Sentenced to Probation for Reckless Endangerment and Simple Assault | DateMarch 9, 2026 | https://ago.vermont.gov/blog/2026/03/09/granville-resident-sentenced-probation-reckless-endangerment-and-simple-assault
-[2026-05-06 20:50:50] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
-[2026-05-06 20:50:51] [VA] Found 50 item(s) on page.
-[2026-05-06 20:50:51] [VA] No new items.
-[2026-05-06 20:50:51] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
-[2026-05-06 20:50:51] [WA] Found 15 item(s) on page.
-[2026-05-06 20:50:51] [WA] No new items.
-[2026-05-06 20:50:51] [WV] Fetching https://ago.wv.gov/news
-[2026-05-06 20:50:51] [WV] No items returned (fetch failed or empty page).
-[2026-05-06 20:50:51] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
-[2026-05-06 20:50:53] [WI] Found 1 item(s) on page.
-[2026-05-06 20:50:53] [WI] 1 new item(s):
-[2026-05-06 20:50:53]   NEW: Press Releases |  | https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
-[2026-05-06 20:50:53] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
-[2026-05-06 20:50:53] [WY] Found 2 item(s) on page.
-[2026-05-06 20:50:53] [WY] 2 new item(s):
-[2026-05-06 20:50:53]   NEW: Meta Investment Scam Press Release |  | https://sites.google.com/a/wyo.gov/wy-ag/law-office-division/meta-investment-scam-press-release
-[2026-05-06 20:50:53]   NEW: Press Release |  | https://sites.google.com/a/wyo.gov/wy-ag/press-releases
-[2026-05-06 20:50:53] States with fetch errors: AL, ID, KS, MI, NH, PA, SC, UT, WV
-[2026-05-06 20:50:53] Sending email: 244 new item(s) across 16 state(s).
-[2026-05-06 20:50:55] Email sent.
-[2026-05-06 20:50:55] Done.
+[2026-05-06 16:35:49] Seeding AG press releases...
+[2026-05-06 16:35:49] Checking 18 state(s).
+[2026-05-06 16:35:49] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-05-06 16:35:50] [AL] No items returned (fetch failed or empty page).
+[2026-05-06 16:35:50] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-05-06 16:35:50] [AZ] Found 10 item(s) on page.
+[2026-05-06 16:35:50] [AZ] Seed mode: marking 10 items as seen.
+[2026-05-06 16:35:50] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-05-06 16:35:52] [AR] Found 50 item(s) on page.
+[2026-05-06 16:35:52] [AR] Seed mode: marking 50 items as seen.
+[2026-05-06 16:35:52] [ID] Fetching https://www.ag.idaho.gov/newsroom/
+[2026-05-06 16:35:53] [ID] No items returned (fetch failed or empty page).
+[2026-05-06 16:35:53] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-05-06 16:35:54] [IA] Found 10 item(s) on page.
+[2026-05-06 16:35:54] [IA] Seed mode: marking 10 items as seen.
+[2026-05-06 16:35:54] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-05-06 16:35:55] [MI] No items returned (fetch failed or empty page).
+[2026-05-06 16:35:55] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-05-06 16:35:55] [MS] Found 1 item(s) on page.
+[2026-05-06 16:35:55] [MS] Seed mode: marking 1 items as seen.
+[2026-05-06 16:35:55] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-05-06 16:35:56] [NM] Found 11 item(s) on page.
+[2026-05-06 16:35:56] [NM] Seed mode: marking 11 items as seen.
+[2026-05-06 16:35:56] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-05-06 16:35:57] [ND] Found 10 item(s) on page.
+[2026-05-06 16:35:57] [ND] Seed mode: marking 10 items as seen.
+[2026-05-06 16:35:57] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-06 16:35:57] [OK] Found 9 item(s) on page.
+[2026-05-06 16:35:57] [OK] Seed mode: marking 9 items as seen.
+[2026-05-06 16:35:57] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-05-06 16:35:59] [OR] Found 15 item(s) on page.
+[2026-05-06 16:35:59] [OR] Seed mode: marking 15 items as seen.
+[2026-05-06 16:35:59] [PA] Fetching https://www.attorneygeneral.gov/ta_cats/press-releases/
+[2026-05-06 16:36:01] [PA] No items returned (fetch failed or empty page).
+[2026-05-06 16:36:01] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-06 16:36:02] [SC] No items returned (fetch failed or empty page).
+[2026-05-06 16:36:02] [SD] Fetching https://atg.sd.gov/OurOffice/Media/pressreleases.aspx
+[2026-05-06 16:36:04] [SD] Found 50 item(s) on page.
+[2026-05-06 16:36:04] [SD] Seed mode: marking 50 items as seen.
+[2026-05-06 16:36:04] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-05-06 16:36:06] [VT] Found 50 item(s) on page.
+[2026-05-06 16:36:06] [VT] Seed mode: marking 50 items as seen.
+[2026-05-06 16:36:06] [WV] Fetching https://ago.wv.gov/news
+[2026-05-06 16:36:07] [WV] No items returned (fetch failed or empty page).
+[2026-05-06 16:36:07] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-06 16:36:20] [WI] Found 1 item(s) on page.
+[2026-05-06 16:36:20] [WI] Seed mode: marking 1 items as seen.
+[2026-05-06 16:36:20] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-05-06 16:36:22] [WY] Found 2 item(s) on page.
+[2026-05-06 16:36:22] [WY] Seed mode: marking 2 items as seen.
+[2026-05-06 16:36:22] States with fetch errors: AL, ID, MI, PA, SC, WV
+[2026-05-06 16:36:22] Done.
+[2026-05-06 16:39:47] Seeding AG press releases...
+[2026-05-06 16:39:47] Checking 3 state(s).
+[2026-05-06 16:39:47] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:39:47]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:39:51]   Playwright fetch failed for https://ag.ks.gov/about-the-office/news/press-releases: BrowserType.launch: Executable doesn't exist at C:\Users\lbald\AppData\Local\ms-playwright\chromium_headless_shell-1217\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+[2026-05-06 16:39:51]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 16:39:52]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:40:13]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:40:33]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:40:33] [KS] No items returned (fetch failed or empty page).
+[2026-05-06 16:40:33] [MA] Fetching https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:40:33]   Using Playwright headless browser for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:40:34]   Playwright fetch failed for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general: BrowserType.launch: Executable doesn't exist at C:\Users\lbald\AppData\Local\ms-playwright\chromium_headless_shell-1217\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+[2026-05-06 16:40:34]   [MA] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 16:40:34]   Attempt 1/3 failed for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general: 403 Client Error: Forbidden for url: https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:40:54]   Attempt 2/3 failed for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general: 403 Client Error: Forbidden for url: https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:41:15]   Attempt 3/3 failed for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general: 403 Client Error: Forbidden for url: https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:41:15] [MA] No items returned (fetch failed or empty page).
+[2026-05-06 16:41:15] [NH] Fetching https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:41:15]   Using Playwright headless browser for https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:41:15]   Playwright fetch failed for https://www.doj.nh.gov/news-and-media/press-releases: BrowserType.launch: Executable doesn't exist at C:\Users\lbald\AppData\Local\ms-playwright\chromium_headless_shell-1217\chrome-headless-shell-win64\chrome-headless-shell.exe
+╔════════════════════════════════════════════════════════════╗
+║ Looks like Playwright was just installed or updated.       ║
+║ Please run the following command to download new browsers: ║
+║                                                            ║
+║     playwright install                                     ║
+║                                                            ║
+║ <3 Playwright Team                                         ║
+╚════════════════════════════════════════════════════════════╝
+[2026-05-06 16:41:15]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 16:41:16]   Attempt 1/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:41:36]   Attempt 2/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:41:57]   Attempt 3/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:41:57] [NH] No items returned (fetch failed or empty page).
+[2026-05-06 16:41:57] States with fetch errors: KS, MA, NH
+[2026-05-06 16:41:57] Done.
+[2026-05-06 16:43:29] Seeding AG press releases...
+[2026-05-06 16:43:29] Checking 3 state(s).
+[2026-05-06 16:43:29] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:43:29]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:43:34]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 16:43:35]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:43:55]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:44:16]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:44:16] [KS] No items returned (fetch failed or empty page).
+[2026-05-06 16:44:16] [MA] Fetching https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:44:16]   Using Playwright headless browser for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:44:19]   [MA] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 16:44:20]   Attempt 1/3 failed for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general: 403 Client Error: Forbidden for url: https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:44:40]   Attempt 2/3 failed for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general: 403 Client Error: Forbidden for url: https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:45:00]   Attempt 3/3 failed for https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general: 403 Client Error: Forbidden for url: https://www.mass.gov/lists/press-releases-from-the-office-of-attorney-general
+[2026-05-06 16:45:00] [MA] No items returned (fetch failed or empty page).
+[2026-05-06 16:45:00] [NH] Fetching https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:45:00]   Using Playwright headless browser for https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:45:03]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 16:45:04]   Attempt 1/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:45:25]   Attempt 2/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:45:45]   Attempt 3/3 failed for https://www.doj.nh.gov/news-and-media/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/news-and-media/press-releases
+[2026-05-06 16:45:45] [NH] No items returned (fetch failed or empty page).
+[2026-05-06 16:45:45] States with fetch errors: KS, MA, NH
+[2026-05-06 16:45:45] Done.
+[2026-05-06 16:46:26] Seeding AG press releases...
+[2026-05-06 16:46:26] Checking 1 state(s).
+[2026-05-06 16:46:26] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:46:26]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:46:29]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-05-06 16:46:29]   Playwright: page loaded but no links matched — check selectors
+[2026-05-06 16:46:29]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-06 16:46:31]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:46:52]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:47:13]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-06 16:47:13] [KS] No items returned (fetch failed or empty page).
+[2026-05-06 16:47:13] States with fetch errors: KS
+[2026-05-06 16:47:13] Done.

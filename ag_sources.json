@@ -4,10 +4,11 @@
     "abbr": "AL",
     "press_url": "https://www.alabamaag.gov/news/",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
     "item_selector": "h2 a, h3 a, article a",
     "base_url": "https://www.alabamaag.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "JavaScript-rendered; uses Playwright"
   },
   {
     "state": "Alaska",
@@ -112,12 +113,12 @@
   {
     "state": "Idaho",
     "abbr": "ID",
-    "press_url": "https://www.ag.idaho.gov/newsroom/",
+    "press_url": "https://www.ag.idaho.gov/newsroom/category/press-releases/",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "h3 a, h2 a",
+    "item_selector": "h3 a, h2 a, .entry-title a",
     "base_url": "https://www.ag.idaho.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "Category page filters to press releases only"
   },
   {
     "state": "Illinois",
@@ -216,10 +217,11 @@
     "abbr": "MI",
     "press_url": "https://www.michigan.gov/ag/news/press-releases",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
     "item_selector": "a[href*='/press-releases/'], h3 a, h2 a",
     "base_url": "https://www.michigan.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "JavaScript-rendered; uses Playwright"
   },
   {
     "state": "Minnesota",
@@ -375,12 +377,12 @@
   {
     "state": "Pennsylvania",
     "abbr": "PA",
-    "press_url": "https://www.attorneygeneral.gov/ta_cats/press-releases/",
+    "press_url": "https://www.attorneygeneral.gov/taking-action/",
     "rss_url": null,
     "container_selector": null,
-    "item_selector": "h2 a, h3 a, article a",
+    "item_selector": "a[href*='/press-release'], a[href*='/taking-action/'], h2 a, h3 a",
     "base_url": "https://www.attorneygeneral.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "Updated URL from user"
   },
   {
     "state": "Rhode Island",
@@ -397,10 +399,11 @@
     "abbr": "SC",
     "press_url": "https://www.scag.gov/about-the-office/news/",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
-    "item_selector": "h2 a, h3 a",
+    "item_selector": "h2 a, h3 a, article a",
     "base_url": "https://www.scag.gov",
-    "notes": "Confirmed. Article card layout, paginated"
+    "notes": "JavaScript-rendered; uses Playwright"
   },
   {
     "state": "South Dakota",
@@ -438,10 +441,11 @@
     "abbr": "UT",
     "press_url": "https://attorneygeneral.utah.gov/newsroom/",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
-    "item_selector": "h2 a, h3 a",
+    "item_selector": "h2 a, h3 a, .elementor-post__title a",
     "base_url": "https://attorneygeneral.utah.gov",
-    "notes": "Confirmed. Elementor page builder, card layout with READ MORE links"
+    "notes": "JavaScript-rendered (Elementor); uses Playwright"
   },
   {
     "state": "Vermont",
@@ -478,10 +482,11 @@
     "abbr": "WV",
     "press_url": "https://ago.wv.gov/news",
     "rss_url": null,
+    "use_playwright": true,
     "container_selector": null,
     "item_selector": "h2 a, h3 a, article a",
     "base_url": "https://ago.wv.gov",
-    "notes": "Confirmed URL from user"
+    "notes": "JavaScript-rendered; uses Playwright"
   },
   {
     "state": "Wisconsin",
