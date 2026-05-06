@@ -5,10 +5,11 @@
     "press_url": "https://www.alabamaag.gov/news/",
     "rss_url": null,
     "use_playwright": true,
-    "container_selector": null,
-    "item_selector": "h2 a, h3 a, article a",
+    "container_selector": "main",
+    "item_selector": "a",
+    "item_url_pattern": "alabamaag\\.gov/[a-z].*-",
     "base_url": "https://www.alabamaag.gov",
-    "notes": "JavaScript-rendered; uses Playwright"
+    "notes": "Playwright; main container + URL pattern to exclude short nav slugs"
   },
   {
     "state": "Alaska",
@@ -116,10 +117,10 @@
     "press_url": "https://www.ag.idaho.gov/newsroom/category/press-releases/",
     "rss_url": null,
     "use_playwright": true,
-    "container_selector": null,
+    "container_selector": "main",
     "item_selector": "h3 a, h2 a, .entry-title a",
     "base_url": "https://www.ag.idaho.gov",
-    "notes": "JavaScript-rendered; uses Playwright"
+    "notes": "JavaScript-rendered; uses Playwright; main container to exclude nav"
   },
   {
     "state": "Illinois",
@@ -360,10 +361,11 @@
     "abbr": "OK",
     "press_url": "https://oklahoma.gov/oag/news/newsreleases.html",
     "rss_url": null,
-    "container_selector": null,
+    "use_playwright": true,
+    "container_selector": "main",
     "item_selector": "a[href*='/newsrelease/'], a[href*='/news/release'], h3 a, h2 a",
     "base_url": "https://oklahoma.gov",
-    "notes": "newsroom.html is a nav page; newsreleases.html has actual releases"
+    "notes": "JS-rendered; newsroom.html is a nav page; newsreleases.html has actual releases"
   },
   {
     "state": "Oregon",
@@ -380,10 +382,11 @@
     "abbr": "PA",
     "press_url": "https://www.attorneygeneral.gov/taking-action/",
     "rss_url": null,
-    "container_selector": null,
-    "item_selector": "a[href*='/press-release'], a[href*='/taking-action/'], h2 a, h3 a",
+    "container_selector": "main",
+    "item_selector": "a[href*='/taking-action/']",
+    "item_url_pattern": "taking-action/[a-z0-9-]+-[a-z0-9-]",
     "base_url": "https://www.attorneygeneral.gov",
-    "notes": "Updated URL from user"
+    "notes": "Updated URL from user; item_url_pattern requires multi-word slugs to skip nav links"
   },
   {
     "state": "Rhode Island",
@@ -401,21 +404,22 @@
     "press_url": "https://www.scag.gov/about-the-office/news/",
     "rss_url": null,
     "use_playwright": true,
-    "container_selector": null,
+    "container_selector": "main",
     "item_selector": "h2 a, h3 a, article a",
     "base_url": "https://www.scag.gov",
-    "notes": "JavaScript-rendered; uses Playwright"
+    "notes": "JavaScript-rendered; uses Playwright; main container to exclude nav"
   },
   {
     "state": "South Dakota",
     "abbr": "SD",
     "press_url": "https://atg.sd.gov/pressreleasearchive.aspx",
     "rss_url": null,
+    "use_playwright": true,
     "dynamic_url": "https://atg.sd.gov/pressreleasearchive.aspx?year={year}&month={month}",
     "container_selector": null,
     "item_selector": "a[href*='pressreleasedetail'], a[href*='PressReleaseDetail'], td a[href*='.aspx']",
     "base_url": "https://atg.sd.gov",
-    "notes": "Archive calendar; dynamic_url uses current month to get individual releases"
+    "notes": "Archive calendar; dynamic_url uses current month; Playwright for JS-rendered ASPX"
   },
   {
     "state": "Tennessee",
@@ -443,10 +447,10 @@
     "press_url": "https://attorneygeneral.utah.gov/newsroom/",
     "rss_url": null,
     "use_playwright": true,
-    "container_selector": null,
+    "container_selector": "main",
     "item_selector": "h2 a, h3 a, .elementor-post__title a",
     "base_url": "https://attorneygeneral.utah.gov",
-    "notes": "JavaScript-rendered (Elementor); uses Playwright"
+    "notes": "JavaScript-rendered (Elementor); uses Playwright; main container to exclude nav"
   },
   {
     "state": "Vermont",
@@ -484,10 +488,10 @@
     "press_url": "https://ago.wv.gov/news",
     "rss_url": null,
     "use_playwright": true,
-    "container_selector": null,
-    "item_selector": "h2 a, h3 a, article a",
+    "container_selector": "main",
+    "item_selector": "a[href*='/article/']",
     "base_url": "https://ago.wv.gov",
-    "notes": "JavaScript-rendered; uses Playwright"
+    "notes": "JavaScript-rendered; uses Playwright; real releases are at /article/ URLs"
   },
   {
     "state": "Wisconsin",
@@ -495,10 +499,10 @@
     "press_url": "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx",
     "rss_url": null,
     "use_playwright": true,
-    "container_selector": null,
-    "item_selector": "a[href*='/Pages/'], a[href*='/press-release'], td a",
+    "container_selector": "#s4-bodyContainer",
+    "item_selector": "td a, a[href*='/press-release']",
     "base_url": "https://www.wisdoj.gov",
-    "notes": "SharePoint site, JavaScript-rendered; uses Playwright"
+    "notes": "SharePoint site, JS-rendered; #s4-bodyContainer scopes away from nav; a[href*='/Pages/'] was too broad"
   },
   {
     "state": "Wyoming",

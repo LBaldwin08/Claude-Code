@@ -10,6 +10,7 @@ Run with --state AL,TX to only check specific states (comma-separated abbreviati
 
 import json
 import os
+import re
 import smtplib
 import sys
 import time
@@ -136,16 +137,26 @@ def parse_html_content(html, source, page_url):
 
     links = container.select(item_sel) if item_sel else container.find_all("a")
 
+    item_url_pattern = source.get("item_url_pattern")
+
     for link in links:
         href = link.get("href", "")
-        if not href or href.startswith("#") or href.startswith("mailto:"):
+        if not href or href.startswith("#") or href.startswith("mailto:") or href.startswith("tel:"):
             continue
 
         full_url = href if href.startswith("http") else urljoin(base_url, href)
 
+        # Skip self-links (the page linking back to itself)
+        if full_url.rstrip("/") == page_url.rstrip("/"):
+            continue
+
         parsed_base = urlparse(base_url)
         parsed_link = urlparse(full_url)
         if parsed_link.netloc and parsed_link.netloc != parsed_base.netloc:
+            continue
+
+        # Skip links that don't match the required URL pattern (if configured)
+        if item_url_pattern and not re.search(item_url_pattern, full_url):
             continue
 
         title = link.get_text(strip=True)
