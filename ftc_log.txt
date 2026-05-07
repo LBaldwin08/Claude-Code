@@ -1,0 +1,49 @@
+[2026-05-07 14:37:58] Checking for new FTC press releases...
+[2026-05-07 14:37:58] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-05-07 14:38:11] Playwright found 0 press release link(s).
+[2026-05-07 14:38:11] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-05-07 14:38:11] requests found 20 press release link(s).
+[2026-05-07 14:38:11] Found 20 press release(s) on page.
+[2026-05-07 14:38:11] 20 new press release(s)!
+[2026-05-07 14:38:11]   NEW: [2026-05-04T12:00:00Z] FTC to Ban Kochava and Subsidiary from Selling Sensitive Location Data to Settle Charges They Sold Location Data Linked to Millions of Mobile Devices
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-ban-kochava-subsidiary-selling-sensitive-location-data-settle-charges-they-sold-location-data
+[2026-05-07 14:38:11]   NEW: [2026-05-01T12:00:00Z] FTC Takes Action to Protect Consumers from Anticompetitive Effects of Micromarket Kiosks Deal
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-takes-action-protect-consumers-anticompetitive-effects-micromarket-kiosks-deal
+[2026-05-07 14:38:11]   NEW: [2026-05-01T12:00:00Z] FTC Urges Tennessee Supreme Court to  Oppose the ABA’s Law School Accreditation Monopoly
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-urges-tennessee-supreme-court-oppose-abas-law-school-accreditation-monopoly
+[2026-05-07 14:38:11]   NEW: [2026-05-01T12:00:00Z] FTC to Host Workshop on “Litigate the Fix” Merger Remedy Proposals
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-host-workshop-litigate-fix-merger-remedy-proposals
+[2026-05-07 14:38:11]   NEW: [2026-04-27T12:00:00Z] FTC Takes Action Against High-Level MLM Participants who Deceived Workers About the Amount of Money They Can Earn
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-high-level-mlm-participants-who-deceived-workers-about-amount-money-they
+[2026-05-07 14:38:11]   NEW: [2026-04-27T12:00:00Z] New FTC Data Show People Have Lost Billions to Social Media Scams
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/new-ftc-data-show-people-have-lost-billions-social-media-scams
+[2026-05-07 14:38:11]   NEW: [2026-04-23T12:00:00Z] FTC Charts Path to Restore Competition in Texas Anesthesia Markets in USAP Litigation
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-charts-path-restore-competition-texas-anesthesia-markets-usap-litigation
+[2026-05-07 14:38:11]   NEW: [2026-04-22T12:00:00Z] FTC Sues to Stop Deceptive Health Care Scheme
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-sues-stop-deceptive-health-care-scheme
+[2026-05-07 14:38:11]   NEW: [2026-04-20T12:00:00Z] Court Orders Operator of Timeshare Exit Scheme to Pay $140 Million Related to FTC Allegations the Scheme Took Millions from Consumers
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/court-orders-operator-timeshare-exit-scheme-pay-140-million-related-ftc-allegations-scheme-took
+[2026-05-07 14:38:11]   NEW: [2026-04-17T12:00:00Z] FTC and DOJ Extend Deadline for Public Comment on Guidance on Business Collaborations
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-doj-extend-deadline-public-comment-guidance-business-collaborations
+[2026-05-07 14:38:11]   NEW: [2026-04-16T12:00:00Z] FTC Stops Operation that Allegedly Targeted People Seeking Student Loan Debt Relief
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-stops-operation-allegedly-targeted-people-seeking-student-loan-debt-relief
+[2026-05-07 14:38:11]   NEW: [2026-04-15T12:00:00Z] FTC Testifies Before Senate Commerce, Science and Transportation Committee
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-testifies-senate-commerce-science-transportation-committee
+[2026-05-07 14:38:11]   NEW: [2026-04-15T12:00:00Z] FTC Takes Action Against Noncompete Agreements, Securing Protections for Workers
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-noncompete-agreements-securing-protections-workers
+[2026-05-07 14:38:11]   NEW: [2026-04-15T12:00:00Z] FTC Takes Action to Restore Competition in the Digital Advertising Ecosystem
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-restore-competition-digital-advertising-ecosystem
+[2026-05-07 14:38:11]   NEW: [2026-04-14T12:00:00Z] FTC Seeks Public Comment on Unfair and Deceptive Fee Practices in Online Food and Grocery Delivery Services
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-seeks-public-comment-unfair-deceptive-fee-practices-online-food-grocery-delivery-services
+[2026-05-07 14:38:11]   NEW: [2026-04-14T12:00:00Z] FTC Announces “Made in the USA” Sweep, Including Three Law Enforcement Actions to Protect American Consumers and Businesses
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-announces-made-usa-sweep-including-three-law-enforcement-actions-protect-american-consumers
+[2026-05-07 14:38:11]   NEW: [2026-04-14T12:00:00Z] FTC Order to Prohibit Forever Living and its Operators from Deceiving Consumers about Potential Earnings
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-order-prohibit-forever-living-its-operators-deceiving-consumers-about-potential-earnings
+[2026-05-07 14:38:11]   NEW: [2026-04-13T12:00:00Z] FTC Issues Order Approving 2026 Horseracing Integrity and Safety Authority Budget
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-issues-order-approving-2026-horseracing-integrity-safety-authority-budget
+[2026-05-07 14:38:11]   NEW: [2026-04-13T12:00:00Z] Publishing.com to Pay $1.5 Million for Misleading Consumers about How Much Income They Could Earn Using the Company’s Products and Services
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/publishingcom-pay-15-million-misleading-consumers-about-how-much-income-they-could-earn-using
+[2026-05-07 14:38:11]   NEW: [2026-04-13T12:00:00Z] FTC Takes Action Against TruHeight for Deceptive and Unsubstantiated Advertising of Supposed Height-Enhancing Supplements for Kids and Teens
+[2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-truheight-deceptive-unsubstantiated-advertising-supposed-height-enhancing
+[2026-05-07 14:38:12] Email notification sent.
+[2026-05-07 14:38:12] Done.
