@@ -47,3 +47,16 @@
 [2026-05-07 14:38:11]        https://www.ftc.gov/news-events/news/press-releases/2026/04/ftc-takes-action-against-truheight-deceptive-unsubstantiated-advertising-supposed-height-enhancing
 [2026-05-07 14:38:12] Email notification sent.
 [2026-05-07 14:38:12] Done.
+[2026-05-07 19:28:41] Checking for new FTC press releases...
+[2026-05-07 19:28:41] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-05-07 19:28:54] Playwright found 0 press release link(s).
+[2026-05-07 19:28:54] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-05-07 19:28:54] requests found 20 press release link(s).
+[2026-05-07 19:28:54] Found 20 press release(s) on page.
+[2026-05-07 19:28:54] 2 new press release(s)!
+[2026-05-07 19:28:54]   NEW: [2026-05-07T12:00:00Z] FTC to Co-Host Workshop on Financial Services with Institute for Consumer Financial Choice on May 14-15
+[2026-05-07 19:28:54]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-co-host-workshop-financial-services-institute-consumer-financial-choice-may-14-15
+[2026-05-07 19:28:54]   NEW: [2026-05-07T12:00:00Z] FTC Finalizes Consent Order in Valvoline-Greenbriar Deal
+[2026-05-07 19:28:54]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-finalizes-consent-order-valvoline-greenbriar-deal
+[2026-05-07 19:28:55] Email notification sent.
+[2026-05-07 19:28:55] Done.
