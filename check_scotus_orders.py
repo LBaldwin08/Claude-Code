@@ -360,5 +360,33 @@ def main(seed=False):
     log("Done.")
 
 
+def test_email():
+    """Fetch the page and send a test email with the first order found. State is not modified."""
+    log("Test mode: fetching orders to send a test email...")
+    try:
+        items = fetch_orders()
+    except Exception as e:
+        log(f"ERROR fetching orders: {e}")
+        sys.exit(1)
+
+    if not items:
+        log("No orders found on page — cannot send test email.")
+        sys.exit(1)
+
+    item = items[0]
+    item = dict(item)
+    item["title"] = f"[TEST] {item['title']}"
+    log(f"Sending test email for: {item['title']}")
+    try:
+        send_email([item])
+        log("Test email sent.")
+    except Exception as e:
+        log(f"ERROR sending test email: {e}")
+        sys.exit(1)
+
+
 if __name__ == "__main__":
-    main(seed="--seed" in sys.argv)
+    if "--test" in sys.argv:
+        test_email()
+    else:
+        main(seed="--seed" in sys.argv)
