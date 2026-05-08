@@ -4,7 +4,12 @@ on:
   schedule:
     - cron: '0 15 * * *'   # 10am EST (UTC-5, Nov–Mar)
     - cron: '0 14 * * *'   # 10am EDT (UTC-4, Mar–Nov)
-  workflow_dispatch:         # allow manual runs from GitHub UI
+  workflow_dispatch:
+    inputs:
+      test_mode:
+        description: 'Send a test email (does not update state)'
+        type: boolean
+        default: false
 
 concurrency:
   group: scotus-monitor
@@ -35,7 +40,7 @@ jobs:
       - name: Run SCOTUS orders monitor
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: python check_scotus_orders.py
+        run: python check_scotus_orders.py ${{ inputs.test_mode == true && '--test' || '' }}
 
       - name: Commit updated state
         run: |
