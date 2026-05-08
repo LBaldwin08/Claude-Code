@@ -14,3 +14,11 @@
 [2026-05-08 14:52:16] Attempt 2/3 failed: 403 Client Error: Forbidden for url: https://www.supremecourt.gov/orders/ordersofthecourt/
 [2026-05-08 14:52:36] Attempt 3/3 failed: 403 Client Error: Forbidden for url: https://www.supremecourt.gov/orders/ordersofthecourt/
 [2026-05-08 14:52:36] No items returned (fetch failed or empty page). Skipping.
+[2026-05-08 15:03:03] First run detected — switching to seed mode to avoid email flood.
+[2026-05-08 15:03:03] Seeding Supreme Court orders...
+[2026-05-08 15:03:03] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-05-08 15:03:06] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-05-08 15:03:08] Playwright found 73 order(s).
+[2026-05-08 15:03:08] Found 73 order(s) on page.
+[2026-05-08 15:03:08] Seed mode: marking 73 order(s) as seen (no email sent).
+[2026-05-08 15:03:08] Done.
