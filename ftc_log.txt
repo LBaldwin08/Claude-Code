@@ -84,3 +84,14 @@
 [2026-05-08 13:12:58] Found 20 press release(s) on page.
 [2026-05-08 13:12:58] No new press releases.
 [2026-05-08 13:12:58] Done.
+[2026-05-08 16:20:47] Checking for new FTC press releases...
+[2026-05-08 16:20:47] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-05-08 16:21:01] Playwright found 0 press release link(s).
+[2026-05-08 16:21:01] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-05-08 16:21:02] requests found 20 press release link(s).
+[2026-05-08 16:21:02] Found 20 press release(s) on page.
+[2026-05-08 16:21:02] 1 new press release(s)!
+[2026-05-08 16:21:02]   NEW: [2026-05-08T12:00:00Z] FTC Chairman Ferguson Issues Noncompete Warning Letter to Mortgage Connect
+[2026-05-08 16:21:02]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-chairman-ferguson-issues-noncompete-warning-letter-mortgage-connect
+[2026-05-08 16:21:03] Email notification sent.
+[2026-05-08 16:21:03] Done.
