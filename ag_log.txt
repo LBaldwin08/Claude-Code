@@ -2330,3 +2330,221 @@
 [2026-05-07 19:53:19] Sending email: 26 new item(s) across 20 state(s).
 [2026-05-07 19:53:20] Email sent.
 [2026-05-07 19:53:20] Done.
+[2026-05-08 03:41:46] Checking for new AG press releases...
+[2026-05-08 03:41:46] Checking 50 state(s).
+[2026-05-08 03:41:46] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-05-08 03:41:46]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-05-08 03:41:50]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (217971 chars)
+[2026-05-08 03:41:50]   Playwright found 27 item(s) with configured selector
+[2026-05-08 03:41:50] [AL] Found 27 item(s) on page.
+[2026-05-08 03:41:50] [AL] 1 new item(s):
+[2026-05-08 03:41:50]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-fights-to-return-alabama-senate-map-to-hands-of-elected-representatives/
+[2026-05-08 03:41:50] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-05-08 03:41:50] [AK] Found 50 item(s) on page.
+[2026-05-08 03:41:50] [AK] 1 new item(s):
+[2026-05-08 03:41:50]   NEW: State of Alaska Moves to Dismiss Litigation Challenging Federal Decision Authorizing 1.4 Million Acre Transfer along Dalton Utility Corridor |  | https://law.alaska.gov/releases/2026/050726-Dalton.html
+[2026-05-08 03:41:50] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-05-08 03:41:51] [AZ] Found 10 item(s) on page.
+[2026-05-08 03:41:51] [AZ] 1 new item(s):
+[2026-05-08 03:41:51]   NEW: Attorney General Mayes Wins Lawsuit Against Trump Administration's Illegal Tariffs |  | https://www.azag.gov/press-release/attorney-general-mayes-wins-lawsuit-against-trump-administrations-illegal-tariffs
+[2026-05-08 03:41:51] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-05-08 03:41:52] [AR] Found 50 item(s) on page.
+[2026-05-08 03:41:52] [AR] No new items.
+[2026-05-08 03:41:52] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-05-08 03:41:52] [CA] Found 10 item(s) on page.
+[2026-05-08 03:41:52] [CA] 3 new item(s):
+[2026-05-08 03:41:52]   NEW: Attorney General Bonta: Trump Administration's Second Tariff Regime Struck Down as Unlawful | Thu, 07 May 2026 23:52:14 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-trump-administrations-second-tariff-regime-struck-down
+[2026-05-08 03:41:52]   NEW: Attorney General Bonta Secures End of Unlawful Meat Price Coordination, Announces Settlement with Agri Stats | Thu, 07 May 2026 18:56:58 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-end-unlawful-meat-price-coordination-announces
+[2026-05-08 03:41:52]   NEW: Attorney General Bonta Protects Critical Homeland Security Funding from Politically Motivated Cut | Wed, 06 May 2026 16:16:12 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-protects-critical-homeland-security-funding-politically
+[2026-05-08 03:41:52] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-05-08 03:41:52] [CO] Found 49 item(s) on page.
+[2026-05-08 03:41:52] [CO] No new items.
+[2026-05-08 03:41:52] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-05-08 03:41:53] [CT] Found 34 item(s) on page.
+[2026-05-08 03:41:53] [CT] No new items.
+[2026-05-08 03:41:53] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-05-08 03:41:53] [DE] Found 300 item(s) on page.
+[2026-05-08 03:41:53] [DE] No new items.
+[2026-05-08 03:41:53] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-05-08 03:41:54] [FL] Found 20 item(s) on page.
+[2026-05-08 03:41:54] [FL] No new items.
+[2026-05-08 03:41:54] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-05-08 03:41:54] [GA] Found 11 item(s) on page.
+[2026-05-08 03:41:54] [GA] No new items.
+[2026-05-08 03:41:54] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-05-08 03:41:54] [HI] Found 26 item(s) on page.
+[2026-05-08 03:41:54] [HI] No new items.
+[2026-05-08 03:41:54] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-08 03:41:54]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-08 03:41:58]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65010 chars)
+[2026-05-08 03:41:58]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-05-08 03:41:58] [ID] Found 28 item(s) on page.
+[2026-05-08 03:41:58] [ID] No new items.
+[2026-05-08 03:41:58] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-05-08 03:41:59] [IL] Found 50 item(s) on page.
+[2026-05-08 03:41:59] [IL] 1 new item(s):
+[2026-05-08 03:41:59]   NEW: May 07, 2026ATTORNEY GENERAL RAOUL PROTECTS CRITICAL HOMELAND SECURITY FUNDING FROM POLITICALLY MOTIVATED CUT | 2026-05-07 2:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-protects-critical-homeland-security-funding-from-politically-motivated-cut
+[2026-05-08 03:41:59] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-05-08 03:41:59] [IN] Found 38 item(s) on page.
+[2026-05-08 03:41:59] [IN] No new items.
+[2026-05-08 03:41:59] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-05-08 03:42:00] [IA] Found 10 item(s) on page.
+[2026-05-08 03:42:00] [IA] No new items.
+[2026-05-08 03:42:00] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-08 03:42:00]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-08 03:42:03]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-05-08 03:42:03]   Playwright: page loaded but no links matched — check selectors
+[2026-05-08 03:42:03]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-08 03:42:03]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-08 03:42:23]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-08 03:42:44]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-08 03:42:44] [KS] No items returned (fetch failed or empty page).
+[2026-05-08 03:42:44] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-05-08 03:42:44] [KY] Found 26 item(s) on page.
+[2026-05-08 03:42:44] [KY] No new items.
+[2026-05-08 03:42:44] [LA] Fetching https://ag.louisiana.gov/News
+[2026-05-08 03:42:45] [LA] Found 20 item(s) on page.
+[2026-05-08 03:42:45] [LA] No new items.
+[2026-05-08 03:42:45] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-05-08 03:42:45] [ME] Found 5 item(s) on page.
+[2026-05-08 03:42:45] [ME] No new items.
+[2026-05-08 03:42:45] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-05-08 03:42:45] [MD] Found 50 item(s) on page.
+[2026-05-08 03:42:45] [MD] No new items.
+[2026-05-08 03:42:45] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-08 03:42:45]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-08 03:42:48]   Playwright loaded page: 'News and Announcements | Mass.gov' (173087 chars)
+[2026-05-08 03:42:48]   Playwright found 15 item(s) with configured selector
+[2026-05-08 03:42:48] [MA] Found 15 item(s) on page.
+[2026-05-08 03:42:48] [MA] No new items.
+[2026-05-08 03:42:48] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-05-08 03:42:48]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-05-08 03:42:52]   Playwright loaded page: 'Attorney General: Press Releases' (377905 chars)
+[2026-05-08 03:42:52]   Playwright found 10 item(s) with configured selector
+[2026-05-08 03:42:52] [MI] Found 10 item(s) on page.
+[2026-05-08 03:42:52] [MI] No new items.
+[2026-05-08 03:42:52] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-05-08 03:42:52] [MN] Found 50 item(s) on page.
+[2026-05-08 03:42:52] [MN] No new items.
+[2026-05-08 03:42:52] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-05-08 03:42:53] [MS] Found 1 item(s) on page.
+[2026-05-08 03:42:53] [MS] No new items.
+[2026-05-08 03:42:53] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-05-08 03:42:54] [MO] Found 50 item(s) on page.
+[2026-05-08 03:42:54] [MO] 1 new item(s):
+[2026-05-08 03:42:54]   NEW: Attorney General Hanaway Files Suit against EDP Kratom for Unlawfully Manufacturing and Selling Deadly Opioids |  | https://ago.mo.gov/attorney-general-hanaway-files-suit-against-edp-kratom-for-unlawfully-manufacturing-and-selling-deadly-opioids/
+[2026-05-08 03:42:54] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-05-08 03:42:54] [MT] Found 10 item(s) on page.
+[2026-05-08 03:42:54] [MT] No new items.
+[2026-05-08 03:42:54] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-05-08 03:42:54] [NE] Found 10 item(s) on page.
+[2026-05-08 03:42:54] [NE] 1 new item(s):
+[2026-05-08 03:42:54]   NEW: Nebraska Leads 23-State Coalition Asking Supreme Court to Uphold Mifepristone Stay | Thu, 07 May 2026 23:18:19 +0000 | https://ago.nebraska.gov/nebraska-leads-23-state-coalition-asking-supreme-court-uphold-mifepristone-stay
+[2026-05-08 03:42:54] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-05-08 03:42:55] [NV] Found 50 item(s) on page.
+[2026-05-08 03:42:55] [NV] No new items.
+[2026-05-08 03:42:55] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-05-08 03:42:55]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-05-08 03:42:57]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-05-08 03:42:57]   Playwright: page loaded but no links matched — check selectors
+[2026-05-08 03:42:57]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-05-08 03:42:57]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-08 03:43:17]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-08 03:43:38]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-08 03:43:38] [NH] No items returned (fetch failed or empty page).
+[2026-05-08 03:43:38] [NJ] Fetching https://www.njoag.gov/news/
+[2026-05-08 03:43:39] [NJ] Found 5 item(s) on page.
+[2026-05-08 03:43:39] [NJ] 2 new item(s):
+[2026-05-08 03:43:39]   NEW: AG Davenport: Court Agrees That Trump Tariffs Are Illegal |  | https://www.njoag.gov/ag-davenport-court-agrees-that-trump-tariffs-are-illegal/
+[2026-05-08 03:43:39]   NEW: Attorney General Davenport Announces 2026 Excellence in Policing Award Recipients and Law Enforcement Wellness & Resiliency Grant Awards |  | https://www.njoag.gov/attorney-general-davenport-announces-2026-excellence-in-policing-award-recipients-and-law-enforcement-wellness-resiliency-grant-awards/
+[2026-05-08 03:43:39] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-05-08 03:43:39] [NM] Found 10 item(s) on page.
+[2026-05-08 03:43:39] [NM] 1 new item(s):
+[2026-05-08 03:43:39]   NEW: New Mexico Department of Justice Secures First-Degree Murder Conviction in Bernalillo County Homicide Case |  | https://nmdoj.gov/press-release/new-mexico-department-of-justice-secures-first-degree-murder-conviction-in-bernalillo-county-homicide-case/
+[2026-05-08 03:43:39] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-05-08 03:43:39] [NY] Found 25 item(s) on page.
+[2026-05-08 03:43:39] [NY] 1 new item(s):
+[2026-05-08 03:43:39]   NEW: Attorney General James Defeats Trump’s Tariffs, Again |  | https://ag.ny.gov/press-release/2026/attorney-general-james-defeats-trumps-tariffs-again
+[2026-05-08 03:43:39] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-05-08 03:43:47] [NC] Found 10 item(s) on page.
+[2026-05-08 03:43:47] [NC] No new items.
+[2026-05-08 03:43:47] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-05-08 03:43:47] [ND] Found 10 item(s) on page.
+[2026-05-08 03:43:47] [ND] No new items.
+[2026-05-08 03:43:47] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-05-08 03:43:48] [OH] Found 10 item(s) on page.
+[2026-05-08 03:43:48] [OH] No new items.
+[2026-05-08 03:43:48] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-08 03:43:48]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-08 03:43:51]   Playwright loaded page: 'News Releases' (865472 chars)
+[2026-05-08 03:43:51]   Playwright found 20 item(s) with configured selector
+[2026-05-08 03:43:51] [OK] Found 20 item(s) on page.
+[2026-05-08 03:43:51] [OK] 1 new item(s):
+[2026-05-08 03:43:51]   NEW: Former DHS employee faces felony charges in $2 million assistance fund theft |  | https://oklahoma.gov/oag/news/newsroom/2026/may/former-dhs-employee-faces-felony-charges-in-2-million-assistance-fund-theft.html
+[2026-05-08 03:43:51] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-05-08 03:43:52] [OR] Found 10 item(s) on page.
+[2026-05-08 03:43:52] [OR] 1 new item(s):
+[2026-05-08 03:43:52]   NEW: Attorney General Rayfield Wins Lawsuit Against Trump Administration’s Illegal Tariffs |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-wins-second-tariff-lawsuit/
+[2026-05-08 03:43:52] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-05-08 03:43:54] [PA] Found 30 item(s) on page.
+[2026-05-08 03:43:54] [PA] No new items.
+[2026-05-08 03:43:54] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-05-08 03:43:54] [RI] Found 10 item(s) on page.
+[2026-05-08 03:43:54] [RI] No new items.
+[2026-05-08 03:43:54] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-08 03:43:54]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-05-08 03:43:57]   Playwright loaded page: 'News - South Carolina Attorney General' (111092 chars)
+[2026-05-08 03:43:57]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-05-08 03:43:57] [SC] Found 9 item(s) on page.
+[2026-05-08 03:43:57] [SC] 1 new item(s):
+[2026-05-08 03:43:57]   NEW: Attorney General Alan Wilson announces additional charges against Greer woman for alleged crimes against vulnerable adultsRead More | May 07, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-additional-charges-against-greer-woman-for-alleged-crimes-against-vulnerable-adults/
+[2026-05-08 03:43:57] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-05-08 03:43:57]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=5
+[2026-05-08 03:44:00]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-05-08 03:44:00]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-05-08 03:44:00] [SD] Found 1 item(s) on page.
+[2026-05-08 03:44:00] [SD] No new items.
+[2026-05-08 03:44:00] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-05-08 03:44:00]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-05-08 03:44:20] [TN] Found 50 item(s) on page.
+[2026-05-08 03:44:20] [TN] No new items.
+[2026-05-08 03:44:20] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-05-08 03:44:20] [TX] Found 50 item(s) on page.
+[2026-05-08 03:44:20] [TX] No new items.
+[2026-05-08 03:44:20] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-05-08 03:44:20]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-05-08 03:44:23]   Playwright loaded page: 'Press Releases - Utah Attorney General' (295437 chars)
+[2026-05-08 03:44:24]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-08 03:44:24] [UT] Found 50 item(s) on page.
+[2026-05-08 03:44:24] [UT] No new items.
+[2026-05-08 03:44:24] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-05-08 03:44:24] [VT] Found 50 item(s) on page.
+[2026-05-08 03:44:24] [VT] 1 new item(s):
+[2026-05-08 03:44:24]   NEW: Attorney General Clark Wins Lawsuit Against Trump Administration's New Illegal Tariffs | DateMay 7, 2026 | https://ago.vermont.gov/blog/2026/05/07/attorney-general-clark-wins-lawsuit-against-trump-administrations-new-illegal-tariffs
+[2026-05-08 03:44:24] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-05-08 03:44:26] [VA] Found 50 item(s) on page.
+[2026-05-08 03:44:26] [VA] No new items.
+[2026-05-08 03:44:26] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-05-08 03:44:26] [WA] Found 15 item(s) on page.
+[2026-05-08 03:44:26] [WA] 2 new item(s):
+[2026-05-08 03:44:26]   NEW: AG Brown wins tariffs lawsuit against Trump administration | Thu, 07 May 2026 23:03:20 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-wins-tariffs-lawsuit-against-trump-administration
+[2026-05-08 03:44:26]   NEW: AG Brown protects homeland security funding from politically motivated cuts as federal government drops appeal | Wed, 06 May 2026 18:22:16 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-protects-homeland-security-funding-politically-motivated-cuts-federal
+[2026-05-08 03:44:26] [WV] Fetching https://ago.wv.gov/news
+[2026-05-08 03:44:26]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-05-08 03:44:29]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54512 chars)
+[2026-05-08 03:44:29]   Playwright found 30 item(s) with configured selector
+[2026-05-08 03:44:29] [WV] Found 30 item(s) on page.
+[2026-05-08 03:44:29] [WV] No new items.
+[2026-05-08 03:44:29] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-08 03:44:29]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-08 03:44:33]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1507180 chars)
+[2026-05-08 03:44:33]   Playwright found 29 item(s) with configured selector
+[2026-05-08 03:44:33] [WI] Found 29 item(s) on page.
+[2026-05-08 03:44:33] [WI] No new items.
+[2026-05-08 03:44:33] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-05-08 03:44:33] [WY] Found 1 item(s) on page.
+[2026-05-08 03:44:33] [WY] No new items.
+[2026-05-08 03:44:33] States with fetch errors: KS, NH
+[2026-05-08 03:44:33] Sending email: 19 new item(s) across 15 state(s).
+[2026-05-08 03:44:34] Email sent.
+[2026-05-08 03:44:34] Done.
