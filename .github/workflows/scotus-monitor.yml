@@ -1,0 +1,49 @@
+name: SCOTUS Orders Monitor
+
+on:
+  schedule:
+    - cron: '30 14 * * *'   # 9:30am EST (UTC-5, Nov–Mar) — typical Order List time
+    - cron: '30 13 * * *'   # 9:30am EDT (UTC-4, Mar–Nov)
+    - cron: '0 19 * * *'    # 2pm EST  (UTC-5) — catch afternoon orders
+    - cron: '0 18 * * *'    # 2pm EDT  (UTC-4)
+  workflow_dispatch:         # allow manual runs from GitHub UI
+
+concurrency:
+  group: scotus-monitor
+  cancel-in-progress: false  # let the current run finish; queue the next
+
+jobs:
+  check-orders:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: write        # needed to commit state file back
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 playwright
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Run SCOTUS orders monitor
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python check_scotus_orders.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scotus_orders_state.json scotus_orders_log.txt
+          git diff --staged --quiet || git commit -m "Update SCOTUS orders state [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD
