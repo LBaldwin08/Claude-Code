@@ -2,8 +2,7 @@ name: AG Press Release Monitor
 
 on:
   schedule:
-    - cron: '0 15 * * *'   # 10am EST (UTC-5, Nov–Mar)
-    - cron: '0 14 * * *'   # 10am EDT (UTC-4, Mar–Nov)
+    - cron: '0 14 * * *'   # 10am EDT (Mar–Nov) / 9am EST (Nov–Mar)
   workflow_dispatch:
 
 concurrency:
