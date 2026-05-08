@@ -2,10 +2,8 @@ name: SCOTUS Orders Monitor
 
 on:
   schedule:
-    - cron: '30 14 * * *'   # 9:30am EST (UTC-5, Nov–Mar) — typical Order List time
-    - cron: '30 13 * * *'   # 9:30am EDT (UTC-4, Mar–Nov)
-    - cron: '0 19 * * *'    # 2pm EST  (UTC-5) — catch afternoon orders
-    - cron: '0 18 * * *'    # 2pm EDT  (UTC-4)
+    - cron: '0 15 * * *'   # 10am EST (UTC-5, Nov–Mar)
+    - cron: '0 14 * * *'   # 10am EDT (UTC-4, Mar–Nov)
   workflow_dispatch:         # allow manual runs from GitHub UI
 
 concurrency:
