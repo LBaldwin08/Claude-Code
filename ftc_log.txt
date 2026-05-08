@@ -60,3 +60,11 @@
 [2026-05-07 19:28:54]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-finalizes-consent-order-valvoline-greenbriar-deal
 [2026-05-07 19:28:55] Email notification sent.
 [2026-05-07 19:28:55] Done.
+[2026-05-08 02:13:19] Checking for new FTC press releases...
+[2026-05-08 02:13:19] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-05-08 02:13:33] Playwright found 0 press release link(s).
+[2026-05-08 02:13:33] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-05-08 02:13:34] requests found 20 press release link(s).
+[2026-05-08 02:13:34] Found 20 press release(s) on page.
+[2026-05-08 02:13:34] No new press releases.
+[2026-05-08 02:13:34] Done.
