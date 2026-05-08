@@ -310,6 +310,13 @@ def send_email(new_items):
 # ---------------------------------------------------------------------------
 
 def main(seed=False):
+    state = load_state()
+
+    # Auto-seed on the very first run so we don't flood with historical orders.
+    if not seed and state["last_run"] is None:
+        seed = True
+        log("First run detected — switching to seed mode to avoid email flood.")
+
     action = "Seeding" if seed else "Checking for new"
     log(f"{action} Supreme Court orders...")
 
@@ -326,7 +333,6 @@ def main(seed=False):
 
     log(f"Found {len(items)} order(s) on page.")
 
-    state = load_state()
     seen_ids = set(state["seen_ids"])
 
     new_items = [item for item in items if item["id"] not in seen_ids]
