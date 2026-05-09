@@ -28,3 +28,10 @@
 [2026-05-08 15:51:17] Playwright found 73 order(s).
 [2026-05-08 15:51:17] Sending test email for: [TEST] Miscellaneous Order
 [2026-05-08 15:51:19] Test email sent.
+[2026-05-09 14:46:00] Checking for new Supreme Court orders...
+[2026-05-09 14:46:00] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-05-09 14:46:03] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-05-09 14:46:05] Playwright found 73 order(s).
+[2026-05-09 14:46:05] Found 73 order(s) on page.
+[2026-05-09 14:46:05] No new orders.
+[2026-05-09 14:46:05] Done.
