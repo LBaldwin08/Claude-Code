@@ -2,7 +2,8 @@ name: FTC Press Release Monitor
 
 on:
   schedule:
-    - cron: '0 14 * * *'   # 10am EDT (Mar–Nov) / 9am EST (Nov–Mar)
+    - cron: '30 14 * * *'  # 9:30am EST (UTC-5, Nov–Mar)
+    - cron: '30 13 * * *'  # 9:30am EDT (UTC-4, Mar–Nov)
   workflow_dispatch:        # allow manual runs from GitHub UI
 
 concurrency:
