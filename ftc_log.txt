@@ -119,3 +119,16 @@
 [2026-05-11 16:33:55] Found 20 press release(s) on page.
 [2026-05-11 16:33:55] No new press releases.
 [2026-05-11 16:33:55] Done.
+[2026-05-12 16:04:16] Checking for new FTC press releases...
+[2026-05-12 16:04:16] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-05-12 16:04:29] Playwright found 0 press release link(s).
+[2026-05-12 16:04:29] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-05-12 16:04:29] requests found 20 press release link(s).
+[2026-05-12 16:04:29] Found 20 press release(s) on page.
+[2026-05-12 16:04:29] 2 new press release(s)!
+[2026-05-12 16:04:29]   NEW: [2026-05-11T12:00:00Z] FTC Chairman Ferguson Advises Companies to Comply with the Take It Down Act
+[2026-05-12 16:04:29]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-chairman-ferguson-advises-companies-comply-take-it-down-act
+[2026-05-12 16:04:29]   NEW: [2026-05-11T12:00:00Z] FTC and Illinois Take Action to Stop Deceptive Conduct by Company that Created Thousands of Business Listings of Fake Local Home Repair Businesses
+[2026-05-12 16:04:29]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-illinois-take-action-stop-deceptive-conduct-company-created-thousands-business-listings-fake
+[2026-05-12 16:04:31] Email notification sent.
+[2026-05-12 16:04:31] Done.
