@@ -132,3 +132,11 @@
 [2026-05-12 16:04:29]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-illinois-take-action-stop-deceptive-conduct-company-created-thousands-business-listings-fake
 [2026-05-12 16:04:31] Email notification sent.
 [2026-05-12 16:04:31] Done.
+[2026-05-12 16:38:43] Checking for new FTC press releases...
+[2026-05-12 16:38:43] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-05-12 16:38:56] Playwright found 0 press release link(s).
+[2026-05-12 16:38:56] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-05-12 16:38:56] requests found 20 press release link(s).
+[2026-05-12 16:38:56] Found 20 press release(s) on page.
+[2026-05-12 16:38:56] No new press releases.
+[2026-05-12 16:38:57] Done.
