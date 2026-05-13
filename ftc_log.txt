@@ -140,3 +140,16 @@
 [2026-05-12 16:38:56] Found 20 press release(s) on page.
 [2026-05-12 16:38:56] No new press releases.
 [2026-05-12 16:38:57] Done.
+[2026-05-13 16:05:21] Checking for new FTC press releases...
+[2026-05-13 16:05:21] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-05-13 16:05:34] Playwright found 0 press release link(s).
+[2026-05-13 16:05:34] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-05-13 16:05:35] requests found 20 press release link(s).
+[2026-05-13 16:05:35] Found 20 press release(s) on page.
+[2026-05-13 16:05:35] 2 new press release(s)!
+[2026-05-13 16:05:35]   NEW: [2026-05-13T12:00:00Z] Shutterstock to Pay $35 Million to Settle FTC Allegations Over  Illegal Subscription and Cancellation Practices
+[2026-05-13 16:05:35]        https://www.ftc.gov/news-events/news/press-releases/2026/05/shutterstock-pay-35-million-settle-ftc-allegations-over-illegal-subscription-cancellation-practices
+[2026-05-13 16:05:35]   NEW: [2026-05-13T12:00:00Z] Lead Defendants in the IM Mastery Academy MLM Scheme to Turn Over Tens of Millions of Dollars in Assets to Settle FTC Charges
+[2026-05-13 16:05:35]        https://www.ftc.gov/news-events/news/press-releases/2026/05/lead-defendants-im-mastery-academy-mlm-scheme-turn-over-tens-millions-dollars-assets-settle-ftc
+[2026-05-13 16:05:36] Email notification sent.
+[2026-05-13 16:05:36] Done.
