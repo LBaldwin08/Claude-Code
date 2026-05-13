@@ -49,3 +49,15 @@
 [2026-05-11 16:29:22] Found 73 order(s) on page.
 [2026-05-11 16:29:22] No new orders.
 [2026-05-11 16:29:22] Done.
+[2026-05-13 16:15:59] Checking for new Supreme Court orders...
+[2026-05-13 16:15:59] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-05-13 16:16:03] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-05-13 16:16:05] Playwright found 75 order(s).
+[2026-05-13 16:16:05] Found 75 order(s) on page.
+[2026-05-13 16:16:05] 2 new order(s)!
+[2026-05-13 16:16:05]   NEW: [2026-05-11] Miscellaneous Order
+[2026-05-13 16:16:05]        https://www.supremecourt.gov/orders/courtorders/051126zr1_5he6.pdf
+[2026-05-13 16:16:05]   NEW: [2026-05-11] Miscellaneous Order
+[2026-05-13 16:16:05]        https://www.supremecourt.gov/orders/courtorders/051126zr_apl1.pdf
+[2026-05-13 16:16:06] Email notification sent.
+[2026-05-13 16:16:06] Done.
