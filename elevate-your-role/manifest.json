@@ -1,0 +1,19 @@
+{
+  "name": "Elevate Your Role — R&KS AI Learning Program",
+  "short_name": "Elevate Your Role",
+  "description": "Track your progress through the R&KS AI Learning Program boot camp.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e3a5c",
+  "theme_color": "#1e3a5c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

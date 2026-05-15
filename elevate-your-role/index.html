@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#1e3a5c" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="Elevate Your Role" />
+  <title>Elevate Your Role</title>
+  <link rel="manifest" href="manifest.json" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --navy:       #1e3a5c;
+      --navy-light: #2d5a8f;
+      --gold:       #c9a227;
+      --gold-light: #fef3c7;
+      --green:      #16a34a;
+      --green-light:#dcfce7;
+      --white:      #ffffff;
+      --gray-50:    #f8fafc;
+      --gray-100:   #f1f5f9;
+      --gray-200:   #e2e8f0;
+      --gray-400:   #94a3b8;
+      --gray-600:   #475569;
+      --gray-800:   #1e293b;
+      --shadow:     0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.08);
+      --shadow-md:  0 4px 6px rgba(0,0,0,0.1), 0 2px 4px rgba(0,0,0,0.06);
+      --radius:     12px;
+    }
+
+    html { scroll-behavior: smooth; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, sans-serif;
+      background: var(--gray-100);
+      color: var(--gray-800);
+      min-height: 100vh;
+      padding-bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+    }
+
+    /* ── HEADER ─────────────────────────────────────────── */
+    .app-header {
+      background: var(--navy);
+      color: white;
+      padding: max(20px, env(safe-area-inset-top, 20px)) 16px 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: var(--shadow-md);
+    }
+
+    .header-top {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-bottom: 14px;
+    }
+
+    .header-icon {
+      width: 42px;
+      height: 42px;
+      background: var(--gold);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      flex-shrink: 0;
+      color: var(--navy);
+      font-weight: 900;
+    }
+
+    .header-title h1 {
+      font-size: 18px;
+      font-weight: 700;
+      line-height: 1.2;
+      letter-spacing: -0.3px;
+    }
+
+    .header-title p {
+      font-size: 12px;
+      opacity: 0.7;
+      margin-top: 2px;
+    }
+
+    .progress-section {
+      padding-bottom: 14px;
+    }
+
+    .progress-row {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 7px;
+    }
+
+    .progress-label {
+      font-size: 12px;
+      opacity: 0.75;
+    }
+
+    .progress-pct {
+      font-size: 13px;
+      font-weight: 700;
+      color: var(--gold);
+    }
+
+    .progress-track {
+      height: 5px;
+      background: rgba(255,255,255,0.15);
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    .progress-fill {
+      height: 100%;
+      background: var(--gold);
+      border-radius: 3px;
+      transition: width 0.45s cubic-bezier(0.4,0,0.2,1);
+      min-width: 0;
+    }
+
+    /* ── MAIN ───────────────────────────────────────────── */
+    .app-main {
+      padding: 14px 14px 0;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    /* ── INTRO CARD ─────────────────────────────────────── */
+    .intro-card {
+      background: white;
+      border-radius: var(--radius);
+      padding: 13px 15px;
+      margin-bottom: 11px;
+      box-shadow: var(--shadow);
+      border-left: 4px solid var(--gold);
+    }
+
+    .intro-card p {
+      font-size: 13px;
+      color: var(--gray-600);
+      line-height: 1.55;
+    }
+
+    .intro-card strong {
+      color: var(--navy);
+    }
+
+    /* ── CELEBRATION ────────────────────────────────────── */
+    .celebration {
+      background: linear-gradient(135deg, var(--navy) 0%, var(--navy-light) 100%);
+      color: white;
+      border-radius: var(--radius);
+      padding: 22px 18px;
+      text-align: center;
+      margin-bottom: 11px;
+      display: none;
+      box-shadow: var(--shadow-md);
+    }
+
+    .celebration.visible { display: block; }
+
+    .celebration-icon { font-size: 38px; margin-bottom: 8px; }
+
+    .celebration h2 {
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+
+    .celebration p {
+      font-size: 13px;
+      opacity: 0.8;
+      line-height: 1.5;
+    }
+
+    /* ── PHASE CARD ─────────────────────────────────────── */
+    .phase-card {
+      background: white;
+      border-radius: var(--radius);
+      margin-bottom: 11px;
+      box-shadow: var(--shadow);
+      overflow: hidden;
+    }
+
+    .phase-header {
+      padding: 13px 14px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 11px;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.1s;
+    }
+
+    .phase-header:active { background: var(--gray-50); }
+
+    .phase-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+      flex-shrink: 0;
+    }
+
+    .phase-title-group { flex: 1; min-width: 0; }
+
+    .phase-title {
+      font-size: 15px;
+      font-weight: 700;
+      color: var(--gray-800);
+      display: flex;
+      align-items: center;
+      gap: 7px;
+      flex-wrap: wrap;
+      line-height: 1.3;
+    }
+
+    .track-badge {
+      font-size: 10px;
+      font-weight: 700;
+      letter-spacing: 0.3px;
+      padding: 2px 7px;
+      border-radius: 20px;
+      color: white;
+    }
+
+    .phase-subtitle {
+      font-size: 12px;
+      color: var(--gray-400);
+      margin-top: 2px;
+    }
+
+    .phase-right {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex-shrink: 0;
+    }
+
+    .phase-count {
+      font-size: 12px;
+      color: var(--gray-400);
+      white-space: nowrap;
+    }
+
+    .phase-count.done {
+      color: var(--green);
+      font-weight: 600;
+    }
+
+    .phase-chevron {
+      color: var(--gray-400);
+      font-size: 16px;
+      font-weight: 300;
+      transition: transform 0.2s ease;
+      line-height: 1;
+    }
+
+    .phase-card.open .phase-chevron { transform: rotate(90deg); }
+
+    /* ── PHASE BODY ─────────────────────────────────────── */
+    .phase-body {
+      display: none;
+      border-top: 1px solid var(--gray-100);
+    }
+
+    .phase-card.open .phase-body { display: block; }
+
+    .phase-description {
+      padding: 11px 15px;
+      font-size: 13px;
+      color: var(--gray-600);
+      line-height: 1.55;
+      background: var(--gray-50);
+      border-bottom: 1px solid var(--gray-100);
+    }
+
+    /* ── CHECKLIST ITEMS ────────────────────────────────── */
+    .checklist-item {
+      padding: 12px 14px;
+      display: flex;
+      align-items: flex-start;
+      gap: 11px;
+      border-bottom: 1px solid var(--gray-100);
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.1s;
+    }
+
+    .checklist-item:last-child { border-bottom: none; }
+    .checklist-item:active { background: var(--gray-50); }
+    .checklist-item.checked { opacity: 0.6; }
+
+    .check-box {
+      width: 22px;
+      height: 22px;
+      border-radius: 6px;
+      border: 2px solid var(--gray-200);
+      flex-shrink: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-top: 1px;
+      background: white;
+      transition: background 0.15s, border-color 0.15s;
+    }
+
+    .checklist-item.checked .check-box {
+      background: var(--green);
+      border-color: var(--green);
+    }
+
+    .check-mark {
+      display: none;
+      color: white;
+      font-size: 13px;
+      font-weight: 700;
+      line-height: 1;
+    }
+
+    .checklist-item.checked .check-mark { display: block; }
+
+    .item-content { flex: 1; min-width: 0; }
+
+    .item-label {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--gray-800);
+      line-height: 1.35;
+    }
+
+    .checklist-item.checked .item-label {
+      text-decoration: line-through;
+      color: var(--gray-400);
+    }
+
+    .item-detail {
+      font-size: 12px;
+      color: var(--gray-400);
+      margin-top: 3px;
+      line-height: 1.3;
+    }
+
+    /* ── FOOTER ─────────────────────────────────────────── */
+    .app-footer {
+      text-align: center;
+      padding: 18px 16px;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .reset-btn {
+      background: none;
+      border: 1px solid var(--gray-200);
+      color: var(--gray-400);
+      font-size: 12px;
+      padding: 8px 18px;
+      border-radius: 20px;
+      cursor: pointer;
+      font-family: inherit;
+      margin-bottom: 10px;
+      -webkit-tap-highlight-color: transparent;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    .reset-btn:active { background: var(--gray-100); }
+
+    .footer-meta { font-size: 11px; color: var(--gray-400); line-height: 1.6; }
+
+    /* ── TOAST ──────────────────────────────────────────── */
+    .toast {
+      position: fixed;
+      bottom: calc(22px + env(safe-area-inset-bottom, 0px));
+      left: 50%;
+      transform: translateX(-50%) translateY(70px);
+      background: var(--gray-800);
+      color: white;
+      padding: 10px 20px;
+      border-radius: 22px;
+      font-size: 13px;
+      font-weight: 500;
+      z-index: 1000;
+      transition: transform 0.28s cubic-bezier(0.34,1.56,0.64,1);
+      white-space: nowrap;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.25);
+      pointer-events: none;
+    }
+
+    .toast.show { transform: translateX(-50%) translateY(0); }
+
+    /* ── CHECK ANIMATION ────────────────────────────────── */
+    @keyframes pop {
+      0%   { transform: scale(1); }
+      40%  { transform: scale(1.35); }
+      100% { transform: scale(1); }
+    }
+
+    .pop { animation: pop 0.22s ease; }
+  </style>
+</head>
+<body>
+
+<header class="app-header">
+  <div class="header-top">
+    <div class="header-icon">↑</div>
+    <div class="header-title">
+      <h1>Elevate Your Role</h1>
+      <p>R&amp;KS · AI Learning Program</p>
+    </div>
+  </div>
+  <div class="progress-section">
+    <div class="progress-row">
+      <span class="progress-label" id="progressLabel">Track your program progress</span>
+      <span class="progress-pct" id="progressPct">0%</span>
+    </div>
+    <div class="progress-track">
+      <div class="progress-fill" id="progressFill" style="width:0%"></div>
+    </div>
+  </div>
+</header>
+
+<main class="app-main">
+
+  <div class="celebration" id="celebration">
+    <div class="celebration-icon">🎉</div>
+    <h2>You've elevated your role!</h2>
+    <p>All program items complete. The journey continues — keep sharing your Elevation Stories and engaging with the community.</p>
+  </div>
+
+  <div class="intro-card">
+    <p><strong>Tap any item to mark it complete.</strong> Progress is saved on this device. Both tracks are shown — check off what applies to you.</p>
+  </div>
+
+  <div id="phases"></div>
+
+</main>
+
+<div id="toast" class="toast"></div>
+
+<footer class="app-footer">
+  <button class="reset-btn" id="resetBtn">Reset all progress</button>
+  <p class="footer-meta">Research &amp; Knowledge Services · Elevate Your Role Program<br>Progress is stored locally on this device only</p>
+</footer>
+
+<script>
+// ── PROGRAM DATA ────────────────────────────────────────────────────────────
+
+const PHASES = [
+  {
+    id: 'pre',
+    title: 'Pre-Program',
+    subtitle: 'Weeks -3 to -1',
+    color: '#6366f1',
+    description: 'Leadership preparation, manager orientation, and the staff self-assessment survey that determines track placement. All of this happens before the boot camp begins.',
+    items: [
+      { id: 'pre-1', label: 'Director Briefing attended',          detail: 'Virtual · 45 min · Week -3  (Directors)' },
+      { id: 'pre-2', label: 'Manager Orientation attended',        detail: 'Virtual · 90 min · Week -2  (Managers)' },
+      { id: 'pre-3', label: 'Self-Assessment Survey completed',    detail: 'Async · 5 min · Week -1  (All Staff)' },
+      { id: 'pre-4', label: 'Track placement received',            detail: 'Week -0.5  (All Staff)' },
+    ]
+  },
+  {
+    id: 'wk1',
+    title: 'Week 1',
+    subtitle: 'Virtual Kickoff',
+    color: '#0ea5e9',
+    description: 'Two 60-minute sessions on consecutive days. Hear directly from leadership, understand the program, and complete the Elevate Your Role exercise. Sessions are recorded for asynchronous catch-up within 48 hours.',
+    items: [
+      { id: 'wk1-1', label: 'Session A: AI Foundations & Program Overview', detail: 'Virtual · 60 min · Day 1  (All Staff)' },
+      { id: 'wk1-2', label: 'Session B: Our Department & AI / Elevate Your Role Exercise', detail: 'Virtual · 60 min · Day 2  (All Staff)' },
+    ]
+  },
+  {
+    id: 'wk23-f',
+    title: 'Weeks 2–3',
+    subtitle: 'Foundations Track · 5.5 hours total',
+    badge: 'Foundations',
+    color: '#10b981',
+    description: 'For staff newer to AI. Build confidence with core concepts, practical prompting skills, and responsible use — in a supportive, low-stakes environment. Three self-paced modules plus two live virtual workshops.',
+    items: [
+      { id: 'f-1', label: 'Module 1: Understanding AI',            detail: 'Self-paced · 1 hr' },
+      { id: 'f-2', label: 'Module 2: Getting Started with AI Tools', detail: 'Self-paced · 1 hr' },
+      { id: 'f-3', label: 'Workshop 1: Guided Practice',           detail: 'Live virtual · 75 min' },
+      { id: 'f-4', label: 'Module 3: Responsible AI Use',          detail: 'Self-paced · 1 hr' },
+      { id: 'f-5', label: 'Workshop 2: Applying AI to Your Work',  detail: 'Live virtual · 75 min' },
+    ]
+  },
+  {
+    id: 'wk23-p',
+    title: 'Weeks 2–3',
+    subtitle: 'Practitioner Track · 5 hours total',
+    badge: 'Practitioner',
+    color: '#8b5cf6',
+    description: 'For staff with existing AI experience and all managers. Deepen application skills, master verification methodology, and design AI-enhanced workflows. Three self-paced modules plus two live virtual workshops.',
+    items: [
+      { id: 'p-1', label: 'Module 1: Advanced AI Interaction',                 detail: 'Self-paced · 1 hr' },
+      { id: 'p-2', label: 'Module 2: AI-Enhanced Research Workflows',           detail: 'Self-paced · 1 hr' },
+      { id: 'p-3', label: 'Workshop 1: Complex Application & Verification',     detail: 'Live virtual · 75 min' },
+      { id: 'p-4', label: 'Module 3: Governance, Ethics & Responsible Innovation', detail: 'Self-paced · 30 min' },
+      { id: 'p-5', label: 'Workshop 2: Workflow Design & Team Elevation',        detail: 'Live virtual · 75 min' },
+    ]
+  },
+  {
+    id: 'wk4',
+    title: 'Week 4',
+    subtitle: 'In-Person Boot Camp',
+    color: '#f59e0b',
+    description: 'A full day at your office location (or virtual equivalent for Palo Alto and Hong Kong). Hands-on skills labs, the Elevation Workshop where teams map how AI frees staff for higher-value work, responsible practice exercises, and personal commitments.',
+    items: [
+      { id: 'wk4-1', label: 'Applied Skills Labs',                  detail: 'Morning · 2.5 hrs' },
+      { id: 'wk4-2', label: 'Elevation Workshop',                   detail: 'Afternoon · 2 hrs' },
+      { id: 'wk4-3', label: 'Responsible Practice & Application',   detail: 'Late Afternoon · 1.5 hrs' },
+      { id: 'wk4-4', label: 'Personal commitment made',             detail: '"I will use AI to elevate my role by…"' },
+    ]
+  },
+  {
+    id: 'wk56',
+    title: 'Weeks 5–6',
+    subtitle: 'Application & Wrap-Up',
+    color: '#ec4899',
+    description: 'Manager-led virtual sessions with your team. Report on the workflow pilot you chose at boot camp, share your Elevation Story, and plan how your team will continue learning together.',
+    items: [
+      { id: 'wk56-1', label: 'Session 1: Pilot in Action',   detail: 'Virtual · 45 min · Week 5' },
+      { id: 'wk56-2', label: 'Session 2: Elevation Stories', detail: 'Virtual · 45 min · Week 5 or 6' },
+      { id: 'wk56-3', label: 'Session 3: Looking Forward',   detail: 'Virtual · 45 min · Week 6' },
+    ]
+  },
+  {
+    id: 'ongoing',
+    title: 'Ongoing',
+    subtitle: 'Continuous Learning',
+    color: '#64748b',
+    description: 'The boot camp is the beginning, not the end. Ongoing structures sustain momentum and keep the Elevate Your Role theme alive — sharing stories, tackling challenges, and deepening skills together.',
+    items: [
+      { id: 'on-1', label: 'First Community of Practice session attended', detail: 'Monthly · 45–60 min' },
+      { id: 'on-2', label: 'First AI Skill Challenge completed',           detail: 'Monthly' },
+      { id: 'on-3', label: 'First Lunch-and-Learn attended',              detail: 'Quarterly · 60 min' },
+    ]
+  }
+];
+
+// ── STATE ────────────────────────────────────────────────────────────────────
+
+const STORAGE_KEY = 'eyr-v1';
+
+function load() {
+  try { return JSON.parse(localStorage.getItem(STORAGE_KEY)) || {}; }
+  catch { return {}; }
+}
+
+function save(s) { localStorage.setItem(STORAGE_KEY, JSON.stringify(s)); }
+
+let state = load();
+
+// ── HELPERS ──────────────────────────────────────────────────────────────────
+
+function allItems() { return PHASES.flatMap(p => p.items); }
+function checkedCount() { return allItems().filter(i => state[i.id]).length; }
+
+// ── PROGRESS ─────────────────────────────────────────────────────────────────
+
+function refreshProgress() {
+  const total   = allItems().length;
+  const checked = checkedCount();
+  const pct     = total === 0 ? 0 : Math.round((checked / total) * 100);
+
+  document.getElementById('progressFill').style.width = pct + '%';
+  document.getElementById('progressPct').textContent  = pct + '%';
+  document.getElementById('progressLabel').textContent =
+    checked === 0     ? 'Tap any item to get started' :
+    checked === total ? '🎉 Program complete!' :
+                        `${checked} of ${total} items complete`;
+
+  document.getElementById('celebration').classList.toggle('visible', checked === total && total > 0);
+}
+
+// ── RENDER ───────────────────────────────────────────────────────────────────
+
+function renderPhases() {
+  const container = document.getElementById('phases');
+  container.innerHTML = '';
+
+  PHASES.forEach(phase => {
+    const done  = phase.items.filter(i => state[i.id]).length;
+    const total = phase.items.length;
+    const allDone = done === total;
+
+    const card = document.createElement('div');
+    card.className = 'phase-card';
+    card.dataset.id = phase.id;
+
+    const badgeHtml = phase.badge
+      ? `<span class="track-badge" style="background:${phase.color}">${phase.badge}</span>`
+      : '';
+
+    card.innerHTML = `
+      <div class="phase-header">
+        <div class="phase-dot" style="background:${phase.color}"></div>
+        <div class="phase-title-group">
+          <div class="phase-title">${phase.title} ${badgeHtml}</div>
+          <div class="phase-subtitle">${phase.subtitle}</div>
+        </div>
+        <div class="phase-right">
+          <div class="phase-count ${allDone ? 'done' : ''}" data-count="${phase.id}">
+            ${allDone ? '✓ Done' : `${done}/${total}`}
+          </div>
+          <div class="phase-chevron">›</div>
+        </div>
+      </div>
+      <div class="phase-body">
+        <div class="phase-description">${phase.description}</div>
+        <div class="phase-items">
+          ${phase.items.map(item => `
+            <div class="checklist-item ${state[item.id] ? 'checked' : ''}" data-item="${item.id}">
+              <div class="check-box">
+                <span class="check-mark">✓</span>
+              </div>
+              <div class="item-content">
+                <div class="item-label">${item.label}</div>
+                <div class="item-detail">${item.detail}</div>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+
+    // Toggle section open/closed
+    card.querySelector('.phase-header').addEventListener('click', () => {
+      card.classList.toggle('open');
+    });
+
+    // Handle checkbox taps
+    card.querySelectorAll('.checklist-item').forEach(el => {
+      el.addEventListener('click', e => {
+        e.stopPropagation();
+        toggle(el.dataset.item, card);
+      });
+    });
+
+    container.appendChild(card);
+  });
+}
+
+function toggle(itemId, card) {
+  state[itemId] = !state[itemId];
+  save(state);
+
+  // Update the item element
+  const el = card.querySelector(`[data-item="${itemId}"]`);
+  if (el) {
+    el.classList.toggle('checked', state[itemId]);
+    const box = el.querySelector('.check-box');
+    box.classList.remove('pop');
+    void box.offsetWidth; // reflow to restart animation
+    box.classList.add('pop');
+  }
+
+  // Update phase count badge
+  const phase = PHASES.find(p => p.items.some(i => i.id === itemId));
+  if (phase) {
+    const done  = phase.items.filter(i => state[i.id]).length;
+    const total = phase.items.length;
+    const allDone = done === total;
+    const countEl = card.querySelector(`[data-count="${phase.id}"]`);
+    if (countEl) {
+      countEl.textContent = allDone ? '✓ Done' : `${done}/${total}`;
+      countEl.classList.toggle('done', allDone);
+    }
+  }
+
+  refreshProgress();
+
+  if (state[itemId]) showToast(motivationMessage());
+}
+
+function motivationMessage() {
+  const total   = allItems().length;
+  const checked = checkedCount();
+  if (checked === total) return '🎉 Program complete!';
+  if (checked === 1)     return '✓ First step done. Keep going!';
+  const pct = Math.round((checked / total) * 100);
+  if (pct >= 75) return `✓ ${pct}% — almost there!`;
+  if (pct >= 50) return '✓ Over halfway — great work!';
+  return '✓ Marked complete';
+}
+
+// ── TOAST ─────────────────────────────────────────────────────────────────────
+
+let toastTimer;
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(() => t.classList.remove('show'), 2400);
+}
+
+// ── RESET ─────────────────────────────────────────────────────────────────────
+
+document.getElementById('resetBtn').addEventListener('click', () => {
+  if (confirm('Reset all progress? This cannot be undone.')) {
+    state = {};
+    save(state);
+    renderPhases();
+    refreshProgress();
+  }
+});
+
+// ── INIT ──────────────────────────────────────────────────────────────────────
+
+renderPhases();
+refreshProgress();
+
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('./sw.js', { scope: './' }).catch(() => {});
+}
+</script>
+</body>
+</html>
