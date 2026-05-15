@@ -174,6 +174,7 @@ def parse_html_content(html, source, page_url):
             if date_tag:
                 date = date_tag.get("datetime", "") or date_tag.get_text(strip=True)
 
+
         items.append({
             "id": full_url,
             "title": title,
