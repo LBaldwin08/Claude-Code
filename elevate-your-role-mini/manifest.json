@@ -1,0 +1,19 @@
+{
+  "name": "Elevate Your Role — Mini Edition",
+  "short_name": "EYR Mini",
+  "description": "Track your progress through the R&KS AI Learning Program — Mini Edition.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1e3a5c",
+  "theme_color": "#1e3a5c",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
