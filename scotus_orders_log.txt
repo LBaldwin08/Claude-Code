@@ -85,3 +85,10 @@
 [2026-05-16 14:52:37]        https://www.supremecourt.gov/orders/courtorders/051526zr_1a72.pdf
 [2026-05-16 14:52:39] Email notification sent.
 [2026-05-16 14:52:39] Done.
+[2026-05-17 14:52:31] Checking for new Supreme Court orders...
+[2026-05-17 14:52:31] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-05-17 14:52:35] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-05-17 14:52:38] Playwright found 76 order(s).
+[2026-05-17 14:52:38] Found 76 order(s) on page.
+[2026-05-17 14:52:38] No new orders.
+[2026-05-17 14:52:38] Done.
