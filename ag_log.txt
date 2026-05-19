@@ -4553,3 +4553,224 @@ Call log:
 [2026-05-18 16:44:09] Sending email: 8 new item(s) across 7 state(s).
 [2026-05-18 16:44:10] Email sent.
 [2026-05-18 16:44:10] Done.
+[2026-05-19 16:37:43] Checking for new AG press releases...
+[2026-05-19 16:37:43] Checking 50 state(s).
+[2026-05-19 16:37:43] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-05-19 16:37:43]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-05-19 16:37:46]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (150458 chars)
+[2026-05-19 16:37:46]   Playwright found 27 item(s) with configured selector
+[2026-05-19 16:37:46] [AL] Found 27 item(s) on page.
+[2026-05-19 16:37:46] [AL] No new items.
+[2026-05-19 16:37:46] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-05-19 16:37:46] [AK] Found 50 item(s) on page.
+[2026-05-19 16:37:46] [AK] No new items.
+[2026-05-19 16:37:46] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-05-19 16:37:46] [AZ] Found 10 item(s) on page.
+[2026-05-19 16:37:46] [AZ] No new items.
+[2026-05-19 16:37:46] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-05-19 16:37:47] [AR] Found 50 item(s) on page.
+[2026-05-19 16:37:47] [AR] No new items.
+[2026-05-19 16:37:47] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-05-19 16:37:48] [CA] Found 10 item(s) on page.
+[2026-05-19 16:37:48] [CA] 1 new item(s):
+[2026-05-19 16:37:48]   NEW: Attorney General Bonta Sues Trump Administration Over Attempt to Limit Student Loan Access for Healthcare Workers | Tue, 19 May 2026 00:30:57 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-trump-administration-over-attempt-limit-student-loan
+[2026-05-19 16:37:48] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-05-19 16:37:48] [CO] Found 49 item(s) on page.
+[2026-05-19 16:37:48] [CO] No new items.
+[2026-05-19 16:37:48] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-05-19 16:37:49] [CT] Found 34 item(s) on page.
+[2026-05-19 16:37:49] [CT] 1 new item(s):
+[2026-05-19 16:37:49]   NEW: Attorney General Tong Sues U.S. Department of Education Over Student Loan Rule Limiting Access to Student Loans for Professional Degree Programs | 5/19/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-over-student-loan-rule
+[2026-05-19 16:37:49] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-05-19 16:37:49] [DE] Found 300 item(s) on page.
+[2026-05-19 16:37:49] [DE] No new items.
+[2026-05-19 16:37:49] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-05-19 16:37:49] [FL] Found 20 item(s) on page.
+[2026-05-19 16:37:49] [FL] 1 new item(s):
+[2026-05-19 16:37:49]   NEW: Attorney General James Uthmeier Charges Florida Keys Predator who faces up to 100 Years in Prison | 2026-05-18T19:30:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-charges-florida-keys-predator-who-faces-100-years
+[2026-05-19 16:37:49] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-05-19 16:37:50] [GA] Found 11 item(s) on page.
+[2026-05-19 16:37:50] [GA] 1 new item(s):
+[2026-05-19 16:37:50]   NEW: Carr Indicts Five in Statewide Medicaid Fraud TakedownMay 18, 2026 |  | https://law.georgia.gov/press-releases/2026-05-18/carr-indicts-five-statewide-medicaid-fraud-takedown
+[2026-05-19 16:37:50] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-05-19 16:37:50] [HI] Found 26 item(s) on page.
+[2026-05-19 16:37:50] [HI] No new items.
+[2026-05-19 16:37:50] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-19 16:37:50]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-19 16:37:55]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65115 chars)
+[2026-05-19 16:37:55]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-05-19 16:37:55] [ID] Found 28 item(s) on page.
+[2026-05-19 16:37:55] [ID] 1 new item(s):
+[2026-05-19 16:37:55]   NEW: May 182026AG Labrador Secures Prison Sentence for Canyon County Man for Possession of Child Sexual Exploitative Material | May 182026 | https://www.ag.idaho.gov/newsroom/ag-labrador-secures-prison-sentence-for-canyon-county-man-for-possession-of-child-sexual-exploitative-material/
+[2026-05-19 16:37:55] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-05-19 16:37:56] [IL] Found 50 item(s) on page.
+[2026-05-19 16:37:56] [IL] No new items.
+[2026-05-19 16:37:56] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-05-19 16:37:56] [IN] Found 38 item(s) on page.
+[2026-05-19 16:37:56] [IN] No new items.
+[2026-05-19 16:37:56] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-05-19 16:37:56] [IA] Found 10 item(s) on page.
+[2026-05-19 16:37:56] [IA] No new items.
+[2026-05-19 16:37:56] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-19 16:37:56]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-19 16:37:59]   Playwright loaded page: 'Access Denied' (337 chars)
+[2026-05-19 16:37:59]   Playwright: page loaded but no links matched — check selectors
+[2026-05-19 16:37:59]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-19 16:38:00]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-19 16:38:20]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-19 16:38:40]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-19 16:38:40] [KS] No items returned (fetch failed or empty page).
+[2026-05-19 16:38:40] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-05-19 16:38:45] [KY] Found 27 item(s) on page.
+[2026-05-19 16:38:45] [KY] No new items.
+[2026-05-19 16:38:45] [LA] Fetching https://ag.louisiana.gov/News
+[2026-05-19 16:38:46] [LA] Found 20 item(s) on page.
+[2026-05-19 16:38:46] [LA] No new items.
+[2026-05-19 16:38:46] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-05-19 16:38:46] [ME] Found 6 item(s) on page.
+[2026-05-19 16:38:46] [ME] No new items.
+[2026-05-19 16:38:46] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-05-19 16:38:47] [MD] Found 50 item(s) on page.
+[2026-05-19 16:38:47] [MD] No new items.
+[2026-05-19 16:38:47] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-19 16:38:47]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-19 16:38:50]   Playwright loaded page: 'News and Announcements | Mass.gov' (173108 chars)
+[2026-05-19 16:38:50]   Playwright found 15 item(s) with configured selector
+[2026-05-19 16:38:50] [MA] Found 15 item(s) on page.
+[2026-05-19 16:38:50] [MA] 1 new item(s):
+[2026-05-19 16:38:50]   NEW: AG Campbell Challenges U.S. Department Of Education Rule Limiting Access To Student Loans For Essential Professional Degree Programs | 5/19/2026 | https://www.mass.gov/news/ag-campbell-challenges-us-department-of-education-rule-limiting-access-to-student-loans-for-essential-professional-degree-programs
+[2026-05-19 16:38:50] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-05-19 16:38:50]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-05-19 16:38:53]   Playwright loaded page: 'Attorney General: Press Releases' (378002 chars)
+[2026-05-19 16:38:53]   Playwright found 10 item(s) with configured selector
+[2026-05-19 16:38:53] [MI] Found 10 item(s) on page.
+[2026-05-19 16:38:53] [MI] 1 new item(s):
+[2026-05-19 16:38:53]   NEW: Former Osceola County Man Sentenced for Sexually Assaulting Three Minors |  | https://www.michigan.gov/ag/news/press-releases/2026/05/18/former-osceola-county-man-sentenced-for-sexually-assaulting-three-minors
+[2026-05-19 16:38:53] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-05-19 16:38:54] [MN] Found 50 item(s) on page.
+[2026-05-19 16:38:54] [MN] No new items.
+[2026-05-19 16:38:54] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-05-19 16:38:54] [MS] Found 1 item(s) on page.
+[2026-05-19 16:38:54] [MS] 1 new item(s):
+[2026-05-19 16:38:54]   NEW: AG Fitch Announces 20-Year Sentence in Child Exploitation Case (May 19, 2026) |  | https://attorneygenerallynnfitch.com/2026/05/19/ag-fitch-announces-20-year-sentence-in-child-exploitation-case-may-19-2026/
+[2026-05-19 16:38:54] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-05-19 16:38:54] [MO] Found 50 item(s) on page.
+[2026-05-19 16:38:54] [MO] 1 new item(s):
+[2026-05-19 16:38:54]   NEW: Attorney General Hanaway Secures Commitment of Sexually Violent Predator in St. Louis |  | https://ago.mo.gov/attorney-general-hanaway-secures-commitment-of-sexually-violent-predator-in-st-louis/
+[2026-05-19 16:38:54] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-05-19 16:38:54] [MT] Found 10 item(s) on page.
+[2026-05-19 16:38:54] [MT] No new items.
+[2026-05-19 16:38:54] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-05-19 16:38:55] [NE] Found 10 item(s) on page.
+[2026-05-19 16:38:55] [NE] No new items.
+[2026-05-19 16:38:55] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-05-19 16:38:55] [NV] Found 50 item(s) on page.
+[2026-05-19 16:38:55] [NV] No new items.
+[2026-05-19 16:38:55] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-05-19 16:38:55]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-05-19 16:38:58]   Playwright loaded page: 'Access Denied' (312 chars)
+[2026-05-19 16:38:58]   Playwright: page loaded but no links matched — check selectors
+[2026-05-19 16:38:58]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-05-19 16:38:58]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-19 16:39:18]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-19 16:39:38]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-19 16:39:38] [NH] No items returned (fetch failed or empty page).
+[2026-05-19 16:39:38] [NJ] Fetching https://www.njoag.gov/news/
+[2026-05-19 16:39:39] [NJ] Found 5 item(s) on page.
+[2026-05-19 16:39:39] [NJ] No new items.
+[2026-05-19 16:39:39] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-05-19 16:39:43] [NM] Found 15 item(s) on page.
+[2026-05-19 16:39:43] [NM] 1 new item(s):
+[2026-05-19 16:39:43]   NEW: Attorney General Raúl Torrez Announces Charges Against Nine Suspected Online Predators Following Multi-Agency Undercover Operation |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-announces-charges-against-nine-suspected-online-predators-following-multi-agency-undercover-operation/
+[2026-05-19 16:39:43] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-05-19 16:39:43] [NY] Found 25 item(s) on page.
+[2026-05-19 16:39:43] [NY] 1 new item(s):
+[2026-05-19 16:39:43]   NEW: Attorney General James Warns New Yorkers About Price Gouging During Long Island Rail Road Strike |  | https://ag.ny.gov/press-release/2026/attorney-general-james-warns-new-yorkers-about-price-gouging-during-long-island
+[2026-05-19 16:39:43] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-05-19 16:39:50] [NC] Found 10 item(s) on page.
+[2026-05-19 16:39:50] [NC] No new items.
+[2026-05-19 16:39:50] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-05-19 16:39:50] [ND] Found 10 item(s) on page.
+[2026-05-19 16:39:50] [ND] No new items.
+[2026-05-19 16:39:50] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-05-19 16:39:50] [OH] Found 10 item(s) on page.
+[2026-05-19 16:39:50] [OH] No new items.
+[2026-05-19 16:39:50] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-19 16:39:50]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-19 16:39:53]   Playwright loaded page: 'News Releases' (868795 chars)
+[2026-05-19 16:39:53]   Playwright found 20 item(s) with configured selector
+[2026-05-19 16:39:53] [OK] Found 20 item(s) on page.
+[2026-05-19 16:39:53] [OK] 1 new item(s):
+[2026-05-19 16:39:53]   NEW: Multi-County Grand Jury indicts six in Walmart check cashing scheme |  | https://oklahoma.gov/oag/news/newsroom/2026/may/multi-county-grand-jury-indicts-six-in-walmart-check-cashing-scheme.html
+[2026-05-19 16:39:53] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-05-19 16:39:54] [OR] Found 10 item(s) on page.
+[2026-05-19 16:39:54] [OR] 1 new item(s):
+[2026-05-19 16:39:54]   NEW: Attorney General Rayfield Sues U.S. Department of Education Over Student Loan Rule Limiting Access to Student Loans for Professional Degree Programs |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-challenges-u-s-dept-of-education-for-limiting-access-to-student-loans/
+[2026-05-19 16:39:54] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-05-19 16:39:56] [PA] Found 30 item(s) on page.
+[2026-05-19 16:39:56] [PA] No new items.
+[2026-05-19 16:39:56] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-05-19 16:39:56] [RI] Found 10 item(s) on page.
+[2026-05-19 16:39:56] [RI] No new items.
+[2026-05-19 16:39:56] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-19 16:39:56]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-05-19 16:39:59]   Playwright loaded page: 'News - South Carolina Attorney General' (110720 chars)
+[2026-05-19 16:39:59]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-05-19 16:39:59] [SC] Found 9 item(s) on page.
+[2026-05-19 16:39:59] [SC] 2 new item(s):
+[2026-05-19 16:39:59]   NEW: Attorney General Alan Wilson defends children from irreversible harmsRead More | May 19, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-defends-children-from-irreversible-harms/
+[2026-05-19 16:39:59]   NEW: Laurens man arrested on 20 Child Sexual Abuse Material* chargesRead More | May 18, 2026 | https://www.scag.gov/about-the-office/news/laurens-man-arrested-on-20-child-sexual-abuse-material-charges/
+[2026-05-19 16:39:59] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-05-19 16:39:59]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=5
+[2026-05-19 16:40:02]   Playwright loaded page: 'South Dakota Attorney General' (36017 chars)
+[2026-05-19 16:40:02]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-05-19 16:40:02] [SD] Found 1 item(s) on page.
+[2026-05-19 16:40:02] [SD] No new items.
+[2026-05-19 16:40:02] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-05-19 16:40:03]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-05-19 16:40:23] [TN] Found 50 item(s) on page.
+[2026-05-19 16:40:23] [TN] 1 new item(s):
+[2026-05-19 16:40:23]   NEW: Attorney General Skrmetti Appoints Madeline Clark as Tennessee Solicitor General |  | https://www.tn.gov/attorneygeneral/news/2026/5/18/pr26-20.html
+[2026-05-19 16:40:23] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-05-19 16:40:23] [TX] Found 50 item(s) on page.
+[2026-05-19 16:40:23] [TX] 2 new item(s):
+[2026-05-19 16:40:23]   NEW: Attor­ney Gen­er­al Ken Pax­ton Secures His­toric Set­tle­ment With Gro­cery Store Chains Across Texas Stop­ping Them From Secret­ly Mist­ing Syn­thet­ic Pes­ti­cides on Organ­ic Produce |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-historic-settlement-grocery-store-chains-across-texas-stopping
+[2026-05-19 16:40:23]   NEW: Attor­ney Gen­er­al Ken Pax­ton Sues School Ille­gal­ly Oper­at­ing as​“Tex­AM” for Offer­ing Unau­tho­rized Degrees and Mis­lead­ing Texans |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-school-illegally-operating-texam-offering-unauthorized-degrees-and
+[2026-05-19 16:40:23] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-05-19 16:40:23]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-05-19 16:40:26]   Playwright loaded page: 'Press Releases - Utah Attorney General' (295655 chars)
+[2026-05-19 16:40:26]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-19 16:40:26] [UT] Found 50 item(s) on page.
+[2026-05-19 16:40:26] [UT] No new items.
+[2026-05-19 16:40:26] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-05-19 16:40:27] [VT] Found 50 item(s) on page.
+[2026-05-19 16:40:27] [VT] 1 new item(s):
+[2026-05-19 16:40:27]   NEW: Attorney General Clark Sues Trump Administration Over New Federal Student Loan Rule Limiting Access to Student Loans for Professional Degree Programs | DateMay 19, 2026 | https://ago.vermont.gov/blog/2026/05/19/attorney-general-clark-sues-trump-administration-over-new-federal-student-loan-rule-limiting-access
+[2026-05-19 16:40:27] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-05-19 16:40:28] [VA] Found 50 item(s) on page.
+[2026-05-19 16:40:28] [VA] 2 new item(s):
+[2026-05-19 16:40:28]   NEW: Attorney General Jay Jones Joins Coalition Opposing EPA’s Proposal to Gut National Limits on Toxic Ethylene Oxide Pollution |  | https://www.oag.state.va.us/media-center/news-releases/3026-attorney-general-jay-jones-joins-coalition-opposing-epas-proposal-to-gut-national-limits-on-toxic-ethylene-oxide-pollution
+[2026-05-19 16:40:28]   NEW: Attorney General Jay Jones Hosts ‘From Legacy to Law’ Event Recognizing Landmark Brown v. Board of Education Decision |  | https://www.oag.state.va.us/media-center/news-releases/3025-attorney-general-jay-jones-hosts-from-legacy-to-law-event-recognizing-landmark-brown-v-board-of-education-decision
+[2026-05-19 16:40:28] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-05-19 16:40:28] [WA] Found 15 item(s) on page.
+[2026-05-19 16:40:28] [WA] 1 new item(s):
+[2026-05-19 16:40:28]   NEW: WA sues U.S. Department of Education over unlawfully limiting federal student loan access | Tue, 19 May 2026 15:50:25 +0000 | https://www.atg.wa.gov/news/news-releases/wa-sues-us-department-education-over-unlawfully-limiting-federal-student-loan
+[2026-05-19 16:40:28] [WV] Fetching https://ago.wv.gov/news
+[2026-05-19 16:40:28]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-05-19 16:40:31]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54294 chars)
+[2026-05-19 16:40:31]   Playwright found 30 item(s) with configured selector
+[2026-05-19 16:40:31] [WV] Found 30 item(s) on page.
+[2026-05-19 16:40:31] [WV] No new items.
+[2026-05-19 16:40:31] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-19 16:40:31]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-19 16:40:35]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1507048 chars)
+[2026-05-19 16:40:36]   Playwright found 32 item(s) with configured selector
+[2026-05-19 16:40:36] [WI] Found 32 item(s) on page.
+[2026-05-19 16:40:36] [WI] No new items.
+[2026-05-19 16:40:36] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-05-19 16:40:36] [WY] Found 1 item(s) on page.
+[2026-05-19 16:40:36] [WY] No new items.
+[2026-05-19 16:40:36] States with fetch errors: KS, NH
+[2026-05-19 16:40:36] Sending email: 22 new item(s) across 19 state(s).
+[2026-05-19 16:40:37] Email sent.
+[2026-05-19 16:40:37] Done.
