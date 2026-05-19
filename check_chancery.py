@@ -29,7 +29,7 @@ SCRIPT_DIR = Path(__file__).parent
 STATE_FILE = SCRIPT_DIR / "chancery_state.json"
 CONFIG_FILE = SCRIPT_DIR / "chancery_config.json"
 LOG_FILE = SCRIPT_DIR / "chancery_log.txt"
-URL = "https://courts.delaware.gov/opinions/List.aspx"
+URL = "https://courts.delaware.gov/opinions/"
 OPINION_BASE = "https://courts.delaware.gov/opinions/"
 
 HEADERS = {
