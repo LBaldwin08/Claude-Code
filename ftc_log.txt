@@ -265,3 +265,14 @@
 [2026-05-21 16:26:04] Found 20 press release(s) on page.
 [2026-05-21 16:26:04] No new press releases.
 [2026-05-21 16:26:04] Done.
+[2026-05-22 16:03:19] Checking for new FTC press releases...
+[2026-05-22 16:03:19] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-05-22 16:03:32] Playwright found 0 press release link(s).
+[2026-05-22 16:03:32] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-05-22 16:03:33] requests found 20 press release link(s).
+[2026-05-22 16:03:33] Found 20 press release(s) on page.
+[2026-05-22 16:03:33] 1 new press release(s)!
+[2026-05-22 16:03:33]   NEW: [2026-05-21T12:00:00Z] FTC to Require Cox Media Group, Two Other Firms to Pay Nearly $1 Million to Settle Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service
+[2026-05-22 16:03:33]        https://www.ftc.gov/news-events/news/press-releases/2026/05/ftc-require-cox-media-group-two-other-firms-pay-nearly-1-million-settle-charges-they-deceived
+[2026-05-22 16:03:34] Email notification sent.
+[2026-05-22 16:03:34] Done.
