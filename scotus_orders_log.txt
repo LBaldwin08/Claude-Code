@@ -133,3 +133,15 @@
 [2026-05-21 16:37:24]        https://www.supremecourt.gov/orders/courtorders/052126zr_m6hn.pdf
 [2026-05-21 16:37:25] Email notification sent.
 [2026-05-21 16:37:25] Done.
+[2026-05-22 16:21:20] Checking for new Supreme Court orders...
+[2026-05-22 16:21:20] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-05-22 16:21:23] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-05-22 16:21:25] Playwright found 83 order(s).
+[2026-05-22 16:21:25] Found 83 order(s) on page.
+[2026-05-22 16:21:25] 2 new order(s)!
+[2026-05-22 16:21:25]   NEW: [2026-05-21] Miscellaneous Order
+[2026-05-22 16:21:25]        https://www.supremecourt.gov/orders/courtorders/052126zr4_d1o3.pdf
+[2026-05-22 16:21:25]   NEW: [2026-05-21] Miscellaneous Order
+[2026-05-22 16:21:25]        https://www.supremecourt.gov/orders/courtorders/052126zr3_i42j.pdf
+[2026-05-22 16:21:29] Email notification sent.
+[2026-05-22 16:21:29] Done.
