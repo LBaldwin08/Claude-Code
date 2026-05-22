@@ -5236,3 +5236,239 @@ Call log:
 [2026-05-21 16:27:16] Sending email: 38 new item(s) across 25 state(s).
 [2026-05-21 16:27:18] Email sent.
 [2026-05-21 16:27:18] Done.
+[2026-05-22 16:01:19] Checking for new AG press releases...
+[2026-05-22 16:01:19] Checking 50 state(s).
+[2026-05-22 16:01:19] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-05-22 16:01:19]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-05-22 16:01:23]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (218190 chars)
+[2026-05-22 16:01:23]   Playwright found 27 item(s) with configured selector
+[2026-05-22 16:01:23] [AL] Found 27 item(s) on page.
+[2026-05-22 16:01:23] [AL] No new items.
+[2026-05-22 16:01:23] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-05-22 16:01:23] [AK] Found 50 item(s) on page.
+[2026-05-22 16:01:23] [AK] No new items.
+[2026-05-22 16:01:23] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-05-22 16:01:24] [AZ] Found 10 item(s) on page.
+[2026-05-22 16:01:24] [AZ] 2 new item(s):
+[2026-05-22 16:01:24]   NEW: Attorney General Mayes Announces Indictment of Former Santa Cruz County Employee on Theft, Fraud, Forgery, and Money Laundering Charges |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-indictment-former-santa-cruz-county-employee-theft
+[2026-05-22 16:01:24]   NEW: Attorney General Mayes Announces Nearly $2 Million Settlement to Protect Veterans from Misleading Disability Claims Practices |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-nearly-2-million-settlement-protect-veterans
+[2026-05-22 16:01:24] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-05-22 16:01:24] [AR] Found 50 item(s) on page.
+[2026-05-22 16:01:24] [AR] 1 new item(s):
+[2026-05-22 16:01:24]   NEW: Thursday, May 21, 2026Attorney General Griffin Announces $5.5 Million Settlement with Family Dollar over Rat InfestationRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-5-5-million-settlement-with-family-dollar-over-rat-infestation/
+[2026-05-22 16:01:24] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-05-22 16:01:25] [CA] Found 10 item(s) on page.
+[2026-05-22 16:01:25] [CA] 3 new item(s):
+[2026-05-22 16:01:25]   NEW: Attorney General Bonta Announces Arrest of Sacramento Casino Conman | Fri, 22 May 2026 15:05:10 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-arrest-sacramento-casino-conman
+[2026-05-22 16:01:25]   NEW: Attorney General Bonta Asks Court to Break Up Live Nation/Ticketmaster | Thu, 21 May 2026 21:19:22 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-asks-court-break-live-nationticketmaster
+[2026-05-22 16:01:25]   NEW: Attorney General Bonta Secures Strong Foundation, Settlement in California Concrete Merger | Thu, 21 May 2026 18:55:17 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-strong-foundation-settlement-california-concrete
+[2026-05-22 16:01:25] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-05-22 16:01:25] [CO] Found 49 item(s) on page.
+[2026-05-22 16:01:25] [CO] No new items.
+[2026-05-22 16:01:25] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-05-22 16:01:26] [CT] Found 34 item(s) on page.
+[2026-05-22 16:01:26] [CT] No new items.
+[2026-05-22 16:01:26] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-05-22 16:01:27] [DE] Found 300 item(s) on page.
+[2026-05-22 16:01:27] [DE] 2 new item(s):
+[2026-05-22 16:01:27]   NEW: Statement from AG Jennings on Trump’s payout to January 6th insurrectionists | Thu, 21 May 2026 11:37:59 +0000 | https://news.delaware.gov/2026/05/21/statement-from-ag-jennings-on-trumps-payout-to-january-6th-insurrectionists/
+[2026-05-22 16:01:27]   NEW: DOJ secures life sentence for Claymont drug murder | Thu, 21 May 2026 11:35:58 +0000 | https://news.delaware.gov/2026/05/21/doj-secures-life-sentence-for-claymont-drug-murder/
+[2026-05-22 16:01:27] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-05-22 16:01:27] [FL] Found 20 item(s) on page.
+[2026-05-22 16:01:27] [FL] No new items.
+[2026-05-22 16:01:27] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-05-22 16:01:28] [GA] Found 11 item(s) on page.
+[2026-05-22 16:01:28] [GA] No new items.
+[2026-05-22 16:01:28] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-05-22 16:01:28] [HI] Found 26 item(s) on page.
+[2026-05-22 16:01:28] [HI] No new items.
+[2026-05-22 16:01:28] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-22 16:01:28]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-22 16:01:31]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (64982 chars)
+[2026-05-22 16:01:32]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-05-22 16:01:32] [ID] Found 28 item(s) on page.
+[2026-05-22 16:01:32] [ID] No new items.
+[2026-05-22 16:01:32] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-05-22 16:01:32] [IL] Found 50 item(s) on page.
+[2026-05-22 16:01:32] [IL] 1 new item(s):
+[2026-05-22 16:01:32]   NEW: May 22, 2026ATTORNEY GENERAL RAOUL URGES FUNDS TO REEVALUATE DECISION TO CUT OFF DONATIONS TO SOUTHERN POVERTY LAW CENTER | 2026-05-22 10:00 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-urges-funds-to-reevaluate-decision-to-cut-off-donations-to-southern-poverty-law-center
+[2026-05-22 16:01:32] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-05-22 16:01:33] [IN] Found 38 item(s) on page.
+[2026-05-22 16:01:33] [IN] No new items.
+[2026-05-22 16:01:33] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-05-22 16:01:33] [IA] Found 10 item(s) on page.
+[2026-05-22 16:01:33] [IA] No new items.
+[2026-05-22 16:01:33] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-22 16:01:33]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-22 16:01:36]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-05-22 16:01:36]   Playwright: page loaded but no links matched — check selectors
+[2026-05-22 16:01:36]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-22 16:01:37]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-22 16:01:57]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-22 16:02:17]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-22 16:02:17] [KS] No items returned (fetch failed or empty page).
+[2026-05-22 16:02:17] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-05-22 16:02:18] [KY] Found 27 item(s) on page.
+[2026-05-22 16:02:18] [KY] No new items.
+[2026-05-22 16:02:18] [LA] Fetching https://ag.louisiana.gov/News
+[2026-05-22 16:02:19] [LA] Found 20 item(s) on page.
+[2026-05-22 16:02:19] [LA] No new items.
+[2026-05-22 16:02:19] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-05-22 16:02:19] [ME] Found 6 item(s) on page.
+[2026-05-22 16:02:19] [ME] No new items.
+[2026-05-22 16:02:19] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-05-22 16:02:20] [MD] Found 50 item(s) on page.
+[2026-05-22 16:02:20] [MD] No new items.
+[2026-05-22 16:02:20] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-22 16:02:20]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-22 16:02:23]   Playwright loaded page: 'News and Announcements | Mass.gov' (173291 chars)
+[2026-05-22 16:02:23]   Playwright found 15 item(s) with configured selector
+[2026-05-22 16:02:23] [MA] Found 15 item(s) on page.
+[2026-05-22 16:02:23] [MA] 1 new item(s):
+[2026-05-22 16:02:23]   NEW: Governor Healey, Attorney General Campbell Warn Against Illegal Renter-Paid Broker Fees | 5/21/2026 | https://www.mass.gov/news/governor-healey-attorney-general-campbell-warn-against-illegal-renter-paid-broker-fees
+[2026-05-22 16:02:23] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-05-22 16:02:23]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-05-22 16:02:27]   Playwright loaded page: 'Attorney General: Press Releases' (378122 chars)
+[2026-05-22 16:02:27]   Playwright found 10 item(s) with configured selector
+[2026-05-22 16:02:27] [MI] Found 10 item(s) on page.
+[2026-05-22 16:02:27] [MI] 1 new item(s):
+[2026-05-22 16:02:27]   NEW: South Lyon Woman Pleads No Contest to Embezzling from Vulnerable Adult |  | https://www.michigan.gov/ag/news/press-releases/2026/05/21/south-lyon-woman-pleads-no-contest-to-embezzling-from-vulnerable-adult
+[2026-05-22 16:02:27] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-05-22 16:02:27] [MN] Found 50 item(s) on page.
+[2026-05-22 16:02:27] [MN] No new items.
+[2026-05-22 16:02:27] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-05-22 16:02:28] [MS] Found 1 item(s) on page.
+[2026-05-22 16:02:28] [MS] 1 new item(s):
+[2026-05-22 16:02:28]   NEW: Law Enforcement, Prosecutors, and Firefighters Honored at Mississippi Governor’s Public Safety Awards Ceremony (May 21, 2026) |  | https://attorneygenerallynnfitch.com/2026/05/21/law-enforcement-prosecutors-and-firefighters-honored-at-mississippi-governors-public-safety-awards-ceremony-may-21-2026/
+[2026-05-22 16:02:28] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-05-22 16:02:32] [MO] Found 50 item(s) on page.
+[2026-05-22 16:02:32] [MO] 1 new item(s):
+[2026-05-22 16:02:32]   NEW: Attorney General Hanaway Secures First-Degree Murder Conviction in Henry County |  | https://ago.mo.gov/attorney-general-hanaway-secures-first-degree-murder-conviction-in-henry-county/
+[2026-05-22 16:02:32] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-05-22 16:02:32] [MT] Found 10 item(s) on page.
+[2026-05-22 16:02:32] [MT] No new items.
+[2026-05-22 16:02:32] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-05-22 16:02:32] [NE] Found 10 item(s) on page.
+[2026-05-22 16:02:32] [NE] 1 new item(s):
+[2026-05-22 16:02:32]   NEW: AG Hilgers Joins Amicus Brief to Prevent Small Localities from Setting National Energy Policy | Thu, 21 May 2026 20:09:31 +0000 | https://ago.nebraska.gov/ag-hilgers-joins-amicus-brief-prevent-small-localities-setting-national-energy-policy
+[2026-05-22 16:02:32] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-05-22 16:02:33] [NV] Found 50 item(s) on page.
+[2026-05-22 16:02:33] [NV] No new items.
+[2026-05-22 16:02:33] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-05-22 16:02:33]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-05-22 16:02:35]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-05-22 16:02:35]   Playwright: page loaded but no links matched — check selectors
+[2026-05-22 16:02:35]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-05-22 16:02:35]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-22 16:02:55]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-22 16:03:15]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-05-22 16:03:15] [NH] No items returned (fetch failed or empty page).
+[2026-05-22 16:03:15] [NJ] Fetching https://www.njoag.gov/news/
+[2026-05-22 16:03:17] [NJ] Found 5 item(s) on page.
+[2026-05-22 16:03:17] [NJ] 3 new item(s):
+[2026-05-22 16:03:17]   NEW: La Fiscal General Davenport anuncia salvaguardas para proteger el derecho al voto durante las elecciones primarias de 2026 |  | https://www.njoag.gov/la-fiscal-general-davenport-anuncia-salvaguardas-para-proteger-el-derecho-al-voto-durante-las-elecciones-primarias-de-2026/
+[2026-05-22 16:03:17]   NEW: Attorney General Davenport Announces Safeguards to Protect the Right to Vote During the 2026 Primary Election |  | https://www.njoag.gov/attorney-general-davenport-announces-safeguards-to-protect-the-right-to-vote-during-the-2026-primary-election/
+[2026-05-22 16:03:17]   NEW: AG Davenport, Division of Consumer Affairs Warn Hotels and Short-Term Rental Providers Against Junk Fees Ahead of 2026 FIFA World Cup |  | https://www.njoag.gov/ag-davenport-division-of-consumer-affairs-warn-hotels-and-short-term-rental-providers-against-junk-fees-ahead-of-2026-fifa-world-cup/
+[2026-05-22 16:03:17] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-05-22 16:03:20] [NM] Found 14 item(s) on page.
+[2026-05-22 16:03:20] [NM] 1 new item(s):
+[2026-05-22 16:03:20]   NEW: ICYMI: U.S. Surgeon General’s Advisory Recommends Changes Sought by New Mexico in Trial Against Meta |  | https://nmdoj.gov/press-release/icymi-u-s-surgeon-generals-advisory-recommends-changes-sought-by-new-mexico-in-trial-against-meta/
+[2026-05-22 16:03:20] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-05-22 16:03:20] [NY] Found 25 item(s) on page.
+[2026-05-22 16:03:20] [NY] 3 new item(s):
+[2026-05-22 16:03:20]   NEW: Attorney General James Secures $4.5 Million from Travel Agencies for Scheme to Avoid Taxes |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-45-million-travel-agencies-scheme-avoid-taxes
+[2026-05-22 16:03:20]   NEW: Attorney General James Urges Charity Funds to Continue Donations to Southern Poverty Law Center |  | https://ag.ny.gov/press-release/2026/attorney-general-james-urges-charity-funds-continue-donations-southern-poverty
+[2026-05-22 16:03:20]   NEW: Attorney General James Shuts Down Predatory Law Firm That Targeted New York City Tenants Facing Eviction |  | https://ag.ny.gov/press-release/2026/attorney-general-james-shuts-down-predatory-law-firm-targeted-new-york-city
+[2026-05-22 16:03:20] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-05-22 16:03:28] [NC] Found 10 item(s) on page.
+[2026-05-22 16:03:28] [NC] 2 new item(s):
+[2026-05-22 16:03:28]   NEW: Attorney General Jeff Jackson Reminds North Carolinians to Protect Their Information After Recent Data Breach |  | https://ncdoj.gov/attorney-general-jeff-jackson-reminds-north-carolinians-to-protect-their-information-after-recent-data-breach/
+[2026-05-22 16:03:28]   NEW: North Carolina Sues VinFast to Acquire Shovel-Ready Manufacturing Site |  | https://ncdoj.gov/north-carolina-sues-vinfast-to-acquire-shovel-ready-manufacturing-site/
+[2026-05-22 16:03:28] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-05-22 16:03:28] [ND] Found 10 item(s) on page.
+[2026-05-22 16:03:28] [ND] No new items.
+[2026-05-22 16:03:28] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-05-22 16:03:29] [OH] Found 10 item(s) on page.
+[2026-05-22 16:03:29] [OH] 1 new item(s):
+[2026-05-22 16:03:29]   NEW: AG Yost Applauds Student Finalists of ‘Do the Write Thing’ Anti-Violence Program | 5/22/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/May-2026/AG-Yost-Applauds-Student-Finalists-of-Do-the-Write
+[2026-05-22 16:03:29] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-22 16:03:29]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-22 16:03:32]   Playwright loaded page: 'News Releases' (841398 chars)
+[2026-05-22 16:03:33]   Playwright: page loaded but no links matched — check selectors
+[2026-05-22 16:03:33]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-05-22 16:03:33] [OK] No items returned (fetch failed or empty page).
+[2026-05-22 16:03:33] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-05-22 16:03:34] [OR] Found 10 item(s) on page.
+[2026-05-22 16:03:34] [OR] No new items.
+[2026-05-22 16:03:34] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-05-22 16:03:35] [PA] Found 30 item(s) on page.
+[2026-05-22 16:03:35] [PA] 3 new item(s):
+[2026-05-22 16:03:35]   NEW: 05/22/2026 | 05/22/2026 | https://www.attorneygeneral.gov/taking-action/verdict-allegheny-county-man-guilty-of-forging-signatures-on-nominating-petitions-for-2022-u-s-congressional-candidate/
+[2026-05-22 16:03:35]   NEW: 05/22/2026 | 05/22/2026 | https://www.attorneygeneral.gov/taking-action/ag-sunday-and-geico-agree-on-improvements-to-remedy-customer-confusion-and-prevent-unfair-auto-insurance-cancellations/
+[2026-05-22 16:03:35]   NEW: 05/22/2026 | 05/22/2026 | https://www.attorneygeneral.gov/taking-action/ag-sundays-gun-violence-task-force-partners-capture-man-wanted-for-pistol-whipping-customer-during-philadelphia-store-robbery/
+[2026-05-22 16:03:35] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-05-22 16:03:35] [RI] Found 10 item(s) on page.
+[2026-05-22 16:03:35] [RI] 2 new item(s):
+[2026-05-22 16:03:35]   NEW: Attorney General Neronha sues Kalshi and Polymarket for unlawfully conducting sports gambling in Rhode Island | Thu, 21 May 2026 20:58:34 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-sues-kalshi-and-polymarket-unlawfully-conducting-sports
+[2026-05-22 16:03:35]   NEW: Massachusetts man sentenced to 25 years in state prison for child molestation | Thu, 21 May 2026 19:51:32 +0000 | https://riag.ri.gov/press-releases/massachusetts-man-sentenced-25-years-state-prison-child-molestation
+[2026-05-22 16:03:35] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-22 16:03:35]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-05-22 16:03:38]   Playwright loaded page: 'News - South Carolina Attorney General' (110975 chars)
+[2026-05-22 16:03:38]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-05-22 16:03:38] [SC] Found 9 item(s) on page.
+[2026-05-22 16:03:38] [SC] 3 new item(s):
+[2026-05-22 16:03:38]   NEW: Greenville County man arrested on Child Sexual Abuse Material* chargeRead More | May 22, 2026 | https://www.scag.gov/about-the-office/news/greenville-county-man-arrested-on-child-sexual-abuse-material-charge-2/
+[2026-05-22 16:03:38]   NEW: Orangeburg man arrested on Child Sexual Abuse Material* chargesRead More | May 22, 2026 | https://www.scag.gov/about-the-office/news/orangeburg-man-arrested-on-child-sexual-abuse-material-charges/
+[2026-05-22 16:03:38]   NEW: Attorney General Alan Wilson announces next steps in Silfab Solar matterRead More | May 21, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-next-steps-in-silfab-solar-matter/
+[2026-05-22 16:03:38] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-05-22 16:03:38]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=5
+[2026-05-22 16:03:41]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-05-22 16:03:41]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-05-22 16:03:41] [SD] Found 1 item(s) on page.
+[2026-05-22 16:03:41] [SD] No new items.
+[2026-05-22 16:03:41] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-05-22 16:03:42]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-05-22 16:04:02] [TN] Found 50 item(s) on page.
+[2026-05-22 16:04:02] [TN] No new items.
+[2026-05-22 16:04:02] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-05-22 16:04:03] [TX] Found 50 item(s) on page.
+[2026-05-22 16:04:03] [TX] 2 new item(s):
+[2026-05-22 16:04:03]   NEW: Attor­ney Gen­er­al Ken Pax­ton Files Land­mark Law­suit Against Dis­cord for Deceiv­ing Par­ents and Expos­ing Texas Chil­dren to Predators |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-files-landmark-lawsuit-against-discord-deceiving-parents-and-exposing
+[2026-05-22 16:04:03]   NEW: Attor­ney Gen­er­al Pax­ton Files Land­mark Law­suit Against Meta and What­sApp for Lying About Pri­va­cy Mea­sures and Deceiv­ing Tex­ans by False­ly Claim­ing What­sApp Mes­sages are Encrypted |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-files-landmark-lawsuit-against-meta-and-whatsapp-lying-about-privacy
+[2026-05-22 16:04:03] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-05-22 16:04:03]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-05-22 16:04:06]   Playwright loaded page: 'Press Releases - Utah Attorney General' (295746 chars)
+[2026-05-22 16:04:06]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-22 16:04:06] [UT] Found 50 item(s) on page.
+[2026-05-22 16:04:06] [UT] No new items.
+[2026-05-22 16:04:06] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-05-22 16:04:06] [VT] Found 50 item(s) on page.
+[2026-05-22 16:04:06] [VT] 1 new item(s):
+[2026-05-22 16:04:06]   NEW: Rutland Medicaid Service Provider Sentenced for Medicaid Fraud | DateMay 22, 2026 | https://ago.vermont.gov/blog/2026/05/22/rutland-medicaid-service-provider-sentenced-medicaid-fraud
+[2026-05-22 16:04:06] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-05-22 16:04:09] [VA] Found 50 item(s) on page.
+[2026-05-22 16:04:09] [VA] No new items.
+[2026-05-22 16:04:09] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-05-22 16:04:09] [WA] Found 15 item(s) on page.
+[2026-05-22 16:04:09] [WA] No new items.
+[2026-05-22 16:04:09] [WV] Fetching https://ago.wv.gov/news
+[2026-05-22 16:04:09]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-05-22 16:04:12]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54376 chars)
+[2026-05-22 16:04:12]   Playwright found 30 item(s) with configured selector
+[2026-05-22 16:04:12] [WV] Found 30 item(s) on page.
+[2026-05-22 16:04:12] [WV] 1 new item(s):
+[2026-05-22 16:04:12]   NEW: Full Story | 2026-05-22T12:00:00Z | https://ago.wv.gov/article/ag-mccuskey-supreme-court-one-city-cannot-set-energy-policy-whole-country
+[2026-05-22 16:04:12] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-22 16:04:12]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-22 16:04:16]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1508195 chars)
+[2026-05-22 16:04:17]   Playwright found 34 item(s) with configured selector
+[2026-05-22 16:04:17] [WI] Found 34 item(s) on page.
+[2026-05-22 16:04:17] [WI] 1 new item(s):
+[2026-05-22 16:04:17]   NEW: UPDATE: Officer Involved Death Investigation in Eau Claire County, Wis. |  | https://www.wisdoj.gov/PressReleases/press-release-union-update.pdf
+[2026-05-22 16:04:17] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-05-22 16:04:17] [WY] Found 1 item(s) on page.
+[2026-05-22 16:04:17] [WY] No new items.
+[2026-05-22 16:04:17] States with fetch errors: KS, NH, OK
+[2026-05-22 16:04:17] Sending email: 37 new item(s) across 22 state(s).
+[2026-05-22 16:04:18] Email sent.
+[2026-05-22 16:04:18] Done.
