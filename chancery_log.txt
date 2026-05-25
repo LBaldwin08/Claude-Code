@@ -264,3 +264,7 @@
 [2026-05-25 18:59:39] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fb081899b20>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-05-25 18:59:39] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fb081899b20>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-05-25 18:59:39] Skipping this run — will retry next scheduled check.
+[2026-05-25 20:23:08] Checking for new DE court opinions...
+[2026-05-25 20:23:09] Found 0 opinions on page.
+[2026-05-25 20:23:09] No new opinions.
+[2026-05-25 20:23:09] Done.
