@@ -292,3 +292,7 @@
 [2026-05-26 14:56:02] Found 0 opinions on page.
 [2026-05-26 14:56:02] No new opinions.
 [2026-05-26 14:56:02] Done.
+[2026-05-26 17:57:46] Checking for new DE court opinions...
+[2026-05-26 17:57:47] Found 0 opinions on page.
+[2026-05-26 17:57:47] No new opinions.
+[2026-05-26 17:57:47] Done.
