@@ -6982,3 +6982,221 @@ Call log:
 [2026-05-29 16:59:51] Sending email: 21 new item(s) across 14 state(s).
 [2026-05-29 16:59:52] Email sent.
 [2026-05-29 16:59:52] Done.
+[2026-05-30 14:52:39] Checking for new AG press releases...
+[2026-05-30 14:52:39] Checking 50 state(s).
+[2026-05-30 14:52:39] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-05-30 14:52:39]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-05-30 14:52:44]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (218092 chars)
+[2026-05-30 14:52:44]   Playwright found 27 item(s) with configured selector
+[2026-05-30 14:52:44] [AL] Found 27 item(s) on page.
+[2026-05-30 14:52:44] [AL] No new items.
+[2026-05-30 14:52:44] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-05-30 14:52:45] [AK] Found 50 item(s) on page.
+[2026-05-30 14:52:45] [AK] No new items.
+[2026-05-30 14:52:45] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-05-30 14:52:45] [AZ] Found 10 item(s) on page.
+[2026-05-30 14:52:45] [AZ] No new items.
+[2026-05-30 14:52:45] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-05-30 14:52:45] [AR] Found 50 item(s) on page.
+[2026-05-30 14:52:45] [AR] 1 new item(s):
+[2026-05-30 14:52:45]   NEW: Friday, May 29, 2026Attorney General Griffin Leads Amicus Brief to Protect Americans’ Financial Data and PrivacyRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-leads-amicus-brief-to-protect-americans-financial-data-and-privacy/
+[2026-05-30 14:52:45] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-05-30 14:52:46] [CA] Found 10 item(s) on page.
+[2026-05-30 14:52:46] [CA] 4 new item(s):
+[2026-05-30 14:52:46]   NEW: Attorney General Bonta Calls Out Trump Administration’s Breach of its Agreement Not to Restrict Access to Affordable Housing During Ongoing Litigation | Fri, 29 May 2026 19:13:46 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-calls-out-trump-administration%E2%80%99s-breach-its-agreement-not
+[2026-05-30 14:52:46]   NEW: Attorney General Bonta Opposes Plan to Weaken Federal Protections for Retirement Investments | Fri, 29 May 2026 18:45:46 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-plan-weaken-federal-protections-retirement
+[2026-05-30 14:52:46]   NEW: Attorney General Bonta Conditionally Approves Proposed Transaction to Ensure Continued Access to Senior Care Services in Fresno County | Fri, 29 May 2026 18:31:04 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-conditionally-approves-proposed-transaction-ensure
+[2026-05-30 14:52:46]   NEW: Attorney General Bonta Seeks Justice for Grieving Families with First DOJ-Sponsored Missing Persons Resource Fair | Thu, 28 May 2026 21:22:48 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-seeks-justice-grieving-families-first-doj-sponsored
+[2026-05-30 14:52:46] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-05-30 14:52:46] [CO] Found 49 item(s) on page.
+[2026-05-30 14:52:46] [CO] No new items.
+[2026-05-30 14:52:46] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-05-30 14:52:47] [CT] Found 34 item(s) on page.
+[2026-05-30 14:52:47] [CT] No new items.
+[2026-05-30 14:52:47] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-05-30 14:52:47] [DE] Found 300 item(s) on page.
+[2026-05-30 14:52:47] [DE] 1 new item(s):
+[2026-05-30 14:52:47]   NEW: Delaware Leaders Respond to Third Circuit’s Order that the State Comply with Immigration Subpoena | Fri, 29 May 2026 12:16:09 +0000 | https://news.delaware.gov/2026/05/29/delaware-leaders-respond-to-third-circuits-order-that-the-state-comply-with-immigration-subpoena/
+[2026-05-30 14:52:47] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-05-30 14:52:48] [FL] Found 20 item(s) on page.
+[2026-05-30 14:52:48] [FL] 1 new item(s):
+[2026-05-30 14:52:48]   NEW: Attorney General James Uthmeier Returns $229,000 to Victims of Cryptocurrency Scams | 2026-05-29T21:30:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-returns-229000-victims-cryptocurrency-scams
+[2026-05-30 14:52:48] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-05-30 14:52:48] [GA] Found 11 item(s) on page.
+[2026-05-30 14:52:48] [GA] No new items.
+[2026-05-30 14:52:48] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-05-30 14:52:48] [HI] Found 26 item(s) on page.
+[2026-05-30 14:52:48] [HI] No new items.
+[2026-05-30 14:52:48] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-30 14:52:48]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-05-30 14:52:52]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65154 chars)
+[2026-05-30 14:52:52]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-05-30 14:52:52] [ID] Found 28 item(s) on page.
+[2026-05-30 14:52:52] [ID] No new items.
+[2026-05-30 14:52:52] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-05-30 14:52:53] [IL] Found 50 item(s) on page.
+[2026-05-30 14:52:53] [IL] 1 new item(s):
+[2026-05-30 14:52:53]   NEW: May 29, 2026ATTORNEY GENERAL RAOUL LEADS COALITION OPPOSING PLAN TO WEAKEN FEDERAL PROTECTIONS FOR RETIREMENT INVESTMENTS | 2026-05-29 1:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-opposing-plan-to-weaken-federal-protections-for-retirement-investments
+[2026-05-30 14:52:53] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-05-30 14:52:54] [IN] Found 38 item(s) on page.
+[2026-05-30 14:52:54] [IN] No new items.
+[2026-05-30 14:52:54] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-05-30 14:52:54] [IA] Found 10 item(s) on page.
+[2026-05-30 14:52:54] [IA] No new items.
+[2026-05-30 14:52:54] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-30 14:52:54]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-05-30 14:52:57]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-05-30 14:52:57]   Playwright: page loaded but no links matched — check selectors
+[2026-05-30 14:52:57]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-05-30 14:52:57]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-30 14:53:17]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-30 14:53:37]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-05-30 14:53:37] [KS] No items returned (fetch failed or empty page).
+[2026-05-30 14:53:37] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-05-30 14:53:38] [KY] Found 27 item(s) on page.
+[2026-05-30 14:53:38] [KY] No new items.
+[2026-05-30 14:53:38] [LA] Fetching https://ag.louisiana.gov/News
+[2026-05-30 14:53:38] [LA] Found 20 item(s) on page.
+[2026-05-30 14:53:38] [LA] 1 new item(s):
+[2026-05-30 14:53:38]   NEW: Tips from Attorney General Liz Murrill on How to Prepare for Hurricane Season 2026 | 5/29/2026 | https://ag.louisiana.gov/Article/526
+[2026-05-30 14:53:38] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-05-30 14:53:39] [ME] Found 6 item(s) on page.
+[2026-05-30 14:53:39] [ME] No new items.
+[2026-05-30 14:53:39] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-05-30 14:53:39] [MD] Found 50 item(s) on page.
+[2026-05-30 14:53:39] [MD] No new items.
+[2026-05-30 14:53:39] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-30 14:53:39]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-05-30 14:53:42]   Playwright loaded page: 'News and Announcements | Mass.gov' (173308 chars)
+[2026-05-30 14:53:42]   Playwright found 15 item(s) with configured selector
+[2026-05-30 14:53:42] [MA] Found 15 item(s) on page.
+[2026-05-30 14:53:42] [MA] No new items.
+[2026-05-30 14:53:42] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-05-30 14:53:42]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-05-30 14:53:46]   Playwright loaded page: 'Attorney General: Press Releases' (377981 chars)
+[2026-05-30 14:53:46]   Playwright found 10 item(s) with configured selector
+[2026-05-30 14:53:46] [MI] Found 10 item(s) on page.
+[2026-05-30 14:53:46] [MI] 1 new item(s):
+[2026-05-30 14:53:46]   NEW: Deputy Chief of Investigations Named to Oakland County’s 40 Under 40 List |  | https://www.michigan.gov/ag/news/press-releases/2026/05/29/deputy-chief-of-investigations-named
+[2026-05-30 14:53:46] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-05-30 14:53:46] [MN] Found 50 item(s) on page.
+[2026-05-30 14:53:46] [MN] No new items.
+[2026-05-30 14:53:46] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-05-30 14:53:47] [MS] Found 1 item(s) on page.
+[2026-05-30 14:53:47] [MS] No new items.
+[2026-05-30 14:53:47] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-05-30 14:53:47] [MO] Found 50 item(s) on page.
+[2026-05-30 14:53:47] [MO] No new items.
+[2026-05-30 14:53:47] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-05-30 14:53:47] [MT] Found 10 item(s) on page.
+[2026-05-30 14:53:47] [MT] No new items.
+[2026-05-30 14:53:47] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-05-30 14:53:47] [NE] Found 10 item(s) on page.
+[2026-05-30 14:53:47] [NE] No new items.
+[2026-05-30 14:53:47] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-05-30 14:53:48] [NV] Found 50 item(s) on page.
+[2026-05-30 14:53:48] [NV] No new items.
+[2026-05-30 14:53:48] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-05-30 14:53:48]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-05-30 14:53:51]   Playwright loaded page: 'Press Releases | New Hampshire Department of Justice' (91460 chars)
+[2026-05-30 14:53:51]   Playwright found 10 item(s) with configured selector
+[2026-05-30 14:53:51] [NH] Found 10 item(s) on page.
+[2026-05-30 14:53:51] [NH] 10 new item(s):
+[2026-05-30 14:53:51]   NEW: Charitable Trusts Unit Report Regarding North Country Healthcare, Inc. |  | https://www.doj.nh.gov/news-and-media/charitable-trusts-unit-report-regarding-north-country-healthcare-inc
+[2026-05-30 14:53:51]   NEW: Additional Information in Officer-Involved Shooting Investigation in Milton, New Hampshire |  | https://www.doj.nh.gov/news-and-media/additional-information-officer-involved-shooting-investigation-milton-new-hampshire
+[2026-05-30 14:53:51]   NEW: Officer-Involved Shooting Incident in Milton, New Hampshire |  | https://www.doj.nh.gov/news-and-media/officer-involved-shooting-incident-milton-new-hampshire
+[2026-05-30 14:53:51]   NEW: California Man Found Guilty in Scam Targeting Elderly Resident of Pelham, New Hampshire |  | https://www.doj.nh.gov/news-and-media/california-man-found-guilty-scam-targeting-elderly-resident-pelham-new-hampshire
+[2026-05-30 14:53:51]   NEW: Autopsy Results in Dover, New Hampshire Deaths Investigation |  | https://www.doj.nh.gov/news-and-media/autopsy-results-dover-new-hampshire-deaths-investigation
+[2026-05-30 14:53:51]   NEW: State Receives $4.68 Million PFAS Settlement from Tyco Fire Products, LP and Chemguard, Inc. for New Hampshire Public Water Systems |  | https://www.doj.nh.gov/news-and-media/state-receives-468-million-pfas-settlement-tyco-fire-products-lp-and-chemguard-inc
+[2026-05-30 14:53:51]   NEW: Suspicious Death Investigation in Dover, New Hampshire |  | https://www.doj.nh.gov/news-and-media/suspicious-death-investigation-dover-new-hampshire
+[2026-05-30 14:53:51]   NEW: Peter Mancini and Hannah Vanalstyne Indicted for Unemployment Fraud |  | https://www.doj.nh.gov/news-and-media/peter-mancini-and-hannah-vanalstyne-indicted-unemployment-fraud
+[2026-05-30 14:53:51]   NEW: Michael “Buck” Buckley Indicted for Unemployment Fraud |  | https://www.doj.nh.gov/news-and-media/michael-buck-buckley-indicted-unemployment-fraud
+[2026-05-30 14:53:51]   NEW: State Settles Hazardous Waste Handling Violations by the U.S. Army Corps of Engineers Cold Regions Research and Engineering Laboratory |  | https://www.doj.nh.gov/news-and-media/state-settles-hazardous-waste-handling-violations-us-army-corps-engineers-cold
+[2026-05-30 14:53:51] [NJ] Fetching https://www.njoag.gov/news/
+[2026-05-30 14:53:53] [NJ] Found 5 item(s) on page.
+[2026-05-30 14:53:53] [NJ] No new items.
+[2026-05-30 14:53:53] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-05-30 14:53:56] [NM] Found 14 item(s) on page.
+[2026-05-30 14:53:56] [NM] 1 new item(s):
+[2026-05-30 14:53:56]   NEW: ICYMI: Attorney General Raúl Torrez Warned about Unregulated Data Broker Industry; U.S. Military Now Says Deployed Forces Were Targeted |  | https://nmdoj.gov/press-release/icymi-attorney-general-raul-torrez-warned-about-unregulated-data-broker-industry-u-s-military-now-says-deployed-forces-were-targeted/
+[2026-05-30 14:53:56] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-05-30 14:53:56] [NY] Found 25 item(s) on page.
+[2026-05-30 14:53:56] [NY] No new items.
+[2026-05-30 14:53:56] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-05-30 14:53:58] [NC] Found 10 item(s) on page.
+[2026-05-30 14:53:58] [NC] No new items.
+[2026-05-30 14:53:58] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-05-30 14:53:58] [ND] Found 10 item(s) on page.
+[2026-05-30 14:53:58] [ND] No new items.
+[2026-05-30 14:53:58] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-05-30 14:53:58] [OH] Found 10 item(s) on page.
+[2026-05-30 14:53:58] [OH] No new items.
+[2026-05-30 14:53:58] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-30 14:53:58]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-05-30 14:54:01]   Playwright loaded page: 'News Releases' (844112 chars)
+[2026-05-30 14:54:02]   Playwright: page loaded but no links matched — check selectors
+[2026-05-30 14:54:02]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-05-30 14:54:02] [OK] No items returned (fetch failed or empty page).
+[2026-05-30 14:54:02] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-05-30 14:54:03] [OR] Found 10 item(s) on page.
+[2026-05-30 14:54:03] [OR] No new items.
+[2026-05-30 14:54:03] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-05-30 14:54:04] [PA] Found 30 item(s) on page.
+[2026-05-30 14:54:04] [PA] No new items.
+[2026-05-30 14:54:04] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-05-30 14:54:04] [RI] Found 10 item(s) on page.
+[2026-05-30 14:54:04] [RI] No new items.
+[2026-05-30 14:54:04] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-05-30 14:54:04]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-05-30 14:54:07]   Playwright loaded page: 'News - South Carolina Attorney General' (110767 chars)
+[2026-05-30 14:54:07]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-05-30 14:54:07] [SC] Found 9 item(s) on page.
+[2026-05-30 14:54:07] [SC] No new items.
+[2026-05-30 14:54:07] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-05-30 14:54:07]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=5
+[2026-05-30 14:54:10]   Playwright loaded page: 'South Dakota Attorney General' (38224 chars)
+[2026-05-30 14:54:10]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-05-30 14:54:10] [SD] Found 1 item(s) on page.
+[2026-05-30 14:54:10] [SD] No new items.
+[2026-05-30 14:54:10] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-05-30 14:54:10]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-05-30 14:54:31] [TN] Found 50 item(s) on page.
+[2026-05-30 14:54:31] [TN] No new items.
+[2026-05-30 14:54:31] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-05-30 14:54:31] [TX] Found 50 item(s) on page.
+[2026-05-30 14:54:31] [TX] 1 new item(s):
+[2026-05-30 14:54:31]   NEW: Attor­ney Gen­er­al Pax­ton Secures Emer­gency Court Order Forc­ing Dis­cord to Pro­tect Texas Chil­dren and Stop Lying to Parents |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-emergency-court-order-forcing-discord-protect-texas-children-and
+[2026-05-30 14:54:31] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-05-30 14:54:31]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-05-30 14:54:34]   Playwright loaded page: 'Press Releases - Utah Attorney General' (294592 chars)
+[2026-05-30 14:54:34]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-05-30 14:54:34] [UT] Found 50 item(s) on page.
+[2026-05-30 14:54:34] [UT] No new items.
+[2026-05-30 14:54:34] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-05-30 14:54:35] [VT] Found 50 item(s) on page.
+[2026-05-30 14:54:35] [VT] No new items.
+[2026-05-30 14:54:35] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-05-30 14:54:36] [VA] Found 50 item(s) on page.
+[2026-05-30 14:54:36] [VA] No new items.
+[2026-05-30 14:54:36] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-05-30 14:54:36] [WA] Found 15 item(s) on page.
+[2026-05-30 14:54:36] [WA] No new items.
+[2026-05-30 14:54:36] [WV] Fetching https://ago.wv.gov/news
+[2026-05-30 14:54:36]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-05-30 14:54:39]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54394 chars)
+[2026-05-30 14:54:39]   Playwright found 30 item(s) with configured selector
+[2026-05-30 14:54:39] [WV] Found 30 item(s) on page.
+[2026-05-30 14:54:39] [WV] No new items.
+[2026-05-30 14:54:39] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-30 14:54:39]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-05-30 14:54:43]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1509374 chars)
+[2026-05-30 14:54:43]   Playwright found 35 item(s) with configured selector
+[2026-05-30 14:54:43] [WI] Found 35 item(s) on page.
+[2026-05-30 14:54:43] [WI] No new items.
+[2026-05-30 14:54:43] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-05-30 14:54:43] [WY] Found 1 item(s) on page.
+[2026-05-30 14:54:43] [WY] No new items.
+[2026-05-30 14:54:43] States with fetch errors: KS, OK
+[2026-05-30 14:54:43] Sending email: 22 new item(s) across 10 state(s).
+[2026-05-30 14:54:44] Email sent.
+[2026-05-30 14:54:44] Done.
