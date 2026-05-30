@@ -501,3 +501,10 @@
 [2026-05-30 18:02:36] Found 27 opinions on page.
 [2026-05-30 18:02:36] No new opinions.
 [2026-05-30 18:02:36] Done.
+[2026-05-30 19:47:32] Checking for new DE court opinions...
+[2026-05-30 19:47:32] Using Playwright to fetch opinions page...
+[2026-05-30 19:47:43] DEBUG: 0 opinions found. Sample links on page: [('javascript:history.back();', '[Go Back]')]
+[2026-05-30 19:47:43] Playwright found 0 opinion(s).
+[2026-05-30 19:47:43] Found 0 opinions on page.
+[2026-05-30 19:47:43] No new opinions.
+[2026-05-30 19:47:43] Done.
