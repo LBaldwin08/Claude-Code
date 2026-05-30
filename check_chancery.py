@@ -60,7 +60,7 @@ def parse_opinions(html):
 
     for link in soup.find_all("a", href=True):
         href = link["href"]
-        if "Download.aspx?id=" in href:
+        if "download.aspx?id=" in href.lower():
             opinion_id = href.split("id=")[1].split("&")[0]
             row = link.find_parent("tr")
             cells = row.find_all("td") if row else []
@@ -101,7 +101,7 @@ def fetch_with_playwright():
             page.set_extra_http_headers({"User-Agent": HEADERS["User-Agent"]})
             page.goto(URL, timeout=45000, wait_until="domcontentloaded")
             try:
-                page.wait_for_selector("a[href*='Download.aspx']", timeout=8000)
+                page.wait_for_selector("a[href*='download.aspx']", timeout=8000)
             except Exception:
                 pass
             page.wait_for_timeout(2000)
