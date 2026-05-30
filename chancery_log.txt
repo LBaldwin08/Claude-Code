@@ -428,3 +428,64 @@
 [2026-05-30 14:25:49] Found 0 opinions on page.
 [2026-05-30 14:25:49] No new opinions.
 [2026-05-30 14:25:49] Done.
+[2026-05-30 15:45:46] Checking for new DE court opinions...
+[2026-05-30 15:45:46] Using Playwright to fetch opinions page...
+[2026-05-30 15:45:59] Playwright found 27 opinion(s).
+[2026-05-30 15:45:59] Found 27 opinions on page.
+[2026-05-30 15:45:59] 27 new opinion(s)!
+[2026-05-30 15:45:59]   NEW: [] [] Wireless Service in Courthouses |  | 
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/forms/download.aspx?id=103848
+[2026-05-30 15:45:59]   NEW: [] [] Wireless Service in Courthouses |  | 
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/forms/download.aspx?id=103848
+[2026-05-30 15:45:59]   NEW: [05/29/2026] [Court of Chancery] CIBC Bank USA v. Ryan Barker, et al. and BERA Brand Management, Inc. | 2024-0978-LWW | WillV.C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396270
+[2026-05-30 15:45:59]   NEW: [05/29/2026] [Court of Chancery] Edward Scot Husbands v. Dwight Alexander Hamilton and Shirley Zebovitz | C.A. No. 2023-1134-BWD | David, Bonnie W.V.C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396220
+[2026-05-30 15:45:59]   NEW: [05/29/2026] [Court of Chancery] Law IQ, Inc. v. Terrance MacGregor | C.A. No. 2023-0742-KSJM | McCormick,C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396260
+[2026-05-30 15:45:59]   NEW: [05/29/2026] [Court of Chancery] Shore Community Energy LLC v. MassAmerican Development LLC | C.A. No. 2025-1163-BWD | David, Bonnie W.V.C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396230
+[2026-05-30 15:45:59]   NEW: [05/29/2026] [Court of Chancery] Zync, Inc. v. Porsche Investments Management, S.A., et al. | C.A. No. 2025-0284-JTL | LasterV.C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396280
+[2026-05-30 15:45:59]   NEW: [05/29/2026] [Superior Court] Shareholder Representative Services, LLC v. Follett Parent, LP | N25C-12-337 MAA CCLD | AdamsJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396240
+[2026-05-30 15:45:59]   NEW: [05/28/2026] [Superior Court] State v. Sawyer | 19010003546, 2001004456, 2003011951 | JonesJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396210
+[2026-05-30 15:45:59]   NEW: [05/28/2026] [Supreme Court(Family Court)] Brown, Caitlyn vs. Kenneth Tucker | 157, 2026 | LeGrowJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396190
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Court of Chancery] Bill Le Clair, et al. v. KnowBe4, Inc., et al. | C.A. No. 2024-1143-KSJM | McCormick,C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396130
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Court of Chancery] Erick Rohl v. Stephen Rohl, Trustee of the Adolph E. Rohl Trust | 2025-0381-LM | MitchellM.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396170
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Court of Chancery] Marstrand Partners, L.P. v. Israel Biotech Fund I, L.P., et al. | C.A. No. 2024-0421-KSJM | McCormick,C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396160
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Court of Chancery] Shareholder Representative Services, LLC v. Alexion Pharmaceuticals, Inc., | C.A. No. 2020-1069-MTZ | ZurnV.C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=395980
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Court of Chancery] StayTerra Vacations, LLC, et al. v. Shawn T. Kaleta, et al. | C.A. No. 2025-1111-KSJM | McCormick,C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396050
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Superior Court] Mcleish, et al. v. Caesar Rodney School District, et al. | K26C-01-014 JJC | ClarkR.J.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396120
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Superior Court] State v. Dorsey | 2411002781 | ScottJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396070
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Superior Court] State v. El-Abbadi | 1908013052 | O'ConnorC.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396180
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Superior Court] State v. Hunter | 2311009640 | RennieJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396100
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Superior Court] State v. Trotter | 1607007011; 2410013842 | RennieJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396090
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Superior Court] State v. Vickery | 2504006468 | RennieJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396110
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Superior Court] SWSZ Holding, Inc. v. SZ Global Inc. v. Wich, et al. | N25C-05-105 SSA | AugusthyJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396060
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Supreme Court(Superior Court)] Smith v. State | 321, 2025 | LeGrowJ.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396140
+[2026-05-30 15:45:59]   NEW: [05/27/2026] [Supreme Court(Superior Court)] Suncor Energy Inc. vs. Magellan Pipeline Company, L.P. | 137, 2026 | SeitzC.J.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396150
+[2026-05-30 15:45:59]   NEW: [05/26/2026] [Court of Chancery] In re World Wrestling Entertainment, Inc. Merger Litigation | C.A. No. 2023-1166-JTL | LasterV.C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=395990
+[2026-05-30 15:45:59]   NEW: [05/26/2026] [Court of Chancery] Lluis Torrent Jerez v. Ariel X. Burt | 2025-1417-LWW | WillV.C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396010
+[2026-05-30 15:45:59]   NEW: [05/26/2026] [Court of Chancery] Zync, Inc. v. Porsche Investments Management, S.A., et al. | C.A. No. 2025-0284-JTL | Laster,V.C.
+[2026-05-30 15:45:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=395950
+[2026-05-30 15:46:00] Email notification sent.
+[2026-05-30 15:46:00] Done.
