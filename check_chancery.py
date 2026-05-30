@@ -21,9 +21,14 @@ try:
     import requests
     from bs4 import BeautifulSoup
 except ImportError:
-    print("ERROR: Missing packages. Run:")
-    print(r"  C:\Users\lbald\AppData\Local\Python\pythoncore-3.14-64\python.exe -m pip install requests beautifulsoup4")
+    print("ERROR: Missing packages. Run: pip install requests beautifulsoup4")
     sys.exit(1)
+
+try:
+    from playwright.sync_api import sync_playwright
+    PLAYWRIGHT_AVAILABLE = True
+except ImportError:
+    PLAYWRIGHT_AVAILABLE = False
 
 SCRIPT_DIR = Path(__file__).parent
 STATE_FILE = SCRIPT_DIR / "chancery_state.json"
@@ -49,21 +54,10 @@ def log(msg):
         f.write(line + "\n")
 
 
-def fetch_opinions():
-    for attempt in range(1, 4):
-        try:
-            resp = requests.get(URL, headers=HEADERS, timeout=(15, 60))
-            resp.raise_for_status()
-            break
-        except Exception as e:
-            log(f"Attempt {attempt}/3 failed: {e}")
-            if attempt < 3:
-                time.sleep(30)
-            else:
-                raise
-    soup = BeautifulSoup(resp.text, "html.parser")
-
+def parse_opinions(html):
+    soup = BeautifulSoup(html, "html.parser")
     opinions = []
+
     for link in soup.find_all("a", href=True):
         href = link["href"]
         if "Download.aspx?id=" in href:
@@ -76,7 +70,6 @@ def fetch_opinions():
             case_num = cells[2].get_text(strip=True) if len(cells) > 2 else ""
             court = cells[3].get_text(strip=True) if len(cells) > 3 else ""
             judge = cells[5].get_text(strip=True) if len(cells) > 5 else ""
-            description = cells[6].get_text(strip=True) if len(cells) > 6 else ""
 
             opinions.append({
                 "id": opinion_id,
@@ -85,11 +78,66 @@ def fetch_opinions():
                 "case_num": case_num,
                 "court": court,
                 "judge": judge,
-                "description": description,
                 "url": OPINION_BASE + href.lstrip("/"),
             })
 
+    if not opinions:
+        # Log sample links to help diagnose page structure changes
+        sample = [(a["href"], a.get_text(strip=True)[:60])
+                  for a in soup.find_all("a", href=True)[:20]]
+        log(f"DEBUG: 0 opinions found. Sample links on page: {sample}")
+
     return opinions
+
+
+def fetch_with_playwright():
+    if not PLAYWRIGHT_AVAILABLE:
+        return None
+    log("Using Playwright to fetch opinions page...")
+    try:
+        with sync_playwright() as p:
+            browser = p.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.set_extra_http_headers({"User-Agent": HEADERS["User-Agent"]})
+            page.goto(URL, timeout=45000, wait_until="domcontentloaded")
+            try:
+                page.wait_for_selector("a[href*='Download.aspx']", timeout=8000)
+            except Exception:
+                pass
+            page.wait_for_timeout(2000)
+            html = page.content()
+            browser.close()
+        opinions = parse_opinions(html)
+        log(f"Playwright found {len(opinions)} opinion(s).")
+        return opinions
+    except Exception as e:
+        log(f"Playwright error: {e}")
+        return None
+
+
+def fetch_with_requests():
+    for attempt in range(1, 4):
+        try:
+            resp = requests.get(URL, headers=HEADERS, timeout=(15, 60))
+            resp.raise_for_status()
+            break
+        except Exception as e:
+            log(f"Attempt {attempt}/3 failed: {e}")
+            if attempt < 3:
+                time.sleep(30)
+            else:
+                raise
+    opinions = parse_opinions(resp.text)
+    log(f"requests found {len(opinions)} opinion(s).")
+    return opinions
+
+
+def fetch_opinions():
+    opinions = fetch_with_playwright()
+    if opinions is not None:
+        return opinions
+    log("Playwright unavailable or failed; falling back to requests.")
+    return fetch_with_requests()
 
 
 def load_state():
@@ -105,14 +153,12 @@ def save_state(state):
 
 
 def load_config():
-    # GitHub Actions: credentials come from environment variables
     if os.environ.get("GMAIL_APP_PASSWORD"):
         return {
             "email_from": "lbaldwin08@gmail.com",
             "email_to": "lbaldwin08@gmail.com",
             "gmail_app_password": os.environ["GMAIL_APP_PASSWORD"],
         }
-    # Local: credentials come from config file
     with open(CONFIG_FILE, encoding="utf-8") as f:
         return json.load(f)
 
@@ -126,7 +172,6 @@ def send_email(new_opinions):
         else f"{count} New DE Court Opinions"
     )
 
-    # Build plain-text and HTML bodies
     rows_text = []
     rows_html = []
     for op in new_opinions:
