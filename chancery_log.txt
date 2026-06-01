@@ -631,3 +631,12 @@
 [2026-06-01 16:34:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396290
 [2026-06-01 16:34:46] Email notification sent.
 [2026-06-01 16:34:46] Done.
+[2026-06-01 20:53:07] Checking for new DE court opinions...
+[2026-06-01 20:53:07] Using Playwright to fetch opinions page...
+[2026-06-01 20:53:18] Playwright found 27 opinion(s).
+[2026-06-01 20:53:18] Found 27 opinions on page.
+[2026-06-01 20:53:18] 1 new opinion(s)!
+[2026-06-01 20:53:18]   NEW: [05/29/2026] [Superior Court] Art Finance Funding (VIII), LLC v. Investart Management et al. | N24C-11-028 SP | LuggJ.
+[2026-06-01 20:53:18]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396310
+[2026-06-01 20:53:20] Email notification sent.
+[2026-06-01 20:53:20] Done.
