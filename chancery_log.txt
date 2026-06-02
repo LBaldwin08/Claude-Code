@@ -652,3 +652,9 @@
 [2026-06-02 00:17:57] Found 27 opinions on page.
 [2026-06-02 00:17:57] No new opinions.
 [2026-06-02 00:17:57] Done.
+[2026-06-02 05:09:17] Checking for new DE court opinions...
+[2026-06-02 05:09:17] Using Playwright to fetch opinions page...
+[2026-06-02 05:09:29] Playwright found 27 opinion(s).
+[2026-06-02 05:09:29] Found 27 opinions on page.
+[2026-06-02 05:09:29] No new opinions.
+[2026-06-02 05:09:29] Done.
