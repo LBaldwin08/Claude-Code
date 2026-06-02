@@ -356,3 +356,18 @@
 [2026-06-01 19:11:33] Found 20 press release(s) on page.
 [2026-06-01 19:11:33] No new press releases.
 [2026-06-01 19:11:33] Done.
+[2026-06-02 17:53:18] Checking for new FTC press releases...
+[2026-06-02 17:53:18] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-02 17:53:33] Playwright found 0 press release link(s).
+[2026-06-02 17:53:33] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-02 17:53:33] requests found 20 press release link(s).
+[2026-06-02 17:53:33] Found 20 press release(s) on page.
+[2026-06-02 17:53:33] 3 new press release(s)!
+[2026-06-02 17:53:33]   NEW: [2026-06-02T12:00:00Z] FTC Requires Divestiture of Ambulatory Surgery Centers to Protect Patients from Anticompetitive Effects of Ascension Health-AmSurg Deal
+[2026-06-02 17:53:33]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-requires-divestiture-ambulatory-surgery-centers-protect-patients-anticompetitive-effects
+[2026-06-02 17:53:33]   NEW: [2026-06-02T12:00:00Z] FTC Sues to Stop Amare Global Holdings from Misrepresenting the Health Benefits of Its Dietary Supplements for Children and Adults
+[2026-06-02 17:53:33]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-sues-stop-amare-global-holdings-misrepresenting-health-benefits-its-dietary-supplements-children
+[2026-06-02 17:53:33]   NEW: [2026-06-02T12:00:00Z] FTC, Nevada Will Require Tax-Relief Scammers to Pay Cash and Turn Over Assets Worth Nearly $10 Million to Settle Charges They Misled Consumers about Tax-Relief Services
+[2026-06-02 17:53:33]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-nevada-will-require-tax-relief-scammers-pay-cash-turn-over-assets-worth-nearly-10-million-settle
+[2026-06-02 17:53:34] Email notification sent.
+[2026-06-02 17:53:34] Done.
