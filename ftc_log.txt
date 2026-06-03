@@ -371,3 +371,16 @@
 [2026-06-02 17:53:33]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-nevada-will-require-tax-relief-scammers-pay-cash-turn-over-assets-worth-nearly-10-million-settle
 [2026-06-02 17:53:34] Email notification sent.
 [2026-06-02 17:53:34] Done.
+[2026-06-03 18:10:14] Checking for new FTC press releases...
+[2026-06-03 18:10:14] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-03 18:10:28] Playwright found 0 press release link(s).
+[2026-06-03 18:10:28] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-03 18:10:28] requests found 20 press release link(s).
+[2026-06-03 18:10:28] Found 20 press release(s) on page.
+[2026-06-03 18:10:28] 2 new press release(s)!
+[2026-06-03 18:10:28]   NEW: [2026-06-03T12:00:00Z] FTC Sues to Stop Deceptive Mortgage Assistance Relief Operation that Targets Homeowners
+[2026-06-03 18:10:28]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-sues-stop-deceptive-mortgage-assistance-relief-operation-targets-homeowners
+[2026-06-03 18:10:28]   NEW: [2026-06-03T12:00:00Z] FTC Seeks Comment on X Corp. Petition to Set Aside or Modify FTC Order Concerning Twitter
+[2026-06-03 18:10:28]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-seeks-comment-x-corp-petition-set-aside-or-modify-ftc-order-concerning-twitter
+[2026-06-03 18:10:29] Email notification sent.
+[2026-06-03 18:10:29] Done.
