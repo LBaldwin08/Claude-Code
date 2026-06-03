@@ -723,3 +723,12 @@ Call log:
 [2026-06-03 12:18:38] Found 27 opinions on page.
 [2026-06-03 12:18:38] No new opinions.
 [2026-06-03 12:18:38] Done.
+[2026-06-03 17:25:29] Checking for new DE court opinions...
+[2026-06-03 17:25:29] Using Playwright to fetch opinions page...
+[2026-06-03 17:25:40] Playwright found 27 opinion(s).
+[2026-06-03 17:25:40] Found 27 opinions on page.
+[2026-06-03 17:25:40] 1 new opinion(s)!
+[2026-06-03 17:25:40]   NEW: [06/03/2026] [Supreme Court(Court of Chancery)] Camden Foley v. Session Corp. | 459, 2025 | SeitzC.J.
+[2026-06-03 17:25:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396330
+[2026-06-03 17:25:41] Email notification sent.
+[2026-06-03 17:25:41] Done.
