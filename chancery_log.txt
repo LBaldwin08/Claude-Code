@@ -794,3 +794,16 @@ Call log:
 [2026-06-04 19:23:55] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f20056e1130>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-06-04 19:23:55] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f20056e1130>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-06-04 19:23:55] Skipping this run — will retry next scheduled check.
+[2026-06-04 21:10:41] Checking for new DE court opinions...
+[2026-06-04 21:10:41] Using Playwright to fetch opinions page...
+[2026-06-04 21:10:52] Playwright found 27 opinion(s).
+[2026-06-04 21:10:52] Found 27 opinions on page.
+[2026-06-04 21:10:52] 3 new opinion(s)!
+[2026-06-04 21:10:52]   NEW: [06/04/2026] [Court of Chancery] Kelly Roofing Holdings, LLC and Reliant Roofing, LLC d/b/a/ Kelly Roofing v. Chantelle A. Flores and Integrity Roofing and Gutters, Inc. | C.A. No. 2025-1049-BWD | David, Bonnie W.V.C.
+[2026-06-04 21:10:52]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396350
+[2026-06-04 21:10:52]   NEW: [06/04/2026] [Superior Court] State v. O'Neal | 2108001944 | O'ConnorC.
+[2026-06-04 21:10:52]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396360
+[2026-06-04 21:10:52]   NEW: [06/04/2026] [Supreme Court(Court of Chancery)] Tomales Bay Capital Anduril III, L.P. vs. Pro Publica, Inc. | 163, 2026 | LeGrowJ.
+[2026-06-04 21:10:52]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396340
+[2026-06-04 21:10:53] Email notification sent.
+[2026-06-04 21:10:53] Done.
