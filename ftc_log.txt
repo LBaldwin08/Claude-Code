@@ -392,3 +392,14 @@
 [2026-06-04 16:33:56] Found 20 press release(s) on page.
 [2026-06-04 16:33:56] No new press releases.
 [2026-06-04 16:33:56] Done.
+[2026-06-05 16:14:28] Checking for new FTC press releases...
+[2026-06-05 16:14:28] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-05 16:14:41] Playwright found 0 press release link(s).
+[2026-06-05 16:14:41] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-05 16:14:42] requests found 20 press release link(s).
+[2026-06-05 16:14:42] Found 20 press release(s) on page.
+[2026-06-05 16:14:42] 1 new press release(s)!
+[2026-06-05 16:14:42]   NEW: [2026-06-04T12:00:00Z] FTC Issues Report to Congress on Adoption Practices
+[2026-06-05 16:14:42]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-issues-report-congress-adoption-practices
+[2026-06-05 16:14:43] Email notification sent.
+[2026-06-05 16:14:43] Done.
