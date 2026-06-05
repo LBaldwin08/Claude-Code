@@ -874,3 +874,12 @@ Call log:
 [2026-06-05 17:20:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396380
 [2026-06-05 17:20:13] Email notification sent.
 [2026-06-05 17:20:13] Done.
+[2026-06-05 19:15:40] Checking for new DE court opinions...
+[2026-06-05 19:15:40] Using Playwright to fetch opinions page...
+[2026-06-05 19:15:51] Playwright found 27 opinion(s).
+[2026-06-05 19:15:51] Found 27 opinions on page.
+[2026-06-05 19:15:51] 1 new opinion(s)!
+[2026-06-05 19:15:51]   NEW: [05/28/2026] [Court of Chancery] CONF/ Neil Luthra and Vann Avedisian v. HIR Holdings LP | 2025-1122-LM | MitchellM.
+[2026-06-05 19:15:51]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396400
+[2026-06-05 19:15:53] Email notification sent.
+[2026-06-05 19:15:53] Done.
