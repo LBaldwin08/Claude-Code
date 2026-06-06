@@ -403,3 +403,16 @@
 [2026-06-05 16:14:42]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-issues-report-congress-adoption-practices
 [2026-06-05 16:14:43] Email notification sent.
 [2026-06-05 16:14:43] Done.
+[2026-06-06 14:59:08] Checking for new FTC press releases...
+[2026-06-06 14:59:08] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-06 14:59:21] Playwright found 0 press release link(s).
+[2026-06-06 14:59:21] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-06 14:59:21] requests found 20 press release link(s).
+[2026-06-06 14:59:21] Found 20 press release(s) on page.
+[2026-06-06 14:59:21] 2 new press release(s)!
+[2026-06-06 14:59:21]   NEW: [2026-06-05T12:00:00Z] ‘Architect’ of Law Firm DEI Programs Dissolves
+[2026-06-06 14:59:21]        https://www.ftc.gov/news-events/news/press-releases/2026/06/architect-law-firm-dei-programs-dissolves
+[2026-06-06 14:59:21]   NEW: [2026-06-05T12:00:00Z] FTC Gives Final Approval to Order Against Illuminate Settling Allegations It Failed to Secure Students’ Personal Data
+[2026-06-06 14:59:21]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-gives-final-approval-order-against-illuminate-settling-allegations-it-failed-secure-students
+[2026-06-06 14:59:23] Email notification sent.
+[2026-06-06 14:59:23] Done.
