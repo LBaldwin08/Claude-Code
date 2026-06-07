@@ -416,3 +416,11 @@
 [2026-06-06 14:59:21]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-gives-final-approval-order-against-illuminate-settling-allegations-it-failed-secure-students
 [2026-06-06 14:59:23] Email notification sent.
 [2026-06-06 14:59:23] Done.
+[2026-06-07 15:12:30] Checking for new FTC press releases...
+[2026-06-07 15:12:30] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-07 15:12:43] Playwright found 0 press release link(s).
+[2026-06-07 15:12:43] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-07 15:12:44] requests found 20 press release link(s).
+[2026-06-07 15:12:44] Found 20 press release(s) on page.
+[2026-06-07 15:12:44] No new press releases.
+[2026-06-07 15:12:44] Done.
