@@ -8968,3 +8968,213 @@ Call log:
 [2026-06-07 15:18:49] Sending email: 1 new item(s) across 1 state(s).
 [2026-06-07 15:18:50] Email sent.
 [2026-06-07 15:18:50] Done.
+[2026-06-08 16:56:45] Checking for new AG press releases...
+[2026-06-08 16:56:45] Checking 50 state(s).
+[2026-06-08 16:56:45] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-06-08 16:56:45]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-06-08 16:56:50]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226997 chars)
+[2026-06-08 16:56:50]   Playwright found 27 item(s) with configured selector
+[2026-06-08 16:56:50] [AL] Found 27 item(s) on page.
+[2026-06-08 16:56:50] [AL] No new items.
+[2026-06-08 16:56:50] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-06-08 16:56:50] [AK] Found 50 item(s) on page.
+[2026-06-08 16:56:50] [AK] No new items.
+[2026-06-08 16:56:50] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-06-08 16:56:51] [AZ] Found 10 item(s) on page.
+[2026-06-08 16:56:51] [AZ] No new items.
+[2026-06-08 16:56:51] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-06-08 16:56:51] [AR] Found 50 item(s) on page.
+[2026-06-08 16:56:51] [AR] No new items.
+[2026-06-08 16:56:51] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-06-08 16:56:52] [CA] Found 10 item(s) on page.
+[2026-06-08 16:56:52] [CA] 1 new item(s):
+[2026-06-08 16:56:52]   NEW: Attorney General Bonta Announces California DOJ’S Affordability Response Team | Sun, 07 Jun 2026 22:31:34 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-california-doj%E2%80%99s-affordability-response-team
+[2026-06-08 16:56:52] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-06-08 16:56:52] [CO] Found 49 item(s) on page.
+[2026-06-08 16:56:52] [CO] No new items.
+[2026-06-08 16:56:52] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-06-08 16:56:53] [CT] Found 34 item(s) on page.
+[2026-06-08 16:56:53] [CT] No new items.
+[2026-06-08 16:56:53] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-06-08 16:56:54] [DE] Found 300 item(s) on page.
+[2026-06-08 16:56:54] [DE] 1 new item(s):
+[2026-06-08 16:56:54]   NEW: DOJ obtains 22-year prison sentence for habitual fentanyl dealer | Mon, 08 Jun 2026 07:57:18 +0000 | https://news.delaware.gov/2026/06/08/doj-obtains-22-year-prison-sentence-for-habitual-fentanyl-dealer/
+[2026-06-08 16:56:54] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-06-08 16:56:54] [FL] Found 20 item(s) on page.
+[2026-06-08 16:56:54] [FL] No new items.
+[2026-06-08 16:56:54] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-06-08 16:56:55] [GA] Found 11 item(s) on page.
+[2026-06-08 16:56:55] [GA] No new items.
+[2026-06-08 16:56:55] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-06-08 16:56:55] [HI] Found 26 item(s) on page.
+[2026-06-08 16:56:55] [HI] No new items.
+[2026-06-08 16:56:55] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-08 16:56:55]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-08 16:56:58]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66150 chars)
+[2026-06-08 16:56:59]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-06-08 16:56:59] [ID] Found 28 item(s) on page.
+[2026-06-08 16:56:59] [ID] No new items.
+[2026-06-08 16:56:59] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-06-08 16:57:00] [IL] Found 50 item(s) on page.
+[2026-06-08 16:57:00] [IL] 1 new item(s):
+[2026-06-08 16:57:00]   NEW: June 05, 2026ATTORNEY GENERAL RAOUL APPLAUDS BLOCK OF TRUMP ADMINISTRATION’S UNLAWFUL WITHHOLDING OF CRITICAL USDA FUNDING | 2026-06-05 7:15 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-applauds-block-of-trump-administrations-unlawful-withholding-of-critical-usda-funding
+[2026-06-08 16:57:00] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-06-08 16:57:00] [IN] Found 38 item(s) on page.
+[2026-06-08 16:57:00] [IN] No new items.
+[2026-06-08 16:57:00] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-06-08 16:57:00] [IA] Found 10 item(s) on page.
+[2026-06-08 16:57:00] [IA] No new items.
+[2026-06-08 16:57:00] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-08 16:57:00]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-08 16:57:03]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-06-08 16:57:03]   Playwright: page loaded but no links matched — check selectors
+[2026-06-08 16:57:03]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-06-08 16:57:03]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-08 16:57:23]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-08 16:57:43]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-08 16:57:43] [KS] No items returned (fetch failed or empty page).
+[2026-06-08 16:57:43] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-06-08 16:57:44] [KY] Found 26 item(s) on page.
+[2026-06-08 16:57:44] [KY] No new items.
+[2026-06-08 16:57:44] [LA] Fetching https://ag.louisiana.gov/News
+[2026-06-08 16:57:44] [LA] Found 20 item(s) on page.
+[2026-06-08 16:57:44] [LA] No new items.
+[2026-06-08 16:57:44] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-06-08 16:57:45] [ME] Found 6 item(s) on page.
+[2026-06-08 16:57:45] [ME] No new items.
+[2026-06-08 16:57:45] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-06-08 16:57:45] [MD] Found 50 item(s) on page.
+[2026-06-08 16:57:45] [MD] No new items.
+[2026-06-08 16:57:45] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-08 16:57:45]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-08 16:57:48]   Playwright loaded page: 'News and Announcements | Mass.gov' (173821 chars)
+[2026-06-08 16:57:48]   Playwright found 15 item(s) with configured selector
+[2026-06-08 16:57:48] [MA] Found 15 item(s) on page.
+[2026-06-08 16:57:48] [MA] No new items.
+[2026-06-08 16:57:48] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-06-08 16:57:48]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-06-08 16:57:51]   Playwright loaded page: 'Attorney General: Press Releases' (377810 chars)
+[2026-06-08 16:57:51]   Playwright found 10 item(s) with configured selector
+[2026-06-08 16:57:51] [MI] Found 10 item(s) on page.
+[2026-06-08 16:57:51] [MI] No new items.
+[2026-06-08 16:57:51] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-06-08 16:57:52] [MN] Found 50 item(s) on page.
+[2026-06-08 16:57:52] [MN] No new items.
+[2026-06-08 16:57:52] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-06-08 16:57:52] [MS] Found 1 item(s) on page.
+[2026-06-08 16:57:52] [MS] No new items.
+[2026-06-08 16:57:52] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-06-08 16:57:52] [MO] Found 50 item(s) on page.
+[2026-06-08 16:57:52] [MO] No new items.
+[2026-06-08 16:57:52] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-06-08 16:57:52] [MT] Found 10 item(s) on page.
+[2026-06-08 16:57:52] [MT] No new items.
+[2026-06-08 16:57:52] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-06-08 16:57:52] [NE] Found 10 item(s) on page.
+[2026-06-08 16:57:52] [NE] No new items.
+[2026-06-08 16:57:52] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-06-08 16:57:53] [NV] Found 50 item(s) on page.
+[2026-06-08 16:57:53] [NV] No new items.
+[2026-06-08 16:57:53] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-06-08 16:57:53]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-06-08 16:57:56]   Playwright loaded page: 'Press Releases | New Hampshire Department of Justice' (91483 chars)
+[2026-06-08 16:57:56]   Playwright found 10 item(s) with configured selector
+[2026-06-08 16:57:56] [NH] Found 10 item(s) on page.
+[2026-06-08 16:57:56] [NH] 4 new item(s):
+[2026-06-08 16:57:56]   NEW: Shooting Investigation in Thornton, New Hampshire |  | https://www.doj.nh.gov/news-and-media/shooting-investigation-thornton-new-hampshire
+[2026-06-08 16:57:56]   NEW: Michael Rock Sentenced for Unemployment Fraud |  | https://www.doj.nh.gov/news-and-media/michael-rock-sentenced-unemployment-fraud
+[2026-06-08 16:57:56]   NEW: Anticipated Plea and Sentencing Hearing Scheduled in State v. Thomas Pickford for the Murder of Christian Walker in Keene, New Hampshire |  | https://www.doj.nh.gov/news-and-media/anticipated-plea-and-sentencing-hearing-scheduled-state-v-thomas-pickford-murder
+[2026-06-08 16:57:56]   NEW: Thomas Pickford Sentenced for the Murder of Christian Walker in Keene, New Hampshire |  | https://www.doj.nh.gov/news-and-media/thomas-pickford-sentenced-murder-christian-walker-keene-new-hampshire
+[2026-06-08 16:57:56] [NJ] Fetching https://www.njoag.gov/news/
+[2026-06-08 16:57:57] [NJ] Found 5 item(s) on page.
+[2026-06-08 16:57:57] [NJ] 1 new item(s):
+[2026-06-08 16:57:57]   NEW: State Grand Jury Declines to File Criminal Charges in Connection with November 9, 2025 Fatal Crash in West Deptford Following Encounter with West Deptford Police Officer |  | https://www.njoag.gov/state-grand-jury-declines-to-file-criminal-charges-in-connection-with-november-9-2025-fatal-crash-in-west-deptford-following-encounter-with-west-deptford-police-officer/
+[2026-06-08 16:57:57] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-06-08 16:58:00] [NM] Found 14 item(s) on page.
+[2026-06-08 16:58:00] [NM] No new items.
+[2026-06-08 16:58:00] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-06-08 16:58:00] [NY] Found 25 item(s) on page.
+[2026-06-08 16:58:00] [NY] No new items.
+[2026-06-08 16:58:00] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-06-08 16:58:48]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: 500 Server Error: Internal Server Error for url: https://ncdoj.gov/newsroom/press-releases/
+[2026-06-08 16:59:08]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: 500 Server Error: Internal Server Error for url: https://ncdoj.gov/newsroom/press-releases/
+[2026-06-08 16:59:38] [NC] Found 10 item(s) on page.
+[2026-06-08 16:59:38] [NC] No new items.
+[2026-06-08 16:59:38] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-06-08 16:59:38] [ND] Found 10 item(s) on page.
+[2026-06-08 16:59:38] [ND] No new items.
+[2026-06-08 16:59:38] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-06-08 16:59:39] [OH] Found 10 item(s) on page.
+[2026-06-08 16:59:39] [OH] 1 new item(s):
+[2026-06-08 16:59:39]   NEW: Andy Wilson Begins Tenure as Ohio Attorney General | 6/8/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/June-2026/Andy-Wilson-Begins-Tenure-as-Ohio-Attorney-General
+[2026-06-08 16:59:39] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-08 16:59:39]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-08 16:59:42]   Playwright loaded page: 'News Releases' (844519 chars)
+[2026-06-08 16:59:42]   Playwright: page loaded but no links matched — check selectors
+[2026-06-08 16:59:42]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-06-08 16:59:42] [OK] No items returned (fetch failed or empty page).
+[2026-06-08 16:59:42] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-08 16:59:43]   Attempt 1/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-08 17:00:03]   Attempt 2/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-08 17:00:24]   Attempt 3/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-08 17:00:24] [OR] No items returned (fetch failed or empty page).
+[2026-06-08 17:00:24] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-06-08 17:00:25] [PA] Found 30 item(s) on page.
+[2026-06-08 17:00:25] [PA] No new items.
+[2026-06-08 17:00:25] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-06-08 17:00:25] [RI] Found 10 item(s) on page.
+[2026-06-08 17:00:25] [RI] No new items.
+[2026-06-08 17:00:25] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-06-08 17:00:25]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-06-08 17:00:28]   Playwright loaded page: 'News - South Carolina Attorney General' (110248 chars)
+[2026-06-08 17:00:28]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-06-08 17:00:28] [SC] Found 9 item(s) on page.
+[2026-06-08 17:00:28] [SC] No new items.
+[2026-06-08 17:00:28] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-06-08 17:00:28]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=6
+[2026-06-08 17:00:31]   Playwright loaded page: 'South Dakota Attorney General' (38220 chars)
+[2026-06-08 17:00:31]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-06-08 17:00:31] [SD] Found 1 item(s) on page.
+[2026-06-08 17:00:31] [SD] No new items.
+[2026-06-08 17:00:31] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-06-08 17:00:31]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-06-08 17:00:51] [TN] Found 50 item(s) on page.
+[2026-06-08 17:00:51] [TN] No new items.
+[2026-06-08 17:00:51] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-06-08 17:00:52] [TX] Found 50 item(s) on page.
+[2026-06-08 17:00:52] [TX] 1 new item(s):
+[2026-06-08 17:00:52]   NEW: Attor­ney Gen­er­al Ken Pax­ton Launch­es Indus­try-Wide Inves­ti­ga­tion into Pro­tein Pow­der Man­u­fac­tur­ers to Pro­tect Tex­ans from Heavy Met­als, Includ­ing Lead and Cad­mi­um, Found in Pop­u­lar Pro­tein Powders |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-launches-industry-wide-investigation-protein-powder-manufacturers
+[2026-06-08 17:00:52] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-06-08 17:00:52]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-06-08 17:00:54]   Playwright loaded page: 'Press Releases - Utah Attorney General' (294635 chars)
+[2026-06-08 17:00:55]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-06-08 17:00:55] [UT] Found 50 item(s) on page.
+[2026-06-08 17:00:55] [UT] No new items.
+[2026-06-08 17:00:55] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-06-08 17:00:56] [VT] Found 50 item(s) on page.
+[2026-06-08 17:00:56] [VT] No new items.
+[2026-06-08 17:00:56] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-06-08 17:00:56] [VA] Found 50 item(s) on page.
+[2026-06-08 17:00:56] [VA] No new items.
+[2026-06-08 17:00:56] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-06-08 17:00:56] [WA] Found 15 item(s) on page.
+[2026-06-08 17:00:56] [WA] No new items.
+[2026-06-08 17:00:56] [WV] Fetching https://ago.wv.gov/news
+[2026-06-08 17:00:56]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-06-08 17:00:59]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54370 chars)
+[2026-06-08 17:00:59]   Playwright found 30 item(s) with configured selector
+[2026-06-08 17:00:59] [WV] Found 30 item(s) on page.
+[2026-06-08 17:00:59] [WV] No new items.
+[2026-06-08 17:00:59] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-08 17:00:59]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-08 17:01:02]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1512149 chars)
+[2026-06-08 17:01:03]   Playwright found 37 item(s) with configured selector
+[2026-06-08 17:01:03] [WI] Found 37 item(s) on page.
+[2026-06-08 17:01:03] [WI] No new items.
+[2026-06-08 17:01:03] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-06-08 17:01:03] [WY] Found 1 item(s) on page.
+[2026-06-08 17:01:03] [WY] No new items.
+[2026-06-08 17:01:03] States with fetch errors: KS, OK, OR
+[2026-06-08 17:01:03] Sending email: 10 new item(s) across 7 state(s).
+[2026-06-08 17:01:05] Email sent.
+[2026-06-08 17:01:05] Done.
