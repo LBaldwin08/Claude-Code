@@ -1174,3 +1174,12 @@ Call log:
 [2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396430
 [2026-06-08 17:34:15] Email notification sent.
 [2026-06-08 17:34:15] Done.
+[2026-06-08 20:07:22] Checking for new DE court opinions...
+[2026-06-08 20:07:22] Using Playwright to fetch opinions page...
+[2026-06-08 20:07:33] Playwright found 27 opinion(s).
+[2026-06-08 20:07:33] Found 27 opinions on page.
+[2026-06-08 20:07:33] 1 new opinion(s)!
+[2026-06-08 20:07:33]   NEW: [06/05/2026] [Justice Of The Peace Court] AIRPORT BUSINESS CENTER I LLLP VS GURU KIRPA | JP13-26-000188 | Three Judge PanelJ.
+[2026-06-08 20:07:33]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396530
+[2026-06-08 20:07:34] Email notification sent.
+[2026-06-08 20:07:34] Done.
