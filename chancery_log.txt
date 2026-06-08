@@ -1147,3 +1147,30 @@ Call log:
 [2026-06-08 14:19:06] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fcd03787680>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-06-08 14:19:06] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fcd03787680>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-06-08 14:19:06] Skipping this run — will retry next scheduled check.
+[2026-06-08 17:34:01] Checking for new DE court opinions...
+[2026-06-08 17:34:01] Using Playwright to fetch opinions page...
+[2026-06-08 17:34:13] Playwright found 27 opinion(s).
+[2026-06-08 17:34:13] Found 27 opinions on page.
+[2026-06-08 17:34:13] 10 new opinion(s)!
+[2026-06-08 17:34:13]   NEW: [06/08/2026] [Superior Court] Kalil v. Kalil | N24C-12-073 CLS | ScottJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396490
+[2026-06-08 17:34:13]   NEW: [06/08/2026] [Supreme Court(Family Court)] Rooten, Allice v. Department of Family Services for Children, Youth, and their Families (DSCYF) TPR | 8, 2026 | TraynorJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396450
+[2026-06-08 17:34:13]   NEW: [06/08/2026] [Supreme Court(Superior Court)] Clark v. State | 98, 2025 | TraynorJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396510
+[2026-06-08 17:34:13]   NEW: [06/05/2026] [Superior Court] CMD Global Partners (USA) Inc. v. Western Alliance Bank, et al. | N25C-10-326 FWW | WhartonJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396420
+[2026-06-08 17:34:13]   NEW: [06/05/2026] [Supreme Court(Superior Court)] IMO the Petition for a Writ of Mandamus or Prohibition by Candido Reynolds | 226, 2026 | GriffithsJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396410
+[2026-06-08 17:34:13]   NEW: [06/04/2026] [Superior Court] Browne v. CSX Transportation, Inc. | N26C-04-167 FJJ | JonesJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396480
+[2026-06-08 17:34:13]   NEW: [06/03/2026] [Superior Court] Omegawave Oy v. OTO.Coach, Inc.; and OTO.Coach, Inc. v. OW International, LLC, et al. | N23C-11-054 KMV | VavalaJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396470
+[2026-06-08 17:34:13]   NEW: [06/02/2026] [Superior Court] State v. Jackson | 2105000955 | ButlerR.J.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396440
+[2026-06-08 17:34:13]   NEW: [06/02/2026] [Superior Court] Williamson v. Donald F. Deaven, Inc. | N25A-07-004 FWW | WhartonJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396460
+[2026-06-08 17:34:13]   NEW: [05/29/2026] [Superior Court] Kelly v. Delaware Department of Justice | N25A-08-006 DJB | BrennanJ.
+[2026-06-08 17:34:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396430
+[2026-06-08 17:34:15] Email notification sent.
+[2026-06-08 17:34:15] Done.
