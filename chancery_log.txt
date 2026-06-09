@@ -1222,3 +1222,12 @@ Call log:
 [2026-06-09 13:41:52] Found 27 opinions on page.
 [2026-06-09 13:41:52] No new opinions.
 [2026-06-09 13:41:52] Done.
+[2026-06-09 16:29:03] Checking for new DE court opinions...
+[2026-06-09 16:29:03] Using Playwright to fetch opinions page...
+[2026-06-09 16:29:15] Playwright found 27 opinion(s).
+[2026-06-09 16:29:15] Found 27 opinions on page.
+[2026-06-09 16:29:15] 1 new opinion(s)!
+[2026-06-09 16:29:15]   NEW: [06/08/2026] [Supreme Court(Superior Court)] Ferrer-Vasquez v. State | 109, 2026 | TraynorJ.
+[2026-06-09 16:29:15]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396520
+[2026-06-09 16:29:16] Email notification sent.
+[2026-06-09 16:29:16] Done.
