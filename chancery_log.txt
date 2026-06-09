@@ -1249,3 +1249,12 @@ Call log:
 [2026-06-09 20:55:41] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fdf345e3740>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-06-09 20:55:41] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fdf345e3740>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-06-09 20:55:41] Skipping this run — will retry next scheduled check.
+[2026-06-09 22:20:02] Checking for new DE court opinions...
+[2026-06-09 22:20:02] Using Playwright to fetch opinions page...
+[2026-06-09 22:20:13] Playwright found 27 opinion(s).
+[2026-06-09 22:20:13] Found 27 opinions on page.
+[2026-06-09 22:20:13] 1 new opinion(s)!
+[2026-06-09 22:20:13]   NEW: [06/09/2026] [Court of Chancery] Marc Kulick, et al. v. YSA Investments 1, LLC | 2025-1319-KSJM | McCormick,C.
+[2026-06-09 22:20:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396550
+[2026-06-09 22:20:13] Email notification sent.
+[2026-06-09 22:20:13] Done.
