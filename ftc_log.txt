@@ -440,3 +440,14 @@
 [2026-06-09 16:19:19] Found 20 press release(s) on page.
 [2026-06-09 16:19:19] No new press releases.
 [2026-06-09 16:19:19] Done.
+[2026-06-10 16:48:18] Checking for new FTC press releases...
+[2026-06-10 16:48:18] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-10 16:48:33] Playwright found 0 press release link(s).
+[2026-06-10 16:48:33] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-10 16:48:34] requests found 20 press release link(s).
+[2026-06-10 16:48:34] Found 20 press release(s) on page.
+[2026-06-10 16:48:34] 1 new press release(s)!
+[2026-06-10 16:48:34]   NEW: [2026-06-09T12:00:00Z] FTC Returns Nearly $3 Million to Consumers Deceived by Mortgage Relief Scheme
+[2026-06-10 16:48:34]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-returns-nearly-3-million-consumers-deceived-mortgage-relief-scheme
+[2026-06-10 16:48:35] Email notification sent.
+[2026-06-10 16:48:35] Done.
