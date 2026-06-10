@@ -1341,3 +1341,15 @@ Call log:
 [2026-06-10 22:25:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396640
 [2026-06-10 22:25:42] Email notification sent.
 [2026-06-10 22:25:42] Done.
+[2026-06-10 23:55:27] Checking for new DE court opinions...
+[2026-06-10 23:55:27] Using Playwright to fetch opinions page...
+[2026-06-10 23:56:12] Playwright error: Page.goto: Timeout 45000ms exceeded.
+Call log:
+  - navigating to "https://courts.delaware.gov/opinions/", waiting until "domcontentloaded"
+
+[2026-06-10 23:56:12] Playwright unavailable or failed; falling back to requests.
+[2026-06-10 23:56:28] Attempt 1/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f9f6bb0fb60>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-10 23:57:13] Attempt 2/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f9f6aa8d880>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-10 23:57:58] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f9f6aa8df40>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-10 23:57:58] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f9f6aa8df40>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-10 23:57:58] Skipping this run — will retry next scheduled check.
