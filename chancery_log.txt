@@ -1306,3 +1306,18 @@ Call log:
 [2026-06-10 14:37:00] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f23bf9e7680>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-06-10 14:37:00] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f23bf9e7680>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-06-10 14:37:00] Skipping this run — will retry next scheduled check.
+[2026-06-10 17:55:19] Checking for new DE court opinions...
+[2026-06-10 17:55:19] Using Playwright to fetch opinions page...
+[2026-06-10 17:55:32] Playwright found 27 opinion(s).
+[2026-06-10 17:55:32] Found 27 opinions on page.
+[2026-06-10 17:55:32] 4 new opinion(s)!
+[2026-06-10 17:55:32]   NEW: [06/10/2026] [Court of Chancery] GI DI Rushmore Parent, LP v. Donald E Stoops, Jr. | C.A. No. 2026-0505-JTL | LasterV.C.
+[2026-06-10 17:55:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396610
+[2026-06-10 17:55:32]   NEW: [06/10/2026] [Court of Chancery] Patrick V. Judge v. Camber Road Partners, Inc., et al. | C.A. No. 2025-1217-CDW | WrightM.
+[2026-06-10 17:55:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396580
+[2026-06-10 17:55:32]   NEW: [06/10/2026] [Superior Court] Bowers v. Beebe Hospital, et al. | S25C-05-020 MHC | ConnerJ.
+[2026-06-10 17:55:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396600
+[2026-06-10 17:55:32]   NEW: [06/09/2026] [Superior Court] State v. Curtis | 2012010059 and 2101003496 | PrimosJ.
+[2026-06-10 17:55:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396590
+[2026-06-10 17:55:32] Email notification sent.
+[2026-06-10 17:55:32] Done.
