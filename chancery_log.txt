@@ -1328,3 +1328,16 @@ Call log:
 [2026-06-10 20:23:17] Found 0 opinions on page.
 [2026-06-10 20:23:17] No new opinions.
 [2026-06-10 20:23:17] Done.
+[2026-06-10 22:25:29] Checking for new DE court opinions...
+[2026-06-10 22:25:29] Using Playwright to fetch opinions page...
+[2026-06-10 22:25:41] Playwright found 27 opinion(s).
+[2026-06-10 22:25:41] Found 27 opinions on page.
+[2026-06-10 22:25:41] 3 new opinion(s)!
+[2026-06-10 22:25:41]   NEW: [06/10/2026] [Court of Chancery] Arif Ahmed v. JP Morgan Chase & Co., et al. | C.A. No. 2025-1133-DG | McCormick,C.
+[2026-06-10 22:25:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396620
+[2026-06-10 22:25:41]   NEW: [06/10/2026] [Superior Court] Evans v. Delaware Division of Substance Abuse & Mental Health | N26M-02-090 CLS | ScottJ.
+[2026-06-10 22:25:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396630
+[2026-06-10 22:25:41]   NEW: [06/09/2026] [Superior Court] State v. Curtis | 2012010059 and 2101003496 | PrimosJ.
+[2026-06-10 22:25:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396640
+[2026-06-10 22:25:42] Email notification sent.
+[2026-06-10 22:25:42] Done.
