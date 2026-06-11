@@ -451,3 +451,14 @@
 [2026-06-10 16:48:34]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-returns-nearly-3-million-consumers-deceived-mortgage-relief-scheme
 [2026-06-10 16:48:35] Email notification sent.
 [2026-06-10 16:48:35] Done.
+[2026-06-11 17:07:48] Checking for new FTC press releases...
+[2026-06-11 17:07:48] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-11 17:08:02] Playwright found 0 press release link(s).
+[2026-06-11 17:08:02] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-11 17:08:02] requests found 20 press release link(s).
+[2026-06-11 17:08:02] Found 20 press release(s) on page.
+[2026-06-11 17:08:02] 1 new press release(s)!
+[2026-06-11 17:08:02]   NEW: [2026-06-10T12:00:00Z] FTC Finalizes Consent Order in Sevita, BrightSpring Acquisition
+[2026-06-11 17:08:02]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-finalizes-consent-order-sevita-brightspring-acquisition
+[2026-06-11 17:08:03] Email notification sent.
+[2026-06-11 17:08:03] Done.
