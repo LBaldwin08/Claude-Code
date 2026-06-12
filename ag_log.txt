@@ -9902,3 +9902,248 @@ Call log:
 [2026-06-11 17:12:42] Sending email: 37 new item(s) across 18 state(s).
 [2026-06-11 17:12:43] Email sent.
 [2026-06-11 17:12:43] Done.
+[2026-06-12 16:30:30] Checking for new AG press releases...
+[2026-06-12 16:30:30] Checking 50 state(s).
+[2026-06-12 16:30:30] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-06-12 16:30:30]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-06-12 16:30:33]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226614 chars)
+[2026-06-12 16:30:33]   Playwright found 27 item(s) with configured selector
+[2026-06-12 16:30:33] [AL] Found 27 item(s) on page.
+[2026-06-12 16:30:33] [AL] 1 new item(s):
+[2026-06-12 16:30:33]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshalls-statement-on-halted-execution-of-convicted-double-murderer/
+[2026-06-12 16:30:33] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-06-12 16:30:34] [AK] Found 50 item(s) on page.
+[2026-06-12 16:30:34] [AK] 2 new item(s):
+[2026-06-12 16:30:34]   NEW: Nathaniel Donavan Reide Smith Sentenced to Serve Fifty-Five Years on Six Counts of Sexual Abuse of a Minor |  | https://law.alaska.gov/releases/2026/061126-Smith.html
+[2026-06-12 16:30:34]   NEW: Ventsislav Hurd, of Fairbanks, Found Guilty of Sexual Abuse of a Minor |  | https://law.alaska.gov/releases/2026/061126-Hurd.html
+[2026-06-12 16:30:34] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-06-12 16:30:34] [AZ] Found 10 item(s) on page.
+[2026-06-12 16:30:34] [AZ] No new items.
+[2026-06-12 16:30:34] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-06-12 16:30:35] [AR] Found 50 item(s) on page.
+[2026-06-12 16:30:35] [AR] No new items.
+[2026-06-12 16:30:35] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-06-12 16:30:35] [CA] Found 10 item(s) on page.
+[2026-06-12 16:30:35] [CA] 2 new item(s):
+[2026-06-12 16:30:35]   NEW: Attorney General Bonta Files Amicus Brief in Support of New York Measures Ensuring Public Safety in State Buildings | Fri, 12 Jun 2026 15:28:46 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-amicus-brief-support-new-york-measures-ensuring
+[2026-06-12 16:30:35]   NEW: California Department of Justice Investigating California Highway Patrol Officer-Involved Shooting Under AB 1506 | Thu, 11 Jun 2026 19:55:41 +0000 | https://oag.ca.gov/news/press-releases/california-department-justice-investigating-california-highway-patrol-officer-1
+[2026-06-12 16:30:35] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-06-12 16:30:35] [CO] Found 49 item(s) on page.
+[2026-06-12 16:30:35] [CO] No new items.
+[2026-06-12 16:30:35] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-06-12 16:30:36] [CT] Found 35 item(s) on page.
+[2026-06-12 16:30:36] [CT] No new items.
+[2026-06-12 16:30:36] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-06-12 16:30:36] [DE] Found 300 item(s) on page.
+[2026-06-12 16:30:36] [DE] No new items.
+[2026-06-12 16:30:36] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-06-12 16:30:37] [FL] Found 20 item(s) on page.
+[2026-06-12 16:30:37] [FL] 1 new item(s):
+[2026-06-12 16:30:37]   NEW: Attorney General James Uthmeier Announces Plan to Take Down "Teen Takeovers” | 2026-06-11T20:00:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-announces-plan-take-down-teen-takeovers
+[2026-06-12 16:30:37] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-06-12 16:30:37] [GA] Found 11 item(s) on page.
+[2026-06-12 16:30:37] [GA] 2 new item(s):
+[2026-06-12 16:30:37]   NEW: Carr Indicts McDuffie County Man Accused of Trafficking Missing TeenJune 11, 2026 |  | https://law.georgia.gov/press-releases/2026-06-11/carr-indicts-mcduffie-county-man-accused-trafficking-missing-teen
+[2026-06-12 16:30:37]   NEW: Carr: Lawrenceville Man Convicted of $330k Genetic Testing FraudJune 11, 2026 |  | https://law.georgia.gov/press-releases/2026-06-11/carr-lawrenceville-man-convicted-330k-genetic-testing-fraud
+[2026-06-12 16:30:37] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-06-12 16:30:37] [HI] Found 26 item(s) on page.
+[2026-06-12 16:30:37] [HI] No new items.
+[2026-06-12 16:30:37] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-12 16:30:37]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-12 16:30:41]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65607 chars)
+[2026-06-12 16:30:41]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-06-12 16:30:41] [ID] Found 28 item(s) on page.
+[2026-06-12 16:30:41] [ID] 1 new item(s):
+[2026-06-12 16:30:41]   NEW: Jun 112026AG Labrador Announces Canyon County Man Sent to Prison for Production of Child Pornography | Jun 112026 | https://www.ag.idaho.gov/newsroom/ag-labrador-announces-canyon-county-man-sent-to-prison-for-production-of-child-pornography/
+[2026-06-12 16:30:41] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-06-12 16:30:42] [IL] Found 50 item(s) on page.
+[2026-06-12 16:30:42] [IL] 2 new item(s):
+[2026-06-12 16:30:42]   NEW: June 11, 2026ATTORNEY GENERAL RAOUL CHARGES FORMER EMPLOYEE OF CHICAGOLAND ASSISTED-LIVING FACILITY WITH SEXUAL ABUSE | 2026-06-11 4:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-former-employee-of-chicagoland-assisted-living-facility-with-sexual-abuse
+[2026-06-12 16:30:42]   NEW: May 01, 2026ATTORNEY GENERAL RAOUL’S $7.4 BILLION OPIOID SETTLEMENT WITH PURDUE GOES IN EFFECT; ILLINOIS TO RECEIVE AN ESTIMATED $148.8 MILLION | 2026-05-31 5:15 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raouls-74-billion-opioid-settlement-with-purdue-goes-in-effect-illinois-to-receive-an-estimated-1488-million
+[2026-06-12 16:30:42] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-06-12 16:30:42] [IN] Found 38 item(s) on page.
+[2026-06-12 16:30:42] [IN] No new items.
+[2026-06-12 16:30:42] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-06-12 16:30:43] [IA] Found 10 item(s) on page.
+[2026-06-12 16:30:43] [IA] No new items.
+[2026-06-12 16:30:43] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-12 16:30:43]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-12 16:30:46]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-06-12 16:30:46]   Playwright: page loaded but no links matched — check selectors
+[2026-06-12 16:30:46]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-06-12 16:30:46]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-12 16:31:06]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-12 16:31:27]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-12 16:31:27] [KS] No items returned (fetch failed or empty page).
+[2026-06-12 16:31:27] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-06-12 16:31:27] [KY] Found 26 item(s) on page.
+[2026-06-12 16:31:27] [KY] No new items.
+[2026-06-12 16:31:27] [LA] Fetching https://ag.louisiana.gov/News
+[2026-06-12 16:31:27] [LA] Found 20 item(s) on page.
+[2026-06-12 16:31:27] [LA] 3 new item(s):
+[2026-06-12 16:31:27]   NEW: Attorney General Murrill Urges EPA to Conduct Abortion Pill Water Safety Tests | 6/11/2026 | https://ag.louisiana.gov/Article/541
+[2026-06-12 16:31:27]   NEW: Attorney General Liz Murrill applauds court victory for Louisiana horsemen and horse racing industry | 6/11/2026 | https://ag.louisiana.gov/Article/540
+[2026-06-12 16:31:27]   NEW: Attorney General Murrill's Office arrests 24-year-old from Tickfaw for Possession of Child Sexual Abuse Material Under the Age of 13 | 6/11/2026 | https://ag.louisiana.gov/Article/539
+[2026-06-12 16:31:27] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-06-12 16:31:28] [ME] Found 7 item(s) on page.
+[2026-06-12 16:31:28] [ME] 1 new item(s):
+[2026-06-12 16:31:28]   NEW: Statement of the Office of the Maine Attorney General on Abuse of Data Breach Reporting System | 6/12/2026 | https://www.maine.gov/ag/news-and-library/press-releases/statement-office-maine-attorney-general-abuse-data-breach-reporting
+[2026-06-12 16:31:28] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-06-12 16:31:28] [MD] Found 50 item(s) on page.
+[2026-06-12 16:31:28] [MD] No new items.
+[2026-06-12 16:31:28] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-12 16:31:28]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-12 16:31:32]   Playwright loaded page: 'News and Announcements | Mass.gov' (173942 chars)
+[2026-06-12 16:31:32]   Playwright found 15 item(s) with configured selector
+[2026-06-12 16:31:32] [MA] Found 15 item(s) on page.
+[2026-06-12 16:31:32] [MA] No new items.
+[2026-06-12 16:31:32] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-06-12 16:31:32]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-06-12 16:31:35]   Playwright loaded page: 'Attorney General: Press Releases' (374772 chars)
+[2026-06-12 16:31:35]   Playwright found 10 item(s) with configured selector
+[2026-06-12 16:31:35] [MI] Found 10 item(s) on page.
+[2026-06-12 16:31:35] [MI] 2 new item(s):
+[2026-06-12 16:31:35]   NEW: AG Nessel Files Testimony to Protect Ratepayers in Google Data Center Proposal |  | https://www.michigan.gov/ag/news/press-releases/2026/06/11/ag-nessel-files-testimony-to-protect-ratepayers-in-google-data-center-proposal
+[2026-06-12 16:31:35]   NEW: AG Nessel Joins Lawsuit Challenging Unlawful Trump Administration Mandates on Federal Contractors |  | https://www.michigan.gov/ag/news/press-releases/2026/06/11/ag-nessel-joins-lawsuit-challenging-unlawful-trump-administration-mandates-on-federal-contractors
+[2026-06-12 16:31:35] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-06-12 16:31:35] [MN] Found 50 item(s) on page.
+[2026-06-12 16:31:35] [MN] No new items.
+[2026-06-12 16:31:35] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-06-12 16:31:35] [MS] Found 1 item(s) on page.
+[2026-06-12 16:31:35] [MS] No new items.
+[2026-06-12 16:31:35] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-06-12 16:31:35] [MO] Found 50 item(s) on page.
+[2026-06-12 16:31:35] [MO] No new items.
+[2026-06-12 16:31:35] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-06-12 16:31:35] [MT] Found 10 item(s) on page.
+[2026-06-12 16:31:35] [MT] No new items.
+[2026-06-12 16:31:35] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-06-12 16:31:36] [NE] Found 10 item(s) on page.
+[2026-06-12 16:31:36] [NE] No new items.
+[2026-06-12 16:31:36] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-06-12 16:31:36] [NV] Found 50 item(s) on page.
+[2026-06-12 16:31:36] [NV] No new items.
+[2026-06-12 16:31:36] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-06-12 16:31:36]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-06-12 16:31:39]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-06-12 16:31:39]   Playwright: page loaded but no links matched — check selectors
+[2026-06-12 16:31:39]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-06-12 16:31:39]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-12 16:31:59]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-12 16:32:19]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-12 16:32:19] [NH] No items returned (fetch failed or empty page).
+[2026-06-12 16:32:19] [NJ] Fetching https://www.njoag.gov/news/
+[2026-06-12 16:32:21] [NJ] Found 5 item(s) on page.
+[2026-06-12 16:32:21] [NJ] No new items.
+[2026-06-12 16:32:21] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-06-12 16:32:24] [NM] Found 14 item(s) on page.
+[2026-06-12 16:32:24] [NM] No new items.
+[2026-06-12 16:32:24] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-06-12 16:32:24] [NY] Found 25 item(s) on page.
+[2026-06-12 16:32:24] [NY] 2 new item(s):
+[2026-06-12 16:32:24]   NEW: Attorney General James Urges Congress to Restore SNAP Benefits and Protect Food Assistance in Farm Bill |  | https://ag.ny.gov/press-release/2026/attorney-general-james-urges-congress-restore-snap-benefits-and-protect-food
+[2026-06-12 16:32:24]   NEW: Attorney General James Announces Sentencing of Madison County Tax Preparer Who Stole More Than $50 Million in Decades-Long Ponzi Scheme |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-sentencing-madison-county-tax-preparer-who
+[2026-06-12 16:32:24] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-06-12 16:32:30] [NC] Found 10 item(s) on page.
+[2026-06-12 16:32:30] [NC] No new items.
+[2026-06-12 16:32:30] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-06-12 16:32:30] [ND] Found 10 item(s) on page.
+[2026-06-12 16:32:30] [ND] 2 new item(s):
+[2026-06-12 16:32:30]   NEW: THE U.S. DEPARTMENT OF JUSTICE ISSUED THE FOLLOWING STATEMENT TODAY, IN RELATION TO THE FINAL SETTLEMENT OF NORTH DAKOTA V. UNITED STATES. | June 11, 2026June 11, 2026 | https://attorneygeneral.nd.gov/the-u-s-department-of-justice-issued-the-following-statement-today-in-relation-to-the-final-settlement-of-north-dakota-v-united-states/
+[2026-06-12 16:32:30]   NEW: ATTORNEY GENERAL WRIGLEY TO HOLD PRESS AVAILABILITY REGARDING FINAL SETTLEMENT IN ND v. UNITED STATES | June 11, 2026June 11, 2026 | https://attorneygeneral.nd.gov/attorney-general-wrigley-to-hold-press-availability-regarding-final-settlement-in-nd-v-united-states/
+[2026-06-12 16:32:30] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-06-12 16:32:30] [OH] Found 10 item(s) on page.
+[2026-06-12 16:32:30] [OH] No new items.
+[2026-06-12 16:32:30] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-12 16:32:30]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-12 16:32:33]   Playwright loaded page: 'News Releases' (873399 chars)
+[2026-06-12 16:32:33]   Playwright found 20 item(s) with configured selector
+[2026-06-12 16:32:33] [OK] Found 20 item(s) on page.
+[2026-06-12 16:32:33] [OK] 1 new item(s):
+[2026-06-12 16:32:33]   NEW: Drummond asks Big 12 to sanction Texas Tech |  | https://oklahoma.gov/oag/news/newsroom/2026/june/drummond-asks-big-12-to-sanction-texas-tech.html
+[2026-06-12 16:32:33] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-12 16:32:34] [OR] Found 10 item(s) on page.
+[2026-06-12 16:32:34] [OR] No new items.
+[2026-06-12 16:32:34] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-06-12 16:32:36] [PA] Found 30 item(s) on page.
+[2026-06-12 16:32:36] [PA] 2 new item(s):
+[2026-06-12 16:32:36]   NEW: 06/12/2026 | 06/12/2026 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-conviction-of-northumberland-county-man-who-sexually-assaulted-11-year-old-child/
+[2026-06-12 16:32:36]   NEW: 06/12/2026 | 06/12/2026 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-obtains-refunds-for-ticketholders-impacted-by-the-sudden-closure-of-hmac/
+[2026-06-12 16:32:36] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-06-12 16:32:36] [RI] Found 10 item(s) on page.
+[2026-06-12 16:32:36] [RI] No new items.
+[2026-06-12 16:32:36] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-06-12 16:32:36]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-06-12 16:32:39]   Playwright loaded page: 'News - South Carolina Attorney General' (110861 chars)
+[2026-06-12 16:32:39]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-06-12 16:32:39] [SC] Found 9 item(s) on page.
+[2026-06-12 16:32:39] [SC] 3 new item(s):
+[2026-06-12 16:32:39]   NEW: Attorney General Alan Wilson touts securing critical funding for ICE and CBPRead More | Jun 11, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-touts-securing-critical-funding-for-ice-and-cbp/
+[2026-06-12 16:32:39]   NEW: York man arrested on three Child Sexual Abuse Material* chargesRead More | Jun 11, 2026 | https://www.scag.gov/about-the-office/news/york-man-arrested-on-three-child-sexual-abuse-material-charges/
+[2026-06-12 16:32:39]   NEW: Charleston County man arrested on Criminal Sexual Conduct with a Minor and related chargesRead More | Jun 11, 2026 | https://www.scag.gov/about-the-office/news/charleston-county-man-arrested-on-criminal-sexual-conduct-with-a-minor-and-related-charges/
+[2026-06-12 16:32:39] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-06-12 16:32:39]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=6
+[2026-06-12 16:32:42]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-06-12 16:32:42]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-06-12 16:32:42] [SD] Found 1 item(s) on page.
+[2026-06-12 16:32:42] [SD] No new items.
+[2026-06-12 16:32:42] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-06-12 16:32:42]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-06-12 16:33:02] [TN] Found 50 item(s) on page.
+[2026-06-12 16:33:02] [TN] No new items.
+[2026-06-12 16:33:02] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-06-12 16:33:03] [TX] Found 50 item(s) on page.
+[2026-06-12 16:33:03] [TX] 1 new item(s):
+[2026-06-12 16:33:03]   NEW: Attor­ney Gen­er­al Pax­ton Warns Big12Con­fer­ence That Sanc­tion­ing Texas Tech Would Vio­late the Law and Expose the Con­fer­ence and Mem­bers to Over $200Mil­lion in Liability |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-warns-big-12-conference-sanctioning-texas-tech-would-violate-law-and-expose
+[2026-06-12 16:33:03] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-06-12 16:33:03]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-06-12 16:33:05]   Playwright loaded page: 'Press Releases - Utah Attorney General' (294808 chars)
+[2026-06-12 16:33:06]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-06-12 16:33:06] [UT] Found 50 item(s) on page.
+[2026-06-12 16:33:06] [UT] No new items.
+[2026-06-12 16:33:06] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-06-12 16:33:06] [VT] Found 50 item(s) on page.
+[2026-06-12 16:33:06] [VT] 16 new item(s):
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Joins Coalition Supporting New York Measures Ensuring Public Safety in State Buildings | DateJune 11, 2026 | https://ago.vermont.gov/blog/2026/06/11/attorney-general-clark-joins-coalition-supporting-new-york-measures-ensuring-public-safety-state
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Keeps Fighting Against Trump's Unlawful Tariffs | DateJune 9, 2026 | https://ago.vermont.gov/blog/2026/06/09/attorney-general-clark-keeps-fighting-against-trumps-unlawful-tariffs
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Leads Multistate Effort Urging Formula 1 to End Tobacco and Nicotine Product Sponsorships | DateJune 8, 2026 | https://ago.vermont.gov/blog/2026/06/08/attorney-general-clark-leads-multistate-effort-urging-formula-1-end-tobacco-and-nicotine-product-0
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Submits Comment Letter to EPA on Microplastics | DateJune 5, 2026 | https://ago.vermont.gov/blog/2026/06/05/attorney-general-clark-submits-comment-letter-epa-microplastics
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Opposes Federal Legislation That Would Weaken State Privacy Protections | DateJune 3, 2026 | https://ago.vermont.gov/blog/2026/06/03/attorney-general-clark-opposes-federal-legislation-would-weaken-state-privacy-protections
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Sends Letter to Federal Judicial Center Strongly Opposing Removal of Climate Science from Judicial Manual | DateJune 2, 2026 | https://ago.vermont.gov/blog/2026/06/02/attorney-general-clark-sends-letter-federal-judicial-center-strongly-opposing-removal-climate
+[2026-06-12 16:33:06]   NEW: Attorney General Clark and Coalition Oppose Plan to Weaken Federal Protections for Retirement Investments | DateMay 29, 2026 | https://ago.vermont.gov/blog/2026/05/29/attorney-general-clark-and-coalition-oppose-plan-weaken-federal-protections-retirement-investments
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Files Amicus Brief Supporting Delaware Handgun Law | DateMay 29, 2026 | https://ago.vermont.gov/blog/2026/05/29/attorney-general-clark-files-amicus-brief-supporting-delaware-handgun-law
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Opposes U.S. Department of Education's Effort to Remove Reporting Requirements that Address Disparities for Students with Disabilities | DateMay 22, 2026 | https://ago.vermont.gov/blog/2026/05/22/attorney-general-clark-opposes-us-department-educations-effort-remove-reporting-requirements-address
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Urges Funds to Reevaluate Decision to Cut off Southern Poverty Law Center | DateMay 21, 2026 | https://ago.vermont.gov/blog/2026/05/21/attorney-general-clark-urges-funds-reevaluate-decision-cut-southern-poverty-law-center
+[2026-06-12 16:33:06]   NEW: Attorney General Clark and Coalition Oppose EPA's Proposal to Gut National Limits on Toxic Ethylene Oxide Pollution | DateMay 15, 2026 | https://ago.vermont.gov/blog/2026/05/15/attorney-general-clark-and-coalition-oppose-epas-proposal-gut-national-limits-toxic-ethylene-oxide
+[2026-06-12 16:33:06]   NEW: Attorney General Clark and Coalition Urge FDA to Reverse Guidance Easing Sales of Flavored E-Cigarettes | DateMay 11, 2026 | https://ago.vermont.gov/blog/2026/05/11/attorney-general-clark-and-coalition-urge-fda-reverse-guidance-easing-sales-flavored-e-cigarettes
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Joins Bipartisan Push to Fix Medicare Therapy Payment Rules | DateMay 11, 2026 | https://ago.vermont.gov/blog/2026/05/11/attorney-general-clark-joins-bipartisan-push-fix-medicare-therapy-payment-rules
+[2026-06-12 16:33:06]   NEW: Attorney General Clark Protects Critical Homeland Security Funding from Politically Motivated Cut | DateMay 7, 2026 | https://ago.vermont.gov/blog/2026/05/07/attorney-general-clark-protects-critical-homeland-security-funding-politically-motivated-cut
+[2026-06-12 16:33:06]   NEW: Attorney General Clark and Multistate Coalition Oppose Postal Service Rule Undermining Federal Gun Law | DateMay 4, 2026 | https://ago.vermont.gov/blog/2026/05/04/attorney-general-clark-and-multistate-coalition-oppose-postal-service-rule-undermining-federal-gun
+[2026-06-12 16:33:06]   NEW: Vermont Urges CFTC to Recognize State Authority Over Sports-Related Prediction Markets | DateApril 30, 2026 | https://ago.vermont.gov/blog/2026/04/30/vermont-urges-cftc-recognize-state-authority-over-sports-related-prediction-markets
+[2026-06-12 16:33:06] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-06-12 16:33:07] [VA] Found 50 item(s) on page.
+[2026-06-12 16:33:07] [VA] 1 new item(s):
+[2026-06-12 16:33:07]   NEW: What Virginians Are Seeing: Attorney General Jay Jones Shares Weekly Roundup of Actions Taken |  | https://www.oag.state.va.us/media-center/news-releases/3041-what-virginians-are-seeing-attorney-general-jay-jones-shares-weekly-roundup-of-actions-taken-9
+[2026-06-12 16:33:07] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-06-12 16:33:07] [WA] Found 15 item(s) on page.
+[2026-06-12 16:33:07] [WA] No new items.
+[2026-06-12 16:33:07] [WV] Fetching https://ago.wv.gov/news
+[2026-06-12 16:33:07]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-06-12 16:33:10]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54392 chars)
+[2026-06-12 16:33:10]   Playwright found 30 item(s) with configured selector
+[2026-06-12 16:33:10] [WV] Found 30 item(s) on page.
+[2026-06-12 16:33:10] [WV] No new items.
+[2026-06-12 16:33:10] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-12 16:33:10]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-12 16:33:14]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1516675 chars)
+[2026-06-12 16:33:14]   Playwright found 40 item(s) with configured selector
+[2026-06-12 16:33:14] [WI] Found 40 item(s) on page.
+[2026-06-12 16:33:14] [WI] 1 new item(s):
+[2026-06-12 16:33:14]   NEW: Wisconsin DOJ Joins Lawsuit Challenging Trump Administration’s Unlawful New Federal Contractor Terms |  | https://www.wisdoj.gov/PressReleases/press-release-dei-eo-multistate.pdf
+[2026-06-12 16:33:14] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-06-12 16:33:14] [WY] Found 1 item(s) on page.
+[2026-06-12 16:33:14] [WY] No new items.
+[2026-06-12 16:33:14] States with fetch errors: KS, NH
+[2026-06-12 16:33:14] Sending email: 46 new item(s) across 19 state(s).
+[2026-06-12 16:33:15] Email sent.
+[2026-06-12 16:33:15] Done.
