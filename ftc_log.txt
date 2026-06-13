@@ -473,3 +473,11 @@
 [2026-06-12 16:32:42]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-files-contempt-motion-against-amare-global-three-individuals-over-unsubstantiated-health-claims
 [2026-06-12 16:32:44] Email notification sent.
 [2026-06-12 16:32:44] Done.
+[2026-06-13 15:19:38] Checking for new FTC press releases...
+[2026-06-13 15:19:38] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-13 15:19:50] Playwright found 0 press release link(s).
+[2026-06-13 15:19:50] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-13 15:19:51] requests found 20 press release link(s).
+[2026-06-13 15:19:51] Found 20 press release(s) on page.
+[2026-06-13 15:19:51] No new press releases.
+[2026-06-13 15:19:51] Done.
