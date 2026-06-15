@@ -10559,3 +10559,230 @@ Call log:
 [2026-06-14 15:27:11] States with fetch errors: AK, DE, KS, NH
 [2026-06-14 15:27:11] No new press releases found.
 [2026-06-14 15:27:11] Done.
+[2026-06-15 18:07:19] Checking for new AG press releases...
+[2026-06-15 18:07:19] Checking 50 state(s).
+[2026-06-15 18:07:19] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-06-15 18:07:19]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-06-15 18:07:22]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226613 chars)
+[2026-06-15 18:07:22]   Playwright found 27 item(s) with configured selector
+[2026-06-15 18:07:22] [AL] Found 27 item(s) on page.
+[2026-06-15 18:07:22] [AL] No new items.
+[2026-06-15 18:07:22] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-06-15 18:07:37]   Attempt 1/3 failed for https://law.alaska.gov/press/news.html: HTTPSConnectionPool(host='law.alaska.gov', port=443): Max retries exceeded with url: /press/news.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='law.alaska.gov', port=443) at 0x7fb237e0cb00>, 'Connection to law.alaska.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:08:12]   Attempt 2/3 failed for https://law.alaska.gov/press/news.html: HTTPSConnectionPool(host='law.alaska.gov', port=443): Max retries exceeded with url: /press/news.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='law.alaska.gov', port=443) at 0x7fb2375341d0>, 'Connection to law.alaska.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:08:47]   Attempt 3/3 failed for https://law.alaska.gov/press/news.html: HTTPSConnectionPool(host='law.alaska.gov', port=443): Max retries exceeded with url: /press/news.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='law.alaska.gov', port=443) at 0x7fb2375344a0>, 'Connection to law.alaska.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:08:47] [AK] No items returned (fetch failed or empty page).
+[2026-06-15 18:08:47] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-06-15 18:08:48] [AZ] Found 10 item(s) on page.
+[2026-06-15 18:08:48] [AZ] 1 new item(s):
+[2026-06-15 18:08:48]   NEW: Attorney General Mayes Announces $795,000 Settlement with Palo Verde Mobile Home Park in Tucson |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-795000-settlement-palo-verde-mobile-home-park-tucson
+[2026-06-15 18:08:48] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-06-15 18:08:48] [AR] Found 50 item(s) on page.
+[2026-06-15 18:08:48] [AR] No new items.
+[2026-06-15 18:08:48] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-06-15 18:08:49] [CA] Found 10 item(s) on page.
+[2026-06-15 18:08:49] [CA] No new items.
+[2026-06-15 18:08:49] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-06-15 18:08:49] [CO] Found 49 item(s) on page.
+[2026-06-15 18:08:49] [CO] No new items.
+[2026-06-15 18:08:49] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-06-15 18:08:51] [CT] Found 34 item(s) on page.
+[2026-06-15 18:08:51] [CT] No new items.
+[2026-06-15 18:08:51] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-06-15 18:09:06]   Attempt 1/3 failed for https://news.delaware.gov/category/justice/feed/: HTTPSConnectionPool(host='news.delaware.gov', port=443): Max retries exceeded with url: /category/justice/feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='news.delaware.gov', port=443) at 0x7fb2352fcd10>, 'Connection to news.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:09:41]   Attempt 2/3 failed for https://news.delaware.gov/category/justice/feed/: HTTPSConnectionPool(host='news.delaware.gov', port=443): Max retries exceeded with url: /category/justice/feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='news.delaware.gov', port=443) at 0x7fb237317ad0>, 'Connection to news.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:10:17]   Attempt 3/3 failed for https://news.delaware.gov/category/justice/feed/: HTTPSConnectionPool(host='news.delaware.gov', port=443): Max retries exceeded with url: /category/justice/feed/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='news.delaware.gov', port=443) at 0x7fb237317fe0>, 'Connection to news.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:10:17]   [DE] RSS fetch failed, falling back to HTML scrape
+[2026-06-15 18:10:32]   Attempt 1/3 failed for https://news.delaware.gov/category/justice/: HTTPSConnectionPool(host='news.delaware.gov', port=443): Max retries exceeded with url: /category/justice/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='news.delaware.gov', port=443) at 0x7fb235290230>, 'Connection to news.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:11:07]   Attempt 2/3 failed for https://news.delaware.gov/category/justice/: HTTPSConnectionPool(host='news.delaware.gov', port=443): Max retries exceeded with url: /category/justice/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='news.delaware.gov', port=443) at 0x7fb235290ad0>, 'Connection to news.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:11:42]   Attempt 3/3 failed for https://news.delaware.gov/category/justice/: HTTPSConnectionPool(host='news.delaware.gov', port=443): Max retries exceeded with url: /category/justice/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='news.delaware.gov', port=443) at 0x7fb235291010>, 'Connection to news.delaware.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:11:42] [DE] No items returned (fetch failed or empty page).
+[2026-06-15 18:11:42] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-06-15 18:11:43] [FL] Found 20 item(s) on page.
+[2026-06-15 18:11:43] [FL] 1 new item(s):
+[2026-06-15 18:11:43]   NEW: AG James Uthmeier Launches Lawsuit Against TikTok for Deceiving Parents about the Safety of its Platform; Failure to Comply with HB3 | 2026-06-15T15:00:00Z | https://www.myfloridalegal.com/newsrelease/ag-james-uthmeier-launches-lawsuit-against-tiktok-deceiving-parents-about-safety-its
+[2026-06-15 18:11:43] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-06-15 18:11:43] [GA] Found 11 item(s) on page.
+[2026-06-15 18:11:43] [GA] No new items.
+[2026-06-15 18:11:43] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-06-15 18:11:43] [HI] Found 26 item(s) on page.
+[2026-06-15 18:11:43] [HI] No new items.
+[2026-06-15 18:11:43] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-15 18:11:43]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-15 18:11:47]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65451 chars)
+[2026-06-15 18:11:47]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-06-15 18:11:47] [ID] Found 28 item(s) on page.
+[2026-06-15 18:11:47] [ID] No new items.
+[2026-06-15 18:11:47] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-06-15 18:11:48] [IL] Found 50 item(s) on page.
+[2026-06-15 18:11:48] [IL] No new items.
+[2026-06-15 18:11:48] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-06-15 18:11:49] [IN] Found 38 item(s) on page.
+[2026-06-15 18:11:49] [IN] No new items.
+[2026-06-15 18:11:49] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-06-15 18:12:04]   Attempt 1/3 failed for https://www.iowaattorneygeneral.gov/newsroom: HTTPSConnectionPool(host='www.iowaattorneygeneral.gov', port=443): Max retries exceeded with url: /newsroom (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iowaattorneygeneral.gov', port=443) at 0x7fb2375349e0>, 'Connection to www.iowaattorneygeneral.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:12:39]   Attempt 2/3 failed for https://www.iowaattorneygeneral.gov/newsroom: HTTPSConnectionPool(host='www.iowaattorneygeneral.gov', port=443): Max retries exceeded with url: /newsroom (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iowaattorneygeneral.gov', port=443) at 0x7fb2376aa2a0>, 'Connection to www.iowaattorneygeneral.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:13:14]   Attempt 3/3 failed for https://www.iowaattorneygeneral.gov/newsroom: HTTPSConnectionPool(host='www.iowaattorneygeneral.gov', port=443): Max retries exceeded with url: /newsroom (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.iowaattorneygeneral.gov', port=443) at 0x7fb2376abd10>, 'Connection to www.iowaattorneygeneral.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:13:14] [IA] No items returned (fetch failed or empty page).
+[2026-06-15 18:13:14] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-15 18:13:14]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-15 18:13:17]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-06-15 18:13:17]   Playwright: page loaded but no links matched — check selectors
+[2026-06-15 18:13:17]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-06-15 18:13:17]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-15 18:13:38]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-15 18:13:58]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-15 18:13:58] [KS] No items returned (fetch failed or empty page).
+[2026-06-15 18:13:58] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-06-15 18:13:59] [KY] Found 26 item(s) on page.
+[2026-06-15 18:13:59] [KY] No new items.
+[2026-06-15 18:13:59] [LA] Fetching https://ag.louisiana.gov/News
+[2026-06-15 18:13:59] [LA] Found 20 item(s) on page.
+[2026-06-15 18:13:59] [LA] No new items.
+[2026-06-15 18:13:59] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-06-15 18:14:00] [ME] Found 7 item(s) on page.
+[2026-06-15 18:14:00] [ME] No new items.
+[2026-06-15 18:14:00] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-06-15 18:14:01] [MD] Found 50 item(s) on page.
+[2026-06-15 18:14:01] [MD] No new items.
+[2026-06-15 18:14:01] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-15 18:14:01]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-15 18:14:04]   Playwright loaded page: 'News and Announcements | Mass.gov' (173846 chars)
+[2026-06-15 18:14:04]   Playwright found 15 item(s) with configured selector
+[2026-06-15 18:14:04] [MA] Found 15 item(s) on page.
+[2026-06-15 18:14:04] [MA] 1 new item(s):
+[2026-06-15 18:14:04]   NEW: AG Campbell Issues Advisory To Motor Vehicle Dealerships On Advertising And Pricing Requirements | 6/15/2026 | https://www.mass.gov/news/ag-campbell-issues-advisory-to-motor-vehicle-dealerships-on-advertising-and-pricing-requirements
+[2026-06-15 18:14:04] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-06-15 18:14:04]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-06-15 18:14:07]   Playwright loaded page: 'Attorney General: Press Releases' (374824 chars)
+[2026-06-15 18:14:07]   Playwright found 10 item(s) with configured selector
+[2026-06-15 18:14:07] [MI] Found 10 item(s) on page.
+[2026-06-15 18:14:07] [MI] 2 new item(s):
+[2026-06-15 18:14:07]   NEW: AG Nessel Secures Agreement Over Deceptive Solicitations Targeting Michigan Businesses |  | https://www.michigan.gov/ag/news/press-releases/2026/06/15/ag-nessel-secures-agreement-over-deceptive-solicitations-targeting-michigan-businesses
+[2026-06-15 18:14:07]   NEW: Private Mobile Home Water Services Provider, President Plead to Falsifying Water Safety, Discharge Tests |  | https://www.michigan.gov/ag/news/press-releases/2026/06/15/private-mobile-home-water-services-provider
+[2026-06-15 18:14:07] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-06-15 18:14:07] [MN] Found 50 item(s) on page.
+[2026-06-15 18:14:07] [MN] No new items.
+[2026-06-15 18:14:07] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-06-15 18:14:08] [MS] Found 1 item(s) on page.
+[2026-06-15 18:14:08] [MS] 1 new item(s):
+[2026-06-15 18:14:08]   NEW: 40 Arrests in 4 Days of Operation Liberty Strike (June 15, 2026) |  | https://attorneygenerallynnfitch.com/2026/06/15/40-arrests-in-4-days-of-operation-liberty-strike-june-15-2026/
+[2026-06-15 18:14:08] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-06-15 18:14:08] [MO] Found 50 item(s) on page.
+[2026-06-15 18:14:08] [MO] 1 new item(s):
+[2026-06-15 18:14:08]   NEW: Missouri Attorney General Hanaway Sues Baby Monitor Manufacturer For Concealing Links to Chinese Military |  | https://ago.mo.gov/missouri-attorney-general-hanaway-sues-baby-monitor-manufacturer-for-concealing-links-to-chinese-military/
+[2026-06-15 18:14:08] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-06-15 18:14:08] [MT] Found 10 item(s) on page.
+[2026-06-15 18:14:08] [MT] No new items.
+[2026-06-15 18:14:08] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-06-15 18:14:08] [NE] Found 10 item(s) on page.
+[2026-06-15 18:14:08] [NE] No new items.
+[2026-06-15 18:14:08] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-06-15 18:14:09] [NV] Found 50 item(s) on page.
+[2026-06-15 18:14:09] [NV] No new items.
+[2026-06-15 18:14:09] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-06-15 18:14:09]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-06-15 18:14:11]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-06-15 18:14:11]   Playwright: page loaded but no links matched — check selectors
+[2026-06-15 18:14:11]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-06-15 18:14:11]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-15 18:14:31]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-15 18:14:51]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-15 18:14:51] [NH] No items returned (fetch failed or empty page).
+[2026-06-15 18:14:51] [NJ] Fetching https://www.njoag.gov/news/
+[2026-06-15 18:14:53] [NJ] Found 5 item(s) on page.
+[2026-06-15 18:14:53] [NJ] 1 new item(s):
+[2026-06-15 18:14:53]   NEW: Governor Sherrill and Attorney General Davenport Launch Initiative to Crack Down on Junk Fees in New Jersey |  | https://www.njoag.gov/governor-sherrill-and-attorney-general-davenport-launch-initiative-to-crack-down-on-junk-fees-in-new-jersey/
+[2026-06-15 18:14:53] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-06-15 18:14:57] [NM] Found 14 item(s) on page.
+[2026-06-15 18:14:57] [NM] No new items.
+[2026-06-15 18:14:57] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-06-15 18:14:57] [NY] Found 25 item(s) on page.
+[2026-06-15 18:14:57] [NY] No new items.
+[2026-06-15 18:14:57] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-06-15 18:15:03] [NC] Found 10 item(s) on page.
+[2026-06-15 18:15:03] [NC] 1 new item(s):
+[2026-06-15 18:15:03]   NEW: Attorney General Jeff Jackson Calls on Congress to Restore SNAP Benefits and Protect Food Assistance in Farm Bill |  | https://ncdoj.gov/attorney-general-jeff-jackson-calls-on-congress-to-restore-snap-benefits-and-protect-food-assistance-in-farm-bill/
+[2026-06-15 18:15:03] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-06-15 18:15:03] [ND] Found 10 item(s) on page.
+[2026-06-15 18:15:03] [ND] No new items.
+[2026-06-15 18:15:03] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-06-15 18:15:04] [OH] Found 10 item(s) on page.
+[2026-06-15 18:15:04] [OH] No new items.
+[2026-06-15 18:15:04] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-15 18:15:04]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-15 18:15:07]   Playwright loaded page: 'News Releases' (844519 chars)
+[2026-06-15 18:15:07]   Playwright: page loaded but no links matched — check selectors
+[2026-06-15 18:15:07]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-06-15 18:15:07] [OK] No items returned (fetch failed or empty page).
+[2026-06-15 18:15:07] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-15 18:15:08]   Attempt 1/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-15 18:15:29]   Attempt 2/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-15 18:15:50]   Attempt 3/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-15 18:15:50] [OR] No items returned (fetch failed or empty page).
+[2026-06-15 18:15:50] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-06-15 18:15:52] [PA] Found 30 item(s) on page.
+[2026-06-15 18:15:52] [PA] 1 new item(s):
+[2026-06-15 18:15:52]   NEW: 06/15/2026 | 06/15/2026 | https://www.attorneygeneral.gov/taking-action/ag-sunday-led-philadelphia-gun-violence-task-force-nabs-felon-not-to-possess-charged-with-print-at-home-firearms-trafficking-operation/
+[2026-06-15 18:15:52] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-06-15 18:15:52] [RI] Found 10 item(s) on page.
+[2026-06-15 18:15:52] [RI] No new items.
+[2026-06-15 18:15:52] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-06-15 18:15:52]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-06-15 18:15:55]   Playwright loaded page: 'News - South Carolina Attorney General' (110932 chars)
+[2026-06-15 18:15:55]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-06-15 18:15:55] [SC] Found 9 item(s) on page.
+[2026-06-15 18:15:55] [SC] 1 new item(s):
+[2026-06-15 18:15:55]   NEW: Attorney General Alan Wilson and Office of the Attorney General mark World Elder Abuse Awareness Day 2026Read More | Jun 15, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-and-office-of-the-attorney-general-mark-world-elder-abuse-awareness-day-2026/
+[2026-06-15 18:15:55] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-06-15 18:15:55]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=6
+[2026-06-15 18:15:58]   Playwright loaded page: 'South Dakota Attorney General' (38221 chars)
+[2026-06-15 18:15:58]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-06-15 18:15:58] [SD] Found 1 item(s) on page.
+[2026-06-15 18:15:58] [SD] No new items.
+[2026-06-15 18:15:58] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-06-15 18:15:58]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-06-15 18:16:19] [TN] Found 50 item(s) on page.
+[2026-06-15 18:16:19] [TN] No new items.
+[2026-06-15 18:16:19] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-06-15 18:16:19] [TX] Found 50 item(s) on page.
+[2026-06-15 18:16:19] [TX] No new items.
+[2026-06-15 18:16:19] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-06-15 18:16:19]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-06-15 18:16:22]   Playwright loaded page: 'Press Releases - Utah Attorney General' (294850 chars)
+[2026-06-15 18:16:23]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-06-15 18:16:23] [UT] Found 50 item(s) on page.
+[2026-06-15 18:16:23] [UT] No new items.
+[2026-06-15 18:16:23] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-06-15 18:16:23] [VT] Found 50 item(s) on page.
+[2026-06-15 18:16:23] [VT] No new items.
+[2026-06-15 18:16:23] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-06-15 18:16:24] [VA] Found 50 item(s) on page.
+[2026-06-15 18:16:24] [VA] No new items.
+[2026-06-15 18:16:24] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-06-15 18:16:24] [WA] Found 15 item(s) on page.
+[2026-06-15 18:16:24] [WA] No new items.
+[2026-06-15 18:16:24] [WV] Fetching https://ago.wv.gov/news
+[2026-06-15 18:16:24]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-06-15 18:16:27]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54392 chars)
+[2026-06-15 18:16:27]   Playwright found 30 item(s) with configured selector
+[2026-06-15 18:16:27] [WV] Found 30 item(s) on page.
+[2026-06-15 18:16:27] [WV] No new items.
+[2026-06-15 18:16:27] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-15 18:16:27]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-15 18:16:57]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-06-15 18:16:57]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-06-15 18:17:13]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fb236d10a40>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:17:49]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fb2355d7860>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:18:24]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fb235631490>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-06-15 18:18:24] [WI] No items returned (fetch failed or empty page).
+[2026-06-15 18:18:24] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-06-15 18:18:25] [WY] Found 1 item(s) on page.
+[2026-06-15 18:18:25] [WY] No new items.
+[2026-06-15 18:18:25] States with fetch errors: AK, DE, IA, KS, NH, OK, OR, WI
+[2026-06-15 18:18:25] Sending email: 11 new item(s) across 10 state(s).
+[2026-06-15 18:18:26] Email sent.
+[2026-06-15 18:18:26] Done.
