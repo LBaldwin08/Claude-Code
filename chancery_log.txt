@@ -1749,3 +1749,12 @@ Call log:
 [2026-06-16 11:02:23] Found 27 opinions on page.
 [2026-06-16 11:02:23] No new opinions.
 [2026-06-16 11:02:23] Done.
+[2026-06-16 16:09:20] Checking for new DE court opinions...
+[2026-06-16 16:09:20] Using Playwright to fetch opinions page...
+[2026-06-16 16:09:32] Playwright found 27 opinion(s).
+[2026-06-16 16:09:32] Found 27 opinions on page.
+[2026-06-16 16:09:32] 1 new opinion(s)!
+[2026-06-16 16:09:32]   NEW: [06/16/2026] [Court of Chancery] BHP Partners CO., LP, e al. v. Chandler Keel | C.A. No. 2025-1289-MTZ | ZurnV.C.
+[2026-06-16 16:09:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396790
+[2026-06-16 16:09:34] Email notification sent.
+[2026-06-16 16:09:34] Done.
