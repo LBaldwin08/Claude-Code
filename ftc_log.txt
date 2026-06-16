@@ -497,3 +497,14 @@
 [2026-06-15 18:10:22] Found 20 press release(s) on page.
 [2026-06-15 18:10:22] No new press releases.
 [2026-06-15 18:10:22] Done.
+[2026-06-16 18:18:21] Checking for new FTC press releases...
+[2026-06-16 18:18:21] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-16 18:18:33] Playwright found 0 press release link(s).
+[2026-06-16 18:18:33] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-16 18:18:34] requests found 20 press release link(s).
+[2026-06-16 18:18:34] Found 20 press release(s) on page.
+[2026-06-16 18:18:34] 1 new press release(s)!
+[2026-06-16 18:18:34]   NEW: [2026-06-15T12:00:00Z] FTC Data Show People Reported Losing $3.5 Billion to Imposter Scams in 2025
+[2026-06-16 18:18:34]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-data-show-people-reported-losing-3-point-5-billion-imposter-scams-2025
+[2026-06-16 18:18:35] Email notification sent.
+[2026-06-16 18:18:35] Done.
