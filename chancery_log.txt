@@ -1835,3 +1835,12 @@ Call log:
 [2026-06-17 19:21:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396910
 [2026-06-17 19:21:49] Email notification sent.
 [2026-06-17 19:21:49] Done.
+[2026-06-17 21:27:50] Checking for new DE court opinions...
+[2026-06-17 21:27:50] Using Playwright to fetch opinions page...
+[2026-06-17 21:28:03] Playwright found 27 opinion(s).
+[2026-06-17 21:28:03] Found 27 opinions on page.
+[2026-06-17 21:28:03] 1 new opinion(s)!
+[2026-06-17 21:28:03]   NEW: [06/16/2026] [Superior Court] W.S.F.S. v. Wahl, III, et al. | N24J-01079 SPL | ParkerC.
+[2026-06-17 21:28:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396930
+[2026-06-17 21:28:04] Email notification sent.
+[2026-06-17 21:28:04] Done.
