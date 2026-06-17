@@ -1822,3 +1822,16 @@ Call log:
 [2026-06-17 16:35:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396880
 [2026-06-17 16:36:02] Email notification sent.
 [2026-06-17 16:36:02] Done.
+[2026-06-17 19:21:37] Checking for new DE court opinions...
+[2026-06-17 19:21:37] Using Playwright to fetch opinions page...
+[2026-06-17 19:21:48] Playwright found 27 opinion(s).
+[2026-06-17 19:21:48] Found 27 opinions on page.
+[2026-06-17 19:21:48] 3 new opinion(s)!
+[2026-06-17 19:21:48]   NEW: [06/17/2026] [Court of Chancery] Jeff Gower v. Trux, Inc. et al. | C.A. No. 2020-0996-PAF | FioravantiV.C.
+[2026-06-17 19:21:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396890
+[2026-06-17 19:21:48]   NEW: [06/17/2026] [Superior Court] Flooring Solutions, Inc. v. Columbia Wegman Newark, LLC and KBE Building Corporation | N23L-10-009 KMM | MillerJ.
+[2026-06-17 19:21:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396920
+[2026-06-17 19:21:48]   NEW: [06/17/2026] [Superior Court] George X v. Paul L. Parets, et al. | N24C-10-237 FJJ | JonesJ.
+[2026-06-17 19:21:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396910
+[2026-06-17 19:21:49] Email notification sent.
+[2026-06-17 19:21:49] Done.
