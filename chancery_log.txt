@@ -1901,3 +1901,18 @@ Call log:
 [2026-06-18 16:25:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396900
 [2026-06-18 16:25:40] Email notification sent.
 [2026-06-18 16:25:40] Done.
+[2026-06-18 21:21:32] Checking for new DE court opinions...
+[2026-06-18 21:21:32] Using Playwright to fetch opinions page...
+[2026-06-18 21:21:44] Playwright found 27 opinion(s).
+[2026-06-18 21:21:44] Found 27 opinions on page.
+[2026-06-18 21:21:44] 4 new opinion(s)!
+[2026-06-18 21:21:44]   NEW: [06/18/2026] [Superior Court] Follett Content Solutions, LLC v. Literati, Inc. | N25C-09-070 PAW CCLD | WinstonJ.
+[2026-06-18 21:21:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396970
+[2026-06-18 21:21:44]   NEW: [06/18/2026] [Superior Court] NEXT-ChemX Corporation v. Sparkie Properties LLC, et al. | N26C-01-116 PAW CCLD | WinstonJ.
+[2026-06-18 21:21:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397010
+[2026-06-18 21:21:44]   NEW: [06/18/2026] [Superior Court] State v. Crosby-Avant | 1711013775 | O'ConnorC.
+[2026-06-18 21:21:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396980
+[2026-06-18 21:21:44]   NEW: [06/18/2026] [Supreme Court(Superior Court)] Jenkins v. State | 464, 2025 | SeitzC.J.
+[2026-06-18 21:21:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396960
+[2026-06-18 21:21:45] Email notification sent.
+[2026-06-18 21:21:45] Done.
