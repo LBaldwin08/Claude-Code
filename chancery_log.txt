@@ -1886,3 +1886,18 @@ Call log:
 [2026-06-18 12:48:40] Found 27 opinions on page.
 [2026-06-18 12:48:40] No new opinions.
 [2026-06-18 12:48:40] Done.
+[2026-06-18 16:25:27] Checking for new DE court opinions...
+[2026-06-18 16:25:27] Using Playwright to fetch opinions page...
+[2026-06-18 16:25:39] Playwright found 27 opinion(s).
+[2026-06-18 16:25:39] Found 27 opinions on page.
+[2026-06-18 16:25:39] 4 new opinion(s)!
+[2026-06-18 16:25:39]   NEW: [06/18/2026] [Superior Court] Joyce v. Cadia Healthcare-Silverside, et al | N23C-09-167 SPL | LuggJ.
+[2026-06-18 16:25:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396950
+[2026-06-18 16:25:39]   NEW: [06/17/2026] [Supreme Court(Superior Court)] Coleman v. State | 196, 2025 | TraynorJ.
+[2026-06-18 16:25:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396870
+[2026-06-18 16:25:39]   NEW: [06/17/2026] [Supreme Court(Superior Court)] Small v. State | 203, 2026 | GriffithsJ.
+[2026-06-18 16:25:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396850
+[2026-06-18 16:25:39]   NEW: [06/17/2026] [Supreme Court(Superior Court)] VanGorder, Scott vs. Aaron VanGorder and Pamela Bailey | 390, 2025 | TraynorJ.
+[2026-06-18 16:25:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396900
+[2026-06-18 16:25:40] Email notification sent.
+[2026-06-18 16:25:40] Done.
