@@ -11484,3 +11484,228 @@ Call log:
 [2026-06-18 16:50:57] Sending email: 34 new item(s) across 21 state(s).
 [2026-06-18 16:50:59] Email sent.
 [2026-06-18 16:50:59] Done.
+[2026-06-19 16:17:45] Checking for new AG press releases...
+[2026-06-19 16:17:45] Checking 50 state(s).
+[2026-06-19 16:17:45] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-06-19 16:17:45]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-06-19 16:17:48]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (224515 chars)
+[2026-06-19 16:17:48]   Playwright found 27 item(s) with configured selector
+[2026-06-19 16:17:48] [AL] Found 27 item(s) on page.
+[2026-06-19 16:17:48] [AL] No new items.
+[2026-06-19 16:17:48] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-06-19 16:17:48] [AK] Found 50 item(s) on page.
+[2026-06-19 16:17:48] [AK] No new items.
+[2026-06-19 16:17:48] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-06-19 16:17:48] [AZ] Found 10 item(s) on page.
+[2026-06-19 16:17:48] [AZ] No new items.
+[2026-06-19 16:17:48] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-06-19 16:17:49] [AR] Found 50 item(s) on page.
+[2026-06-19 16:17:49] [AR] 2 new item(s):
+[2026-06-19 16:17:49]   NEW: Thursday, June 18, 2026Attorney General Griffin Announces Fraud and Consumer Protection Summit September 28-29 in Little RockRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-fraud-and-consumer-protection-summit-september-28-29-in-little-rock/
+[2026-06-19 16:17:49]   NEW: Thursday, June 18, 2026Attorney General Griffin Announces Conviction of Trumann Woman for Medicaid FraudRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-conviction-of-trumann-woman-for-medicaid-fraud/
+[2026-06-19 16:17:49] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-06-19 16:17:50] [CA] Found 10 item(s) on page.
+[2026-06-19 16:17:50] [CA] 1 new item(s):
+[2026-06-19 16:17:50]   NEW: Attorney General Bonta Announces $7 Million Settlement with Property Management Company LivCor for its Role in Algorithmic Rent Alignment Scheme | Thu, 18 Jun 2026 05:20:16 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-7-million-settlement-property-management
+[2026-06-19 16:17:50] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-06-19 16:17:50] [CO] Found 49 item(s) on page.
+[2026-06-19 16:17:50] [CO] No new items.
+[2026-06-19 16:17:50] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-06-19 16:17:50] [CT] Found 34 item(s) on page.
+[2026-06-19 16:17:50] [CT] 2 new item(s):
+[2026-06-19 16:17:50]   NEW: Attorney General Tong Statement on the Passing of Rabbi Philip Lazowski | 6/19/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-statement-on-the-passing-of-rabbi-philip-lazowski
+[2026-06-19 16:17:50]   NEW: Attorney General Tong Announces $7 Million Settlement with Property Management Company, LivCor for its Role in Algorithmic Rent Alignment Scheme | 6/18/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-announces-settlement-with-livcor
+[2026-06-19 16:17:50] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-06-19 16:17:52] [DE] Found 300 item(s) on page.
+[2026-06-19 16:17:52] [DE] No new items.
+[2026-06-19 16:17:52] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-06-19 16:17:52] [FL] Found 20 item(s) on page.
+[2026-06-19 16:17:52] [FL] No new items.
+[2026-06-19 16:17:52] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-06-19 16:17:52] [GA] Found 11 item(s) on page.
+[2026-06-19 16:17:52] [GA] No new items.
+[2026-06-19 16:17:52] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-06-19 16:17:53] [HI] Found 26 item(s) on page.
+[2026-06-19 16:17:53] [HI] No new items.
+[2026-06-19 16:17:53] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-19 16:17:53]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-19 16:17:53]   Playwright error for https://www.ag.idaho.gov/newsroom/category/press-releases/: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.ag.idaho.gov/newsroom/category/press-releases/
+Call log:
+  - navigating to "https://www.ag.idaho.gov/newsroom/category/press-releases/", waiting until "domcontentloaded"
+
+[2026-06-19 16:17:53]   [ID] Playwright fetch failed, falling back to regular scrape
+[2026-06-19 16:17:54] [ID] No items returned (fetch failed or empty page).
+[2026-06-19 16:17:54] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-06-19 16:17:55] [IL] Found 50 item(s) on page.
+[2026-06-19 16:17:55] [IL] 3 new item(s):
+[2026-06-19 16:17:55]   NEW: June 18, 2026ATTORNEY GENERAL RAOUL CHARGES CHICAGOLAND MAN WITH FALSIFYING CONCEALED CARRY CERTIFICATIONS | 2026-06-18 3:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-chicagoland-man-with-falsifying-concealed-carry-certifications
+[2026-06-19 16:17:55]   NEW: June 18, 2026ATTORNEY GENERAL RAOUL ANNOUNCES $7 MILLION SETTLEMENT WITH LIVCOR FOR ITS ROLE IN ALGORITHMIC RENT ALIGNMENT SCHEME | 2026-06-18 3:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-7-million-settlement-with-livcor-for-its-role-in-algorithmic-rent-alignment-scheme
+[2026-06-19 16:17:55]   NEW: June 18, 2026ATTORNEY GENERAL RAOUL RECOGNIZES JUNETEENTH, CONTINUES TO DEFEND CIVIL RIGHTS FROM UNLAWFUL FEDERAL ACTIONS | 2026-06-18 3:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-recognizes-juneteenth-continues-to-defend-civil-rights-from-unlawful-federal-actions
+[2026-06-19 16:17:55] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-06-19 16:17:56] [IN] Found 38 item(s) on page.
+[2026-06-19 16:17:56] [IN] No new items.
+[2026-06-19 16:17:56] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-06-19 16:17:56] [IA] Found 10 item(s) on page.
+[2026-06-19 16:17:56] [IA] No new items.
+[2026-06-19 16:17:56] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-19 16:17:56]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-19 16:17:59]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-06-19 16:17:59]   Playwright: page loaded but no links matched — check selectors
+[2026-06-19 16:17:59]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-06-19 16:17:59]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-19 16:18:20]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-19 16:18:40]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-19 16:18:40] [KS] No items returned (fetch failed or empty page).
+[2026-06-19 16:18:40] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-06-19 16:18:41] [KY] Found 26 item(s) on page.
+[2026-06-19 16:18:41] [KY] No new items.
+[2026-06-19 16:18:41] [LA] Fetching https://ag.louisiana.gov/News
+[2026-06-19 16:18:41] [LA] Found 20 item(s) on page.
+[2026-06-19 16:18:41] [LA] No new items.
+[2026-06-19 16:18:41] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-06-19 16:18:42] [ME] Found 7 item(s) on page.
+[2026-06-19 16:18:42] [ME] No new items.
+[2026-06-19 16:18:42] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-06-19 16:18:43] [MD] Found 50 item(s) on page.
+[2026-06-19 16:18:43] [MD] No new items.
+[2026-06-19 16:18:43] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-19 16:18:43]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-19 16:18:46]   Playwright loaded page: 'News and Announcements | Mass.gov' (177391 chars)
+[2026-06-19 16:18:46]   Playwright found 15 item(s) with configured selector
+[2026-06-19 16:18:46] [MA] Found 15 item(s) on page.
+[2026-06-19 16:18:46] [MA] 1 new item(s):
+[2026-06-19 16:18:46]   NEW: AG Campbell Secures $7 Million Multistate Settlement With Property Management Company Livcor Over Algorithmic Rent Pricing Scheme | 6/18/2026 | https://www.mass.gov/news/ag-campbell-secures-7-million-multistate-settlement-with-property-management-company-livcor-over-algorithmic-rent-pricing-scheme
+[2026-06-19 16:18:46] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-06-19 16:18:46]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-06-19 16:18:49]   Playwright loaded page: 'Attorney General: Press Releases' (374955 chars)
+[2026-06-19 16:18:50]   Playwright found 10 item(s) with configured selector
+[2026-06-19 16:18:50] [MI] Found 10 item(s) on page.
+[2026-06-19 16:18:50] [MI] 2 new item(s):
+[2026-06-19 16:18:50]   NEW: Former Lincoln Township Police Officer Pleads to Falsifying Salvage Vehicle Inspections |  | https://www.michigan.gov/ag/news/press-releases/2026/06/18/former-lincoln-township-police-officer-pleads-to-falsifying-salvage-vehicle-inspections
+[2026-06-19 16:18:50]   NEW: AG Nessel Issues Video Statement on Proposed Sale of Planned ICE Warehouse in Romulus Following Lawsuit |  | https://www.michigan.gov/ag/news/press-releases/2026/06/18/ag-nessel-issues-video-statement-on-proposed-sale-of-planned-ice-warehouse
+[2026-06-19 16:18:50] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-06-19 16:18:50] [MN] Found 50 item(s) on page.
+[2026-06-19 16:18:50] [MN] No new items.
+[2026-06-19 16:18:50] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-06-19 16:18:50] [MS] Found 1 item(s) on page.
+[2026-06-19 16:18:50] [MS] No new items.
+[2026-06-19 16:18:50] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-06-19 16:18:52] [MO] Found 50 item(s) on page.
+[2026-06-19 16:18:52] [MO] 1 new item(s):
+[2026-06-19 16:18:52]   NEW: Attorney General Hanaway Issues Statement Following Sentencing of Kenneth Simpson |  | https://ago.mo.gov/attorney-general-hanaway-issues-statement-following-sentencing-of-kenneth-simpson/
+[2026-06-19 16:18:52] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-06-19 16:18:52] [MT] Found 10 item(s) on page.
+[2026-06-19 16:18:52] [MT] No new items.
+[2026-06-19 16:18:52] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-06-19 16:18:52] [NE] Found 10 item(s) on page.
+[2026-06-19 16:18:52] [NE] No new items.
+[2026-06-19 16:18:52] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-06-19 16:18:53] [NV] Found 50 item(s) on page.
+[2026-06-19 16:18:53] [NV] No new items.
+[2026-06-19 16:18:53] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-06-19 16:18:53]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-06-19 16:18:56]   Playwright loaded page: 'Access Denied' (314 chars)
+[2026-06-19 16:18:56]   Playwright: page loaded but no links matched — check selectors
+[2026-06-19 16:18:56]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-06-19 16:18:56]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-19 16:19:16]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-19 16:19:36]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-19 16:19:36] [NH] No items returned (fetch failed or empty page).
+[2026-06-19 16:19:36] [NJ] Fetching https://www.njoag.gov/news/
+[2026-06-19 16:19:38] [NJ] Found 5 item(s) on page.
+[2026-06-19 16:19:38] [NJ] 3 new item(s):
+[2026-06-19 16:19:38]   NEW: Middlesex County Man Sentenced to Seven Years in State Prison for Running a $7.7 Million Securities Fraud Scheme Involving Fake Fuel Companies |  | https://www.njoag.gov/middlesex-county-man-sentenced-to-seven-years-in-state-prison-for-running-a-7-7-million-securities-fraud-scheme-involving-fake-fuel-companies/
+[2026-06-19 16:19:38]   NEW: Statement from Governor Mikie Sherrill and Attorney General Jennifer Davenport |  | https://www.njoag.gov/statement-from-governor-mikie-sherrill-and-attorney-general-jennifer-davenport/
+[2026-06-19 16:19:38]   NEW: AG’s Office Releases Identities of Ewing Police Officers along with Video Footage and Radio Transmissions from Ongoing Investigation of Fatal Crash on December 19, 2025 |  | https://www.njoag.gov/ags-office-releases-identities-of-ewing-police-officers-along-with-video-footage-and-radio-transmissions-from-ongoing-investigation-of-fatal-crash-on-december-19-2025/
+[2026-06-19 16:19:38] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-06-19 16:19:41] [NM] Found 14 item(s) on page.
+[2026-06-19 16:19:41] [NM] No new items.
+[2026-06-19 16:19:41] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-06-19 16:19:41] [NY] Found 25 item(s) on page.
+[2026-06-19 16:19:41] [NY] No new items.
+[2026-06-19 16:19:41] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-06-19 16:19:42] [NC] Found 10 item(s) on page.
+[2026-06-19 16:19:42] [NC] No new items.
+[2026-06-19 16:19:42] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-06-19 16:19:42] [ND] Found 10 item(s) on page.
+[2026-06-19 16:19:42] [ND] No new items.
+[2026-06-19 16:19:42] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-06-19 16:19:43] [OH] Found 10 item(s) on page.
+[2026-06-19 16:19:43] [OH] 1 new item(s):
+[2026-06-19 16:19:43]   NEW: Statement From AG Wilson on Ruling in Social Media Parental-Consent Case | 6/18/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/June-2026/Statement-From-AG-Wilson-on-Ruling-in-Social-Media
+[2026-06-19 16:19:43] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-19 16:19:43]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-19 16:19:46]   Playwright loaded page: 'News Releases' (876214 chars)
+[2026-06-19 16:19:46]   Playwright found 20 item(s) with configured selector
+[2026-06-19 16:19:46] [OK] Found 20 item(s) on page.
+[2026-06-19 16:19:46] [OK] 3 new item(s):
+[2026-06-19 16:19:46]   NEW: Multi-County Grand Jury indicts Tulsa man on human trafficking and child sexual abuse charges |  | https://oklahoma.gov/oag/news/newsroom/2026/june/multi-county-grand-jury-indicts-tulsa-man-on-human-trafficking-and-child-sexual-abuse-charges.html
+[2026-06-19 16:19:46]   NEW: Multi-County Grand Jury indicts drug dealer for mother’s overdose death |  | https://oklahoma.gov/oag/news/newsroom/2026/june/multi-county-grand-jury-indicts-drug-dealer-for-mothers-overdose-death.html
+[2026-06-19 16:19:46]   NEW: Drummond praises Big 12 legal action |  | https://oklahoma.gov/oag/news/newsroom/2026/june/drummond-praises-big-12-legal-action.html
+[2026-06-19 16:19:46] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-19 16:19:47] [OR] Found 10 item(s) on page.
+[2026-06-19 16:19:47] [OR] 1 new item(s):
+[2026-06-19 16:19:47]   NEW: Attorney General Rayfield Secures $7 Million Settlement from Property Management Company Over Rent-Fixing Scheme |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-secures-7m-over-rent-fixing-scheme/
+[2026-06-19 16:19:47] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-06-19 16:19:48] [PA] Found 30 item(s) on page.
+[2026-06-19 16:19:48] [PA] No new items.
+[2026-06-19 16:19:48] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-06-19 16:19:48] [RI] Found 10 item(s) on page.
+[2026-06-19 16:19:48] [RI] No new items.
+[2026-06-19 16:19:48] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-06-19 16:19:48]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-06-19 16:19:51]   Playwright loaded page: 'News - South Carolina Attorney General' (110635 chars)
+[2026-06-19 16:19:51]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-06-19 16:19:51] [SC] Found 9 item(s) on page.
+[2026-06-19 16:19:51] [SC] 1 new item(s):
+[2026-06-19 16:19:51]   NEW: Attorney General Alan Wilson defends the First Amendment rights of pro-life AmericansRead More | Jun 18, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-defends-the-first-amendment-rights-of-pro-life-americans/
+[2026-06-19 16:19:51] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-06-19 16:19:51]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=6
+[2026-06-19 16:19:54]   Playwright loaded page: 'South Dakota Attorney General' (36021 chars)
+[2026-06-19 16:19:54]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-06-19 16:19:54] [SD] Found 1 item(s) on page.
+[2026-06-19 16:19:54] [SD] No new items.
+[2026-06-19 16:19:54] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-06-19 16:19:54]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-06-19 16:20:15] [TN] Found 50 item(s) on page.
+[2026-06-19 16:20:15] [TN] 1 new item(s):
+[2026-06-19 16:20:15]   NEW: Attorney General Skrmetti Announces $7 Million Settlement with LivCor Over Rent-Pricing Manipulation |  | https://www.tn.gov/attorneygeneral/news/2026/6/18/pr26-25.html
+[2026-06-19 16:20:15] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-06-19 16:20:15] [TX] Found 50 item(s) on page.
+[2026-06-19 16:20:15] [TX] No new items.
+[2026-06-19 16:20:15] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-06-19 16:20:15]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-06-19 16:20:18]   Playwright loaded page: 'Press Releases - Utah Attorney General' (294805 chars)
+[2026-06-19 16:20:18]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-06-19 16:20:18] [UT] Found 50 item(s) on page.
+[2026-06-19 16:20:18] [UT] No new items.
+[2026-06-19 16:20:18] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-06-19 16:20:19] [VT] Found 50 item(s) on page.
+[2026-06-19 16:20:19] [VT] No new items.
+[2026-06-19 16:20:19] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-06-19 16:20:20] [VA] Found 50 item(s) on page.
+[2026-06-19 16:20:20] [VA] 1 new item(s):
+[2026-06-19 16:20:20]   NEW: Statement From Attorney General Jay Jones on Spotsylvania Circuit Court Opinion Denying Preliminary Injunction Against Virginia's Assault Weapons Ban |  | https://www.oag.state.va.us/media-center/news-releases/3047-statement-from-attorney-general-jay-jones-on-spotsylvania-circuit-court-opinion-denying-preliminary-injunction-against-virginias-assault-weapons-ban
+[2026-06-19 16:20:20] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-06-19 16:20:20] [WA] Found 15 item(s) on page.
+[2026-06-19 16:20:20] [WA] No new items.
+[2026-06-19 16:20:20] [WV] Fetching https://ago.wv.gov/news
+[2026-06-19 16:20:20]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-06-19 16:20:23]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54268 chars)
+[2026-06-19 16:20:23]   Playwright found 30 item(s) with configured selector
+[2026-06-19 16:20:23] [WV] Found 30 item(s) on page.
+[2026-06-19 16:20:23] [WV] No new items.
+[2026-06-19 16:20:23] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-19 16:20:23]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-19 16:20:27]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1514935 chars)
+[2026-06-19 16:20:27]   Playwright found 41 item(s) with configured selector
+[2026-06-19 16:20:27] [WI] Found 41 item(s) on page.
+[2026-06-19 16:20:27] [WI] 1 new item(s):
+[2026-06-19 16:20:27]   NEW: Officer Involved Death Investigation in Oneida County, Wis. |  | https://www.wisdoj.gov/PressReleases/press-release-oneida-county-oid.pdf
+[2026-06-19 16:20:27] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-06-19 16:20:27] [WY] Found 1 item(s) on page.
+[2026-06-19 16:20:27] [WY] No new items.
+[2026-06-19 16:20:27] States with fetch errors: ID, KS, NH
+[2026-06-19 16:20:27] Sending email: 24 new item(s) across 15 state(s).
+[2026-06-19 16:20:28] Email sent.
+[2026-06-19 16:20:28] Done.
