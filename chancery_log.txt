@@ -2142,3 +2142,14 @@ Call log:
 [2026-06-22 18:10:38]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396940
 [2026-06-22 18:10:39] Email notification sent.
 [2026-06-22 18:10:39] Done.
+[2026-06-22 21:19:24] Checking for new DE court opinions...
+[2026-06-22 21:19:24] Using Playwright to fetch opinions page...
+[2026-06-22 21:19:35] Playwright found 27 opinion(s).
+[2026-06-22 21:19:35] Found 27 opinions on page.
+[2026-06-22 21:19:35] 2 new opinion(s)!
+[2026-06-22 21:19:35]   NEW: [06/22/2026] [Superior Court] State v. El-Abbadi | 1908013052 | RennieJ.
+[2026-06-22 21:19:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397060
+[2026-06-22 21:19:35]   NEW: [06/16/2026] [Superior Court] United Capital Financial Advisors, LLC v. Apollon Wealth Management LLC | N25C-12-053 SKR | RennieJ.
+[2026-06-22 21:19:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397070
+[2026-06-22 21:19:36] Email notification sent.
+[2026-06-22 21:19:36] Done.
