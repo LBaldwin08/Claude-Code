@@ -2127,3 +2127,18 @@ Call log:
 [2026-06-22 13:31:02] Found 27 opinions on page.
 [2026-06-22 13:31:02] No new opinions.
 [2026-06-22 13:31:02] Done.
+[2026-06-22 18:10:26] Checking for new DE court opinions...
+[2026-06-22 18:10:26] Using Playwright to fetch opinions page...
+[2026-06-22 18:10:38] Playwright found 27 opinion(s).
+[2026-06-22 18:10:38] Found 27 opinions on page.
+[2026-06-22 18:10:38] 4 new opinion(s)!
+[2026-06-22 18:10:38]   NEW: [06/22/2026] [Court of Chancery] Mikhail Gorodetskiy v. Honeywell International Inc. | C.A. No. 2025-1085-LM (MTZ) | ZurnV.C.
+[2026-06-22 18:10:38]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397020
+[2026-06-22 18:10:38]   NEW: [06/22/2026] [Superior Court] Shahin v. State of Delaware | K25C-11-027 NEP | PrimosJ.
+[2026-06-22 18:10:38]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397050
+[2026-06-22 18:10:38]   NEW: [06/22/2026] [Supreme Court(Superior Court)] Clay v. State | 480, 2025 | TraynorJ.
+[2026-06-22 18:10:38]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397040
+[2026-06-22 18:10:38]   NEW: [06/18/2026] [Supreme Court(Superior Court)] Lovett, Charles vs. Bayshore Ford Truck Sales, Inc. | 380, 2025 | SeitzC.J.
+[2026-06-22 18:10:38]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=396940
+[2026-06-22 18:10:39] Email notification sent.
+[2026-06-22 18:10:39] Done.
