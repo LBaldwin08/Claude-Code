@@ -2274,3 +2274,14 @@ Call log:
 [2026-06-24 15:31:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397130
 [2026-06-24 15:31:47] Email notification sent.
 [2026-06-24 15:31:47] Done.
+[2026-06-24 17:50:10] Checking for new DE court opinions...
+[2026-06-24 17:50:10] Using Playwright to fetch opinions page...
+[2026-06-24 17:50:21] Playwright found 27 opinion(s).
+[2026-06-24 17:50:21] Found 27 opinions on page.
+[2026-06-24 17:50:21] 2 new opinion(s)!
+[2026-06-24 17:50:21]   NEW: [06/24/2026] [Court of Chancery] Facilities Holdings, LLC v. ASM Global Parent, LLC | C.A. No. 2025-0670-JTL | LasterV.C.
+[2026-06-24 17:50:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397170
+[2026-06-24 17:50:21]   NEW: [06/23/2026] [Supreme Court(Superior Court)] Thomas v. State | 136, 2026 | GriffithsJ.
+[2026-06-24 17:50:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397090
+[2026-06-24 17:50:23] Email notification sent.
+[2026-06-24 17:50:23] Done.
