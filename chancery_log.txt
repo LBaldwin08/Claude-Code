@@ -2259,3 +2259,18 @@ Call log:
 [2026-06-24 12:33:11] Found 27 opinions on page.
 [2026-06-24 12:33:11] No new opinions.
 [2026-06-24 12:33:11] Done.
+[2026-06-24 15:31:32] Checking for new DE court opinions...
+[2026-06-24 15:31:32] Using Playwright to fetch opinions page...
+[2026-06-24 15:31:45] Playwright found 27 opinion(s).
+[2026-06-24 15:31:45] Found 27 opinions on page.
+[2026-06-24 15:31:45] 4 new opinion(s)!
+[2026-06-24 15:31:45]   NEW: [06/24/2026] [Court of Chancery] Roberto G. Pantoja, as Sellers' Representative v. FPMCM, LLC | C.A. No. 2025-1108-BWD | David, Bonnie W.V.C.
+[2026-06-24 15:31:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397150
+[2026-06-24 15:31:45]   NEW: [06/24/2026] [Supreme Court(Court of Chancery)] Michael O'Neill v. Summit Materials, Inc. | 23, 2026 | SeitzC.J.
+[2026-06-24 15:31:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397140
+[2026-06-24 15:31:45]   NEW: [06/23/2026] [Court of Chancery] Global Capital Partners LLC, et al. v. Green Sapphire Holdings, Inc. | C.A. No. 2024-0877- | LasterV.C.
+[2026-06-24 15:31:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397160
+[2026-06-24 15:31:45]   NEW: [06/23/2026] [Court of Chancery] PXP Producing Company LLC v. MitEnergy Upstream, LLC, et al. | C.A. No. 2024-0668-MTZ | ZurnV.C.
+[2026-06-24 15:31:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397130
+[2026-06-24 15:31:47] Email notification sent.
+[2026-06-24 15:31:47] Done.
