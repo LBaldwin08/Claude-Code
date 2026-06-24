@@ -569,3 +569,14 @@
 [2026-06-23 16:11:55]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-approves-final-consent-order-pest-control-noncompete-matter
 [2026-06-23 16:11:56] Email notification sent.
 [2026-06-23 16:11:56] Done.
+[2026-06-24 15:54:20] Checking for new FTC press releases...
+[2026-06-24 15:54:20] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-24 15:54:34] Playwright found 0 press release link(s).
+[2026-06-24 15:54:34] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-24 15:54:35] requests found 20 press release link(s).
+[2026-06-24 15:54:35] Found 20 press release(s) on page.
+[2026-06-24 15:54:35] 1 new press release(s)!
+[2026-06-24 15:54:35]   NEW: [2026-06-23T12:00:00Z] FTC Files Amicus Brief to Protect Consumers from Pharmaceutical Monopolies
+[2026-06-24 15:54:35]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-files-amicus-brief-protect-consumers-pharmaceutical-monopolies
+[2026-06-24 15:54:36] Email notification sent.
+[2026-06-24 15:54:36] Done.
