@@ -2327,3 +2327,12 @@ Call log:
 [2026-06-25 11:13:13] Found 27 opinions on page.
 [2026-06-25 11:13:13] No new opinions.
 [2026-06-25 11:13:13] Done.
+[2026-06-25 13:34:08] Checking for new DE court opinions...
+[2026-06-25 13:34:08] Using Playwright to fetch opinions page...
+[2026-06-25 13:34:22] Playwright found 27 opinion(s).
+[2026-06-25 13:34:22] Found 27 opinions on page.
+[2026-06-25 13:34:22] 1 new opinion(s)!
+[2026-06-25 13:34:22]   NEW: [06/25/2026] [Court of Chancery] Albertsons Companies, Inc. v. The Kroger Co. | 2024-1276-LWW | WillV.C.
+[2026-06-25 13:34:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397210
+[2026-06-25 13:34:24] Email notification sent.
+[2026-06-25 13:34:24] Done.
