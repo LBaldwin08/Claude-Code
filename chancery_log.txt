@@ -2358,3 +2358,24 @@ Call log:
 [2026-06-25 18:31:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397240
 [2026-06-25 18:31:18] Email notification sent.
 [2026-06-25 18:31:18] Done.
+[2026-06-25 20:52:50] Checking for new DE court opinions...
+[2026-06-25 20:52:50] Using Playwright to fetch opinions page...
+[2026-06-25 20:53:02] Playwright found 27 opinion(s).
+[2026-06-25 20:53:02] Found 27 opinions on page.
+[2026-06-25 20:53:02] 7 new opinion(s)!
+[2026-06-25 20:53:02]   NEW: [06/25/2026] [Superior Court] Cooper v. Whitney Apartments et al. | N25C-05-217 CLS | ScottJ.
+[2026-06-25 20:53:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397350
+[2026-06-25 20:53:02]   NEW: [06/25/2026] [Superior Court] Taylor v.  Mazda Motor Corporation, et al. | N22C-03-068 CLS | ScottJ.
+[2026-06-25 20:53:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397320
+[2026-06-25 20:53:02]   NEW: [06/25/2026] [Superior Court] X v. Parets, et al. | N24C-10-237 FJJ | JonesJ.
+[2026-06-25 20:53:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397330
+[2026-06-25 20:53:02]   NEW: [06/24/2026] [Superior Court] Briddell v. Wells Fargo Bank N.A., et al. | N25A-05-007 DJB | BrennanJ.
+[2026-06-25 20:53:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397310
+[2026-06-25 20:53:02]   NEW: [06/24/2026] [Superior Court] Brown v. Transforming Lives, Inc., et al. | K24C-02-028 JJC | ClarkR.J.
+[2026-06-25 20:53:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397260
+[2026-06-25 20:53:02]   NEW: [06/24/2026] [Superior Court] United Capital Financial Advisors, LLC v. Osaic Wealth, Inc. | N25C-12-052 SKR | RennieJ.
+[2026-06-25 20:53:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397340
+[2026-06-25 20:53:02]   NEW: [06/24/2026] [Superior Court] X v. Parets, et al. | N24C-10-237 FJJ | JonesJ.
+[2026-06-25 20:53:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397270
+[2026-06-25 20:53:03] Email notification sent.
+[2026-06-25 20:53:03] Done.
