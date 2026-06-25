@@ -580,3 +580,11 @@
 [2026-06-24 15:54:35]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-files-amicus-brief-protect-consumers-pharmaceutical-monopolies
 [2026-06-24 15:54:36] Email notification sent.
 [2026-06-24 15:54:36] Done.
+[2026-06-25 16:04:29] Checking for new FTC press releases...
+[2026-06-25 16:04:29] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-06-25 16:04:42] Playwright found 0 press release link(s).
+[2026-06-25 16:04:42] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-06-25 16:04:43] requests found 20 press release link(s).
+[2026-06-25 16:04:43] Found 20 press release(s) on page.
+[2026-06-25 16:04:43] No new press releases.
+[2026-06-25 16:04:43] Done.
