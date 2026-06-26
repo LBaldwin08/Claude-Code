@@ -13041,3 +13041,247 @@ Call log:
 [2026-06-25 16:03:58] Sending email: 41 new item(s) across 25 state(s).
 [2026-06-25 16:04:00] Email sent.
 [2026-06-25 16:04:00] Done.
+[2026-06-26 15:37:40] Checking for new AG press releases...
+[2026-06-26 15:37:40] Checking 50 state(s).
+[2026-06-26 15:37:40] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-06-26 15:37:40]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-06-26 15:37:44]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226207 chars)
+[2026-06-26 15:37:44]   Playwright found 27 item(s) with configured selector
+[2026-06-26 15:37:44] [AL] Found 27 item(s) on page.
+[2026-06-26 15:37:44] [AL] 2 new item(s):
+[2026-06-26 15:37:44]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-files-brief-defending-president-trumps-decision-to-return-u-s-space-command-to-alabama/
+[2026-06-26 15:37:44]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-steve-marshall-announces-eleventh-circuit-court-of-appeals-affirms-denial-of-relief-for-capital-murderer-mohammad-sharifi/
+[2026-06-26 15:37:44] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-06-26 15:37:44] [AK] Found 50 item(s) on page.
+[2026-06-26 15:37:44] [AK] No new items.
+[2026-06-26 15:37:44] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-06-26 15:37:44] [AZ] Found 10 item(s) on page.
+[2026-06-26 15:37:44] [AZ] 1 new item(s):
+[2026-06-26 15:37:44]   NEW: Attorney General Mayes Blocks Trump Administration from Exerting Federal Control Over Elections |  | https://www.azag.gov/press-release/attorney-general-mayes-blocks-trump-administration-exerting-federal-control-over
+[2026-06-26 15:37:44] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-06-26 15:37:45] [AR] Found 50 item(s) on page.
+[2026-06-26 15:37:45] [AR] 1 new item(s):
+[2026-06-26 15:37:45]   NEW: Friday, June 26, 2026Attorney General Griffin Announces Senior Staff Changes, State Senator Ben Gilmore to Join Office as Senior AdvisorRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-senior-staff-changes-state-senator-ben-gilmore-to-join-office-as-senior-advisor/
+[2026-06-26 15:37:45] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-06-26 15:37:46] [CA] Found 10 item(s) on page.
+[2026-06-26 15:37:46] [CA] 4 new item(s):
+[2026-06-26 15:37:46]   NEW: Attorney General Bonta Files Motion for Preliminary Injunction to Block Trump Administration’s Unlawful Reclassification of Clean Air Act Waivers | Thu, 25 Jun 2026 16:43:02 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-motion-preliminary-injunction-block-trump
+[2026-06-26 15:37:46]   NEW: Attorney General Bonta Raises Alarm on ICE Directive to Stop Investigating and Reporting on Detainee Deaths | Mon, 22 Jun 2026 16:57:24 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-raises-alarm-ice-directive-stop-investigating-and
+[2026-06-26 15:37:46]   NEW: Attorney General Bonta Secures Back-to-Back Victories for Democracy, Court Blocks President Trump’s Second Elections Executive Order | Thu, 25 Jun 2026 16:56:15 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-back-back-victories-democracy-court-blocks
+[2026-06-26 15:37:46]   NEW: Attorney General Bonta, County of Santa Clara File Motion for Preliminary Injunction to Block Illegal Development of ICE Facility Near Gilroy | Wed, 24 Jun 2026 19:29:30 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-county-santa-clara-file-motion-preliminary-injunction
+[2026-06-26 15:37:46] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-06-26 15:37:46] [CO] Found 49 item(s) on page.
+[2026-06-26 15:37:46] [CO] No new items.
+[2026-06-26 15:37:46] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-06-26 15:37:47] [CT] Found 34 item(s) on page.
+[2026-06-26 15:37:47] [CT] 1 new item(s):
+[2026-06-26 15:37:47]   NEW: Attorney General Tong Secures Another Major Court Victory Over Trump Elections Orders | 6/25/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-secures-another-major-court-victory-over-trump-elections-orders
+[2026-06-26 15:37:47] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-06-26 15:37:48] [DE] Found 300 item(s) on page.
+[2026-06-26 15:37:48] [DE] 2 new item(s):
+[2026-06-26 15:37:48]   NEW: DOJ secures 59-year sentence for Wilmington man who caused fatal collision that claimed two lives, injured four others | Thu, 25 Jun 2026 11:03:54 +0000 | https://news.delaware.gov/2026/06/25/doj-secures-59-year-sentence-for-wilmington-man-who-caused-fatal-collision-that-claimed-two-lives-injured-four-others/
+[2026-06-26 15:37:48]   NEW: DOJ announces sentence for final Exit 4 member associated with four-year crime spree | Thu, 25 Jun 2026 10:44:40 +0000 | https://news.delaware.gov/2026/06/25/doj-announces-sentence-for-final-exit-4-member-associated-with-four-year-crime-spree/
+[2026-06-26 15:37:48] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-06-26 15:37:49] [FL] Found 20 item(s) on page.
+[2026-06-26 15:37:49] [FL] 2 new item(s):
+[2026-06-26 15:37:49]   NEW: Florida Attorney General James Uthmeier and Roku Announce Resolution of Digital Privacy Enforcement Action | 2026-06-26T14:00:00Z | https://www.myfloridalegal.com/newsrelease/florida-attorney-general-james-uthmeier-and-roku-announce-resolution-digital-privacy-0
+[2026-06-26 15:37:49]   NEW: Attorney General James Uthmeier Announces Arrest of Fort Lauderdale Woman Accused of Running Large-Scale Proxy Cheating Operation for Florida Teacher Certification Exams | 2026-06-25T18:00:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-announces-arrest-fort-lauderdale-woman-accused-running
+[2026-06-26 15:37:49] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-06-26 15:37:49] [GA] Found 11 item(s) on page.
+[2026-06-26 15:37:49] [GA] 1 new item(s):
+[2026-06-26 15:37:49]   NEW: Carr Convicts Three PDE Gang Members in DeKalb CountyJune 26, 2026 |  | https://law.georgia.gov/press-releases/2026-06-26/carr-convicts-three-pde-gang-members-dekalb-county
+[2026-06-26 15:37:49] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-06-26 15:37:49] [HI] Found 26 item(s) on page.
+[2026-06-26 15:37:49] [HI] No new items.
+[2026-06-26 15:37:49] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-26 15:37:49]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-26 15:37:52]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65745 chars)
+[2026-06-26 15:37:52]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-06-26 15:37:52] [ID] Found 28 item(s) on page.
+[2026-06-26 15:37:52] [ID] 1 new item(s):
+[2026-06-26 15:37:52]   NEW: Jun 252026AG Labrador Leads Multistate Coalition to Second Amendment Victory at U.S. Supreme Court | Jun 252026 | https://www.ag.idaho.gov/newsroom/ag-labrador-leads-multistate-coalition-to-second-amendment-victory-at-u-s-supreme-court/
+[2026-06-26 15:37:52] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-06-26 15:37:53] [IL] Found 50 item(s) on page.
+[2026-06-26 15:37:53] [IL] 2 new item(s):
+[2026-06-26 15:37:53]   NEW: June 25, 2026ATTORNEY GENERAL RAOUL PROTECTS ELECTIONS FROM FEDERAL OVERREACH, PERMANENTLY BLOCKS TRUMP ADMINISTRATION’S UNLAWFUL EXECUTIVE ORDERS | 2026-06-25 4:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-protects-elections-from-federal-overreach-permanently-blocks-trump-administrations-unlawful-executive-orders
+[2026-06-26 15:37:53]   NEW: June 25, 2026ATTORNEY GENERAL RAOUL OBTAINS 20-YEAR PRISON SENTENCE FOR JEFFERSON COUNTY WOMAN CONVICTED OF SECOND-DEGREE MURDER | 2026-06-25 4:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-20-year-prison-sentence-for-jefferson-county-woman-convicted-of-second-degree-murder
+[2026-06-26 15:37:53] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-06-26 15:37:54] [IN] Found 37 item(s) on page.
+[2026-06-26 15:37:54] [IN] No new items.
+[2026-06-26 15:37:54] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-06-26 15:37:54] [IA] Found 10 item(s) on page.
+[2026-06-26 15:37:54] [IA] No new items.
+[2026-06-26 15:37:54] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-26 15:37:54]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-26 15:37:57]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-06-26 15:37:57]   Playwright: page loaded but no links matched — check selectors
+[2026-06-26 15:37:57]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-06-26 15:37:57]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-26 15:38:18]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-26 15:38:39]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-26 15:38:39] [KS] No items returned (fetch failed or empty page).
+[2026-06-26 15:38:39] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-06-26 15:38:39] [KY] Found 26 item(s) on page.
+[2026-06-26 15:38:39] [KY] No new items.
+[2026-06-26 15:38:39] [LA] Fetching https://ag.louisiana.gov/News
+[2026-06-26 15:38:40] [LA] Found 20 item(s) on page.
+[2026-06-26 15:38:40] [LA] No new items.
+[2026-06-26 15:38:40] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-06-26 15:38:41] [ME] Found 8 item(s) on page.
+[2026-06-26 15:38:41] [ME] 1 new item(s):
+[2026-06-26 15:38:41]   NEW: Attorney General Aaron M. Frey Blocks Trump Administration from Exerting Federal Control over Elections | 6/25/2026 | https://www.maine.gov/ag/news-and-library/press-releases/attorney-general-aaron-m-frey-blocks-trump-administration-exerting
+[2026-06-26 15:38:41] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-06-26 15:38:41] [MD] Found 50 item(s) on page.
+[2026-06-26 15:38:41] [MD] No new items.
+[2026-06-26 15:38:41] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-26 15:38:41]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-26 15:38:44]   Playwright loaded page: 'News and Announcements | Mass.gov' (176666 chars)
+[2026-06-26 15:38:44]   Playwright found 15 item(s) with configured selector
+[2026-06-26 15:38:44] [MA] Found 15 item(s) on page.
+[2026-06-26 15:38:44] [MA] 2 new item(s):
+[2026-06-26 15:38:44]   NEW: AG Campbell Issues Statement On SCOTUS Ruling Terminating Temporary Protected Status For Haitians And Syrians | 6/25/2026 | https://www.mass.gov/news/ag-campbell-issues-statement-on-scotus-ruling-terminating-temporary-protected-status-for-haitians-and-syrians
+[2026-06-26 15:38:44]   NEW: AG Campbell Blocks Trump Administration From Exerting Federal Control Over Elections | 6/25/2026 | https://www.mass.gov/news/ag-campbell-blocks-trump-administration-from-exerting-federal-control-over-elections
+[2026-06-26 15:38:44] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-06-26 15:38:44]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-06-26 15:38:48]   Playwright loaded page: 'Attorney General: Press Releases' (374836 chars)
+[2026-06-26 15:38:48]   Playwright found 10 item(s) with configured selector
+[2026-06-26 15:38:48] [MI] Found 10 item(s) on page.
+[2026-06-26 15:38:48] [MI] 2 new item(s):
+[2026-06-26 15:38:48]   NEW: AG Nessel Blocks Administration from Exerting Federal Control Over Elections |  | https://www.michigan.gov/ag/news/press-releases/2026/06/25/ag-nessel-blocks-administration-from-exerting-federal-control-over-elections
+[2026-06-26 15:38:48]   NEW: Warren Woman to Stand Trial on Mortgage Fraud, Filing a False Tax Return Charges |  | https://www.michigan.gov/ag/news/press-releases/2026/06/25/warren-woman-to-stand-trial-on-mortgage-fraud-filing-a-false-tax-return-charges
+[2026-06-26 15:38:48] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-06-26 15:38:48] [MN] Found 50 item(s) on page.
+[2026-06-26 15:38:48] [MN] No new items.
+[2026-06-26 15:38:48] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-06-26 15:38:48] [MS] Found 1 item(s) on page.
+[2026-06-26 15:38:48] [MS] 1 new item(s):
+[2026-06-26 15:38:48]   NEW: Statement on Officer-Involved Shootings (June 25, 2026) |  | https://attorneygenerallynnfitch.com/2026/06/25/statement-on-officer-involved-shootings-june-25-2026/
+[2026-06-26 15:38:48] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-06-26 15:38:48] [MO] Found 50 item(s) on page.
+[2026-06-26 15:38:48] [MO] No new items.
+[2026-06-26 15:38:48] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-06-26 15:38:49] [MT] Found 10 item(s) on page.
+[2026-06-26 15:38:49] [MT] 1 new item(s):
+[2026-06-26 15:38:49]   NEW: Attorney General Knudsen issues statement following SCOTUS decision in Second Amendment case |  | https://dojmt.gov/attorney-general-knudsen-issues-statement-following-scotus-decision-in-second-amendment-case/
+[2026-06-26 15:38:49] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-06-26 15:38:49] [NE] Found 10 item(s) on page.
+[2026-06-26 15:38:49] [NE] No new items.
+[2026-06-26 15:38:49] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-06-26 15:38:49] [NV] Found 50 item(s) on page.
+[2026-06-26 15:38:49] [NV] No new items.
+[2026-06-26 15:38:49] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-06-26 15:38:49]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-06-26 15:38:52]   Playwright loaded page: 'Access Denied' (314 chars)
+[2026-06-26 15:38:52]   Playwright: page loaded but no links matched — check selectors
+[2026-06-26 15:38:52]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-06-26 15:38:52]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-26 15:39:12]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-26 15:39:32]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-26 15:39:32] [NH] No items returned (fetch failed or empty page).
+[2026-06-26 15:39:32] [NJ] Fetching https://www.njoag.gov/news/
+[2026-06-26 15:39:34] [NJ] Found 5 item(s) on page.
+[2026-06-26 15:39:34] [NJ] 2 new item(s):
+[2026-06-26 15:39:34]   NEW: Statement of Attorney General Davenport on Supreme Court’s Decision inWolford v. Lopez |  | https://www.njoag.gov/statement-of-attorney-general-davenport-on-supreme-courts-decision-in-wolford-v-lopez/
+[2026-06-26 15:39:34]   NEW: Governor Sherrill, Attorney General Davenport, Health Commissioner Issue Statement After Health Inspectors Are Prevented from Conducting a Full Inspection |  | https://www.njoag.gov/governor-sherrill-attorney-general-davenport-health-commissioner-issue-statement-after-health-inspectors-are-prevented-from-conducting-a-full-inspection/
+[2026-06-26 15:39:34] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-06-26 15:39:37] [NM] Found 14 item(s) on page.
+[2026-06-26 15:39:37] [NM] 2 new item(s):
+[2026-06-26 15:39:37]   NEW: Attorney General Raúl Torrez Blocks Trump Administration from Exerting Federal Control Over Elections |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-blocks-trump-administration-from-exerting-federal-control-over-elections/
+[2026-06-26 15:39:37]   NEW: New Mexico Attorney General Raúl Torrez Welcomes Shopify Ban on All E-Cigarette Sales, Following Call for Action |  | https://nmdoj.gov/press-release/new-mexico-attorney-general-raul-torrez-welcomes-shopify-ban-on-all-e-cigarette-sales-following-call-for-action/
+[2026-06-26 15:39:37] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-06-26 15:39:37] [NY] Found 25 item(s) on page.
+[2026-06-26 15:39:37] [NY] 4 new item(s):
+[2026-06-26 15:39:37]   NEW: Attorney General James Shuts Down Predatory Herkimer County Vape Shop |  | https://ag.ny.gov/press-release/2026/attorney-general-james-shuts-down-predatory-herkimer-county-vape-shop
+[2026-06-26 15:39:37]   NEW: Attorney General James Blocks Trump’s Assault on Mail-In Voting |  | https://ag.ny.gov/press-release/2026/attorney-general-james-blocks-trumps-assault-mail-voting
+[2026-06-26 15:39:37]   NEW: Attorney General James Leads Coalition Demanding Reversal of Dangerous New ICE Policy |  | https://ag.ny.gov/press-release/2026/attorney-general-james-leads-coalition-demanding-reversal-dangerous-new-ice
+[2026-06-26 15:39:37]   NEW: Attorney General James Announces Convictions and Sentencings of Members of New York City Gun and Drug Trafficking Ring |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-convictions-and-sentencings-members-new-york
+[2026-06-26 15:39:37] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-06-26 15:39:48] [NC] Found 10 item(s) on page.
+[2026-06-26 15:39:48] [NC] No new items.
+[2026-06-26 15:39:48] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-06-26 15:39:49] [ND] Found 10 item(s) on page.
+[2026-06-26 15:39:49] [ND] No new items.
+[2026-06-26 15:39:49] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-06-26 15:39:49] [OH] Found 10 item(s) on page.
+[2026-06-26 15:39:49] [OH] No new items.
+[2026-06-26 15:39:49] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-26 15:39:49]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-26 15:39:52]   Playwright loaded page: 'News Releases' (847710 chars)
+[2026-06-26 15:39:52]   Playwright: page loaded but no links matched — check selectors
+[2026-06-26 15:39:52]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-06-26 15:39:53] [OK] No items returned (fetch failed or empty page).
+[2026-06-26 15:39:53] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-26 15:39:53] [OR] Found 10 item(s) on page.
+[2026-06-26 15:39:53] [OR] 1 new item(s):
+[2026-06-26 15:39:53]   NEW: Attorney General Rayfield Blocks Trump Administration From Exerting Federal Control Over Elections |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-blocks-trumps-attempt-to-restrict-mail-ballot-access/
+[2026-06-26 15:39:53] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-06-26 15:39:55] [PA] Found 30 item(s) on page.
+[2026-06-26 15:39:55] [PA] 2 new item(s):
+[2026-06-26 15:39:55]   NEW: 06/25/2026 | 06/25/2026 | https://www.attorneygeneral.gov/taking-action/arrest-schuylkill-county-man-charged-with-over-500-felonies-after-child-sexual-abuse-material-investigation/
+[2026-06-26 15:39:55]   NEW: 06/25/2026 | 06/25/2026 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-arrest-of-philadelphia-man-who-traveled-to-meet-12-year-old-child-for-sex/
+[2026-06-26 15:39:55] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-06-26 15:39:55] [RI] Found 10 item(s) on page.
+[2026-06-26 15:39:55] [RI] No new items.
+[2026-06-26 15:39:55] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-06-26 15:39:55]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-06-26 15:39:58]   Playwright loaded page: 'News - South Carolina Attorney General' (110773 chars)
+[2026-06-26 15:39:58]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-06-26 15:39:58] [SC] Found 9 item(s) on page.
+[2026-06-26 15:39:58] [SC] 2 new item(s):
+[2026-06-26 15:39:58]   NEW: Attorney General Alan Wilson supports removing inappropriate material from library shelvesRead More | Jun 26, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-supports-removing-inappropriate-material-from-library-shelves/
+[2026-06-26 15:39:58]   NEW: ICYMI: South Carolina Attorney General Alan Wilson joins national health care fraud takedown resulting in over $6.5 Billion in alleged fraudRead More | Jun 25, 2026 | https://www.scag.gov/about-the-office/news/icymi-south-carolina-attorney-general-alan-wilson-joins-national-health-care-fraud-takedown-resulting-in-over-6-5-billion-in-alleged-fraud/
+[2026-06-26 15:39:58] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-06-26 15:39:58]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=6
+[2026-06-26 15:40:01]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-06-26 15:40:01]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-06-26 15:40:01] [SD] Found 1 item(s) on page.
+[2026-06-26 15:40:01] [SD] No new items.
+[2026-06-26 15:40:01] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-06-26 15:40:02]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-06-26 15:40:22] [TN] Found 50 item(s) on page.
+[2026-06-26 15:40:22] [TN] No new items.
+[2026-06-26 15:40:22] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-06-26 15:40:22] [TX] Found 50 item(s) on page.
+[2026-06-26 15:40:22] [TX] No new items.
+[2026-06-26 15:40:22] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-06-26 15:40:22]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-06-26 15:40:25]   Playwright loaded page: 'Press Releases - Utah Attorney General' (294575 chars)
+[2026-06-26 15:40:25]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-06-26 15:40:25] [UT] Found 50 item(s) on page.
+[2026-06-26 15:40:25] [UT] No new items.
+[2026-06-26 15:40:25] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-06-26 15:40:26] [VT] Found 50 item(s) on page.
+[2026-06-26 15:40:26] [VT] 2 new item(s):
+[2026-06-26 15:40:26]   NEW: Bennington Resident Imprisoned for Second or Subsequent Possession of Child Sexual Abuse Materials | DateJune 25, 2026 | https://ago.vermont.gov/blog/2026/06/25/bennington-resident-imprisoned-second-or-subsequent-possession-child-sexual-abuse-materials
+[2026-06-26 15:40:26]   NEW: Mental Health Counselor Charged with Identity Theft and Medicaid Fraud | DateJune 25, 2026 | https://ago.vermont.gov/blog/2026/06/25/mental-health-counselor-charged-identity-theft-and-medicaid-fraud
+[2026-06-26 15:40:26] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-06-26 15:40:27] [VA] Found 50 item(s) on page.
+[2026-06-26 15:40:27] [VA] 3 new item(s):
+[2026-06-26 15:40:27]   NEW: What Virginians Are Seeing: Attorney General Jay Jones Shares Weekly Roundup of Actions Taken |  | https://www.oag.state.va.us/media-center/news-releases/3056-what-virginians-are-seeing-attorney-general-jay-jones-shares-weekly-roundup-of-actions-taken-10
+[2026-06-26 15:40:27]   NEW: Attorney General Jones Blocks Trump Administration from Exerting Federal Control Over Elections |  | https://www.oag.state.va.us/media-center/news-releases/3058-attorney-general-jones-blocks-trump-administration-from-exerting-federal-control-over-elections
+[2026-06-26 15:40:27]   NEW: Attorney General Jones Shares Statement Following Ruling in Crump v. Katz Regarding Virginia’s Assault Weapons Ban |  | https://www.oag.state.va.us/media-center/news-releases/3055-attorney-general-jones-shares-statement-following-ruling-in-crump-v-katz-regarding-virginias-assault-weapons-ban
+[2026-06-26 15:40:27] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-06-26 15:40:27] [WA] Found 15 item(s) on page.
+[2026-06-26 15:40:27] [WA] 1 new item(s):
+[2026-06-26 15:40:27]   NEW: AG Brown blocks Trump administration’s election power grab | Thu, 25 Jun 2026 17:57:34 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-blocks-trump-administration-s-election-power-grab
+[2026-06-26 15:40:27] [WV] Fetching https://ago.wv.gov/news
+[2026-06-26 15:40:27]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-06-26 15:40:30]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54248 chars)
+[2026-06-26 15:40:30]   Playwright found 30 item(s) with configured selector
+[2026-06-26 15:40:30] [WV] Found 30 item(s) on page.
+[2026-06-26 15:40:30] [WV] No new items.
+[2026-06-26 15:40:30] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-26 15:40:30]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-26 15:40:34]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1519487 chars)
+[2026-06-26 15:40:34]   Playwright found 45 item(s) with configured selector
+[2026-06-26 15:40:34] [WI] Found 45 item(s) on page.
+[2026-06-26 15:40:34] [WI] 2 new item(s):
+[2026-06-26 15:40:34]   NEW: Wisconsin DOJ Welcomes Shopify Ban on All E-Cigarette Sales, Following Call for Action |  | https://www.wisdoj.gov/PressReleases/press-release-Shopify.pdf
+[2026-06-26 15:40:34]   NEW: Wisconsin DOJ Announces $275,000 Settlement with Enbridge (U.S.), Inc. for Alleged Hazardous Substance Spills Law Violation |  | https://www.wisdoj.gov/PressReleases/press-release-enbridge.pdf
+[2026-06-26 15:40:34] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-06-26 15:40:34] [WY] Found 1 item(s) on page.
+[2026-06-26 15:40:34] [WY] No new items.
+[2026-06-26 15:40:34] States with fetch errors: KS, NH, OK
+[2026-06-26 15:40:34] Sending email: 45 new item(s) across 25 state(s).
+[2026-06-26 15:40:36] Email sent.
+[2026-06-26 15:40:36] Done.
