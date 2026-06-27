@@ -13285,3 +13285,249 @@ Call log:
 [2026-06-26 15:40:34] Sending email: 45 new item(s) across 25 state(s).
 [2026-06-26 15:40:36] Email sent.
 [2026-06-26 15:40:36] Done.
+[2026-06-27 15:00:36] Checking for new AG press releases...
+[2026-06-27 15:00:36] Checking 50 state(s).
+[2026-06-27 15:00:36] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-06-27 15:00:36]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-06-27 15:00:41]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226209 chars)
+[2026-06-27 15:00:41]   Playwright found 27 item(s) with configured selector
+[2026-06-27 15:00:41] [AL] Found 27 item(s) on page.
+[2026-06-27 15:00:41] [AL] No new items.
+[2026-06-27 15:00:41] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-06-27 15:00:41] [AK] Found 50 item(s) on page.
+[2026-06-27 15:00:41] [AK] 1 new item(s):
+[2026-06-27 15:00:41]   NEW: Zarrius Hildabrand Convicted of Murder in the Second Degree and Tampering with Evidence for Murder of Wife |  | https://law.alaska.gov/releases/2026/062626-Hildabrand.html
+[2026-06-27 15:00:41] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-06-27 15:00:41] [AZ] Found 10 item(s) on page.
+[2026-06-27 15:00:41] [AZ] 1 new item(s):
+[2026-06-27 15:00:41]   NEW: Attorney General Mayes Demands Transparency as ICE Refuses to Release Fatality Information |  | https://www.azag.gov/press-release/attorney-general-mayes-demands-transparency-ice-refuses-release-fatality-information
+[2026-06-27 15:00:41] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-06-27 15:00:42] [AR] Found 50 item(s) on page.
+[2026-06-27 15:00:42] [AR] 2 new item(s):
+[2026-06-27 15:00:42]   NEW: Friday, June 26, 2026Attorney General Griffin Announces Five Medicaid Fraud Arrests During National Health Care Fraud TakedownRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-five-medicaid-fraud-arrests-during-national-health-care-fraud-takedown/
+[2026-06-27 15:00:42]   NEW: Friday, June 26, 2026Attorney General Griffin Announces Arrest of Greenbrier Man for Possession of Child Sexual Abuse MaterialsRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-arrest-of-greenbrier-man-for-possession-of-child-sexual-abuse-materials/
+[2026-06-27 15:00:42] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-06-27 15:00:43] [CA] Found 10 item(s) on page.
+[2026-06-27 15:00:43] [CA] 2 new item(s):
+[2026-06-27 15:00:43]   NEW: Attorney General Bonta Secures Major Victory for Clean Air Nationwide | Fri, 26 Jun 2026 20:46:14 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-major-victory-clean-air-nationwide
+[2026-06-27 15:00:43]   NEW: Attorney General Bonta Announces First-of-Its-Kind Settlement with Carbon Health and its Co-Founder for Violating California’s Ban on Corporate Practice of Medicine and Other Healthcare and Consumer Protection Laws | Fri, 26 Jun 2026 17:25:10 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-first-its-kind-settlement-carbon-health-and-its
+[2026-06-27 15:00:43] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-06-27 15:00:43] [CO] Found 49 item(s) on page.
+[2026-06-27 15:00:43] [CO] No new items.
+[2026-06-27 15:00:43] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-06-27 15:00:44] [CT] Found 34 item(s) on page.
+[2026-06-27 15:00:44] [CT] No new items.
+[2026-06-27 15:00:44] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-06-27 15:00:44] [DE] Found 300 item(s) on page.
+[2026-06-27 15:00:44] [DE] No new items.
+[2026-06-27 15:00:44] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-06-27 15:00:44] [FL] Found 20 item(s) on page.
+[2026-06-27 15:00:44] [FL] 1 new item(s):
+[2026-06-27 15:00:44]   NEW: Attorney General James Uthmeier Announces Autopen Accountability—Arrests Drug Trafficker Previously Released by Biden White House Autopen | 2026-06-26T18:00:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-announces-autopen-accountability-arrests-drug
+[2026-06-27 15:00:44] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-06-27 15:00:44] [GA] Found 11 item(s) on page.
+[2026-06-27 15:00:44] [GA] No new items.
+[2026-06-27 15:00:44] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-06-27 15:00:44] [HI] Found 26 item(s) on page.
+[2026-06-27 15:00:44] [HI] No new items.
+[2026-06-27 15:00:44] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-27 15:00:44]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-27 15:00:48]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65667 chars)
+[2026-06-27 15:00:48]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-06-27 15:00:48] [ID] Found 28 item(s) on page.
+[2026-06-27 15:00:48] [ID] No new items.
+[2026-06-27 15:00:48] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-06-27 15:00:49] [IL] Found 50 item(s) on page.
+[2026-06-27 15:00:49] [IL] 3 new item(s):
+[2026-06-27 15:00:49]   NEW: June 26, 2026ATTORNEY GENERAL RAOUL CALLS ON ICE TO REVERSE DANGEROUS NEW POLICY THAT REDUCES OVERSIGHT OF POTENTIALLY DANGEROUS CONDITIONS IN DETENTION CENTERS | 2026-06-26 5:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-calls-on-ice-to-reverse-dangerous-new-policy-that-reduces-oversight-of-potentially-dangerous-conditions-in-detention-centers
+[2026-06-27 15:00:49]   NEW: June 26, 2026ATTORNEY GENERAL RAOUL HIGHLIGHTS WORK TO CHALLENGE UNLAWFUL FEDERAL ACTIONS THAT TARGET LGBTQ+ INDIVIDUALS | 2026-06-26 5:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-highlights-work-to-challenge-unlawful-federal-actions-that-target-lgbtq-individuals
+[2026-06-27 15:00:49]   NEW: June 26, 2026ATTORNEY GENERAL RAOUL ISSUES STATEMENT ON SUPREME COURT RULING REGARDING TEMPORARY PROTECTED STATUS FOR HAITIANS AND SYRIANS | 2026-06-26 5:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-statement-on-supreme-court-ruling-regarding-temporary-protected-status-for-haitians-and-syrians
+[2026-06-27 15:00:49] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-06-27 15:00:50] [IN] Found 37 item(s) on page.
+[2026-06-27 15:00:50] [IN] No new items.
+[2026-06-27 15:00:50] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-06-27 15:00:50] [IA] Found 10 item(s) on page.
+[2026-06-27 15:00:50] [IA] 1 new item(s):
+[2026-06-27 15:00:50]   NEW: Attorney General Brenna Bird Secures Major Iowa Supreme Court Victory Defending Ban on Pornography in Prisons | June 26, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-secures-major-iowa-supreme-court-victory-defending-ban-on-pornography-i/
+[2026-06-27 15:00:50] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-27 15:00:50]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-27 15:00:53]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-06-27 15:00:53]   Playwright: page loaded but no links matched — check selectors
+[2026-06-27 15:00:53]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-06-27 15:00:53]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-27 15:01:13]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-27 15:01:34]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-27 15:01:34] [KS] No items returned (fetch failed or empty page).
+[2026-06-27 15:01:34] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-06-27 15:01:34] [KY] Found 26 item(s) on page.
+[2026-06-27 15:01:34] [KY] No new items.
+[2026-06-27 15:01:34] [LA] Fetching https://ag.louisiana.gov/News
+[2026-06-27 15:01:34] [LA] Found 20 item(s) on page.
+[2026-06-27 15:01:34] [LA] 1 new item(s):
+[2026-06-27 15:01:34]   NEW: Attorney General Liz Murrill Supports Nomination of Todd Blanche as United States Attorney General | 6/26/2026 | https://ag.louisiana.gov/Article/551
+[2026-06-27 15:01:34] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-06-27 15:01:35] [ME] Found 8 item(s) on page.
+[2026-06-27 15:01:35] [ME] No new items.
+[2026-06-27 15:01:35] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-06-27 15:01:35] [MD] Found 50 item(s) on page.
+[2026-06-27 15:01:35] [MD] No new items.
+[2026-06-27 15:01:35] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-27 15:01:35]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-27 15:01:38]   Playwright loaded page: 'News and Announcements | Mass.gov' (176822 chars)
+[2026-06-27 15:01:38]   Playwright found 15 item(s) with configured selector
+[2026-06-27 15:01:38] [MA] Found 15 item(s) on page.
+[2026-06-27 15:01:38] [MA] 2 new item(s):
+[2026-06-27 15:01:38]   NEW: AG's Office Secures $125,000 Settlement With Holtec For Improper Asbestos Abatement And Clean Air Act Violations | 6/26/2026 | https://www.mass.gov/news/ags-office-secures-125000-settlement-with-holtec-for-improper-asbestos-abatement-and-clean-air-act-violations
+[2026-06-27 15:01:38]   NEW: Seven Arrested After Takedown Of Major Drug Trafficking Operation In Northeast Massachusetts | 6/26/2026 | https://www.mass.gov/news/seven-arrested-after-takedown-of-major-drug-trafficking-operation-in-northeast-massachusetts
+[2026-06-27 15:01:38] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-06-27 15:01:38]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-06-27 15:01:41]   Playwright loaded page: 'Attorney General: Press Releases' (374825 chars)
+[2026-06-27 15:01:41]   Playwright found 10 item(s) with configured selector
+[2026-06-27 15:01:41] [MI] Found 10 item(s) on page.
+[2026-06-27 15:01:41] [MI] 2 new item(s):
+[2026-06-27 15:01:41]   NEW: Court of Appeals Reverses, Vacates Erroneous Decision on Processing of Absent-Voter Ballots |  | https://www.michigan.gov/ag/news/press-releases/2026/06/26/court-of-appeals-reverses-vacates-erroneous-decision
+[2026-06-27 15:01:41]   NEW: AG Nessel Secures Two Major Victories as Courts Affirm Dismissal of DOJ Lawsuit Targeting Sensitive Voter Information, Strike Down Trump’s March 2025 Elections Executive Order |  | https://www.michigan.gov/ag/news/press-releases/2026/06/24/ag-nessel-secures-two-major-victories
+[2026-06-27 15:01:41] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-06-27 15:01:41] [MN] Found 50 item(s) on page.
+[2026-06-27 15:01:41] [MN] No new items.
+[2026-06-27 15:01:41] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-06-27 15:01:42] [MS] Found 1 item(s) on page.
+[2026-06-27 15:01:42] [MS] 1 new item(s):
+[2026-06-27 15:01:42]   NEW: AG Fitch’s Operation Stark Reality (June 26, 2026) |  | https://attorneygenerallynnfitch.com/2026/06/26/ag-fitchs-operation-stark-reality-june-26-2026/
+[2026-06-27 15:01:42] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-06-27 15:01:42] [MO] Found 50 item(s) on page.
+[2026-06-27 15:01:42] [MO] No new items.
+[2026-06-27 15:01:42] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-06-27 15:01:42] [MT] Found 10 item(s) on page.
+[2026-06-27 15:01:42] [MT] No new items.
+[2026-06-27 15:01:42] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-06-27 15:01:42] [NE] Found 10 item(s) on page.
+[2026-06-27 15:01:42] [NE] No new items.
+[2026-06-27 15:01:42] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-06-27 15:01:43] [NV] Found 50 item(s) on page.
+[2026-06-27 15:01:43] [NV] No new items.
+[2026-06-27 15:01:43] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-06-27 15:01:43]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-06-27 15:01:46]   Playwright loaded page: 'Press Releases | New Hampshire Department of Justice' (91328 chars)
+[2026-06-27 15:01:46]   Playwright found 10 item(s) with configured selector
+[2026-06-27 15:01:46] [NH] Found 10 item(s) on page.
+[2026-06-27 15:01:46] [NH] 10 new item(s):
+[2026-06-27 15:01:46]   NEW: Officer-Involved Shooting Investigation in Landaff, New Hampshire |  | https://www.doj.nh.gov/news-and-media/officer-involved-shooting-investigation-landaff-new-hampshire
+[2026-06-27 15:01:46]   NEW: Hozan Alhefel Charged with Medicaid Fraud |  | https://www.doj.nh.gov/news-and-media/hozan-alhefel-charged-medicaid-fraud
+[2026-06-27 15:01:46]   NEW: Charitable Trusts Unit Report Regarding North Country Healthcare, Inc. |  | https://www.doj.nh.gov/news-and-media/charitable-trusts-unit-report-regarding-north-country-healthcare-inc-0
+[2026-06-27 15:01:46]   NEW: Update on Hampstead, New Hampshire Death Investigation |  | https://www.doj.nh.gov/news-and-media/update-hampstead-new-hampshire-death-investigation
+[2026-06-27 15:01:46]   NEW: Untimely Death in Hampstead, New Hampshire |  | https://www.doj.nh.gov/news-and-media/untimely-death-hampstead-new-hampshire
+[2026-06-27 15:01:46]   NEW: Former Attorney Justin Nadeau Sentenced to 7.5 to 15 Years in Prison for Financial Exploitation of a Disabled Adult, Falsifying Physical Evidence, and Forgery |  | https://www.doj.nh.gov/news-and-media/former-attorney-justin-nadeau-sentenced-75-15-years-prison-financial-exploitation
+[2026-06-27 15:01:46]   NEW: Autopsy Results in Salem, New Hampshire Death Investigation |  | https://www.doj.nh.gov/news-and-media/autopsy-results-salem-new-hampshire-death-investigation
+[2026-06-27 15:01:46]   NEW: Suspicious Death Investigation in Salem, New Hampshire |  | https://www.doj.nh.gov/news-and-media/suspicious-death-investigation-salem-new-hampshire
+[2026-06-27 15:01:46]   NEW: Autopsy Results in Keene, New Hampshire Deaths Investigation |  | https://www.doj.nh.gov/news-and-media/autopsy-results-keene-new-hampshire-deaths-investigation
+[2026-06-27 15:01:46]   NEW: Disclosure of Officers’ Names from the May 27, 2026 Officer-Involved Shooting Incident in Milton, New Hampshire |  | https://www.doj.nh.gov/news-and-media/disclosure-officers-names-may-27-2026-officer-involved-shooting-incident-milton-new
+[2026-06-27 15:01:46] [NJ] Fetching https://www.njoag.gov/news/
+[2026-06-27 15:01:47] [NJ] Found 5 item(s) on page.
+[2026-06-27 15:01:47] [NJ] 1 new item(s):
+[2026-06-27 15:01:47]   NEW: Former Newark Code Enforcement Officer Pleads Guilty After Soliciting Bribe from Local Business in Exchange for Overlooking Code Violations |  | https://www.njoag.gov/former-newark-code-enforcement-officer-pleads-guilty-after-soliciting-bribe-from-local-business-in-exchange-for-overlooking-code-violations/
+[2026-06-27 15:01:47] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-06-27 15:01:50] [NM] Found 15 item(s) on page.
+[2026-06-27 15:01:50] [NM] 3 new item(s):
+[2026-06-27 15:01:50]   NEW: Attorney General Torrez Launches Investigation Into DEA Fentanyl Operations, Demands Federal Accountability |  | https://nmdoj.gov/press-release/attorney-general-torrez-launches-investigation-into-dea-fentanyl-operations-demands-federal-accountability/
+[2026-06-27 15:01:50]   NEW: Attorney General Raúl Torrez Calls on ICE to Reverse Dangerous New Policy |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-calls-on-ice-to-reverse-dangerous-new-policy/
+[2026-06-27 15:01:50]   NEW: STATEMENT: NMDOJ Responds to Shocking Reports on DEA Operations in New Mexico |  | https://nmdoj.gov/press-release/statement-nmdoj-responds-to-shocking-reports-on-dea-operations-in-new-mexico/
+[2026-06-27 15:01:50] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-06-27 15:01:51] [NY] Found 25 item(s) on page.
+[2026-06-27 15:01:51] [NY] 1 new item(s):
+[2026-06-27 15:01:51]   NEW: Attorney General James Releases Footage from Investigation into Death of James Rosano |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-footage-investigation-death-james-rosano
+[2026-06-27 15:01:51] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-06-27 15:01:55] [NC] Found 10 item(s) on page.
+[2026-06-27 15:01:55] [NC] No new items.
+[2026-06-27 15:01:55] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-06-27 15:01:55] [ND] Found 10 item(s) on page.
+[2026-06-27 15:01:55] [ND] 2 new item(s):
+[2026-06-27 15:01:55]   NEW: The North Dakota Attorney General issued an opinion to the Department of Veterans’ Affairs | June 26, 2026June 26, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-department-of-veterans-affairs/
+[2026-06-27 15:01:55]   NEW: The North Dakota Attorney General issued an opinion to the Mercer County Commission | June 26, 2026June 26, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-mercer-county-commission/
+[2026-06-27 15:01:55] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-06-27 15:01:55] [OH] Found 10 item(s) on page.
+[2026-06-27 15:01:55] [OH] No new items.
+[2026-06-27 15:01:55] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-27 15:01:55]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-27 15:01:58]   Playwright loaded page: 'News Releases' (875786 chars)
+[2026-06-27 15:01:59]   Playwright found 20 item(s) with configured selector
+[2026-06-27 15:01:59] [OK] Found 20 item(s) on page.
+[2026-06-27 15:01:59] [OK] 4 new item(s):
+[2026-06-27 15:01:59]   NEW: Drummond praises new Chickasaw Nation governor |  | https://oklahoma.gov/oag/news/newsroom/2026/june/drummond-praises-new-chickasaw-nation-governor.html
+[2026-06-27 15:01:59]   NEW: Drummond lauds Supreme Court ruling on Second Amendment rights |  | https://oklahoma.gov/oag/news/newsroom/2026/june/drummond-lauds-supreme-court-ruling-on-second-amendment-rights.html
+[2026-06-27 15:01:59]   NEW: Drummond files new lawsuit against State Farm |  | https://oklahoma.gov/oag/news/newsroom/2026/june/drummond-files-new-lawsuit-against-state-farm.html
+[2026-06-27 15:01:59]   NEW: Drummond comments on decision in State Farm case |  | https://oklahoma.gov/oag/news/newsroom/2026/june/drummond-comments-on-decision-in-state-farm-case.html
+[2026-06-27 15:01:59] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-27 15:01:59] [OR] Found 10 item(s) on page.
+[2026-06-27 15:01:59] [OR] 1 new item(s):
+[2026-06-27 15:01:59]   NEW: Oregon Department of Justice Announces 19 New Charges Against Melissa Fireside in Identity Theft Case |  | https://www.doj.state.or.us/media-home/news-media-releases/odoj-announces-19-new-charges-against-melissa-fireside-in-identity-theft-case/
+[2026-06-27 15:01:59] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-06-27 15:02:01] [PA] Found 30 item(s) on page.
+[2026-06-27 15:02:01] [PA] 1 new item(s):
+[2026-06-27 15:02:01]   NEW: 06/26/2026 | 06/26/2026 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-lawsuit-against-philadelphia-wedding-photographer-who-no-showed-or-failed-to-provide-photos-and-videos/
+[2026-06-27 15:02:01] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-06-27 15:02:01] [RI] Found 10 item(s) on page.
+[2026-06-27 15:02:01] [RI] 3 new item(s):
+[2026-06-27 15:02:01]   NEW: Pawtucket man sentenced to life in prison for murder of ex-girlfriend | Fri, 26 Jun 2026 16:48:43 +0000 | https://riag.ri.gov/press-releases/pawtucket-man-sentenced-life-prison-murder-ex-girlfriend
+[2026-06-27 15:02:01]   NEW: Attorney General Neronha, coalition block Trump Administration from exerting federal control over elections | Thu, 25 Jun 2026 18:57:32 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-block-trump-administration-exerting-federal
+[2026-06-27 15:02:01]   NEW: Attorney General Neronha, coalition secure victory as Court strikes down Trump Administration’s Elections Executive Order | Wed, 24 Jun 2026 19:32:49 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-secure-victory-court-strikes-down-trump
+[2026-06-27 15:02:01] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-06-27 15:02:01]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-06-27 15:02:04]   Playwright loaded page: 'News - South Carolina Attorney General' (110632 chars)
+[2026-06-27 15:02:04]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-06-27 15:02:04] [SC] Found 9 item(s) on page.
+[2026-06-27 15:02:04] [SC] 2 new item(s):
+[2026-06-27 15:02:04]   NEW: Leesville man arrested on Child Sexual Abuse Material* chargesRead More | Jun 26, 2026 | https://www.scag.gov/about-the-office/news/leesville-man-arrested-on-child-sexual-abuse-material-charges/
+[2026-06-27 15:02:04]   NEW: Greer man arrested on Child Sexual Abuse Material* chargeRead More | Jun 26, 2026 | https://www.scag.gov/about-the-office/news/greer-man-arrested-on-child-sexual-abuse-material-charge/
+[2026-06-27 15:02:04] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-06-27 15:02:04]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=6
+[2026-06-27 15:02:07]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-06-27 15:02:07]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-06-27 15:02:07] [SD] Found 1 item(s) on page.
+[2026-06-27 15:02:07] [SD] No new items.
+[2026-06-27 15:02:07] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-06-27 15:02:07]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-06-27 15:02:27] [TN] Found 50 item(s) on page.
+[2026-06-27 15:02:27] [TN] No new items.
+[2026-06-27 15:02:27] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-06-27 15:02:28] [TX] Found 50 item(s) on page.
+[2026-06-27 15:02:28] [TX] 1 new item(s):
+[2026-06-27 15:02:28]   NEW: Attor­ney Gen­er­al Ken Pax­ton Suc­cess­ful­ly Stops Har­ris Coun­ty from Using Tax­pay­er Funds to Pro­tect Ille­gal Immi­grants from Deportation |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-successfully-stops-harris-county-using-taxpayer-funds-protect-illegal
+[2026-06-27 15:02:28] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-06-27 15:02:28]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-06-27 15:02:30]   Playwright loaded page: 'Press Releases - Utah Attorney General' (294688 chars)
+[2026-06-27 15:02:31]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-06-27 15:02:31] [UT] Found 50 item(s) on page.
+[2026-06-27 15:02:31] [UT] No new items.
+[2026-06-27 15:02:31] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-06-27 15:02:31] [VT] Found 50 item(s) on page.
+[2026-06-27 15:02:31] [VT] No new items.
+[2026-06-27 15:02:31] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-06-27 15:02:31] [VA] Found 50 item(s) on page.
+[2026-06-27 15:02:31] [VA] 2 new item(s):
+[2026-06-27 15:02:31]   NEW: Richmond Jury Convicts Man for Sexual Assault in a 34-year-old Cold Case |  | https://www.oag.state.va.us/media-center/news-releases/3059-richmond-jury-convicts-man-for-sexual-assault-in-a-34-year-old-cold-case
+[2026-06-27 15:02:31]   NEW: Attorney General Jay Jones Celebrates Anniversary of Marriage Equality Decision in Obergefell v. Hodges |  | https://www.oag.state.va.us/media-center/news-releases/3057-attorney-general-jay-jones-celebrates-anniversary-of-marriage-equality-decision-in-obergefell-v-hodges
+[2026-06-27 15:02:31] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-06-27 15:02:31] [WA] Found 15 item(s) on page.
+[2026-06-27 15:02:31] [WA] 1 new item(s):
+[2026-06-27 15:02:31]   NEW: AG Brown calls for transparency as ICE refuses to release fatality information | Fri, 26 Jun 2026 15:57:37 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-calls-transparency-ice-refuses-release-fatality-information
+[2026-06-27 15:02:31] [WV] Fetching https://ago.wv.gov/news
+[2026-06-27 15:02:31]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-06-27 15:02:34]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54248 chars)
+[2026-06-27 15:02:34]   Playwright found 30 item(s) with configured selector
+[2026-06-27 15:02:34] [WV] Found 30 item(s) on page.
+[2026-06-27 15:02:34] [WV] No new items.
+[2026-06-27 15:02:34] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-27 15:02:34]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-27 15:02:38]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1520618 chars)
+[2026-06-27 15:02:38]   Playwright found 46 item(s) with configured selector
+[2026-06-27 15:02:38] [WI] Found 46 item(s) on page.
+[2026-06-27 15:02:38] [WI] 1 new item(s):
+[2026-06-27 15:02:38]   NEW: Wisconsin DOJ and Coalition Block Trump Administration from Exerting Federal Control Over Elections |  | https://www.wisdoj.gov/PressReleases/press-release-elections-lawsuit-win.pdf
+[2026-06-27 15:02:38] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-06-27 15:02:39] [WY] Found 1 item(s) on page.
+[2026-06-27 15:02:39] [WY] No new items.
+[2026-06-27 15:02:39] States with fetch errors: KS
+[2026-06-27 15:02:39] Sending email: 50 new item(s) across 25 state(s).
+[2026-06-27 15:02:40] Email sent.
+[2026-06-27 15:02:40] Done.
