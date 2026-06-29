@@ -2671,3 +2671,16 @@ Call log:
 [2026-06-29 18:05:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397430
 [2026-06-29 18:05:55] Email notification sent.
 [2026-06-29 18:05:55] Done.
+[2026-06-29 20:21:58] Checking for new DE court opinions...
+[2026-06-29 20:21:58] Using Playwright to fetch opinions page...
+[2026-06-29 20:22:09] Playwright found 27 opinion(s).
+[2026-06-29 20:22:09] Found 27 opinions on page.
+[2026-06-29 20:22:09] 3 new opinion(s)!
+[2026-06-29 20:22:09]   NEW: [06/29/2026] [Court of Chancery] Estate of Martha Barotz v. Wilmington Savings Fund Society, FSB, et al. | C.A. No. 2024-0447-JTL | LasterV.C.
+[2026-06-29 20:22:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397450
+[2026-06-29 20:22:09]   NEW: [06/29/2026] [Supreme Court(Superior Court)] Fasano, William v. Delaware Department of Natural Resources and Environmental Control | 481, 2025 | SeitzC.J.
+[2026-06-29 20:22:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397440
+[2026-06-29 20:22:09]   NEW: [06/25/2026] [Family Court] S.R. v. T.B. | CN25-01007 #26-12060 | HIRSTJ.
+[2026-06-29 20:22:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397460
+[2026-06-29 20:22:10] Email notification sent.
+[2026-06-29 20:22:10] Done.
