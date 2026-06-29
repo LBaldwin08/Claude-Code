@@ -2662,3 +2662,12 @@ Call log:
 [2026-06-29 15:38:00] Found 0 opinions on page.
 [2026-06-29 15:38:00] No new opinions.
 [2026-06-29 15:38:00] Done.
+[2026-06-29 18:05:42] Checking for new DE court opinions...
+[2026-06-29 18:05:42] Using Playwright to fetch opinions page...
+[2026-06-29 18:05:53] Playwright found 27 opinion(s).
+[2026-06-29 18:05:53] Found 27 opinions on page.
+[2026-06-29 18:05:53] 1 new opinion(s)!
+[2026-06-29 18:05:53]   NEW: [06/26/2026] [Court of Chancery] The Gregory M. Raiff 2000 Trust v. Jenzabar, Inc., et al. | 2024-0368-LWW | WillV.C.
+[2026-06-29 18:05:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397430
+[2026-06-29 18:05:55] Email notification sent.
+[2026-06-29 18:05:55] Done.
