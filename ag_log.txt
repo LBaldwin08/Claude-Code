@@ -13732,3 +13732,214 @@ Call log:
 [2026-06-28 15:05:51] States with fetch errors: ID, KS, NH
 [2026-06-28 15:05:51] No new press releases found.
 [2026-06-28 15:05:51] Done.
+[2026-06-29 16:45:10] Checking for new AG press releases...
+[2026-06-29 16:45:10] Checking 50 state(s).
+[2026-06-29 16:45:10] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-06-29 16:45:10]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-06-29 16:45:13]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226209 chars)
+[2026-06-29 16:45:13]   Playwright found 27 item(s) with configured selector
+[2026-06-29 16:45:13] [AL] Found 27 item(s) on page.
+[2026-06-29 16:45:13] [AL] No new items.
+[2026-06-29 16:45:13] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-06-29 16:45:14] [AK] Found 50 item(s) on page.
+[2026-06-29 16:45:14] [AK] No new items.
+[2026-06-29 16:45:14] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-06-29 16:45:14] [AZ] Found 10 item(s) on page.
+[2026-06-29 16:45:14] [AZ] No new items.
+[2026-06-29 16:45:14] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-06-29 16:45:15] [AR] Found 50 item(s) on page.
+[2026-06-29 16:45:15] [AR] No new items.
+[2026-06-29 16:45:15] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-06-29 16:45:15] [CA] Found 10 item(s) on page.
+[2026-06-29 16:45:15] [CA] 2 new item(s):
+[2026-06-29 16:45:15]   NEW: Trump Is No King: Attorney General Bonta Celebrates Lisa Cook SCOTUS Decision | Mon, 29 Jun 2026 14:59:05 +0000 | https://oag.ca.gov/news/press-releases/trump-no-king-attorney-general-bonta-celebrates-lisa-cook-scotus-decision
+[2026-06-29 16:45:15]   NEW: Attorney General Bonta: U.S. Supreme Court Decision Affirms State Authority Over Mail Ballot Deadlines | Mon, 29 Jun 2026 14:11:24 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-us-supreme-court-decision-affirms-state-authority-over
+[2026-06-29 16:45:15] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-06-29 16:45:15] [CO] Found 49 item(s) on page.
+[2026-06-29 16:45:15] [CO] No new items.
+[2026-06-29 16:45:15] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-06-29 16:45:16] [CT] Found 34 item(s) on page.
+[2026-06-29 16:45:16] [CT] No new items.
+[2026-06-29 16:45:16] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-06-29 16:45:17] [DE] Found 300 item(s) on page.
+[2026-06-29 16:45:17] [DE] No new items.
+[2026-06-29 16:45:17] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-06-29 16:45:17] [FL] Found 20 item(s) on page.
+[2026-06-29 16:45:17] [FL] No new items.
+[2026-06-29 16:45:17] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-06-29 16:45:18] [GA] Found 11 item(s) on page.
+[2026-06-29 16:45:18] [GA] 1 new item(s):
+[2026-06-29 16:45:18]   NEW: Carr Indicts 16 for Gang-Related Assaults at Coffee Correctional FacilityJune 29, 2026 |  | https://law.georgia.gov/press-releases/2026-06-29/carr-indicts-16-gang-related-assaults-coffee-correctional-facility
+[2026-06-29 16:45:18] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-06-29 16:45:18] [HI] Found 26 item(s) on page.
+[2026-06-29 16:45:18] [HI] No new items.
+[2026-06-29 16:45:18] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-29 16:45:18]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-29 16:45:21]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65745 chars)
+[2026-06-29 16:45:21]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-06-29 16:45:21] [ID] Found 28 item(s) on page.
+[2026-06-29 16:45:21] [ID] No new items.
+[2026-06-29 16:45:21] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-06-29 16:45:23] [IL] Found 50 item(s) on page.
+[2026-06-29 16:45:23] [IL] 1 new item(s):
+[2026-06-29 16:45:23]   NEW: June 29, 2026ATTORNEY GENERAL RAOUL OPPOSES TRUMP ADMINISTRATION’S PROPOSALS TO ROLL BACK REGULATIONS ON TOXIC COAL ASH | 2026-06-29 11:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-trump-administrations-proposals-to-roll-back-regulations-on-toxic-coal-ash
+[2026-06-29 16:45:23] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-06-29 16:45:23] [IN] Found 37 item(s) on page.
+[2026-06-29 16:45:23] [IN] No new items.
+[2026-06-29 16:45:23] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-06-29 16:45:23] [IA] Found 10 item(s) on page.
+[2026-06-29 16:45:23] [IA] No new items.
+[2026-06-29 16:45:23] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-29 16:45:23]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-29 16:45:26]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-06-29 16:45:26]   Playwright: page loaded but no links matched — check selectors
+[2026-06-29 16:45:26]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-06-29 16:45:26]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-29 16:45:47]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-29 16:46:07]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-29 16:46:07] [KS] No items returned (fetch failed or empty page).
+[2026-06-29 16:46:07] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-06-29 16:46:07] [KY] Found 26 item(s) on page.
+[2026-06-29 16:46:07] [KY] No new items.
+[2026-06-29 16:46:07] [LA] Fetching https://ag.louisiana.gov/News
+[2026-06-29 16:46:08] [LA] Found 20 item(s) on page.
+[2026-06-29 16:46:08] [LA] No new items.
+[2026-06-29 16:46:08] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-06-29 16:46:08] [ME] Found 8 item(s) on page.
+[2026-06-29 16:46:08] [ME] No new items.
+[2026-06-29 16:46:08] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-06-29 16:46:09] [MD] Found 50 item(s) on page.
+[2026-06-29 16:46:09] [MD] No new items.
+[2026-06-29 16:46:09] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-29 16:46:09]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-29 16:46:12]   Playwright loaded page: 'News and Announcements | Mass.gov' (176670 chars)
+[2026-06-29 16:46:12]   Playwright found 15 item(s) with configured selector
+[2026-06-29 16:46:12] [MA] Found 15 item(s) on page.
+[2026-06-29 16:46:12] [MA] 1 new item(s):
+[2026-06-29 16:46:12]   NEW: AG Campbell Issues Statement On SCOTUS Ruling Protecting Mail-In Voting | 6/29/2026 | https://www.mass.gov/news/ag-campbell-issues-statement-on-scotus-ruling-protecting-mail-in-voting
+[2026-06-29 16:46:12] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-06-29 16:46:12]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-06-29 16:46:16]   Playwright loaded page: 'Attorney General: Press Releases' (374821 chars)
+[2026-06-29 16:46:16]   Playwright found 10 item(s) with configured selector
+[2026-06-29 16:46:16] [MI] Found 10 item(s) on page.
+[2026-06-29 16:46:16] [MI] 1 new item(s):
+[2026-06-29 16:46:16]   NEW: AG Nessel Secures More Than $3.4 Billion for Michiganders Against Unlawful Federal Actions |  | https://www.michigan.gov/ag/news/press-releases/2026/06/29/ag-nessel-secures-more
+[2026-06-29 16:46:16] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-06-29 16:46:16] [MN] Found 50 item(s) on page.
+[2026-06-29 16:46:16] [MN] No new items.
+[2026-06-29 16:46:16] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-06-29 16:46:16] [MS] Found 1 item(s) on page.
+[2026-06-29 16:46:16] [MS] No new items.
+[2026-06-29 16:46:16] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-06-29 16:46:17] [MO] Found 50 item(s) on page.
+[2026-06-29 16:46:17] [MO] No new items.
+[2026-06-29 16:46:17] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-06-29 16:46:17] [MT] Found 10 item(s) on page.
+[2026-06-29 16:46:17] [MT] No new items.
+[2026-06-29 16:46:17] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-06-29 16:46:17] [NE] Found 10 item(s) on page.
+[2026-06-29 16:46:17] [NE] 1 new item(s):
+[2026-06-29 16:46:17]   NEW: Attorney General Hilgers Announces Supreme Court Will Hear Nebraska's South Platte River Compact and Perkins County Canal Claims | Mon, 29 Jun 2026 16:37:15 +0000 | https://ago.nebraska.gov/attorney-general-hilgers-announces-supreme-court-will-hear-nebraskas-south-platte-river-compact-and
+[2026-06-29 16:46:17] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-06-29 16:46:18] [NV] Found 50 item(s) on page.
+[2026-06-29 16:46:18] [NV] No new items.
+[2026-06-29 16:46:18] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-06-29 16:46:18]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-06-29 16:46:21]   Playwright loaded page: 'Access Denied' (314 chars)
+[2026-06-29 16:46:21]   Playwright: page loaded but no links matched — check selectors
+[2026-06-29 16:46:21]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-06-29 16:46:21]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-29 16:46:41]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-29 16:47:01]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-06-29 16:47:01] [NH] No items returned (fetch failed or empty page).
+[2026-06-29 16:47:01] [NJ] Fetching https://www.njoag.gov/news/
+[2026-06-29 16:47:03] [NJ] Found 5 item(s) on page.
+[2026-06-29 16:47:03] [NJ] No new items.
+[2026-06-29 16:47:03] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-06-29 16:47:06] [NM] Found 15 item(s) on page.
+[2026-06-29 16:47:06] [NM] No new items.
+[2026-06-29 16:47:06] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-06-29 16:47:06] [NY] Found 25 item(s) on page.
+[2026-06-29 16:47:06] [NY] 2 new item(s):
+[2026-06-29 16:47:06]   NEW: Attorney General James Releases Statement on Supreme Court Mail-In Ballot Ruling |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-statement-supreme-court-mail-ballot-ruling
+[2026-06-29 16:47:06]   NEW: Attorney General James Announces Arrest of Medical Supply Company Owner for Stealing More Than $2.5 Million from Medicaid |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-arrest-medical-supply-company-owner-stealing
+[2026-06-29 16:47:06] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-06-29 16:47:10] [NC] No items returned (fetch failed or empty page).
+[2026-06-29 16:47:10] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-06-29 16:47:10] [ND] Found 10 item(s) on page.
+[2026-06-29 16:47:10] [ND] No new items.
+[2026-06-29 16:47:10] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-06-29 16:47:10] [OH] Found 10 item(s) on page.
+[2026-06-29 16:47:10] [OH] No new items.
+[2026-06-29 16:47:10] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-29 16:47:10]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-29 16:47:14]   Playwright loaded page: 'News Releases' (847710 chars)
+[2026-06-29 16:47:14]   Playwright: page loaded but no links matched — check selectors
+[2026-06-29 16:47:14]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-06-29 16:47:14] [OK] No items returned (fetch failed or empty page).
+[2026-06-29 16:47:14] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-29 16:47:15] [OR] Found 10 item(s) on page.
+[2026-06-29 16:47:15] [OR] 1 new item(s):
+[2026-06-29 16:47:15]   NEW: Attorney General Rayfield Statement on Supreme Court Ruling Protecting Mail Ballot Deadline |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-statement-on-supreme-court-ruling-protecting-mail-ballot-deadline/
+[2026-06-29 16:47:15] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-06-29 16:47:16] [PA] Found 30 item(s) on page.
+[2026-06-29 16:47:16] [PA] No new items.
+[2026-06-29 16:47:16] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-06-29 16:47:16] [RI] Found 10 item(s) on page.
+[2026-06-29 16:47:16] [RI] No new items.
+[2026-06-29 16:47:16] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-06-29 16:47:16]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-06-29 16:47:19]   Playwright loaded page: 'News - South Carolina Attorney General' (110630 chars)
+[2026-06-29 16:47:19]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-06-29 16:47:19] [SC] Found 9 item(s) on page.
+[2026-06-29 16:47:19] [SC] No new items.
+[2026-06-29 16:47:19] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-06-29 16:47:19]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=6
+[2026-06-29 16:47:22]   Playwright loaded page: 'South Dakota Attorney General' (37498 chars)
+[2026-06-29 16:47:22]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-06-29 16:47:22] [SD] Found 1 item(s) on page.
+[2026-06-29 16:47:22] [SD] No new items.
+[2026-06-29 16:47:22] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-06-29 16:47:22]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-06-29 16:47:42] [TN] Found 50 item(s) on page.
+[2026-06-29 16:47:42] [TN] No new items.
+[2026-06-29 16:47:42] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-06-29 16:47:42] [TX] Found 50 item(s) on page.
+[2026-06-29 16:47:42] [TX] 2 new item(s):
+[2026-06-29 16:47:42]   NEW: Attor­ney Gen­er­al Ken Pax­ton Con­tin­ues to Deliv­er Major Wins for the Peo­ple of Texas |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-continues-deliver-major-wins-people-texas
+[2026-06-29 16:47:42]   NEW: Attor­ney Gen­er­al Ken Pax­ton Secures Near­ly $34Mil­lion in Set­tle­ment Agree­ment with Big Phar­ma Com­pa­ny AstraZeneca for Giv­ing Ille­gal Kick­backs to Providers to Pre­scribe Its Drugs to Texans |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-nearly-34-million-settlement-agreement-big-pharma-company
+[2026-06-29 16:47:42] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-06-29 16:47:42]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-06-29 16:47:45]   Playwright loaded page: 'Press Releases - Utah Attorney General' (294662 chars)
+[2026-06-29 16:47:45]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-06-29 16:47:45] [UT] Found 50 item(s) on page.
+[2026-06-29 16:47:45] [UT] No new items.
+[2026-06-29 16:47:45] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-06-29 16:47:46] [VT] Found 50 item(s) on page.
+[2026-06-29 16:47:46] [VT] No new items.
+[2026-06-29 16:47:46] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-06-29 16:47:47] [VA] Found 50 item(s) on page.
+[2026-06-29 16:47:47] [VA] No new items.
+[2026-06-29 16:47:47] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-06-29 16:47:47] [WA] Found 15 item(s) on page.
+[2026-06-29 16:47:47] [WA] 1 new item(s):
+[2026-06-29 16:47:47]   NEW: AG Nick Brown statement on SCOTUS ruling preserving mail-in voting | Mon, 29 Jun 2026 15:58:24 +0000 | https://www.atg.wa.gov/news/news-releases/ag-nick-brown-statement-scotus-ruling-preserving-mail-voting
+[2026-06-29 16:47:47] [WV] Fetching https://ago.wv.gov/news
+[2026-06-29 16:47:47]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-06-29 16:47:49]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54248 chars)
+[2026-06-29 16:47:49]   Playwright found 30 item(s) with configured selector
+[2026-06-29 16:47:49] [WV] Found 30 item(s) on page.
+[2026-06-29 16:47:49] [WV] No new items.
+[2026-06-29 16:47:49] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-29 16:47:49]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-29 16:47:53]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1520665 chars)
+[2026-06-29 16:47:53]   Playwright found 46 item(s) with configured selector
+[2026-06-29 16:47:53] [WI] Found 46 item(s) on page.
+[2026-06-29 16:47:53] [WI] No new items.
+[2026-06-29 16:47:53] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-06-29 16:47:53] [WY] Found 1 item(s) on page.
+[2026-06-29 16:47:53] [WY] No new items.
+[2026-06-29 16:47:53] States with fetch errors: KS, NH, NC, OK
+[2026-06-29 16:47:53] Sending email: 13 new item(s) across 10 state(s).
+[2026-06-29 16:47:55] Email sent.
+[2026-06-29 16:47:55] Done.
