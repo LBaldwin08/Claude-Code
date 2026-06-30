@@ -2755,3 +2755,18 @@ Call log:
 [2026-06-30 18:18:19]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397530
 [2026-06-30 18:18:20] Email notification sent.
 [2026-06-30 18:18:20] Done.
+[2026-06-30 20:27:24] Checking for new DE court opinions...
+[2026-06-30 20:27:24] Using Playwright to fetch opinions page...
+[2026-06-30 20:27:35] Playwright found 27 opinion(s).
+[2026-06-30 20:27:35] Found 27 opinions on page.
+[2026-06-30 20:27:35] 4 new opinion(s)!
+[2026-06-30 20:27:35]   NEW: [06/30/2026] [Court of Chancery] Shawn Luetchens v. David Landau, et al. | C.A. No. 2025-0359-KSJM | McCormick,C.
+[2026-06-30 20:27:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397580
+[2026-06-30 20:27:35]   NEW: [06/30/2026] [Superior Court] Castaneda-Vera v. Kaplan, et al. | N25C-09-256 | LuggJ.
+[2026-06-30 20:27:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397590
+[2026-06-30 20:27:35]   NEW: [06/29/2026] [Superior Court] DHI Communities Construction of Delaware, LLC v. Pennoni Associates, Inc., Haupt and Ellis | S24C-02-035 MHC | ConnerJ.
+[2026-06-30 20:27:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397610
+[2026-06-30 20:27:35]   NEW: [06/25/2026] [Superior Court] State v. Taylor | 2310004622, 2304009124 | ScottJ.
+[2026-06-30 20:27:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397600
+[2026-06-30 20:27:35] Email notification sent.
+[2026-06-30 20:27:35] Done.
