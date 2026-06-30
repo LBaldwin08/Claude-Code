@@ -13943,3 +13943,267 @@ Call log:
 [2026-06-29 16:47:53] Sending email: 13 new item(s) across 10 state(s).
 [2026-06-29 16:47:55] Email sent.
 [2026-06-29 16:47:55] Done.
+[2026-06-30 16:02:15] Checking for new AG press releases...
+[2026-06-30 16:02:15] Checking 50 state(s).
+[2026-06-30 16:02:15] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-06-30 16:02:15]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-06-30 16:02:18]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226149 chars)
+[2026-06-30 16:02:18]   Playwright found 27 item(s) with configured selector
+[2026-06-30 16:02:18] [AL] Found 27 item(s) on page.
+[2026-06-30 16:02:18] [AL] 2 new item(s):
+[2026-06-30 16:02:18]   NEW: Read More >> |  | https://www.alabamaag.gov/supreme-court-upholds-states-authority-to-protect-girls-sports/
+[2026-06-30 16:02:18]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-defends-right-of-auburn-baseball-players-to-pray/
+[2026-06-30 16:02:18] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-06-30 16:02:18] [AK] Found 50 item(s) on page.
+[2026-06-30 16:02:18] [AK] 1 new item(s):
+[2026-06-30 16:02:18]   NEW: Thomas Keith Warren Sentenced to 107 Years for Attempted Sexual Assault and Burglary |  | https://law.alaska.gov/releases/2026/062926-Warren.html
+[2026-06-30 16:02:18] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-06-30 16:02:18] [AZ] Found 10 item(s) on page.
+[2026-06-30 16:02:18] [AZ] 2 new item(s):
+[2026-06-30 16:02:18]   NEW: Attorney General Mayes Praises Birthright Citizenship Ruling from Supreme Court |  | https://www.azag.gov/press-release/attorney-general-mayes-praises-birthright-citizenship-ruling-supreme-court
+[2026-06-30 16:02:18]   NEW: Attorney General Mayes Sues Federal Government Over Unlawful Implementation of Medicaid Work Requirements for Medically Frail Individuals |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-federal-government-over-unlawful-implementation-medicaid
+[2026-06-30 16:02:18] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-06-30 16:02:19] [AR] Found 50 item(s) on page.
+[2026-06-30 16:02:19] [AR] No new items.
+[2026-06-30 16:02:19] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-06-30 16:02:20] [CA] Found 10 item(s) on page.
+[2026-06-30 16:02:20] [CA] 5 new item(s):
+[2026-06-30 16:02:20]   NEW: Eggciting News! Attorney General Bonta Secures Settlement, Delivers 8.9 Million Eggs to California Food Banks | Thu, 25 Jun 2026 01:10:14 +0000 | https://oag.ca.gov/news/press-releases/eggciting-news-attorney-general-bonta-secures-settlement-delivers-89-million
+[2026-06-30 16:02:20]   NEW: Attorney General Bonta Celebrates Supreme Court Victory Affirming Constitutional Right to Birthright Citizenship | Mon, 29 Jun 2026 13:41:43 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-celebrates-supreme-court-victory-affirming-constitutional
+[2026-06-30 16:02:20]   NEW: Attorney General Bonta Slams Trump Administration’s Proposed Non-Disclosure Agreement for Federal Employees | Mon, 29 Jun 2026 17:34:33 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-slams-trump-administration%E2%80%99s-proposed-non-disclosure
+[2026-06-30 16:02:20]   NEW: Attorney General Bonta Sues Trump Administration over Unlawful Implementation of Medicaid Work Requirements for Medically Frail Individuals | Mon, 29 Jun 2026 02:00:39 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-trump-administration-over-unlawful-implementation
+[2026-06-30 16:02:20]   NEW: Attorney General Bonta Files Supplemental Lawsuit Challenging Trump Administration’s New Funding Restrictions for Permanent Housing Projects | Mon, 29 Jun 2026 01:36:47 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-supplemental-lawsuit-challenging-trump
+[2026-06-30 16:02:20] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-06-30 16:02:20] [CO] Found 49 item(s) on page.
+[2026-06-30 16:02:20] [CO] No new items.
+[2026-06-30 16:02:20] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-06-30 16:02:21] [CT] Found 35 item(s) on page.
+[2026-06-30 16:02:21] [CT] 4 new item(s):
+[2026-06-30 16:02:21]   NEW: READ THE UPDATE |  | https://portal.ct.gov/governor/news/press-releases/2026/06-2026/governor-lamont-activates-extreme-hot-weather-protocol-from-tuesday-through-sunday
+[2026-06-30 16:02:21]   NEW: Attorney General Tong Statement on Supreme Court Decision Affirming Birthright Citizenship | 6/30/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-statement-on-supreme-court-decision-affirming-birthright-citizenship
+[2026-06-30 16:02:21]   NEW: Attorney General Tong Blocks Illegal Cartel to Drive Down Egg Prices | 6/29/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-blocks-illegal-cartel-to-drive-down-egg-prices
+[2026-06-30 16:02:21]   NEW: Attorney General Tong Statement Regarding PURA Decision on Eversource Storm Costs | 6/30/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-statement-regarding-pura-decision-on-eversource-storm-costs
+[2026-06-30 16:02:21] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-06-30 16:02:22] [DE] Found 300 item(s) on page.
+[2026-06-30 16:02:22] [DE] 1 new item(s):
+[2026-06-30 16:02:22]   NEW: AG Jennings announces victory at Supreme Court on birthright citizenship | Tue, 30 Jun 2026 07:08:41 +0000 | https://news.delaware.gov/2026/06/30/ag-jennings-announces-victory-at-supreme-court-on-birthright-citizenship/
+[2026-06-30 16:02:22] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-06-30 16:02:22] [FL] Found 20 item(s) on page.
+[2026-06-30 16:02:22] [FL] 1 new item(s):
+[2026-06-30 16:02:22]   NEW: Attorney General James Uthmeier Charges Five Defendants, Two Illegal Aliens in Organized Scheme to Defraud Florida’s EBT Program | 2026-06-29T20:30:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-charges-five-defendants-two-illegal-aliens-organized
+[2026-06-30 16:02:22] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-06-30 16:02:22] [GA] Found 11 item(s) on page.
+[2026-06-30 16:02:22] [GA] 2 new item(s):
+[2026-06-30 16:02:22]   NEW: Carr: Gang Member Tied to Assault, Armed Robbery Sentenced to Prison in Chatham CountyJune 30, 2026 |  | https://law.georgia.gov/press-releases/2026-06-30/carr-gang-member-tied-assault-armed-robbery-sentenced-prison-chatham
+[2026-06-30 16:02:22]   NEW: Carr Celebrates Supreme Court Ruling for Women’s SportsJune 30, 2026 |  | https://law.georgia.gov/press-releases/2026-06-30/carr-celebrates-supreme-court-ruling-womens-sports
+[2026-06-30 16:02:22] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-06-30 16:02:22] [HI] Found 26 item(s) on page.
+[2026-06-30 16:02:22] [HI] No new items.
+[2026-06-30 16:02:22] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-30 16:02:22]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-06-30 16:02:26]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65969 chars)
+[2026-06-30 16:02:26]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-06-30 16:02:26] [ID] Found 28 item(s) on page.
+[2026-06-30 16:02:26] [ID] 2 new item(s):
+[2026-06-30 16:02:26]   NEW: Jun 292026AG Labrador and Cities Across the Treasure Valley Warn Idaho Consumers About Planning and Zoning Fraud Scheme | Jun 292026 | https://www.ag.idaho.gov/newsroom/ag-labrador-and-cities-across-the-treasure-valley-warn-idaho-consumers-about-planning-and-zoning-fraud-scheme/
+[2026-06-30 16:02:26]   NEW: Jun 252026AG Labrador Leads Multistate Coalition to Second Amendment Victory at U.S. Supreme Court | Jun 252026 | https://www.ag.idaho.gov/newsroom/ag-labrador-leads-multistate-coalition-to-second-amendment-victory-at-u-s-supreme-court-2/
+[2026-06-30 16:02:26] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-06-30 16:02:27] [IL] Found 50 item(s) on page.
+[2026-06-30 16:02:27] [IL] 4 new item(s):
+[2026-06-30 16:02:27]   NEW: June 30, 2026ATTORNEY GENERAL RAOUL ISSUES STATEMENT ON BIRTHRIGHT CITIZENSHIP | 2026-06-30 10:45 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-statement-on-birthright-citizenship-6-30-26
+[2026-06-30 16:02:27]   NEW: June 29, 2026ATTORNEY GENERAL RAOUL SUES TRUMP ADMINISTRATION OVER UNLAWFUL IMPLEMENTATION OF MEDICAID WORK REQUIREMENTS | 2026-06-30 10:45 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-sues-trump-administration-over-unlawful-implementation-of-medicaid-work-requirements
+[2026-06-30 16:02:27]   NEW: June 29, 2026ATTORNEY GENERAL RAOUL ISSUES STATEMENT IN RESPONSE TO SUPREME COURT DECISION ON MAIL-IN BALLOTS | 2026-06-30 10:45 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-statement-in-response-to-supreme-court-decision-on-mail-in-ballots
+[2026-06-30 16:02:27]   NEW: June 26, 2026ATTORNEY GENERAL RAOUL OPPOSES TRUMP ADMINISTRATION’S PROPOSED NON-DISCLOSURE AGREEMENT FOR FEDERAL EMPLOYEES | 2026-06-30 10:45 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-trump-administrations-proposed-non-disclosure-agreement-for-federal-employees
+[2026-06-30 16:02:27] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-06-30 16:02:28] [IN] Found 37 item(s) on page.
+[2026-06-30 16:02:28] [IN] No new items.
+[2026-06-30 16:02:28] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-06-30 16:02:28] [IA] Found 10 item(s) on page.
+[2026-06-30 16:02:28] [IA] 1 new item(s):
+[2026-06-30 16:02:28]   NEW: Attorney General Bird and FBI Director Kash Patel Host Law Enforcement Leadership Discussion | June 29, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-bird-and-fbi-director-kash-patel-host-law-enforcement-leadership-discussion/
+[2026-06-30 16:02:28] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-30 16:02:28]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-06-30 16:02:31]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-06-30 16:02:31]   Playwright: page loaded but no links matched — check selectors
+[2026-06-30 16:02:31]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-06-30 16:02:31]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-30 16:02:51]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-30 16:03:11]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-06-30 16:03:11] [KS] No items returned (fetch failed or empty page).
+[2026-06-30 16:03:11] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-06-30 16:03:15] [KY] Found 26 item(s) on page.
+[2026-06-30 16:03:15] [KY] No new items.
+[2026-06-30 16:03:15] [LA] Fetching https://ag.louisiana.gov/News
+[2026-06-30 16:03:16] [LA] Found 20 item(s) on page.
+[2026-06-30 16:03:16] [LA] 2 new item(s):
+[2026-06-30 16:03:16]   NEW: Court Disqualifies Baker Donelson and Dissolves TRO Against the State | 6/29/2026 | https://ag.louisiana.gov/Article/553
+[2026-06-30 16:03:16]   NEW: AG Murrill's Louisiana Bureau of Investigation Arrests Illegal Alien from Honduras on More Than 30 Counts of Child Sexual Abuse Material | 6/29/2026 | https://ag.louisiana.gov/Article/552
+[2026-06-30 16:03:16] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-06-30 16:03:16] [ME] Found 9 item(s) on page.
+[2026-06-30 16:03:16] [ME] 1 new item(s):
+[2026-06-30 16:03:16]   NEW: Statement of Attorney General Aaron M. Frey on the Supreme Court’s ruling on West Virginia v. B.P.J. | 6/30/2026 | https://www.maine.gov/ag/news-and-library/press-releases/statement-attorney-general-aaron-m-frey-supreme-courts-ruling-west
+[2026-06-30 16:03:16] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-06-30 16:03:16] [MD] Found 50 item(s) on page.
+[2026-06-30 16:03:16] [MD] No new items.
+[2026-06-30 16:03:16] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-30 16:03:16]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-06-30 16:03:19]   Playwright loaded page: 'News and Announcements | Mass.gov' (176375 chars)
+[2026-06-30 16:03:19]   Playwright found 15 item(s) with configured selector
+[2026-06-30 16:03:19] [MA] Found 15 item(s) on page.
+[2026-06-30 16:03:19] [MA] 3 new item(s):
+[2026-06-30 16:03:19]   NEW: AG Campbell Issues Statement On SCOTUS Ruling Threatening Transgender Athletes' Ability To Participate In Sports | 6/30/2026 | https://www.mass.gov/news/ag-campbell-issues-statement-on-scotus-ruling-threatening-transgender-athletes-ability-to-participate-in-sports
+[2026-06-30 16:03:19]   NEW: AG’s Office Secures Indictments Against Quincy Roofing Company And Owner For Workers’ Compensation Insurance Fraud And Larceny | 6/29/2026 | https://www.mass.gov/news/ags-office-secures-indictments-against-quincy-roofing-company-and-owner-for-workers-compensation-insurance-fraud-and-larceny
+[2026-06-30 16:03:19]   NEW: AG Campbell Sues Trump Administration Over Unlawful Medicaid Work Requirements Rule | 6/29/2026 | https://www.mass.gov/news/ag-campbell-sues-trump-administration-over-unlawful-medicaid-work-requirements-rule
+[2026-06-30 16:03:19] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-06-30 16:03:19]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-06-30 16:03:22]   Playwright loaded page: 'Attorney General: Press Releases' (374776 chars)
+[2026-06-30 16:03:22]   Playwright found 10 item(s) with configured selector
+[2026-06-30 16:03:22] [MI] Found 10 item(s) on page.
+[2026-06-30 16:03:22] [MI] 3 new item(s):
+[2026-06-30 16:03:22]   NEW: AG Nessel Issues Statement on Supreme Court Decision in Birthright Citizenship Case |  | https://www.michigan.gov/ag/news/press-releases/2026/06/30/ag-nessel-issues-statement-on-supreme-court-decision-in-birthright-citizenship-case
+[2026-06-30 16:03:22]   NEW: AG Nessel Secures Order Temporarily Halting Unlawful Kalshi Michigan Operations |  | https://www.michigan.gov/ag/news/press-releases/2026/06/29/ag-nessel-secures-order-temporarily-halting-unlawful-kalshi-michigan-operations
+[2026-06-30 16:03:22]   NEW: AG Nessel Issues Statement on U.S. Supreme Court Decision in Watson v. RNC |  | https://www.michigan.gov/ag/news/press-releases/2026/06/29/ag-nessel-issues-statement-on-us-supreme-court-decision-in-watson-v-rnc
+[2026-06-30 16:03:22] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-06-30 16:03:23] [MN] Found 50 item(s) on page.
+[2026-06-30 16:03:23] [MN] No new items.
+[2026-06-30 16:03:23] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-06-30 16:03:23] [MS] Found 1 item(s) on page.
+[2026-06-30 16:03:23] [MS] 1 new item(s):
+[2026-06-30 16:03:23]   NEW: AG Fitch Announces Sentencing in $786k Healthcare Fraud Scheme (June 29, 2026) |  | https://attorneygenerallynnfitch.com/2026/06/29/ag-fitch-announces-sentencing-in-786k-healthcare-fraud-scheme-june-29-2026/
+[2026-06-30 16:03:23] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-06-30 16:03:23] [MO] Found 50 item(s) on page.
+[2026-06-30 16:03:23] [MO] No new items.
+[2026-06-30 16:03:23] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-06-30 16:03:23] [MT] Found 10 item(s) on page.
+[2026-06-30 16:03:23] [MT] 1 new item(s):
+[2026-06-30 16:03:23]   NEW: Attorney General Knudsen announces new Forensic Science Division administrator |  | https://dojmt.gov/attorney-general-knudsen-announces-new-forensic-science-division-administrator-2/
+[2026-06-30 16:03:23] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-06-30 16:03:24] [NE] Found 10 item(s) on page.
+[2026-06-30 16:03:24] [NE] No new items.
+[2026-06-30 16:03:24] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-06-30 16:03:24] [NV] Found 50 item(s) on page.
+[2026-06-30 16:03:24] [NV] No new items.
+[2026-06-30 16:03:24] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-06-30 16:03:24]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-06-30 16:03:28]   Playwright loaded page: 'Press Releases | New Hampshire Department of Justice' (91328 chars)
+[2026-06-30 16:03:28]   Playwright found 10 item(s) with configured selector
+[2026-06-30 16:03:28] [NH] Found 10 item(s) on page.
+[2026-06-30 16:03:28] [NH] No new items.
+[2026-06-30 16:03:28] [NJ] Fetching https://www.njoag.gov/news/
+[2026-06-30 16:03:28]   Attempt 1/3 failed for https://www.njoag.gov/news/: 403 Client Error: Forbidden for url: https://www.njoag.gov/news/
+[2026-06-30 16:03:48]   Attempt 2/3 failed for https://www.njoag.gov/news/: 403 Client Error: Forbidden for url: https://www.njoag.gov/news/
+[2026-06-30 16:04:08]   Attempt 3/3 failed for https://www.njoag.gov/news/: 403 Client Error: Forbidden for url: https://www.njoag.gov/news/
+[2026-06-30 16:04:08] [NJ] No items returned (fetch failed or empty page).
+[2026-06-30 16:04:08] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-06-30 16:04:11] [NM] Found 15 item(s) on page.
+[2026-06-30 16:04:11] [NM] 1 new item(s):
+[2026-06-30 16:04:11]   NEW: Statement from Attorney General Raúl Torrez on U.S. Supreme Court Decision Upholding Birthright Citizenship |  | https://nmdoj.gov/press-release/statement-from-attorney-general-raul-torrez-on-u-s-supreme-court-decision-upholding-birthright-citizenship/
+[2026-06-30 16:04:11] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-06-30 16:04:11] [NY] Found 25 item(s) on page.
+[2026-06-30 16:04:11] [NY] 7 new item(s):
+[2026-06-30 16:04:11]   NEW: Attorney General James Wins Case Protecting Billions of Dollars for States to Fight Homelessness |  | https://ag.ny.gov/press-release/2026/attorney-general-james-wins-case-protecting-billions-dollars-states-fight
+[2026-06-30 16:04:11]   NEW: Attorney General James Condemns Trump Administration for Slashing New York’s Resources to Fight Medicaid Fraud |  | https://ag.ny.gov/press-release/2026/attorney-general-james-condemns-trump-administration-slashing-new-yorks
+[2026-06-30 16:04:11]   NEW: Attorney General James Releases Statement on Supreme Court Birthright Citizenship Ruling |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-statement-supreme-court-birthright-citizenship
+[2026-06-30 16:04:11]   NEW: Attorney General James Releases Statement on Supreme Court Transgender Sports Ruling |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-statement-supreme-court-transgender-sports
+[2026-06-30 16:04:11]   NEW: Attorney General James Sues Trump Administration to Protect Medicaid Coverage for Vulnerable New Yorkers |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-trump-administration-protect-medicaid-coverage
+[2026-06-30 16:04:11]   NEW: New York and New Jersey Save Funding for the Gateway Project |  | https://ag.ny.gov/press-release/2026/new-york-and-new-jersey-save-funding-gateway-project
+[2026-06-30 16:04:11]   NEW: Attorney General James Secures More Than 50 Million Eggs and $3.3 Million After Uncovering Illegal Scheme to Manipulate Egg Prices |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-more-50-million-eggs-and-33-million-after
+[2026-06-30 16:04:11] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-06-30 16:04:11] [NC] No items returned (fetch failed or empty page).
+[2026-06-30 16:04:11] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-06-30 16:04:12] [ND] Found 10 item(s) on page.
+[2026-06-30 16:04:12] [ND] 2 new item(s):
+[2026-06-30 16:04:12]   NEW: The North Dakota Attorney General issued an opinion to the Mandan Public School District | June 29, 2026June 29, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-mandan-public-school-district/
+[2026-06-30 16:04:12]   NEW: The North Dakota Attorney General issued an opinion to the Morton County Housing Authority | June 29, 2026June 29, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-the-morton-county-housing-authority/
+[2026-06-30 16:04:12] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-06-30 16:04:12] [OH] Found 10 item(s) on page.
+[2026-06-30 16:04:12] [OH] 1 new item(s):
+[2026-06-30 16:04:12]   NEW: AG Wilson Announces Plan to Bolster Ohio’s Fight Against Romance Scams Targeting Older Adults | 6/29/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/June-2026/AG-Wilson-Announces-Plan-to-Bolster-Ohio-s-Fight-A
+[2026-06-30 16:04:12] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-30 16:04:12]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-06-30 16:04:15]   Playwright loaded page: 'News Releases' (875856 chars)
+[2026-06-30 16:04:15]   Playwright found 20 item(s) with configured selector
+[2026-06-30 16:04:15] [OK] Found 20 item(s) on page.
+[2026-06-30 16:04:15] [OK] 1 new item(s):
+[2026-06-30 16:04:15]   NEW: Two OKC boutique owners face felony counts over $3 million in fake luxury merchandise |  | https://oklahoma.gov/oag/news/newsroom/2026/june/two-okc-boutique-owners-face-felony-counts-over-3-million-in-fake-luxury-merchandise.html
+[2026-06-30 16:04:15] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-30 16:04:16]   Attempt 1/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-30 16:04:36]   Attempt 2/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-30 16:04:57]   Attempt 3/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: 415 Client Error: Unsupported Media Type for url: https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-06-30 16:04:57] [OR] No items returned (fetch failed or empty page).
+[2026-06-30 16:04:57] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-06-30 16:04:57] [PA] Found 12 item(s) on page.
+[2026-06-30 16:04:57] [PA] 1 new item(s):
+[2026-06-30 16:04:57]   NEW: CrimeJUN 29, 2026Montgomery County Man Charged with Duping Dozens of Investors in $3.8M Ponzi SchemeHARRISBURG – Attorney General Dave Sunday announced charges against a Montgomery County man accused of operating a Ponzi scheme that bilked investors of more than $3.8 million, using…Read more | 2026-06-29T15:58:38-04:00 | https://www.attorneygeneral.gov/taking-action/montgomery-county-man-charged-with-duping-dozens-of-investors-in-3-8m-ponzi-scheme/
+[2026-06-30 16:04:57] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-06-30 16:04:57] [RI] Found 10 item(s) on page.
+[2026-06-30 16:04:57] [RI] 1 new item(s):
+[2026-06-30 16:04:57]   NEW: Attorney General Neronha, coalition sue Trump Administration for unlawful implementation of new Medicaid work requirements | Mon, 29 Jun 2026 18:12:11 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-sue-trump-administration-unlawful-implementation
+[2026-06-30 16:04:57] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-06-30 16:04:57]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-06-30 16:05:00]   Playwright loaded page: 'News - South Carolina Attorney General' (110555 chars)
+[2026-06-30 16:05:00]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-06-30 16:05:00] [SC] Found 9 item(s) on page.
+[2026-06-30 16:05:00] [SC] 4 new item(s):
+[2026-06-30 16:05:00]   NEW: Attorney General Alan Wilson issues statement on Supreme Court decision to protect women's sportsRead More | Jun 30, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-issues-statement-on-supreme-court-decision-to-protect-women-s-sports/
+[2026-06-30 16:05:00]   NEW: Attorney General Alan Wilson responds to U.S. Supreme Court's ruling on mail-in ballotsRead More | Jun 29, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-responds-to-u-s-supreme-court-s-ruling-on-mail-in-ballots/
+[2026-06-30 16:05:00]   NEW: Attorney General Alan Wilson announces Florence woman convicted of Homicide by Child AbuseRead More | Jun 29, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-florence-woman-convicted-of-homicide-by-child-abuse/
+[2026-06-30 16:05:00]   NEW: Attorney General Alan Wilson applauds U.S. Supreme Court for agreeing that President Trump can replace executive branch appointeesRead More | Jun 29, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-applauds-u-s-supreme-court-for-agreeing-that-president-trump-can-replace-executive-branch-appointees/
+[2026-06-30 16:05:00] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-06-30 16:05:00]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=6
+[2026-06-30 16:05:03]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-06-30 16:05:03]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-06-30 16:05:03] [SD] Found 1 item(s) on page.
+[2026-06-30 16:05:03] [SD] No new items.
+[2026-06-30 16:05:03] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-06-30 16:05:04]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-06-30 16:05:24] [TN] Found 50 item(s) on page.
+[2026-06-30 16:05:24] [TN] No new items.
+[2026-06-30 16:05:24] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-06-30 16:05:24] [TX] Found 50 item(s) on page.
+[2026-06-30 16:05:24] [TX] 1 new item(s):
+[2026-06-30 16:05:24]   NEW: Attor­ney Gen­er­al Ken Pax­ton Secures Over7Mil­lion Free Eggs For Tex­ans as Part of Antitrust Set­tle­ment with Country’s Largest Egg Producers |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-over-7-million-free-eggs-texans-part-antitrust-settlement
+[2026-06-30 16:05:24] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-06-30 16:05:24]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-06-30 16:05:27]   Playwright loaded page: 'Press Releases - Utah Attorney General' (295025 chars)
+[2026-06-30 16:05:27]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-06-30 16:05:27] [UT] Found 50 item(s) on page.
+[2026-06-30 16:05:27] [UT] No new items.
+[2026-06-30 16:05:27] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-06-30 16:05:27] [VT] Found 50 item(s) on page.
+[2026-06-30 16:05:27] [VT] 2 new item(s):
+[2026-06-30 16:05:27]   NEW: Attorney General Clark Announces Settlement Delivering More Than 900,000 Eggs to Vermont Foodbank Following Egg Price Manipulation Investigation | DateJune 30, 2026 | https://ago.vermont.gov/blog/2026/06/30/attorney-general-clark-announces-settlement-delivering-more-900000-eggs-vermont-foodbank-following
+[2026-06-30 16:05:27]   NEW: Attorney General Clark Sues Trump Administration Over Unlawful Implementation Of Medicaid Work Requirements For Medically Frail Individuals | DateJune 29, 2026 | https://ago.vermont.gov/blog/2026/06/29/attorney-general-clark-sues-trump-administration-over-unlawful-implementation-medicaid-work
+[2026-06-30 16:05:27] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-06-30 16:05:28] [VA] Found 50 item(s) on page.
+[2026-06-30 16:05:28] [VA] 1 new item(s):
+[2026-06-30 16:05:28]   NEW: Attorney General Jay Jones Visited Danville to Highlight Historic Crime Reduction Initiatives |  | https://www.oag.state.va.us/media-center/news-releases/3060-attorney-general-jay-jones-visited-danville-to-highlight-historic-crime-reduction-initiatives
+[2026-06-30 16:05:28] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-06-30 16:05:28] [WA] Found 15 item(s) on page.
+[2026-06-30 16:05:28] [WA] 2 new item(s):
+[2026-06-30 16:05:28]   NEW: AG Nick Brown applauds U.S. Supreme Court’s affirmation of birthright citizenship | Tue, 30 Jun 2026 13:18:12 +0000 | https://www.atg.wa.gov/news/news-releases/ag-nick-brown-applauds-us-supreme-court-s-affirmation-birthright-citizenship
+[2026-06-30 16:05:28]   NEW: AG Brown sues over unlawful federal implementation of Medicaid work requirements | Mon, 29 Jun 2026 20:20:51 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-sues-over-unlawful-federal-implementation-medicaid-work-requirements
+[2026-06-30 16:05:28] [WV] Fetching https://ago.wv.gov/news
+[2026-06-30 16:05:28]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-06-30 16:05:31]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54248 chars)
+[2026-06-30 16:05:31]   Playwright found 30 item(s) with configured selector
+[2026-06-30 16:05:31] [WV] Found 30 item(s) on page.
+[2026-06-30 16:05:31] [WV] No new items.
+[2026-06-30 16:05:31] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-30 16:05:31]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-06-30 16:06:01]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-06-30 16:06:01]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-06-30 16:06:17]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f9329b9e510>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-06-30 16:06:52]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f9329d79d90>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-06-30 16:07:27]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f9329d78080>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-06-30 16:07:27] [WI] No items returned (fetch failed or empty page).
+[2026-06-30 16:07:27] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-06-30 16:07:28] [WY] Found 1 item(s) on page.
+[2026-06-30 16:07:28] [WY] No new items.
+[2026-06-30 16:07:28] States with fetch errors: KS, NJ, NC, OR, WI
+[2026-06-30 16:07:28] Sending email: 60 new item(s) across 29 state(s).
+[2026-06-30 16:07:29] Email sent.
+[2026-06-30 16:07:29] Done.
