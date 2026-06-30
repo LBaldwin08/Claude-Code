@@ -2729,3 +2729,16 @@ Call log:
 [2026-06-30 13:08:26] Found 27 opinions on page.
 [2026-06-30 13:08:26] No new opinions.
 [2026-06-30 13:08:26] Done.
+[2026-06-30 16:00:41] Checking for new DE court opinions...
+[2026-06-30 16:00:41] Using Playwright to fetch opinions page...
+[2026-06-30 16:00:53] Playwright found 27 opinion(s).
+[2026-06-30 16:00:53] Found 27 opinions on page.
+[2026-06-30 16:00:53] 3 new opinion(s)!
+[2026-06-30 16:00:53]   NEW: [06/29/2026] [Superior Court] Del-One FCU v. Godspeed Transport, LLC, et al. | N25L-10-055 FJJ | JonesJ.
+[2026-06-30 16:00:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397520
+[2026-06-30 16:00:53]   NEW: [06/26/2026] [Superior Court] Identity Intelligence Group, LLC, v. NextTech Holdings, LLC, et al. | N25C-12-161 CEB | ButlerR.J.
+[2026-06-30 16:00:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397500
+[2026-06-30 16:00:53]   NEW: [06/26/2026] [Superior Court] REO Trust 2017-RPL1 v. Short Sale, LLC | N20L-10-029 DJB | BrennanJ.
+[2026-06-30 16:00:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397510
+[2026-06-30 16:01:02] Email notification sent.
+[2026-06-30 16:01:02] Done.
