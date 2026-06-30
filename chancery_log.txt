@@ -2742,3 +2742,16 @@ Call log:
 [2026-06-30 16:00:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397510
 [2026-06-30 16:01:02] Email notification sent.
 [2026-06-30 16:01:02] Done.
+[2026-06-30 18:18:04] Checking for new DE court opinions...
+[2026-06-30 18:18:04] Using Playwright to fetch opinions page...
+[2026-06-30 18:18:19] Playwright found 27 opinion(s).
+[2026-06-30 18:18:19] Found 27 opinions on page.
+[2026-06-30 18:18:19] 3 new opinion(s)!
+[2026-06-30 18:18:19]   NEW: [06/30/2026] [Court of Chancery] Mark Berg, et al. v. Titan Spine, Inc., et al. | 2025-0212-LWW | WillV.C.
+[2026-06-30 18:18:19]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397550
+[2026-06-30 18:18:19]   NEW: [06/30/2026] [Court of Chancery] The Cannon Trust 27JUL10, et al., v. Tri-State AG LLC, et al., | C.A. No. 2018-0142-CDW | WrightM.
+[2026-06-30 18:18:19]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397560
+[2026-06-30 18:18:19]   NEW: [06/29/2026] [Superior Court] State v. Deputy, Gee, Turner, and Wright | 2110001695, 1511001714, 0609012387A, 0802023870 | WallaceJ.
+[2026-06-30 18:18:19]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397530
+[2026-06-30 18:18:20] Email notification sent.
+[2026-06-30 18:18:20] Done.
