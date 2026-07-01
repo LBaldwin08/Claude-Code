@@ -456,3 +456,10 @@
 [2026-06-30 16:21:38]        https://www.supremecourt.gov/orders/courtorders/063026zor_3f14.pdf
 [2026-06-30 16:21:39] Email notification sent.
 [2026-06-30 16:21:39] Done.
+[2026-07-01 16:23:09] Checking for new Supreme Court orders...
+[2026-07-01 16:23:09] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-07-01 16:23:12] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-07-01 16:23:14] Playwright found 96 order(s).
+[2026-07-01 16:23:14] Found 96 order(s) on page.
+[2026-07-01 16:23:14] No new orders.
+[2026-07-01 16:23:14] Done.
