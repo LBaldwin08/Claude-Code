@@ -2816,3 +2816,20 @@ Call log:
 [2026-07-01 13:17:20]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397650
 [2026-07-01 13:17:21] Email notification sent.
 [2026-07-01 13:17:21] Done.
+[2026-07-01 16:03:19] Checking for new DE court opinions...
+[2026-07-01 16:03:19] Using Playwright to fetch opinions page...
+[2026-07-01 16:03:32] Playwright found 27 opinion(s).
+[2026-07-01 16:03:32] Found 27 opinions on page.
+[2026-07-01 16:03:32] 5 new opinion(s)!
+[2026-07-01 16:03:32]   NEW: [07/01/2026] [Supreme Court(Court of Chancery)] James Meyer, et al. vs. Vladimir Fishel, et al. | 191, 2026 | LeGrowJ.
+[2026-07-01 16:03:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397680
+[2026-07-01 16:03:32]   NEW: [06/30/2026] [Court of Chancery] Dollens v. Goosehead Insurance, Inc. | C.A. No. 2022-1018-JTL | LasterV.C.
+[2026-07-01 16:03:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397670
+[2026-07-01 16:03:32]   NEW: [06/30/2026] [Supreme Court(Superior Court)] Mills v. State | 223, 2026 | GriffithsJ.
+[2026-07-01 16:03:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397480
+[2026-07-01 16:03:32]   NEW: [06/30/2026] [Supreme Court(Superior Court)] Vega v. State | 237, 2026 | GriffithsJ.
+[2026-07-01 16:03:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397490
+[2026-07-01 16:03:32]   NEW: [06/29/2026] [Supreme Court(Court of Chancery)] Patterson v. Lady Benjamin PD Cannon, f/k/a Ben Cannon | 505, 2025 | LeGrowJ.
+[2026-07-01 16:03:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397660
+[2026-07-01 16:03:33] Email notification sent.
+[2026-07-01 16:03:33] Done.
