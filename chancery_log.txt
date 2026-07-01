@@ -2807,3 +2807,12 @@ Call log:
 [2026-07-01 10:28:28] Found 27 opinions on page.
 [2026-07-01 10:28:28] No new opinions.
 [2026-07-01 10:28:28] Done.
+[2026-07-01 13:17:07] Checking for new DE court opinions...
+[2026-07-01 13:17:07] Using Playwright to fetch opinions page...
+[2026-07-01 13:17:20] Playwright found 27 opinion(s).
+[2026-07-01 13:17:20] Found 27 opinions on page.
+[2026-07-01 13:17:20] 1 new opinion(s)!
+[2026-07-01 13:17:20]   NEW: [06/30/2026] [Court of Chancery] Advent Int'l L.P. et al. v. Servicios Funerarios GG S.A. DE C.V. | 2023-0647-LWW | WillV.C.
+[2026-07-01 13:17:20]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397650
+[2026-07-01 13:17:21] Email notification sent.
+[2026-07-01 13:17:21] Done.
