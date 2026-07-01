@@ -631,3 +631,14 @@
 [2026-06-30 16:08:53]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-requires-amazon-pay-225-million-resolve-charges-it-knowingly-violated-fair-credit-reporting-act
 [2026-06-30 16:08:56] Email notification sent.
 [2026-06-30 16:08:56] Done.
+[2026-07-01 16:08:05] Checking for new FTC press releases...
+[2026-07-01 16:08:05] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-01 16:08:18] Playwright found 0 press release link(s).
+[2026-07-01 16:08:18] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-01 16:08:19] requests found 20 press release link(s).
+[2026-07-01 16:08:19] Found 20 press release(s) on page.
+[2026-07-01 16:08:19] 1 new press release(s)!
+[2026-07-01 16:08:19]   NEW: [2026-06-30T12:00:00Z] FTC Secures Agreement with Havas to Restore Competition in the Digital Advertising Ecosystem
+[2026-07-01 16:08:19]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-secures-agreement-havas-restore-competition-digital-advertising-ecosystem
+[2026-07-01 16:08:20] Email notification sent.
+[2026-07-01 16:08:20] Done.
