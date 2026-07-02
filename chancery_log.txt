@@ -2881,3 +2881,12 @@ Call log:
 [2026-07-02 11:30:05] Found 27 opinions on page.
 [2026-07-02 11:30:05] No new opinions.
 [2026-07-02 11:30:05] Done.
+[2026-07-02 13:19:18] Checking for new DE court opinions...
+[2026-07-02 13:19:18] Using Playwright to fetch opinions page...
+[2026-07-02 13:19:30] Playwright found 27 opinion(s).
+[2026-07-02 13:19:30] Found 27 opinions on page.
+[2026-07-02 13:19:30] 1 new opinion(s)!
+[2026-07-02 13:19:30]   NEW: [07/01/2026] [Supreme Court(Superior Court)] Paragon Metals Holdings, LLC, et al. v. Michael J. Smith, et al. | 385, 2025 | GriffithsJ.
+[2026-07-02 13:19:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397700
+[2026-07-02 13:19:32] Email notification sent.
+[2026-07-02 13:19:32] Done.
