@@ -2902,3 +2902,16 @@ Call log:
 [2026-07-02 17:41:11] Found 27 opinions on page.
 [2026-07-02 17:41:11] No new opinions.
 [2026-07-02 17:41:11] Done.
+[2026-07-02 19:16:44] Checking for new DE court opinions...
+[2026-07-02 19:16:44] Using Playwright to fetch opinions page...
+[2026-07-02 19:16:57] Playwright found 27 opinion(s).
+[2026-07-02 19:16:57] Found 27 opinions on page.
+[2026-07-02 19:16:57] 3 new opinion(s)!
+[2026-07-02 19:16:57]   NEW: [07/02/2026] [Court of Chancery] Nikita Bernstein v. MyJoVE Corporation | C.A. No. 2026-0301-DH | Hume, IVM.
+[2026-07-02 19:16:57]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397710
+[2026-07-02 19:16:57]   NEW: [07/02/2026] [Court of Chancery] WSP USA Services Inc. v. Versar, Inc. | 2025-0833-KSJM | McCormick,C.
+[2026-07-02 19:16:57]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397730
+[2026-07-02 19:16:57]   NEW: [07/01/2026] [Court of Chancery] Kevin Leiske et al. v. Robert Gregory Kidd et al. | 2025-0426-CDW (LWW) | WillV.C.
+[2026-07-02 19:16:57]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397720
+[2026-07-02 19:16:58] Email notification sent.
+[2026-07-02 19:16:58] Done.
