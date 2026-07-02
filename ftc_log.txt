@@ -642,3 +642,16 @@
 [2026-07-01 16:08:19]        https://www.ftc.gov/news-events/news/press-releases/2026/06/ftc-secures-agreement-havas-restore-competition-digital-advertising-ecosystem
 [2026-07-01 16:08:20] Email notification sent.
 [2026-07-01 16:08:20] Done.
+[2026-07-02 15:53:47] Checking for new FTC press releases...
+[2026-07-02 15:53:47] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-02 15:54:00] Playwright found 0 press release link(s).
+[2026-07-02 15:54:00] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-02 15:54:00] requests found 20 press release link(s).
+[2026-07-02 15:54:00] Found 20 press release(s) on page.
+[2026-07-02 15:54:00] 2 new press release(s)!
+[2026-07-02 15:54:00]   NEW: [2026-07-02T12:00:00Z] FTC and DOJ Issue Fiscal Year 2025 Hart-Scott-Rodino Annual Report
+[2026-07-02 15:54:00]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-doj-issue-fiscal-year-2025-hart-scott-rodino-annual-report
+[2026-07-02 15:54:00]   NEW: [2026-07-01T12:00:00Z] FTC Seeks Public Comment on Policy Statement Addressing AI Accuracy
+[2026-07-02 15:54:00]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy
+[2026-07-02 15:54:01] Email notification sent.
+[2026-07-02 15:54:01] Done.
