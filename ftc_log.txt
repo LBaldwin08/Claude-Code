@@ -655,3 +655,16 @@
 [2026-07-02 15:54:00]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-seeks-public-comment-policy-statement-addressing-ai-accuracy
 [2026-07-02 15:54:01] Email notification sent.
 [2026-07-02 15:54:01] Done.
+[2026-07-03 15:35:03] Checking for new FTC press releases...
+[2026-07-03 15:35:03] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-03 15:35:17] Playwright found 0 press release link(s).
+[2026-07-03 15:35:17] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-03 15:35:17] requests found 20 press release link(s).
+[2026-07-03 15:35:17] Found 20 press release(s) on page.
+[2026-07-03 15:35:17] 2 new press release(s)!
+[2026-07-03 15:35:17]   NEW: [2026-07-02T12:00:00Z] Travel App Hopper to Pay $35 Million to Settle FTC Allegations It Charged Fees Without Consent and Deceived Users About Fees and Benefits of Some Products
+[2026-07-03 15:35:17]        https://www.ftc.gov/news-events/news/press-releases/2026/07/travel-app-hopper-pay-35-million-settle-ftc-allegations-it-charged-fees-without-consent-deceived
+[2026-07-03 15:35:17]   NEW: [2026-07-02T12:00:00Z] FTC Approves Final Order Against Publishing.com, Settling Allegations It Misled Consumers
+[2026-07-03 15:35:17]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-approves-final-order-against-publishingcom-settling-allegations-it-misled-consumers
+[2026-07-03 15:35:18] Email notification sent.
+[2026-07-03 15:35:18] Done.
