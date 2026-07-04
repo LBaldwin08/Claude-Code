@@ -480,3 +480,10 @@
 [2026-07-03 15:50:48]        https://www.supremecourt.gov/orders/courtorders/070226zr_2cp3.pdf
 [2026-07-03 15:50:49] Email notification sent.
 [2026-07-03 15:50:49] Done.
+[2026-07-04 15:01:58] Checking for new Supreme Court orders...
+[2026-07-04 15:01:58] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-07-04 15:02:01] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-07-04 15:02:03] Playwright found 97 order(s).
+[2026-07-04 15:02:03] Found 97 order(s) on page.
+[2026-07-04 15:02:03] No new orders.
+[2026-07-04 15:02:03] Done.
