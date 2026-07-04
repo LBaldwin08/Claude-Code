@@ -668,3 +668,11 @@
 [2026-07-03 15:35:17]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-approves-final-order-against-publishingcom-settling-allegations-it-misled-consumers
 [2026-07-03 15:35:18] Email notification sent.
 [2026-07-03 15:35:18] Done.
+[2026-07-04 14:50:39] Checking for new FTC press releases...
+[2026-07-04 14:50:39] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-04 14:50:54] Playwright found 0 press release link(s).
+[2026-07-04 14:50:54] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-04 14:50:54] requests found 20 press release link(s).
+[2026-07-04 14:50:54] Found 20 press release(s) on page.
+[2026-07-04 14:50:54] No new press releases.
+[2026-07-04 14:50:54] Done.
