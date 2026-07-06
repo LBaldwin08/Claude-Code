@@ -3212,3 +3212,18 @@ Call log:
 [2026-07-06 18:27:52] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f68f6f4c380>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-07-06 18:27:52] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f68f6f4c380>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-07-06 18:27:52] Skipping this run — will retry next scheduled check.
+[2026-07-06 20:22:00] Checking for new DE court opinions...
+[2026-07-06 20:22:00] Using Playwright to fetch opinions page...
+[2026-07-06 20:22:11] Playwright found 27 opinion(s).
+[2026-07-06 20:22:11] Found 27 opinions on page.
+[2026-07-06 20:22:11] 4 new opinion(s)!
+[2026-07-06 20:22:11]   NEW: [07/06/2026] [Court of Chancery] World Energy LLC, et al. v. Air Products and Chemicals, Inc., et al. | 2025-0912-MTZ | ZurnM.
+[2026-07-06 20:22:11]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397760
+[2026-07-06 20:22:11]   NEW: [07/06/2026] [Superior Court] Ryan v. Argent Marine Management, Inc., et al. | N20C-06-203 SSA | AugusthyJ.
+[2026-07-06 20:22:11]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397780
+[2026-07-06 20:22:11]   NEW: [07/06/2026] [Superior Court] Surteco North America, Inc. v. AIG Specialty Insurance Company | N25C-10-178 KMM CCLD | MillerJ.
+[2026-07-06 20:22:11]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397770
+[2026-07-06 20:22:11]   NEW: [07/02/2026] [Superior Court] City of Dover, et al. v. State of Delaware Fire Prevention Commission | K25A-05-002 NEP | PrimosJ.
+[2026-07-06 20:22:11]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397790
+[2026-07-06 20:22:12] Email notification sent.
+[2026-07-06 20:22:12] Done.
