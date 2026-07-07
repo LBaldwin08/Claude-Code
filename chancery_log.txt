@@ -3280,3 +3280,14 @@ Call log:
 [2026-07-07 17:31:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397800
 [2026-07-07 17:31:49] Email notification sent.
 [2026-07-07 17:31:49] Done.
+[2026-07-07 19:47:30] Checking for new DE court opinions...
+[2026-07-07 19:47:30] Using Playwright to fetch opinions page...
+[2026-07-07 19:47:43] Playwright found 27 opinion(s).
+[2026-07-07 19:47:43] Found 27 opinions on page.
+[2026-07-07 19:47:43] 2 new opinion(s)!
+[2026-07-07 19:47:43]   NEW: [07/07/2026] [Court of Chancery] Arif Ahmed v. JP Morgan Chase & Co., et al. | C.A. No. 2025-1133-DG | McCormick,C.
+[2026-07-07 19:47:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397820
+[2026-07-07 19:47:43]   NEW: [07/07/2026] [Superior Court] Bakkt Opco Holdings, v. Project Labrador | N25C-12-316 MAA CCLD | AdamsJ.
+[2026-07-07 19:47:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397830
+[2026-07-07 19:47:43] Email notification sent.
+[2026-07-07 19:47:43] Done.
