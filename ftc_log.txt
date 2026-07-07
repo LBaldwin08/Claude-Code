@@ -692,3 +692,16 @@
 [2026-07-06 16:40:40] Found 20 press release(s) on page.
 [2026-07-06 16:40:40] No new press releases.
 [2026-07-06 16:40:40] Done.
+[2026-07-07 16:04:17] Checking for new FTC press releases...
+[2026-07-07 16:04:17] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-07 16:04:31] Playwright found 0 press release link(s).
+[2026-07-07 16:04:31] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-07 16:04:31] requests found 20 press release link(s).
+[2026-07-07 16:04:31] Found 20 press release(s) on page.
+[2026-07-07 16:04:31] 2 new press release(s)!
+[2026-07-07 16:04:31]   NEW: [2026-07-07T12:00:00Z] FTC Sends More Than $2.7 Million to Consumers Harmed by Handy Technologies
+[2026-07-07 16:04:31]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-sends-more-27-million-consumers-harmed-handy-technologies
+[2026-07-07 16:04:31]   NEW: [2026-07-06T12:00:00Z] FTC Warns Companies Making Questionable ‘Made in the USA’ Claims
+[2026-07-07 16:04:31]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-warns-companies-making-questionable-made-usa-claims
+[2026-07-07 16:04:32] Email notification sent.
+[2026-07-07 16:04:32] Done.
