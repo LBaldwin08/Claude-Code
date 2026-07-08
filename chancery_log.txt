@@ -3345,3 +3345,12 @@ Call log:
 [2026-07-08 14:54:12] Found 27 opinions on page.
 [2026-07-08 14:54:12] No new opinions.
 [2026-07-08 14:54:12] Done.
+[2026-07-08 16:27:05] Checking for new DE court opinions...
+[2026-07-08 16:27:05] Using Playwright to fetch opinions page...
+[2026-07-08 16:27:17] Playwright found 27 opinion(s).
+[2026-07-08 16:27:17] Found 27 opinions on page.
+[2026-07-08 16:27:17] 1 new opinion(s)!
+[2026-07-08 16:27:17]   NEW: [07/08/2026] [Superior Court] Simmons v. Poore, et al. | K22C-01-014 JJC | ClarkR.J.
+[2026-07-08 16:27:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397850
+[2026-07-08 16:27:18] Email notification sent.
+[2026-07-08 16:27:18] Done.
