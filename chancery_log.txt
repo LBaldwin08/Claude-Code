@@ -3386,3 +3386,12 @@ Call log:
 [2026-07-08 21:01:28]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397870
 [2026-07-08 21:01:29] Email notification sent.
 [2026-07-08 21:01:29] Done.
+[2026-07-08 22:31:15] Checking for new DE court opinions...
+[2026-07-08 22:31:15] Using Playwright to fetch opinions page...
+[2026-07-08 22:31:28] Playwright found 27 opinion(s).
+[2026-07-08 22:31:28] Found 27 opinions on page.
+[2026-07-08 22:31:28] 1 new opinion(s)!
+[2026-07-08 22:31:28]   NEW: [07/08/2026] [Court of Chancery] Wells Lory Hillblom v. Wilmington Trust Company | C.A. No. 2021-1034-MTZ | ZurnV.C.
+[2026-07-08 22:31:28]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397890
+[2026-07-08 22:31:30] Email notification sent.
+[2026-07-08 22:31:30] Done.
