@@ -15796,3 +15796,247 @@ Call log:
 [2026-07-07 16:05:11] Sending email: 23 new item(s) across 15 state(s).
 [2026-07-07 16:05:11] Email sent.
 [2026-07-07 16:05:11] Done.
+[2026-07-08 15:40:24] Checking for new AG press releases...
+[2026-07-08 15:40:24] Checking 50 state(s).
+[2026-07-08 15:40:24] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-08 15:40:24]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-08 15:40:27]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226005 chars)
+[2026-07-08 15:40:27]   Playwright found 27 item(s) with configured selector
+[2026-07-08 15:40:27] [AL] Found 27 item(s) on page.
+[2026-07-08 15:40:27] [AL] No new items.
+[2026-07-08 15:40:27] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-08 15:40:28] [AK] Found 50 item(s) on page.
+[2026-07-08 15:40:28] [AK] 3 new item(s):
+[2026-07-08 15:40:28]   NEW: Rodney Rhodes Convicted of Multiple Counts of Sexual Abuse of a Minor and Related Crimes |  | https://law.alaska.gov/releases/2026/070726-Rhodes.html
+[2026-07-08 15:40:28]   NEW: Kirby Calderwood Sentenced for 2019 Murder of Missing Homer Woman |  | https://law.alaska.gov/releases/2026/070226-Calderwood.html
+[2026-07-08 15:40:28]   NEW: Walter Platt Convicted of Seven Counts of Sexual Abuse of a Minor and Two Counts of Electronic Distribution of Porn to Minors |  | https://law.alaska.gov/releases/2026/061826-Platt.html
+[2026-07-08 15:40:28] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-08 15:40:28] [AZ] Found 10 item(s) on page.
+[2026-07-08 15:40:28] [AZ] 2 new item(s):
+[2026-07-08 15:40:28]   NEW: Attorney General Mayes Urges U.S. Trade Representative to Stop Hitting American Consumers and Businesses with Illegal Tariffs |  | https://www.azag.gov/press-release/attorney-general-mayes-urges-us-trade-representative-stop-hitting-american-consumers
+[2026-07-08 15:40:28]   NEW: Attorney General Mayes Sues HUD to Block Unlawful Changes to Funding Addressing Homelessness |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-hud-block-unlawful-changes-funding-addressing
+[2026-07-08 15:40:28] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-08 15:40:29] [AR] Found 50 item(s) on page.
+[2026-07-08 15:40:29] [AR] 1 new item(s):
+[2026-07-08 15:40:29]   NEW: Tuesday, July 07, 2026Attorney General Griffin Announces Benton Woman Pleads Guilty to Child Pornography Charges Following Arrest Made by Special Investigations DivisionRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-benton-woman-pleads-guilty-to-child-pornography-charges-following-arrest-made-by-special-investigations-division/
+[2026-07-08 15:40:29] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-08 15:40:29] [CA] Found 10 item(s) on page.
+[2026-07-08 15:40:29] [CA] 5 new item(s):
+[2026-07-08 15:40:29]   NEW: Attorney General Bonta Joins Bipartisan Coalition in Supporting Increased Sampling in National Youth Tobacco Survey | Tue, 07 Jul 2026 21:16:44 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-joins-bipartisan-coalition-supporting-increased-sampling
+[2026-07-08 15:40:29]   NEW: Attorney General Bonta Files Lawsuit Challenging Trump Administration’s Latest Attempt to Divert Funding Away from Permanent Supportive Housing Projects, Putting Thousands at Risk of Homelessness | Tue, 07 Jul 2026 20:31:34 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-challenging-trump-administration%E2%80%99s-latest
+[2026-07-08 15:40:29]   NEW: Attorney General Bonta, California Air Resources Board Call on EPA to Move Forward with Emission Standards for Light- and Medium-Duty Vehicles | Tue, 07 Jul 2026 17:25:40 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-california-air-resources-board-call-epa-move-forward
+[2026-07-08 15:40:29]   NEW: Attorney General Bonta Releases 5-Year Strategic Plan to Reduce Gun Violence in California | Tue, 07 Jul 2026 17:48:49 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-releases-5-year-strategic-plan-reduce-gun-violence
+[2026-07-08 15:40:29]   NEW: Attorney General Bonta Opposes Onerous New Information Collection Requirements for Noncitizens | Tue, 07 Jul 2026 16:01:17 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-onerous-new-information-collection-requirements
+[2026-07-08 15:40:29] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-08 15:40:29] [CO] Found 49 item(s) on page.
+[2026-07-08 15:40:29] [CO] No new items.
+[2026-07-08 15:40:29] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-08 15:40:30] [CT] Found 34 item(s) on page.
+[2026-07-08 15:40:30] [CT] 1 new item(s):
+[2026-07-08 15:40:30]   NEW: Attorney General Tong Sues HUD to Block New Changes to Homelessness Funds | 7/7/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-hud-to-block-new-changes-to-homelessness-funds
+[2026-07-08 15:40:30] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-08 15:40:32] [DE] Found 300 item(s) on page.
+[2026-07-08 15:40:32] [DE] No new items.
+[2026-07-08 15:40:32] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-08 15:40:32] [FL] Found 20 item(s) on page.
+[2026-07-08 15:40:32] [FL] No new items.
+[2026-07-08 15:40:32] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-08 15:40:32] [GA] Found 11 item(s) on page.
+[2026-07-08 15:40:32] [GA] 1 new item(s):
+[2026-07-08 15:40:32]   NEW: UPDATE: Carr Secures 95-Year Prison Sentence for Convicted PDE Gang Member in DeKalb CountyJuly 07, 2026 |  | https://law.georgia.gov/press-releases/2026-07-07/update-carr-secures-95-year-prison-sentence-convicted-pde-gang-member
+[2026-07-08 15:40:32] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-08 15:40:32] [HI] Found 26 item(s) on page.
+[2026-07-08 15:40:32] [HI] No new items.
+[2026-07-08 15:40:32] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-08 15:40:32]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-08 15:40:36]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65907 chars)
+[2026-07-08 15:40:36]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-08 15:40:36] [ID] Found 28 item(s) on page.
+[2026-07-08 15:40:36] [ID] No new items.
+[2026-07-08 15:40:36] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-08 15:40:37] [IL] Found 50 item(s) on page.
+[2026-07-08 15:40:37] [IL] 1 new item(s):
+[2026-07-08 15:40:37]   NEW: July 07, 2026ATTORNEY GENERAL RAOUL FILES SECOND LAWSUIT AFTER RENEWED PUSH BY HUD TO UNLAWFULLY CAP FUNDS TO FIGHT HOMELESSNESS | 2026-07-07 5:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-second-lawsuit-after-renewed-push-by-hud-to-unlawfully-cap-funds-to-fight-homelessness
+[2026-07-08 15:40:37] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-08 15:40:37] [IN] Found 37 item(s) on page.
+[2026-07-08 15:40:37] [IN] No new items.
+[2026-07-08 15:40:37] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-08 15:40:38] [IA] Found 10 item(s) on page.
+[2026-07-08 15:40:38] [IA] No new items.
+[2026-07-08 15:40:38] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-08 15:40:38]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-08 15:40:41]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-07-08 15:40:41]   Playwright: page loaded but no links matched — check selectors
+[2026-07-08 15:40:41]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-08 15:40:41]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-08 15:41:02]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-08 15:41:22]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-08 15:41:22] [KS] No items returned (fetch failed or empty page).
+[2026-07-08 15:41:22] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-08 15:41:23] [KY] Found 26 item(s) on page.
+[2026-07-08 15:41:23] [KY] No new items.
+[2026-07-08 15:41:23] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-08 15:41:23] [LA] Found 20 item(s) on page.
+[2026-07-08 15:41:23] [LA] 1 new item(s):
+[2026-07-08 15:41:23]   NEW: AG Murrill's Louisiana Bureau of Investigation Re-Arrests Suspect Previously Arrested in Online Predator Operation on 200 Child Sexual Abuse Material Charges | 7/7/2026 | https://ag.louisiana.gov/Article/564
+[2026-07-08 15:41:23] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-08 15:41:24] [ME] Found 9 item(s) on page.
+[2026-07-08 15:41:24] [ME] No new items.
+[2026-07-08 15:41:24] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-08 15:41:24] [MD] Found 50 item(s) on page.
+[2026-07-08 15:41:24] [MD] No new items.
+[2026-07-08 15:41:24] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-08 15:41:24]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-08 15:41:27]   Playwright loaded page: 'News and Announcements | Mass.gov' (176214 chars)
+[2026-07-08 15:41:27]   Playwright found 15 item(s) with configured selector
+[2026-07-08 15:41:27] [MA] Found 15 item(s) on page.
+[2026-07-08 15:41:27] [MA] 2 new item(s):
+[2026-07-08 15:41:27]   NEW: AG Campbell Shares Legal Resources For Haitian And Syrian TPS Holders, Urges Immigrants To Seek Legal Advice And Avoid Scams | 7/07/2026 | https://www.mass.gov/news/ag-campbell-shares-legal-resources-for-haitian-and-syrian-tps-holders-urges-immigrants-to-seek-legal-advice-and-avoid-scams
+[2026-07-08 15:41:27]   NEW: AG Campbell Sues HUD To Block New Changes To Funding Addressing Homelessness | 7/07/2026 | https://www.mass.gov/news/ag-campbell-sues-hud-to-block-new-changes-to-funding-addressing-homelessness
+[2026-07-08 15:41:27] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-08 15:41:27]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-08 15:41:30]   Playwright loaded page: 'Attorney General: Press Releases' (371059 chars)
+[2026-07-08 15:41:30]   Playwright found 10 item(s) with configured selector
+[2026-07-08 15:41:30] [MI] Found 10 item(s) on page.
+[2026-07-08 15:41:30] [MI] No new items.
+[2026-07-08 15:41:30] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-08 15:41:30] [MN] Found 50 item(s) on page.
+[2026-07-08 15:41:30] [MN] No new items.
+[2026-07-08 15:41:30] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-08 15:41:31] [MS] Found 1 item(s) on page.
+[2026-07-08 15:41:31] [MS] No new items.
+[2026-07-08 15:41:31] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-08 15:41:31] [MO] Found 50 item(s) on page.
+[2026-07-08 15:41:31] [MO] No new items.
+[2026-07-08 15:41:31] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-08 15:41:31] [MT] Found 10 item(s) on page.
+[2026-07-08 15:41:31] [MT] No new items.
+[2026-07-08 15:41:31] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-08 15:41:31] [NE] Found 10 item(s) on page.
+[2026-07-08 15:41:31] [NE] 1 new item(s):
+[2026-07-08 15:41:31]   NEW: Nebraska Attorney General’s Office Announces Disciplinary Action Against Lincoln Massage Therapist | Tue, 07 Jul 2026 19:57:18 +0000 | https://ago.nebraska.gov/news/nebraska-attorney-generals-office-announces-disciplinary-action-against-lincoln-massage
+[2026-07-08 15:41:31] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-08 15:41:32] [NV] Found 50 item(s) on page.
+[2026-07-08 15:41:32] [NV] No new items.
+[2026-07-08 15:41:32] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-08 15:41:32]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-08 15:41:34]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-07-08 15:41:34]   Playwright: page loaded but no links matched — check selectors
+[2026-07-08 15:41:34]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-07-08 15:41:35]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-08 15:41:55]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-08 15:42:15]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-08 15:42:15] [NH] No items returned (fetch failed or empty page).
+[2026-07-08 15:42:15] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-08 15:42:16] [NJ] Found 5 item(s) on page.
+[2026-07-08 15:42:16] [NJ] 2 new item(s):
+[2026-07-08 15:42:16]   NEW: New Jersey Sues Trump Administration to Block Illegal Changes to Funding Addressing Homelessness |  | https://www.njoag.gov/new-jersey-sues-trump-administration-to-block-illegal-changes-to-funding-addressing-homelessness/
+[2026-07-08 15:42:16]   NEW: State Board of Pharmacy Temporarily Suspends License and Shuts Down Pharmacy of Gloucester County Pharmacist |  | https://www.njoag.gov/state-board-of-pharmacy-temporarily-suspends-license-and-shuts-down-pharmacy-of-gloucester-county-pharmacist/
+[2026-07-08 15:42:16] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-08 15:42:20] [NM] Found 15 item(s) on page.
+[2026-07-08 15:42:20] [NM] 1 new item(s):
+[2026-07-08 15:42:20]   NEW: MEDIA ADVISORY: Attorney General Raúl Torrez Warns New Mexicans to Lookout for Wildfire Price Gouging and Fraud |  | https://nmdoj.gov/press-release/media-advisory-attorney-general-raul-torrez-warns-new-mexicans-to-lookout-for-wildfire-price-gouging-and-fraud/
+[2026-07-08 15:42:20] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-08 15:42:20] [NY] Found 25 item(s) on page.
+[2026-07-08 15:42:20] [NY] 3 new item(s):
+[2026-07-08 15:42:20]   NEW: Attorney General James Urges New Yorkers to Be Cautious in Charitable Giving for Venezuela Earthquake Relief |  | https://ag.ny.gov/press-release/2026/attorney-general-james-urges-new-yorkers-be-cautious-charitable-giving-venezuela
+[2026-07-08 15:42:20]   NEW: La Fiscal General James Pide a los Neoyorquinos Precaución al Donar Para las Víctimas del Terremoto en Venezuela |  | https://ag.ny.gov/press-release/2026/la-fiscal-general-james-pide-los-neoyorquinos-precaucion-al-donar-para-las
+[2026-07-08 15:42:20]   NEW: Attorney General James’ Office of Special Investigation Opens Investigation into Civilian Death in Schuyler County |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-opens-investigation-19
+[2026-07-08 15:42:20] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-08 15:42:20] [NC] Found 10 item(s) on page.
+[2026-07-08 15:42:20] [NC] 4 new item(s):
+[2026-07-08 15:42:20]   NEW: Governor Josh Stein and Attorney General Jeff Jackson Share Online Safety Tips for the Summer |  | https://ncdoj.gov/governor-josh-stein-and-attorney-general-jeff-jackson-share-online-safety-tips-for-the-summer/
+[2026-07-08 15:42:20]   NEW: Funding Maintained for Nurses and Healthcare Workers as Attorney General Jeff Jackson’s Lawsuit Continues |  | https://ncdoj.gov/funding-maintained-for-nurses-and-healthcare-workers-as-attorney-general-jeff-jacksons-lawsuit-continues/
+[2026-07-08 15:42:20]   NEW: Judge Sides with Attorney General Jackson in Meta Case; Lawsuit Alleging the Company Harmed Children to Go to Trial |  | https://ncdoj.gov/judge-sides-with-attorney-general-jackson-in-meta-case-lawsuit-alleging-the-company-harmed-children-to-go-to-trial/
+[2026-07-08 15:42:20]   NEW: NC to Receive 3M Eggs as Attorney General Jeff Jackson Reaches Settlement with Egg Producers in Bipartisan Antitrust Case |  | https://ncdoj.gov/nc-to-receive-3m-eggs-as-attorney-general-jeff-jackson-reaches-settlement-with-egg-producers-in-bipartisan-antitrust-case/
+[2026-07-08 15:42:20] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-08 15:42:20] [ND] Found 10 item(s) on page.
+[2026-07-08 15:42:20] [ND] No new items.
+[2026-07-08 15:42:20] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-08 15:42:21] [OH] Found 10 item(s) on page.
+[2026-07-08 15:42:21] [OH] No new items.
+[2026-07-08 15:42:21] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-08 15:42:21]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-08 15:42:24]   Playwright loaded page: 'News Releases' (888141 chars)
+[2026-07-08 15:42:24]   Playwright found 20 item(s) with configured selector
+[2026-07-08 15:42:24] [OK] Found 20 item(s) on page.
+[2026-07-08 15:42:24] [OK] 3 new item(s):
+[2026-07-08 15:42:24]   NEW: Organized Crime Task Force shuts down 5 illegal marijuana operations in Woodward |  | https://oklahoma.gov/oag/news/newsroom/2026/july/organized-crime-task-force-shuts-down-5-illegal-marijuana-operations-in-woodward.html
+[2026-07-08 15:42:24]   NEW: Drummond files lawsuit against Allstate Insurance Company |  | https://oklahoma.gov/oag/news/newsroom/2026/july/drummond-files-lawsuit-against-allstate-insurance-company.html
+[2026-07-08 15:42:24]   NEW: Drummond awards sheriff's office assistance grants to all 77 Oklahoma counties |  | https://oklahoma.gov/oag/news/newsroom/2026/july/drummond-awards-sheriffs-office-assistance-grants-to-all-77-oklahoma-counties.html
+[2026-07-08 15:42:24] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-08 15:42:24] [OR] Found 10 item(s) on page.
+[2026-07-08 15:42:24] [OR] 2 new item(s):
+[2026-07-08 15:42:24]   NEW: Attorney General Rayfield Sues HUD to Block New Changes to Funding Addressing Homelessness |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-sues-hud-to-block-new-changes-to-homelessness-funding/
+[2026-07-08 15:42:24]   NEW: Attorney General Rayfield Calls on Paramount Skydance to Turn Over Records Pause Warner Bros Discovery Merger |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-calls-on-paramount-skydance-to-turn-over-records-pause-merger/
+[2026-07-08 15:42:24] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-08 15:42:25] [PA] Found 12 item(s) on page.
+[2026-07-08 15:42:25] [PA] 1 new item(s):
+[2026-07-08 15:42:25]   NEW: Press ReleaseJUL 8, 2026AG Sunday Announces Settlement with Montgomery County SPCA to Replace Board of Directors, Expand Services Following Mismanagement of DonationsHARRISBURG — Attorney General Dave Sunday announced a settlement with the Montgomery County SPCA regarding the organization’s mismanagement, animal care practices, and misuse of charitable funds. The settlement…Read more | 2026-07-08T11:22:33-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-settlement-with-montgomery-county-spca-to-replace-board-of-directors-expand-services-following-mismanagement-of-donations/
+[2026-07-08 15:42:25] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-08 15:42:25] [RI] Found 10 item(s) on page.
+[2026-07-08 15:42:25] [RI] 1 new item(s):
+[2026-07-08 15:42:25]   NEW: Attorney General Neronha co-leads lawsuit against Trump Administration for upending long-term housing support for homeless Americans | Tue, 07 Jul 2026 20:15:45 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-co-leads-lawsuit-against-trump-administration-upending-long
+[2026-07-08 15:42:25] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-08 15:42:25]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-08 15:42:28]   Playwright loaded page: 'News - South Carolina Attorney General' (110479 chars)
+[2026-07-08 15:42:28]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-08 15:42:28] [SC] Found 9 item(s) on page.
+[2026-07-08 15:42:28] [SC] No new items.
+[2026-07-08 15:42:28] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-08 15:42:28]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-08 15:42:31]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-07-08 15:42:31]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-08 15:42:31] [SD] Found 1 item(s) on page.
+[2026-07-08 15:42:31] [SD] No new items.
+[2026-07-08 15:42:31] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-08 15:42:31]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-08 15:42:51]   Attempt 2/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-08 15:43:12] [TN] Found 50 item(s) on page.
+[2026-07-08 15:43:12] [TN] 1 new item(s):
+[2026-07-08 15:43:12]   NEW: Tennessee Attorney General Wins Court Ruling Allowing Crypto ATM Ban to Take Effect |  | https://www.tn.gov/attorneygeneral/news/2026/7/7/pr26-26.html
+[2026-07-08 15:43:12] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-08 15:43:12] [TX] Found 50 item(s) on page.
+[2026-07-08 15:43:12] [TX] No new items.
+[2026-07-08 15:43:12] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-08 15:43:12]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-08 15:43:15]   Playwright loaded page: 'Press Releases - Utah Attorney General' (295979 chars)
+[2026-07-08 15:43:15]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-08 15:43:15] [UT] Found 50 item(s) on page.
+[2026-07-08 15:43:15] [UT] No new items.
+[2026-07-08 15:43:15] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-08 15:43:15] [VT] Found 50 item(s) on page.
+[2026-07-08 15:43:15] [VT] 2 new item(s):
+[2026-07-08 15:43:15]   NEW: Attorney General Clark Sues Trump Administration to Block New Changes to HUD Funding | DateJuly 7, 2026 | https://ago.vermont.gov/blog/2026/07/07/attorney-general-clark-sues-trump-administration-block-new-changes-hud-funding
+[2026-07-08 15:43:15]   NEW: Attorney General’s Office Reaches Settlement Over Unauthorized Mountain Bike Trail on State Land | DateJuly 7, 2026 | https://ago.vermont.gov/blog/2026/07/07/attorney-generals-office-reaches-settlement-over-unauthorized-mountain-bike-trail-state-land
+[2026-07-08 15:43:15] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-08 15:43:16] [VA] Found 50 item(s) on page.
+[2026-07-08 15:43:16] [VA] 1 new item(s):
+[2026-07-08 15:43:16]   NEW: Attorney General Jay Jones Visits Petersburg to Discuss Gun Violence Prevention |  | https://www.oag.state.va.us/media-center/news-releases/3068-attorney-general-jay-jones-visits-petersburg-to-discuss-gun-violence-prevention
+[2026-07-08 15:43:16] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-08 15:43:16] [WA] Found 15 item(s) on page.
+[2026-07-08 15:43:16] [WA] 1 new item(s):
+[2026-07-08 15:43:16]   NEW: WA and other states sue HUD to block new changes to funding addressing homelessness | Tue, 07 Jul 2026 20:21:22 +0000 | https://www.atg.wa.gov/news/news-releases/wa-and-other-states-sue-hud-block-new-changes-funding-addressing-homelessness
+[2026-07-08 15:43:16] [WV] Fetching https://ago.wv.gov/news
+[2026-07-08 15:43:16]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-08 15:43:19]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54566 chars)
+[2026-07-08 15:43:19]   Playwright found 30 item(s) with configured selector
+[2026-07-08 15:43:19] [WV] Found 30 item(s) on page.
+[2026-07-08 15:43:19] [WV] 2 new item(s):
+[2026-07-08 15:43:19]   NEW: Full Story | 2026-07-07T12:00:00Z | https://ago.wv.gov/article/west-virginia-lawsuit-against-apple-allowing-child-sexual-abuse-materials-its-platform
+[2026-07-08 15:43:19]   NEW: Full Story | 2026-07-07T12:00:00Z | https://ago.wv.gov/article/west-virginia-leads-23-state-coalition-urging-epa-delay-implementation-tier-4-vehicle
+[2026-07-08 15:43:19] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-08 15:43:19]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-08 15:43:23]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1529546 chars)
+[2026-07-08 15:43:23]   Playwright found 50 item(s) with configured selector
+[2026-07-08 15:43:23] [WI] Found 50 item(s) on page.
+[2026-07-08 15:43:23] [WI] 2 new item(s):
+[2026-07-08 15:43:23]   NEW: Wisconsin DOJ Urges U.S. Trade Representative to Stop Hitting American Consumers and Businesses with Illegal Tariffs |  | https://www.wisdoj.gov/PressReleases/press-release-tariff-letter.pdf
+[2026-07-08 15:43:23]   NEW: Wisconsin DOJ and Other States Sue HUD to Block New Changes to Funding Addressing Homelessness |  | https://www.wisdoj.gov/PressReleases/press-release-continuum-of-care-2.0.pdf
+[2026-07-08 15:43:23] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-08 15:43:23] [WY] Found 1 item(s) on page.
+[2026-07-08 15:43:23] [WY] No new items.
+[2026-07-08 15:43:23] States with fetch errors: KS, NH
+[2026-07-08 15:43:23] Sending email: 44 new item(s) across 24 state(s).
+[2026-07-08 15:43:24] Email sent.
+[2026-07-08 15:43:24] Done.
