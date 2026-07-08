@@ -3366,3 +3366,12 @@ Call log:
 [2026-07-08 18:01:32] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f732c419c70>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-07-08 18:01:32] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f732c419c70>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-07-08 18:01:32] Skipping this run — will retry next scheduled check.
+[2026-07-08 19:39:13] Checking for new DE court opinions...
+[2026-07-08 19:39:13] Using Playwright to fetch opinions page...
+[2026-07-08 19:39:26] Playwright found 27 opinion(s).
+[2026-07-08 19:39:26] Found 27 opinions on page.
+[2026-07-08 19:39:26] 1 new opinion(s)!
+[2026-07-08 19:39:26]   NEW: [07/08/2026] [Court of Chancery] Alexis Stombaugh v. Ashburn Homes, Inc. and Sobrook, LLC | C.A. No. 2022-0076 | WrightM.
+[2026-07-08 19:39:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397860
+[2026-07-08 19:39:27] Email notification sent.
+[2026-07-08 19:39:27] Done.
