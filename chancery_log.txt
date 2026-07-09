@@ -3452,3 +3452,22 @@ Call log:
 [2026-07-09 20:45:41] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fc3e1efa150>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-07-09 20:45:41] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fc3e1efa150>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-07-09 20:45:41] Skipping this run — will retry next scheduled check.
+[2026-07-09 22:16:48] Checking for new DE court opinions...
+[2026-07-09 22:16:48] Using Playwright to fetch opinions page...
+[2026-07-09 22:16:59] Playwright found 27 opinion(s).
+[2026-07-09 22:16:59] Found 27 opinions on page.
+[2026-07-09 22:16:59] 6 new opinion(s)!
+[2026-07-09 22:16:59]   NEW: [07/09/2026] [Superior Court] Dandini, et al. v. First Eagle Funds, et al. | N25C-05-224 KMM CCLD | MillerJ.
+[2026-07-09 22:16:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397930
+[2026-07-09 22:16:59]   NEW: [07/09/2026] [Superior Court] Hagans v. Justice of the Peace Court No. 11 | K26M-04-015 NEP | PrimosJ.
+[2026-07-09 22:16:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397970
+[2026-07-09 22:16:59]   NEW: [07/09/2026] [Superior Court] State v. Bradley | 2204007572 | JonesJ.
+[2026-07-09 22:16:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397940
+[2026-07-09 22:16:59]   NEW: [07/09/2026] [Superior Court] State v. Miller | 2412011692 | Green-StreettJ.
+[2026-07-09 22:16:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397950
+[2026-07-09 22:16:59]   NEW: [07/09/2026] [Superior Court] State v. Miller | 2412011692 | Green-StreettJ.
+[2026-07-09 22:16:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397960
+[2026-07-09 22:16:59]   NEW: [07/01/2026] [Justice Of The Peace Court] SUSAN GRAY VS JIMMIE RADEL | JP17-25-008313 | Three Judge PanelJ.
+[2026-07-09 22:16:59]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397920
+[2026-07-09 22:17:00] Email notification sent.
+[2026-07-09 22:17:00] Done.
