@@ -16040,3 +16040,260 @@ Call log:
 [2026-07-08 15:43:23] Sending email: 44 new item(s) across 24 state(s).
 [2026-07-08 15:43:24] Email sent.
 [2026-07-08 15:43:24] Done.
+[2026-07-09 16:11:49] Checking for new AG press releases...
+[2026-07-09 16:11:49] Checking 50 state(s).
+[2026-07-09 16:11:49] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-09 16:11:49]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-09 16:11:52]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (226341 chars)
+[2026-07-09 16:11:52]   Playwright found 27 item(s) with configured selector
+[2026-07-09 16:11:52] [AL] Found 27 item(s) on page.
+[2026-07-09 16:11:52] [AL] 1 new item(s):
+[2026-07-09 16:11:52]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-45-million-multistate-settlement-with-block-inc-over-deceptive-practices-on-cash-app/
+[2026-07-09 16:11:52] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-09 16:11:52] [AK] Found 50 item(s) on page.
+[2026-07-09 16:11:52] [AK] No new items.
+[2026-07-09 16:11:52] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-09 16:11:52] [AZ] Found 10 item(s) on page.
+[2026-07-09 16:11:52] [AZ] 2 new item(s):
+[2026-07-09 16:11:52]   NEW: Attorney General Mayes Secures Right-to-Repair Win for Arizona Farmers in Settlement with Deere & Company |  | https://www.azag.gov/press-release/attorney-general-mayes-secures-right-repair-win-arizona-farmers-settlement-deere
+[2026-07-09 16:11:52]   NEW: Attorney General Mayes Demands Spectra West Apartments in Glendale Restore Functioning Air Conditioning for Tenants |  | https://www.azag.gov/press-release/attorney-general-mayes-demands-spectra-west-apartments-glendale-restore-functioning
+[2026-07-09 16:11:52] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-09 16:11:53] [AR] Found 50 item(s) on page.
+[2026-07-09 16:11:53] [AR] No new items.
+[2026-07-09 16:11:53] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-09 16:11:53] [CA] Found 10 item(s) on page.
+[2026-07-09 16:11:53] [CA] 2 new item(s):
+[2026-07-09 16:11:53]   NEW: Attorney General Bonta Continues to Stand for Farmworkers’ Rights | Wed, 08 Jul 2026 19:03:52 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-continues-stand-farmworkers%E2%80%99-rights
+[2026-07-09 16:11:53]   NEW: Consumers Were Left High and Dry: Attorney General Bonta Secures $45 Million Settlement with Block over Dishonest Practices on Cash App | Wed, 08 Jul 2026 18:12:48 +0000 | https://oag.ca.gov/news/press-releases/consumers-were-left-high-and-dry-attorney-general-bonta-secures-45-million
+[2026-07-09 16:11:53] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-09 16:11:54] [CO] Found 48 item(s) on page.
+[2026-07-09 16:11:54] [CO] No new items.
+[2026-07-09 16:11:54] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-09 16:11:55] [CT] Found 34 item(s) on page.
+[2026-07-09 16:11:55] [CT] 2 new item(s):
+[2026-07-09 16:11:55]   NEW: Attorney General Tong Pushes Federal Government to Further Crackdown on Illegal Robocalls | 7/9/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-pushes-federal-government-to-further-crackdown-on-illegal-robocalls
+[2026-07-09 16:11:55]   NEW: Attorney General Tong Announces $45 Million Multistate Settlement with Block Inc. Over Deceptive Practices on Cash App | 7/8/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-announces-multistate-settlement-over-deceptive-practices-on-cash-app
+[2026-07-09 16:11:55] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-09 16:11:56] [DE] Found 300 item(s) on page.
+[2026-07-09 16:11:56] [DE] No new items.
+[2026-07-09 16:11:56] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-09 16:11:56] [FL] Found 20 item(s) on page.
+[2026-07-09 16:11:56] [FL] No new items.
+[2026-07-09 16:11:56] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-09 16:11:57] [GA] Found 11 item(s) on page.
+[2026-07-09 16:11:57] [GA] 1 new item(s):
+[2026-07-09 16:11:57]   NEW: Carr Secures Major Win in Defense of DA Oversight CommitteeJuly 08, 2026 |  | https://law.georgia.gov/press-releases/2026-07-08/carr-secures-major-win-defense-da-oversight-committee
+[2026-07-09 16:11:57] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-09 16:11:57] [HI] Found 26 item(s) on page.
+[2026-07-09 16:11:57] [HI] No new items.
+[2026-07-09 16:11:57] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-09 16:11:57]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-09 16:12:00]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65491 chars)
+[2026-07-09 16:12:00]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-09 16:12:00] [ID] Found 28 item(s) on page.
+[2026-07-09 16:12:00] [ID] 1 new item(s):
+[2026-07-09 16:12:00]   NEW: Jul 82026AG Labrador Files Closing Brief in Federal Lawsuit Defending Idaho’s Pro-Life Law | Jul 82026 | https://www.ag.idaho.gov/newsroom/ag-labrador-files-closing-brief-in-federal-lawsuit-defending-idahos-pro-life-law/
+[2026-07-09 16:12:00] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-09 16:12:01] [IL] Found 50 item(s) on page.
+[2026-07-09 16:12:01] [IL] 3 new item(s):
+[2026-07-09 16:12:01]   NEW: July 08, 2026ATTORNEY GENERAL KWAME RAOUL ANNOUNCES $45 MILLION MULTISTATE SETTLEMENT WITH BLOCK INC. OVER DECEPTIVE PRACTICES ON CASH APP | 2026-07-08 2:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-kwame-raoul-announces-45-million-multistate-settlement-with-block-inc-over-deceptive-practices-on-cash-app
+[2026-07-09 16:12:01]   NEW: July 08, 2026ATTORNEY GENERAL RAOUL AND BIPARTISAN COALITION PUSH FEDERAL GOVERNMENT TO FURTHER CRACK DOWN ON ILLEGAL ROBOCALLS | 2026-07-08 2:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-and-bipartisan-coalition-push-federal-government-to-further-crack-down-on-illegal-robocalls
+[2026-07-09 16:12:01]   NEW: July 08, 2026ATTORNEY GENERAL RAOUL REACHES SETTLEMENT WITH DEERE OVER ALLEGED UNFAIR CORPORATE TACTICS | 2026-07-08 2:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-reaches-settlement-with-deere-over-alleged-unfair-corporate-tactics
+[2026-07-09 16:12:01] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-09 16:12:02] [IN] Found 37 item(s) on page.
+[2026-07-09 16:12:02] [IN] No new items.
+[2026-07-09 16:12:02] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-09 16:12:02] [IA] Found 10 item(s) on page.
+[2026-07-09 16:12:02] [IA] 1 new item(s):
+[2026-07-09 16:12:02]   NEW: Attorney General Brenna Bird Fights for Further Crackdown on Illegal Robocalls | July 8, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-fights-for-further-crackdown-on-illegal-robocalls/
+[2026-07-09 16:12:02] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-09 16:12:02]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-09 16:12:05]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-07-09 16:12:05]   Playwright: page loaded but no links matched — check selectors
+[2026-07-09 16:12:05]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-09 16:12:06]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-09 16:12:26]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-09 16:12:46]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-09 16:12:46] [KS] No items returned (fetch failed or empty page).
+[2026-07-09 16:12:46] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-09 16:12:47] [KY] Found 26 item(s) on page.
+[2026-07-09 16:12:47] [KY] No new items.
+[2026-07-09 16:12:47] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-09 16:12:48] [LA] Found 20 item(s) on page.
+[2026-07-09 16:12:48] [LA] 2 new item(s):
+[2026-07-09 16:12:48]   NEW: Attorney General Murrill Pushes Federal Government to Further Crackdown on Illegal Robocalls | 7/8/2026 | https://ag.louisiana.gov/Article/566
+[2026-07-09 16:12:48]   NEW: Attorney General Liz Murrill Announces $45 Million Multistate Settlement with Block Inc. Over Deceptive Practices on Cash App | 7/8/2026 | https://ag.louisiana.gov/Article/565
+[2026-07-09 16:12:48] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-09 16:12:48] [ME] Found 10 item(s) on page.
+[2026-07-09 16:12:48] [ME] 1 new item(s):
+[2026-07-09 16:12:48]   NEW: Attorney General Aaron M. Frey Announces $45 Million Multistate Settlement with Block Inc. Over Deceptive Practices on Cash App | 7/08/2026 | https://www.maine.gov/ag/news-and-library/press-releases/attorney-general-aaron-m-frey-announces-45-million-multistate
+[2026-07-09 16:12:48] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-09 16:12:49] [MD] Found 50 item(s) on page.
+[2026-07-09 16:12:49] [MD] No new items.
+[2026-07-09 16:12:49] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-09 16:12:49]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-09 16:12:52]   Playwright loaded page: 'News and Announcements | Mass.gov' (176342 chars)
+[2026-07-09 16:12:52]   Playwright found 15 item(s) with configured selector
+[2026-07-09 16:12:52] [MA] Found 15 item(s) on page.
+[2026-07-09 16:12:52] [MA] 1 new item(s):
+[2026-07-09 16:12:52]   NEW: AG Campbell Announces $45 Million Multistate Settlement With Block, Inc. Over Deceptive Practices On Cash App | 7/08/2026 | https://www.mass.gov/news/ag-campbell-announces-45-million-multistate-settlement-with-block-inc-over-deceptive-practices-on-cash-app
+[2026-07-09 16:12:52] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-09 16:12:52]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-09 16:12:55]   Playwright loaded page: 'Attorney General: Press Releases' (370963 chars)
+[2026-07-09 16:12:56]   Playwright found 10 item(s) with configured selector
+[2026-07-09 16:12:56] [MI] Found 10 item(s) on page.
+[2026-07-09 16:12:56] [MI] 3 new item(s):
+[2026-07-09 16:12:56]   NEW: AG Nessel Sues HUD to Block New Changes to Funding Addressing Homelessness |  | https://www.michigan.gov/ag/news/press-releases/2026/07/08/ag-nessel-sues-hud-to-block-new-changes-to-funding-addressing-homelessness
+[2026-07-09 16:12:56]   NEW: AG Nessel Secures Settlement with Deere & Company, Advancing Farmers’ Right to Repair |  | https://www.michigan.gov/ag/news/press-releases/2026/07/08/ag-nessel-secures-settlement-with-deere-company-advancing-farmers-right-to-repair
+[2026-07-09 16:12:56]   NEW: AG Nessel Urges U.S. Trade Representative to Stop Hitting American Consumers, Businesses with Illegal Tariffs |  | https://www.michigan.gov/ag/news/press-releases/2026/07/08/ag-nessel-urges-us-trade-representative-to-stop-hitting-american-consumers
+[2026-07-09 16:12:56] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-09 16:12:56] [MN] Found 50 item(s) on page.
+[2026-07-09 16:12:56] [MN] No new items.
+[2026-07-09 16:12:56] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-09 16:12:56] [MS] Found 1 item(s) on page.
+[2026-07-09 16:12:56] [MS] 1 new item(s):
+[2026-07-09 16:12:56]   NEW: AG Fitch Fights Illegal Robocalls and Texts (July 8, 2026) |  | https://attorneygenerallynnfitch.com/2026/07/08/ag-fitch-fights-illegal-robocalls-and-texts-july-8-2026/
+[2026-07-09 16:12:56] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-09 16:12:58] [MO] Found 50 item(s) on page.
+[2026-07-09 16:12:58] [MO] 1 new item(s):
+[2026-07-09 16:12:58]   NEW: Missouri Attorney General Hanaway Pushes Federal Government to Further Crackdown on Illegal Robocalls |  | https://ago.mo.gov/missouri-attorney-general-hanaway-pushes-federal-government-to-further-crackdown-on-illegal-robocalls/
+[2026-07-09 16:12:58] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-09 16:12:58] [MT] Found 10 item(s) on page.
+[2026-07-09 16:12:58] [MT] 2 new item(s):
+[2026-07-09 16:12:58]   NEW: Attorney General Knudsen provides update on Montana drug seizures |  | https://dojmt.gov/attorney-general-knudsen-provides-update-on-montana-drug-seizures/
+[2026-07-09 16:12:58]   NEW: Attorney General Knudsen requests domestic violence case documents from Gallatin County Attorney’s Office |  | https://dojmt.gov/attorney-general-knudsen-requests-domestic-violence-case-documents-from-gallatin-county-attorneys-office/
+[2026-07-09 16:12:58] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-09 16:12:58] [NE] Found 10 item(s) on page.
+[2026-07-09 16:12:58] [NE] 2 new item(s):
+[2026-07-09 16:12:58]   NEW: AG Hilgers Joins Multistate Letter to the FCC to Support Combatting Illegal Robocalls | Wed, 08 Jul 2026 20:48:19 +0000 | https://ago.nebraska.gov/news/ag-hilgers-joins-multistate-letter-fcc-support-combatting-illegal-robocalls
+[2026-07-09 16:12:58]   NEW: Attorney General Hilgers Announces $45 Million Multistate Settlement with Block Inc. Over Deceptive Practices on Cash App | Wed, 08 Jul 2026 16:31:19 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-announces-45-million-multistate-settlement-block-inc-over-deceptive
+[2026-07-09 16:12:58] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-09 16:12:59] [NV] Found 50 item(s) on page.
+[2026-07-09 16:12:59] [NV] No new items.
+[2026-07-09 16:12:59] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-09 16:12:59]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-09 16:13:01]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-07-09 16:13:01]   Playwright: page loaded but no links matched — check selectors
+[2026-07-09 16:13:01]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-07-09 16:13:01]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-09 16:13:22]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-09 16:13:42]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-09 16:13:42] [NH] No items returned (fetch failed or empty page).
+[2026-07-09 16:13:42] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-09 16:13:43] [NJ] Found 5 item(s) on page.
+[2026-07-09 16:13:43] [NJ] 2 new item(s):
+[2026-07-09 16:13:43]   NEW: Attorney General Davenport Pushes Federal Government to Crack Down on Illegal Robocalls |  | https://www.njoag.gov/attorney-general-davenport-pushes-federal-government-to-crack-down-on-illegal-robocalls/
+[2026-07-09 16:13:43]   NEW: AG Davenport Announces Bipartisan Settlement With Tech Company Block, Inc., for Allegedly Misleading Consumers and Failing to Protect Them From Fraud |  | https://www.njoag.gov/ag-davenport-announces-bipartisan-settlement-with-tech-company-block-inc-for-allegedly-misleading-consumers-and-failing-to-protect-them-from-fraud/
+[2026-07-09 16:13:43] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-09 16:13:47] [NM] Found 15 item(s) on page.
+[2026-07-09 16:13:47] [NM] No new items.
+[2026-07-09 16:13:47] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-09 16:13:47] [NY] Found 25 item(s) on page.
+[2026-07-09 16:13:47] [NY] 4 new item(s):
+[2026-07-09 16:13:47]   NEW: Attorney General James Sues Some of Nation’s Largest Chemical Companies Over Toxic Pollution from Consumer Products |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-some-nations-largest-chemical-companies-over-toxic
+[2026-07-09 16:13:47]   NEW: La Fiscal General James Obtiene 45 millones de Dólares de Block por Facilitar Fraude y Engaño a Usuarios de Cash App |  | https://ag.ny.gov/press-release/2026/la-fiscal-general-james-obtiene-45-millones-de-dolares-de-block-por-facilitar
+[2026-07-09 16:13:47]   NEW: Attorney General James Secures $45 Million from Block for Enabling Fraud and Misleading Cash App Users |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-45-million-block-enabling-fraud-and-misleading
+[2026-07-09 16:13:47]   NEW: Attorney General James Urges Federal Government to Strengthen Rules to Stop Illegal Robocalls |  | https://ag.ny.gov/press-release/2026/attorney-general-james-urges-federal-government-strengthen-rules-stop-illegal
+[2026-07-09 16:13:47] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-09 16:13:56] [NC] Found 10 item(s) on page.
+[2026-07-09 16:13:56] [NC] 3 new item(s):
+[2026-07-09 16:13:56]   NEW: Attorney General Jeff Jackson Leads Bipartisan Coalition Pushing Federal Government to Further Crackdown on Illegal Robocalls |  | https://ncdoj.gov/attorney-general-jeff-jackson-leads-bipartisan-coalition-pushing-federal-government-to-further-crackdown-on-illegal-robocalls/
+[2026-07-09 16:13:56]   NEW: Attorney General Jackson Upholds Convictions in First-Degree Murder and Attempted Murder Cases Across North Carolina |  | https://ncdoj.gov/attorney-general-jackson-upholds-convictions-in-first-degree-murder-and-attempted-murder-cases-across-north-carolina/
+[2026-07-09 16:13:56]   NEW: Attorney General Jeff Jackson Secures Up to $165 Million Settlement Over Cash App Fraud Failures |  | https://ncdoj.gov/attorney-general-jeff-jackson-secures-up-to-165-million-settlement-over-cash-app-fraud-failures/
+[2026-07-09 16:13:56] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-09 16:13:56] [ND] Found 10 item(s) on page.
+[2026-07-09 16:13:56] [ND] No new items.
+[2026-07-09 16:13:56] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-09 16:13:56] [OH] Found 10 item(s) on page.
+[2026-07-09 16:13:56] [OH] 2 new item(s):
+[2026-07-09 16:13:56]   NEW: Carroll County Man Indicted on Sex Charges Involving Minors | 7/9/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/July-2026/Carroll-County-Man-Indicted-on-Sex-Charges-Involvi
+[2026-07-09 16:13:56]   NEW: OPOTA Launches Third Series of Virtual Reality Trainings for Law Enforcement | 7/8/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/July-2026/OPOTA-Launches-Third-Series-of-Virtual-Reality-Tra
+[2026-07-09 16:13:56] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-09 16:13:56]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-09 16:14:00]   Playwright loaded page: 'News Releases' (859695 chars)
+[2026-07-09 16:14:00]   Playwright: page loaded but no links matched — check selectors
+[2026-07-09 16:14:00]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-07-09 16:14:00] [OK] No items returned (fetch failed or empty page).
+[2026-07-09 16:14:00] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-09 16:14:01] [OR] Found 10 item(s) on page.
+[2026-07-09 16:14:01] [OR] 1 new item(s):
+[2026-07-09 16:14:01]   NEW: Attorney General Rayfield Announces $45 Million Multistate Settlement with Block Inc. Over Deceptive Practices on Cash App |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-announces-45m-multistate-settlement-in-cash-app-investigation/
+[2026-07-09 16:14:01] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-09 16:14:02] [PA] Found 12 item(s) on page.
+[2026-07-09 16:14:02] [PA] 3 new item(s):
+[2026-07-09 16:14:02]   NEW: Press ReleaseJUL 9, 2026Attorney General Sunday Pushes Feds to Expand Crackdown on Robocallers by Cutting Scammers’ Access to Legitimate Phone NumbersHARRISBURG — Attorney General Dave Sunday and 48 other attorneys general called on the Federal Communications Commission (FCC) to strengthen rules that would cut off scammers’ access to…Read more | 2026-07-09T09:53:04-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-pushes-feds-to-expand-crackdown-on-robocallers-by-cutting-scammers-access-to-legitimate-phone-numbers/
+[2026-07-09 16:14:02]   NEW: CrimeJUL 8, 2026AG Sunday’s Narcotics Agents, Westmoreland County Partners, Recover 11 Firearms, Cocaine From Convicted Felon’s North Huntingdon HomeHARRISBURG — Attorney General Dave Sunday announced arrests of two men and seizures of 11 firearms, and cocaine, during a search warrant detail Wednesday in Westmoreland County. The…Read more | 2026-07-08T15:29:17-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-narcotics-agents-westmoreland-county-partners-recover-11-firearms-cocaine-from-convicted-felons-north-huntingdon-home/
+[2026-07-09 16:14:02]   NEW: Fraud Protection & Consumer AlertsJUL 8, 2026Attorney General Sunday Announces $45 Million National Settlement with Owner of Cash App Regarding User Protection ShortcomingsCommonwealth to receive more than $1.1M for future public protection efforts HARRISBURG – Attorney General Dave Sunday announced a $45 million multistate settlement with Block, Inc., the owner…Read more | 2026-07-08T12:50:46-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-announces-45-million-national-settlement-with-owner-of-cash-app-regarding-user-protection-shortcomings/
+[2026-07-09 16:14:02] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-09 16:14:03] [RI] Found 10 item(s) on page.
+[2026-07-09 16:14:03] [RI] No new items.
+[2026-07-09 16:14:03] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-09 16:14:03]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-09 16:14:06]   Playwright loaded page: 'News - South Carolina Attorney General' (110647 chars)
+[2026-07-09 16:14:06]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-09 16:14:06] [SC] Found 9 item(s) on page.
+[2026-07-09 16:14:06] [SC] 2 new item(s):
+[2026-07-09 16:14:06]   NEW: Attorney General Alan Wilson pushes federal government to further crackdown on illegal robocallsRead More | Jul 09, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-pushes-federal-government-to-further-crackdown-on-illegal-robocalls/
+[2026-07-09 16:14:06]   NEW: Attorney General Alan Wilson defends religious liberty at U.S. Supreme CourtRead More | Jul 08, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-defends-religious-liberty-at-u-s-supreme-court-1/
+[2026-07-09 16:14:06] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-09 16:14:06]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-09 16:14:09]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-07-09 16:14:09]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-09 16:14:09] [SD] Found 1 item(s) on page.
+[2026-07-09 16:14:09] [SD] No new items.
+[2026-07-09 16:14:09] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-09 16:14:09]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-09 16:14:30] [TN] Found 50 item(s) on page.
+[2026-07-09 16:14:30] [TN] 1 new item(s):
+[2026-07-09 16:14:30]   NEW: Attorney General Jonathan Skrmetti Announces $45 Million Multistate Settlement with Block Inc. Over Deceptive Practices on Cash App |  | https://www.tn.gov/attorneygeneral/news/2026/7/9/pr26-27.html
+[2026-07-09 16:14:30] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-09 16:14:30] [TX] Found 50 item(s) on page.
+[2026-07-09 16:14:30] [TX] 1 new item(s):
+[2026-07-09 16:14:30]   NEW: Attor­ney Gen­er­al Ken Pax­ton Secures $45Mil­lion Set­tle­ment with Cash App for Vic­tims Exposed to Fraud and Decep­tive Safe­ty Claims |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-45-million-settlement-cash-app-victims-exposed-fraud-and
+[2026-07-09 16:14:30] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-09 16:14:30]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-09 16:14:33]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296192 chars)
+[2026-07-09 16:14:33]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-09 16:14:33] [UT] Found 50 item(s) on page.
+[2026-07-09 16:14:33] [UT] No new items.
+[2026-07-09 16:14:33] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-09 16:14:34] [VT] Found 50 item(s) on page.
+[2026-07-09 16:14:34] [VT] 2 new item(s):
+[2026-07-09 16:14:34]   NEW: Moretown Resident Sentenced to Prison for Attempted Luring of a Child and Possession of Child Sexual Abuse Material | DateJuly 8, 2026 | https://ago.vermont.gov/blog/2026/07/08/moretown-resident-sentenced-prison-attempted-luring-child-and-possession-child-sexual-abuse-material
+[2026-07-09 16:14:34]   NEW: Attorney General Clark Announces $1.3 Million Settlement Over Cash App Deceptive Practices | DateJuly 8, 2026 | https://ago.vermont.gov/blog/2026/07/08/attorney-general-clark-announces-13-million-settlement-over-cash-app-deceptive-practices
+[2026-07-09 16:14:34] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-09 16:14:35] [VA] Found 50 item(s) on page.
+[2026-07-09 16:14:35] [VA] 3 new item(s):
+[2026-07-09 16:14:35]   NEW: Amidst Cost Crisis, Virginia Urges U.S. Trade Representative to Stop Hitting American Consumers and Businesses with Illegal Tariffs |  | https://www.oag.state.va.us/media-center/news-releases/3071-amidst-cost-crisis-virginia-urges-u-s-trade-representative-to-stop-hitting-american-consumers-and-businesses-with-illegal-tariffs
+[2026-07-09 16:14:35]   NEW: Attorney General Jones Joins Multistate Opposition to Postal Service’s Attempt to Undermine Voting Rights |  | https://www.oag.state.va.us/media-center/news-releases/3070-attorney-general-jones-joins-multistate-opposition-to-postal-services-attempt-to-undermine-voting-rights
+[2026-07-09 16:14:35]   NEW: ICYMI: Ahead of Meta Trial, Attorney General Jones Secures Critical Win |  | https://www.oag.state.va.us/media-center/news-releases/3069-icymi-ahead-of-meta-trial-attorney-general-jones-secures-critical-win
+[2026-07-09 16:14:35] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-09 16:14:35] [WA] Found 15 item(s) on page.
+[2026-07-09 16:14:35] [WA] 1 new item(s):
+[2026-07-09 16:14:35]   NEW: Block Inc., owner of Cash App, settles two disputes with WA | Wed, 08 Jul 2026 16:11:51 +0000 | https://www.atg.wa.gov/news/news-releases/block-inc-owner-cash-app-settles-two-disputes-wa
+[2026-07-09 16:14:35] [WV] Fetching https://ago.wv.gov/news
+[2026-07-09 16:14:35]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-09 16:14:38]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54627 chars)
+[2026-07-09 16:14:38]   Playwright found 30 item(s) with configured selector
+[2026-07-09 16:14:38] [WV] Found 30 item(s) on page.
+[2026-07-09 16:14:38] [WV] 3 new item(s):
+[2026-07-09 16:14:38]   NEW: Full Story | 2026-07-08T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-announces-multistate-settlement-block-inc-over-deceptive
+[2026-07-09 16:14:38]   NEW: Full Story | 2026-07-08T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-pushes-fcc-further-crackdown-illegal-robocalls
+[2026-07-09 16:14:38]   NEW: Full Story | 2026-06-30T12:00:00Z | https://ago.wv.gov/article/ags-office-secures-monumental-victory-fairness-and-safety-girls-sports
+[2026-07-09 16:14:38] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-09 16:14:38]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-09 16:14:43]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1534086 chars)
+[2026-07-09 16:14:43]   Playwright found 50 item(s) with configured selector
+[2026-07-09 16:14:43] [WI] Found 50 item(s) on page.
+[2026-07-09 16:14:43] [WI] 4 new item(s):
+[2026-07-09 16:14:43]   NEW: Wisconsin DOJ, Coalition, and FTC Secure Settlement with Deere & Company, Advancing Farmers’ Right to Repair |  | https://www.wisdoj.gov/PressReleases/press-release-John-Deere.pdf
+[2026-07-09 16:14:43]   NEW: Wisconsin DOJ and Coalition Announce $45 Million Multistate Settlement with Block Inc. Over Alleged Deceptive Practices on Cash App |  | https://www.wisdoj.gov/PressReleases/press-release-cash-app-settlement.pdf
+[2026-07-09 16:14:43]   NEW: Wisconsin DOJ Calls on Federal Government to Further Crackdown on Illegal Robocalls |  | https://www.wisdoj.gov/PressReleases/press-release-robocalls-july-2026.pdf
+[2026-07-09 16:14:43]   NEW: Wisconsin DOJ Joins Amicus Brief in United Farm Workers v. United States Department of Labor to Protect Wages for Domestic and  H-2A Farmworkers |  | https://www.wisdoj.gov/PressReleases/press-release-farmworkers.pdf
+[2026-07-09 16:14:43] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-09 16:14:43] [WY] Found 1 item(s) on page.
+[2026-07-09 16:14:43] [WY] No new items.
+[2026-07-09 16:14:43] States with fetch errors: KS, NH, OK
+[2026-07-09 16:14:43] Sending email: 58 new item(s) across 30 state(s).
+[2026-07-09 16:14:45] Email sent.
+[2026-07-09 16:14:45] Done.
