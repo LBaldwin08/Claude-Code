@@ -713,3 +713,14 @@
 [2026-07-08 15:52:14] Found 20 press release(s) on page.
 [2026-07-08 15:52:14] No new press releases.
 [2026-07-08 15:52:14] Done.
+[2026-07-09 16:13:11] Checking for new FTC press releases...
+[2026-07-09 16:13:11] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-09 16:13:24] Playwright found 0 press release link(s).
+[2026-07-09 16:13:24] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-09 16:13:25] requests found 20 press release link(s).
+[2026-07-09 16:13:25] Found 20 press release(s) on page.
+[2026-07-09 16:13:25] 1 new press release(s)!
+[2026-07-09 16:13:25]   NEW: [2026-07-08T12:00:00Z] FTC, States Secure Settlement with Deere & Company, Advancing Farmers’ Right to Repair
+[2026-07-09 16:13:25]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair
+[2026-07-09 16:13:27] Email notification sent.
+[2026-07-09 16:13:27] Done.
