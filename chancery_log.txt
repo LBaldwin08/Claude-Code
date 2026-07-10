@@ -3501,3 +3501,12 @@ Call log:
 [2026-07-10 12:28:37] Found 27 opinions on page.
 [2026-07-10 12:28:37] No new opinions.
 [2026-07-10 12:28:37] Done.
+[2026-07-10 15:12:52] Checking for new DE court opinions...
+[2026-07-10 15:12:52] Using Playwright to fetch opinions page...
+[2026-07-10 15:13:05] Playwright found 27 opinion(s).
+[2026-07-10 15:13:05] Found 27 opinions on page.
+[2026-07-10 15:13:05] 1 new opinion(s)!
+[2026-07-10 15:13:05]   NEW: [07/10/2026] [Supreme Court(Court of Chancery)] Leo Investments Hong Kong Limited v. Tomales Bay Capital Anduril III, L.P., et al. | 415 & 428, 2025 | LeGrowJ.
+[2026-07-10 15:13:05]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=397980
+[2026-07-10 15:13:07] Email notification sent.
+[2026-07-10 15:13:07] Done.
