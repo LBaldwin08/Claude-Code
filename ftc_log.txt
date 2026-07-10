@@ -724,3 +724,14 @@
 [2026-07-09 16:13:25]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-secure-settlement-deere-company-advancing-farmers-right-repair
 [2026-07-09 16:13:27] Email notification sent.
 [2026-07-09 16:13:27] Done.
+[2026-07-10 15:57:30] Checking for new FTC press releases...
+[2026-07-10 15:57:30] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-10 15:57:45] Playwright found 0 press release link(s).
+[2026-07-10 15:57:45] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-10 15:57:46] requests found 20 press release link(s).
+[2026-07-10 15:57:46] Found 20 press release(s) on page.
+[2026-07-10 15:57:46] 1 new press release(s)!
+[2026-07-10 15:57:46]   NEW: [2026-07-09T12:00:00Z] RentGrow to Pay $2.25 Million to Settle FTC Allegations the Company Violated the Fair Credit Reporting Act and FTC Act
+[2026-07-10 15:57:46]        https://www.ftc.gov/news-events/news/press-releases/2026/07/rentgrow-pay-225-million-settle-ftc-allegations-company-violated-fair-credit-reporting-act-ftc-act
+[2026-07-10 15:57:47] Email notification sent.
+[2026-07-10 15:57:47] Done.
