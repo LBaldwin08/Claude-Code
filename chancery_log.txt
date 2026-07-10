@@ -3483,3 +3483,9 @@ Call log:
 [2026-07-10 02:30:18] Found 27 opinions on page.
 [2026-07-10 02:30:18] No new opinions.
 [2026-07-10 02:30:18] Done.
+[2026-07-10 06:26:44] Checking for new DE court opinions...
+[2026-07-10 06:26:44] Using Playwright to fetch opinions page...
+[2026-07-10 06:26:57] Playwright found 27 opinion(s).
+[2026-07-10 06:26:57] Found 27 opinions on page.
+[2026-07-10 06:26:57] No new opinions.
+[2026-07-10 06:26:57] Done.
