@@ -735,3 +735,11 @@
 [2026-07-10 15:57:46]        https://www.ftc.gov/news-events/news/press-releases/2026/07/rentgrow-pay-225-million-settle-ftc-allegations-company-violated-fair-credit-reporting-act-ftc-act
 [2026-07-10 15:57:47] Email notification sent.
 [2026-07-10 15:57:47] Done.
+[2026-07-11 14:36:35] Checking for new FTC press releases...
+[2026-07-11 14:36:35] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-11 14:36:49] Playwright found 0 press release link(s).
+[2026-07-11 14:36:49] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-11 14:36:50] requests found 20 press release link(s).
+[2026-07-11 14:36:50] Found 20 press release(s) on page.
+[2026-07-11 14:36:50] No new press releases.
+[2026-07-11 14:36:50] Done.
