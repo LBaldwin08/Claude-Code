@@ -16517,3 +16517,226 @@ Call log:
 [2026-07-10 15:55:07] Sending email: 22 new item(s) across 16 state(s).
 [2026-07-10 15:55:07] Email sent.
 [2026-07-10 15:55:07] Done.
+[2026-07-11 14:35:14] Checking for new AG press releases...
+[2026-07-11 14:35:14] Checking 50 state(s).
+[2026-07-11 14:35:14] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-11 14:35:14]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-11 14:35:19]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (230208 chars)
+[2026-07-11 14:35:20]   Playwright found 27 item(s) with configured selector
+[2026-07-11 14:35:20] [AL] Found 27 item(s) on page.
+[2026-07-11 14:35:20] [AL] No new items.
+[2026-07-11 14:35:20] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-11 14:35:20] [AK] Found 50 item(s) on page.
+[2026-07-11 14:35:20] [AK] 1 new item(s):
+[2026-07-11 14:35:20]   NEW: Jury Convicts Philip T. Phillips of Sexual Abuse of a Minor After He Absconds During Trial |  | https://law.alaska.gov/releases/2026/070926-Phillips.html
+[2026-07-11 14:35:20] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-11 14:35:20] [AZ] Found 10 item(s) on page.
+[2026-07-11 14:35:20] [AZ] 1 new item(s):
+[2026-07-11 14:35:20]   NEW: Attorney General Mayes Pushes Federal Government to Further Crackdown on Illegal Robocalls |  | https://www.azag.gov/press-release/attorney-general-mayes-pushes-federal-government-further-crackdown-illegal-robocalls
+[2026-07-11 14:35:20] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-11 14:35:21] [AR] Found 50 item(s) on page.
+[2026-07-11 14:35:21] [AR] No new items.
+[2026-07-11 14:35:21] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-11 14:35:21] [CA] Found 10 item(s) on page.
+[2026-07-11 14:35:21] [CA] 1 new item(s):
+[2026-07-11 14:35:21]   NEW: Attorney General Bonta Files Lawsuit to Protect Mental Health Grant Funds from Latest Trump Administration Termination Effort | Fri, 10 Jul 2026 17:46:24 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-protect-mental-health-grant-funds-latest
+[2026-07-11 14:35:21] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-11 14:35:22] [CO] Found 49 item(s) on page.
+[2026-07-11 14:35:22] [CO] No new items.
+[2026-07-11 14:35:22] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-11 14:35:23] [CT] Found 34 item(s) on page.
+[2026-07-11 14:35:23] [CT] No new items.
+[2026-07-11 14:35:23] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-11 14:35:24] [DE] Found 300 item(s) on page.
+[2026-07-11 14:35:24] [DE] No new items.
+[2026-07-11 14:35:24] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-11 14:35:24] [FL] Found 20 item(s) on page.
+[2026-07-11 14:35:24] [FL] No new items.
+[2026-07-11 14:35:24] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-11 14:35:25] [GA] Found 11 item(s) on page.
+[2026-07-11 14:35:25] [GA] No new items.
+[2026-07-11 14:35:25] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-11 14:35:25] [HI] Found 26 item(s) on page.
+[2026-07-11 14:35:25] [HI] No new items.
+[2026-07-11 14:35:25] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-11 14:35:25]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-11 14:35:28]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65726 chars)
+[2026-07-11 14:35:28]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-11 14:35:28] [ID] Found 28 item(s) on page.
+[2026-07-11 14:35:28] [ID] No new items.
+[2026-07-11 14:35:28] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-11 14:35:29] [IL] Found 50 item(s) on page.
+[2026-07-11 14:35:29] [IL] 1 new item(s):
+[2026-07-11 14:35:29]   NEW: July 10, 2026ATTORNEY GENERAL RAOUL FILES LAWSUIT TO PREVENT DEPARTMENT OF EDUCATION’S CUTS TO SCHOOL MENTAL HEALTH GRANTS | 2026-07-10 1:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-lawsuit-to-prevent-department-of-educations-cuts-to-school-mental-health-grants
+[2026-07-11 14:35:29] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-11 14:35:30] [IN] Found 37 item(s) on page.
+[2026-07-11 14:35:30] [IN] No new items.
+[2026-07-11 14:35:30] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-11 14:35:30] [IA] Found 10 item(s) on page.
+[2026-07-11 14:35:30] [IA] No new items.
+[2026-07-11 14:35:30] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-11 14:35:30]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-11 14:35:33]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-07-11 14:35:33]   Playwright: page loaded but no links matched — check selectors
+[2026-07-11 14:35:33]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-11 14:35:34]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-11 14:35:54]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-11 14:36:14]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-11 14:36:14] [KS] No items returned (fetch failed or empty page).
+[2026-07-11 14:36:14] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-11 14:36:16] [KY] Found 26 item(s) on page.
+[2026-07-11 14:36:16] [KY] No new items.
+[2026-07-11 14:36:16] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-11 14:36:16] [LA] Found 20 item(s) on page.
+[2026-07-11 14:36:16] [LA] 1 new item(s):
+[2026-07-11 14:36:16]   NEW: Attorney General Liz Murrill's Louisiana Bureau of Investigation Arrests Union Parish Man for Child Sexual Abuse Crimes | 7/10/2026 | https://ag.louisiana.gov/Article/569
+[2026-07-11 14:36:16] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-11 14:36:16] [ME] Found 10 item(s) on page.
+[2026-07-11 14:36:16] [ME] No new items.
+[2026-07-11 14:36:16] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-11 14:36:18] [MD] Found 50 item(s) on page.
+[2026-07-11 14:36:18] [MD] No new items.
+[2026-07-11 14:36:18] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-11 14:36:18]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-11 14:36:21]   Playwright loaded page: 'News and Announcements | Mass.gov' (176264 chars)
+[2026-07-11 14:36:21]   Playwright found 15 item(s) with configured selector
+[2026-07-11 14:36:21] [MA] Found 15 item(s) on page.
+[2026-07-11 14:36:21] [MA] 1 new item(s):
+[2026-07-11 14:36:21]   NEW: AG Campbell Sues U.S. Department Of Education Over Cuts To School Mental Health Grants | 7/10/2026 | https://www.mass.gov/news/ag-campbell-sues-us-department-of-education-over-cuts-to-school-mental-health-grants
+[2026-07-11 14:36:21] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-11 14:36:21]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-11 14:36:27]   Playwright loaded page: 'Attorney General: Press Releases' (370995 chars)
+[2026-07-11 14:36:27]   Playwright found 10 item(s) with configured selector
+[2026-07-11 14:36:27] [MI] Found 10 item(s) on page.
+[2026-07-11 14:36:27] [MI] 2 new item(s):
+[2026-07-11 14:36:27]   NEW: Private Mobile Home Water Services Provider, President Sentenced for Falsifying Water Safety, Discharge Tests |  | https://www.michigan.gov/ag/news/press-releases/2026/07/10/private-mobile-home-water-services-provider-president-sentenced-for-falsifying-water-safety
+[2026-07-11 14:36:27]   NEW: AG Nessel Joins Lawsuit to Prevent Department of Education’s Cuts to School Mental Health Grants |  | https://www.michigan.gov/ag/news/press-releases/2026/07/10/ag-nessel-joins-lawsuit-to-prevent-department-of-educations-cuts-to-school-mental-health-grants
+[2026-07-11 14:36:27] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-11 14:36:27] [MN] Found 50 item(s) on page.
+[2026-07-11 14:36:27] [MN] No new items.
+[2026-07-11 14:36:27] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-11 14:36:27] [MS] Found 1 item(s) on page.
+[2026-07-11 14:36:27] [MS] No new items.
+[2026-07-11 14:36:27] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-11 14:36:29] [MO] Found 50 item(s) on page.
+[2026-07-11 14:36:29] [MO] 1 new item(s):
+[2026-07-11 14:36:29]   NEW: Attorney General Hanaway Takes Action To Prevent The Release Of Kansas City-Area Sexual Predator |  | https://ago.mo.gov/attorney-general-hanaway-takes-action-to-prevent-the-release-of-kansas-city-area-sexual-predator/
+[2026-07-11 14:36:29] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-11 14:36:29] [MT] Found 10 item(s) on page.
+[2026-07-11 14:36:29] [MT] No new items.
+[2026-07-11 14:36:29] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-11 14:36:30] [NE] Found 10 item(s) on page.
+[2026-07-11 14:36:30] [NE] No new items.
+[2026-07-11 14:36:30] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-11 14:36:30] [NV] Found 50 item(s) on page.
+[2026-07-11 14:36:30] [NV] 1 new item(s):
+[2026-07-11 14:36:30]   NEW: NV SAVE |  | https://ag.nv.gov/Hot_Topics/NV_SAVE/
+[2026-07-11 14:36:30] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-11 14:36:30]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-11 14:36:33]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-07-11 14:36:33]   Playwright: page loaded but no links matched — check selectors
+[2026-07-11 14:36:33]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-07-11 14:36:33]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-11 14:36:53]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-11 14:37:13]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-11 14:37:13] [NH] No items returned (fetch failed or empty page).
+[2026-07-11 14:37:13] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-11 14:37:15] [NJ] Found 5 item(s) on page.
+[2026-07-11 14:37:15] [NJ] 1 new item(s):
+[2026-07-11 14:37:15]   NEW: UPDATE: AG’s Office Releases Police Radio Transmissions, Police Motor Vehicle Recorder Footage, and Surveillance Footage from Ongoing Investigation of Fatal Crash in Woodbridge, N.J., on February 20, 2026 |  | https://www.njoag.gov/update-ags-office-releases-police-radio-transmissions-police-motor-vehicle-recorder-footage-and-surveillance-footage-from-ongoing-investigation-of-fatal-crash-in-woodbridge-n-j-on-febru/
+[2026-07-11 14:37:15] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-11 14:37:18] [NM] Found 15 item(s) on page.
+[2026-07-11 14:37:18] [NM] 2 new item(s):
+[2026-07-11 14:37:18]   NEW: Attorney General Raúl Torrez Announces Over $388,000 for New Mexico Over Deceptive Practices on Cash App |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-announces-over-388000-for-new-mexico-over-deceptive-practices-on-cash-app/
+[2026-07-11 14:37:18]   NEW: New Mexico Supreme Court Upholds First-Degree Murder Conviction of Dominic De La O in the Shooting Death of Alamogordo Police Officer |  | https://nmdoj.gov/press-release/new-mexico-supreme-court-upholds-first-degree-murder-conviction-of-dominic-de-la-o-in-the-shooting-death-of-alamogordo-police-officer/
+[2026-07-11 14:37:18] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-11 14:37:18] [NY] Found 25 item(s) on page.
+[2026-07-11 14:37:18] [NY] 2 new item(s):
+[2026-07-11 14:37:18]   NEW: Attorney General James Sues Trump Administration for Trying to Slash Youth Mental Health Funding Again |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-trump-administration-trying-slash-youth-mental
+[2026-07-11 14:37:18]   NEW: Attorney General James and Governor Hochul Release Statement on Court Victory Against Kalshi |  | https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-release-statement-court-victory
+[2026-07-11 14:37:18] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-11 14:37:27] [NC] Found 10 item(s) on page.
+[2026-07-11 14:37:27] [NC] 1 new item(s):
+[2026-07-11 14:37:27]   NEW: Attorney General Jeff Jackson’s MID Data Mining Efforts Lead to $1.7 Million Medicaid Fraud Conviction |  | https://ncdoj.gov/attorney-general-jeff-jacksons-mid-data-mining-efforts-lead-to-1-7-million-medicaid-fraud-conviction/
+[2026-07-11 14:37:27] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-11 14:37:28] [ND] Found 10 item(s) on page.
+[2026-07-11 14:37:28] [ND] No new items.
+[2026-07-11 14:37:28] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-11 14:37:28] [OH] Found 10 item(s) on page.
+[2026-07-11 14:37:28] [OH] No new items.
+[2026-07-11 14:37:28] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-11 14:37:28]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-11 14:37:31]   Playwright loaded page: 'News Releases' (859709 chars)
+[2026-07-11 14:37:32]   Playwright: page loaded but no links matched — check selectors
+[2026-07-11 14:37:32]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-07-11 14:37:32] [OK] No items returned (fetch failed or empty page).
+[2026-07-11 14:37:32] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-11 14:37:33] [OR] Found 10 item(s) on page.
+[2026-07-11 14:37:33] [OR] 1 new item(s):
+[2026-07-11 14:37:33]   NEW: Attorney General Rayfield Sues to Block Trump Administration  Cuts to School Mental Health Grants |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-sues-to-block-trump-cuts-to-school-mental-health-grants/
+[2026-07-11 14:37:33] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-11 14:37:34] [PA] Found 12 item(s) on page.
+[2026-07-11 14:37:34] [PA] 1 new item(s):
+[2026-07-11 14:37:34]   NEW: CrimeJUL 10, 2026Corrections Officer at Pa. State Prison Jailed up to 44 Months for Sexual Relationships with Inmates, Fraud SchemeHARRISBURG — Attorney General Dave Sunday announced that a former corrections officer at SCI Forest has been sentenced to 22 to 44 months in state prison for having…Read more | 2026-07-10T15:03:58-04:00 | https://www.attorneygeneral.gov/taking-action/corrections-officer-at-pa-state-prison-jailed-up-to-44-months-for-sexual-relationships-with-inmates-fraud-scheme/
+[2026-07-11 14:37:34] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-11 14:37:34] [RI] Found 10 item(s) on page.
+[2026-07-11 14:37:34] [RI] 1 new item(s):
+[2026-07-11 14:37:34]   NEW: Attorney General Neronha, coalition sue Department of Education to prevent cuts to mental health grants | Fri, 10 Jul 2026 17:51:22 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-sue-department-education-prevent-cuts-mental
+[2026-07-11 14:37:34] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-11 14:37:34]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-11 14:37:37]   Playwright loaded page: 'News - South Carolina Attorney General' (110645 chars)
+[2026-07-11 14:37:37]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-11 14:37:37] [SC] Found 9 item(s) on page.
+[2026-07-11 14:37:37] [SC] No new items.
+[2026-07-11 14:37:37] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-11 14:37:37]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-11 14:37:40]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-07-11 14:37:40]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-11 14:37:40] [SD] Found 1 item(s) on page.
+[2026-07-11 14:37:40] [SD] No new items.
+[2026-07-11 14:37:40] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-11 14:37:41]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-11 14:38:01] [TN] Found 50 item(s) on page.
+[2026-07-11 14:38:01] [TN] No new items.
+[2026-07-11 14:38:01] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-11 14:38:01] [TX] Found 50 item(s) on page.
+[2026-07-11 14:38:01] [TX] 1 new item(s):
+[2026-07-11 14:38:01]   NEW: Attor­ney Gen­er­al Ken Pax­ton Hon­ors Child Sup­port Assis­tant Attor­neys Gen­er­al of the Year |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-honors-child-support-assistant-attorneys-general-year
+[2026-07-11 14:38:01] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-11 14:38:01]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-11 14:38:04]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296168 chars)
+[2026-07-11 14:38:05]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-11 14:38:05] [UT] Found 50 item(s) on page.
+[2026-07-11 14:38:05] [UT] No new items.
+[2026-07-11 14:38:05] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-11 14:38:05] [VT] Found 50 item(s) on page.
+[2026-07-11 14:38:05] [VT] 1 new item(s):
+[2026-07-11 14:38:05]   NEW: Bristol Resident Charged with Possession of Child Sexual Abuse Materials | DateJuly 10, 2026 | https://ago.vermont.gov/blog/2026/07/10/bristol-resident-charged-possession-child-sexual-abuse-materials
+[2026-07-11 14:38:05] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-11 14:38:06] [VA] Found 50 item(s) on page.
+[2026-07-11 14:38:06] [VA] No new items.
+[2026-07-11 14:38:06] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-11 14:38:06] [WA] Found 15 item(s) on page.
+[2026-07-11 14:38:06] [WA] 2 new item(s):
+[2026-07-11 14:38:06]   NEW: Washington Attorney General’s Office begins trial Monday against Albertsons for fueling opioid crisis | Fri, 10 Jul 2026 16:04:59 +0000 | https://www.atg.wa.gov/news/news-releases/washington-attorney-general-s-office-begins-trial-monday-against-albertsons
+[2026-07-11 14:38:06]   NEW: Washington State leads lawsuit to prevent Department of Education’s cuts to school mental health grants | Fri, 10 Jul 2026 16:16:23 +0000 | https://www.atg.wa.gov/news/news-releases/washington-state-leads-lawsuit-prevent-department-education-s-cuts-school-mental
+[2026-07-11 14:38:06] [WV] Fetching https://ago.wv.gov/news
+[2026-07-11 14:38:06]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-11 14:38:09]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54627 chars)
+[2026-07-11 14:38:09]   Playwright found 30 item(s) with configured selector
+[2026-07-11 14:38:09] [WV] Found 30 item(s) on page.
+[2026-07-11 14:38:09] [WV] No new items.
+[2026-07-11 14:38:09] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-11 14:38:09]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-11 14:38:14]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1535193 chars)
+[2026-07-11 14:38:14]   Playwright found 50 item(s) with configured selector
+[2026-07-11 14:38:14] [WI] Found 50 item(s) on page.
+[2026-07-11 14:38:14] [WI] 1 new item(s):
+[2026-07-11 14:38:14]   NEW: Wisconsin DOJ Joins Lawsuit to Prevent U.S. Department of Education’s Cuts to School Mental Health Grants |  | https://www.wisdoj.gov/PressReleases/press-release-mental-health-grants.pdf
+[2026-07-11 14:38:14] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-11 14:38:14] [WY] Found 1 item(s) on page.
+[2026-07-11 14:38:14] [WY] No new items.
+[2026-07-11 14:38:14] States with fetch errors: KS, NH, OK
+[2026-07-11 14:38:14] Sending email: 24 new item(s) across 20 state(s).
+[2026-07-11 14:38:16] Email sent.
+[2026-07-11 14:38:16] Done.
