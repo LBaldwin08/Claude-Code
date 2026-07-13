@@ -548,3 +548,10 @@
 [2026-07-12 14:51:39] Found 99 order(s) on page.
 [2026-07-12 14:51:39] No new orders.
 [2026-07-12 14:51:39] Done.
+[2026-07-13 16:27:25] Checking for new Supreme Court orders...
+[2026-07-13 16:27:25] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-07-13 16:27:29] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-07-13 16:27:31] Playwright found 99 order(s).
+[2026-07-13 16:27:31] Found 99 order(s) on page.
+[2026-07-13 16:27:31] No new orders.
+[2026-07-13 16:27:31] Done.
