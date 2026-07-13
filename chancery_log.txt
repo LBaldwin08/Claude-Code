@@ -3772,3 +3772,12 @@ Call log:
 [2026-07-13 11:36:44] Found 27 opinions on page.
 [2026-07-13 11:36:44] No new opinions.
 [2026-07-13 11:36:44] Done.
+[2026-07-13 14:21:44] Checking for new DE court opinions...
+[2026-07-13 14:21:44] Using Playwright to fetch opinions page...
+[2026-07-13 14:21:57] Playwright found 27 opinion(s).
+[2026-07-13 14:21:57] Found 27 opinions on page.
+[2026-07-13 14:21:57] 1 new opinion(s)!
+[2026-07-13 14:21:57]   NEW: [07/10/2026] [Supreme Court(Superior Court)] Tucker v. State | 467, 2025 | SeitzC.J.
+[2026-07-13 14:21:57]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398000
+[2026-07-13 14:21:58] Email notification sent.
+[2026-07-13 14:21:58] Done.
