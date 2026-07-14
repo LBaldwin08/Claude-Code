@@ -759,3 +759,16 @@
 [2026-07-13 16:06:45] Found 20 press release(s) on page.
 [2026-07-13 16:06:45] No new press releases.
 [2026-07-13 16:06:45] Done.
+[2026-07-14 15:09:42] Checking for new FTC press releases...
+[2026-07-14 15:09:42] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-14 15:09:57] Playwright found 0 press release link(s).
+[2026-07-14 15:09:57] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-14 15:09:59] requests found 20 press release link(s).
+[2026-07-14 15:09:59] Found 20 press release(s) on page.
+[2026-07-14 15:09:59] 2 new press release(s)!
+[2026-07-14 15:09:59]   NEW: [2026-07-14T12:00:00Z] FTC Endorses Ohio Supreme Court Proposal to Weaken ABA’s Law School Accreditation Monopoly
+[2026-07-14 15:09:59]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-endorses-ohio-supreme-court-proposal-weaken-abas-law-school-accreditation-monopoly
+[2026-07-14 15:09:59]   NEW: [2026-07-13T12:00:00Z] FTC Secures $12 Million in Penalties for Pre-Merger Reporting Act Violations
+[2026-07-14 15:09:59]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-12-million-penalties-pre-merger-reporting-act-violations
+[2026-07-14 15:10:00] Email notification sent.
+[2026-07-14 15:10:00] Done.
