@@ -17152,3 +17152,234 @@ Call log:
 [2026-07-13 16:07:45] Sending email: 4 new item(s) across 4 state(s).
 [2026-07-13 16:07:48] Email sent.
 [2026-07-13 16:07:48] Done.
+[2026-07-14 15:07:48] Checking for new AG press releases...
+[2026-07-14 15:07:48] Checking 50 state(s).
+[2026-07-14 15:07:48] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-14 15:07:48]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-14 15:07:51]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (230208 chars)
+[2026-07-14 15:07:51]   Playwright found 27 item(s) with configured selector
+[2026-07-14 15:07:51] [AL] Found 27 item(s) on page.
+[2026-07-14 15:07:51] [AL] No new items.
+[2026-07-14 15:07:51] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-14 15:07:51] [AK] Found 50 item(s) on page.
+[2026-07-14 15:07:51] [AK] No new items.
+[2026-07-14 15:07:51] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-14 15:07:51] [AZ] Found 10 item(s) on page.
+[2026-07-14 15:07:51] [AZ] 1 new item(s):
+[2026-07-14 15:07:51]   NEW: Attorney General Mayes Joins Coalition Challenging Paramount/Warner Bros. Merger |  | https://www.azag.gov/press-release/attorney-general-mayes-joins-coalition-challenging-paramountwarner-bros-merger
+[2026-07-14 15:07:51] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-14 15:07:52] [AR] Found 50 item(s) on page.
+[2026-07-14 15:07:52] [AR] No new items.
+[2026-07-14 15:07:52] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-14 15:07:53] [CA] Found 10 item(s) on page.
+[2026-07-14 15:07:53] [CA] 2 new item(s):
+[2026-07-14 15:07:53]   NEW: That’s Not All Folks: Attorney General Bonta Files Emergency Motion to Immediately Block Warner Bros./Paramount Merger | Tue, 14 Jul 2026 01:53:49 +0000 | https://oag.ca.gov/news/press-releases/%E2%80%99s-not-all-folks-attorney-general-bonta-files-emergency-motion-immediately-block
+[2026-07-14 15:07:53]   NEW: Attorney General Bonta Opposes Trump Administration’s Sweeping Proposal to Allow for Widespread Political Weaponization of Federal Grant Funding | Mon, 13 Jul 2026 18:07:30 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-trump-administration%E2%80%99s-sweeping-proposal-allow
+[2026-07-14 15:07:53] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-14 15:07:53] [CO] Found 49 item(s) on page.
+[2026-07-14 15:07:53] [CO] No new items.
+[2026-07-14 15:07:53] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-14 15:07:54] [CT] Found 34 item(s) on page.
+[2026-07-14 15:07:54] [CT] 3 new item(s):
+[2026-07-14 15:07:54]   NEW: READ THE UPDATE |  | https://portal.ct.gov/governor/news/press-releases/2026/07-2026/governor-lamont-activates-extreme-hot-weather-protocol-from-tuesday-through-thursday
+[2026-07-14 15:07:54]   NEW: Attorney General Tong Sues to Block Warner Bros./Paramount Merger | 7/13/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-to-block-warner-bros-paramount-merger
+[2026-07-14 15:07:54]   NEW: Attorney General Tong Sues Again to Prevent Department of Education's Cuts to School Mental Health Grants | 7/13/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-again-to-prevent-cuts-to-school-mental-health-grants
+[2026-07-14 15:07:54] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-14 15:07:55] [DE] Found 300 item(s) on page.
+[2026-07-14 15:07:55] [DE] No new items.
+[2026-07-14 15:07:55] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-14 15:07:55] [FL] Found 20 item(s) on page.
+[2026-07-14 15:07:55] [FL] 1 new item(s):
+[2026-07-14 15:07:55]   NEW: Attorney General James Uthmeier Launches Investigation into Potassium Bromate in Florida’s Food Supply Chain | 2026-07-13T18:20:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-launches-investigation-potassium-bromate-floridas-food
+[2026-07-14 15:07:55] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-14 15:07:56] [GA] Found 11 item(s) on page.
+[2026-07-14 15:07:56] [GA] No new items.
+[2026-07-14 15:07:56] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-14 15:07:56] [HI] Found 26 item(s) on page.
+[2026-07-14 15:07:56] [HI] No new items.
+[2026-07-14 15:07:56] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-14 15:07:56]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-14 15:07:59]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65503 chars)
+[2026-07-14 15:07:59]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-14 15:07:59] [ID] Found 28 item(s) on page.
+[2026-07-14 15:07:59] [ID] 1 new item(s):
+[2026-07-14 15:07:59]   NEW: Jul 132026AG Labrador Secures Record Amounts for Idaho Consumers | Jul 132026 | https://www.ag.idaho.gov/newsroom/ag-labrador-secures-record-amounts-for-idaho-consumers/
+[2026-07-14 15:07:59] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-14 15:08:01] [IL] Found 50 item(s) on page.
+[2026-07-14 15:08:01] [IL] 2 new item(s):
+[2026-07-14 15:08:01]   NEW: July 13, 2026ATTORNEY GENERAL RAOUL OPPOSES PROPOSED RULE THAT THREATENS BILLIONS IN CRUCIAL FEDERAL FUNDING FOR STATES | 2026-07-13 4:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-proposed-rule-that-threatens-billions-in-crucial-federal-funding-for-states
+[2026-07-14 15:08:01]   NEW: July 13, 2026ATTORNEY GENERAL RAOUL ENCOURAGES SERVICE MEMBERS, VETERANS TO PARTICIPATE IN FREE WEBINAR TO AVOID SCAMS DURING MILITARY CONSUMER MONTH | 2026-07-13 4:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-encourages-service-members-veterans-to-participate-in-free-webinar-to-avoid-scams-during-military-consumer-month
+[2026-07-14 15:08:01] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-14 15:08:01] [IN] Found 37 item(s) on page.
+[2026-07-14 15:08:01] [IN] No new items.
+[2026-07-14 15:08:01] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-14 15:08:01] [IA] Found 10 item(s) on page.
+[2026-07-14 15:08:01] [IA] 1 new item(s):
+[2026-07-14 15:08:01]   NEW: Public Notice: Attorney General Brenna Bird Schedules Inaugural Meeting for the Iowa Medicaid Fraud Prevention Task Force to Occur on July 15, 2026, at 11:00 AM July 14, 2026 | July 14, 2026 | https://www.iowaattorneygeneral.gov/newsroom/public-notice-attorney-general-brenna-bird-schedules-inaugural-meeting-for-the-iowa-medicaid-fraud/
+[2026-07-14 15:08:01] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-14 15:08:01]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-14 15:08:04]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-07-14 15:08:04]   Playwright: page loaded but no links matched — check selectors
+[2026-07-14 15:08:04]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-14 15:08:05]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-14 15:08:25]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-14 15:08:45]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-14 15:08:45] [KS] No items returned (fetch failed or empty page).
+[2026-07-14 15:08:45] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-14 15:08:46] [KY] Found 26 item(s) on page.
+[2026-07-14 15:08:46] [KY] No new items.
+[2026-07-14 15:08:46] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-14 15:08:47] [LA] Found 20 item(s) on page.
+[2026-07-14 15:08:47] [LA] 1 new item(s):
+[2026-07-14 15:08:47]   NEW: Attorney General Liz Murrill Announces Conviction of Rapides Parish Caregiver for Abuse of Vulnerable Adult | 7/13/2026 | https://ag.louisiana.gov/Article/570
+[2026-07-14 15:08:47] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-14 15:08:48] [ME] Found 11 item(s) on page.
+[2026-07-14 15:08:48] [ME] 1 new item(s):
+[2026-07-14 15:08:48]   NEW: Federal Law Enforcement Fatal Use of Deadly Force in Biddeford, Maine, July 13, 2026 | 7/13/2026 | https://www.maine.gov/ag/news-and-library/press-releases/federal-law-enforcement-fatal-use-deadly-force-biddeford-maine-july
+[2026-07-14 15:08:48] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-14 15:08:49] [MD] Found 50 item(s) on page.
+[2026-07-14 15:08:49] [MD] No new items.
+[2026-07-14 15:08:49] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-14 15:08:49]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-14 15:08:52]   Playwright loaded page: 'News and Announcements | Mass.gov' (176302 chars)
+[2026-07-14 15:08:52]   Playwright found 15 item(s) with configured selector
+[2026-07-14 15:08:52] [MA] Found 15 item(s) on page.
+[2026-07-14 15:08:52] [MA] 2 new item(s):
+[2026-07-14 15:08:52]   NEW: AG Campbell Secures Court Victory Protecting Public Access To Andrews Point In Rockport | 7/14/2026 | https://www.mass.gov/news/ag-campbell-secures-court-victory-protecting-public-access-to-andrews-point-in-rockport
+[2026-07-14 15:08:52]   NEW: AG Campbell Joins Coalition Challenging Paramount/Warner Bros. Merger | 7/13/2026 | https://www.mass.gov/news/ag-campbell-joins-coalition-challenging-paramountwarner-bros-merger
+[2026-07-14 15:08:52] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-14 15:08:52]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-14 15:08:56]   Playwright loaded page: 'Attorney General: Press Releases' (371028 chars)
+[2026-07-14 15:08:56]   Playwright found 10 item(s) with configured selector
+[2026-07-14 15:08:56] [MI] Found 10 item(s) on page.
+[2026-07-14 15:08:56] [MI] 2 new item(s):
+[2026-07-14 15:08:56]   NEW: AG Nessel Files Lawsuit Against Water Services Provider for Allegedly Submitting False Safety Reports |  | https://www.michigan.gov/ag/news/press-releases/2026/07/13/ag-nessel-files-lawsuit-against-water-services-provider-for-allegedly-submitting-false-safety
+[2026-07-14 15:08:56]   NEW: Wexford County Man Convicted of First-Degree Criminal Sexual Conduct Against Minor |  | https://www.michigan.gov/ag/news/press-releases/2026/07/13/wexford-county-man-convicted-of-first-degree-criminal-sexual-conduct-against-minor
+[2026-07-14 15:08:56] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-14 15:08:56] [MN] Found 50 item(s) on page.
+[2026-07-14 15:08:56] [MN] No new items.
+[2026-07-14 15:08:56] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-14 15:08:56] [MS] Found 1 item(s) on page.
+[2026-07-14 15:08:56] [MS] 1 new item(s):
+[2026-07-14 15:08:56]   NEW: Mississippi Attorney General K9 TracE Has Received Donation of Body Armor (July 14, 2026) |  | https://attorneygenerallynnfitch.com/2026/07/14/mississippi-attorney-general-k9-trace-has-received-donation-of-body-armor-july-14-2026/
+[2026-07-14 15:08:56] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-14 15:08:58] [MO] Found 50 item(s) on page.
+[2026-07-14 15:08:58] [MO] No new items.
+[2026-07-14 15:08:58] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-14 15:08:58] [MT] Found 10 item(s) on page.
+[2026-07-14 15:08:58] [MT] No new items.
+[2026-07-14 15:08:58] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-14 15:08:58] [NE] Found 10 item(s) on page.
+[2026-07-14 15:08:58] [NE] No new items.
+[2026-07-14 15:08:58] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-14 15:08:59] [NV] Found 50 item(s) on page.
+[2026-07-14 15:08:59] [NV] No new items.
+[2026-07-14 15:08:59] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-14 15:08:59]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-14 15:09:02]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-07-14 15:09:02]   Playwright: page loaded but no links matched — check selectors
+[2026-07-14 15:09:02]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-07-14 15:09:02]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-14 15:09:22]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-14 15:09:42]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-14 15:09:42] [NH] No items returned (fetch failed or empty page).
+[2026-07-14 15:09:42] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-14 15:09:44] [NJ] Found 5 item(s) on page.
+[2026-07-14 15:09:44] [NJ] 1 new item(s):
+[2026-07-14 15:09:44]   NEW: AG Davenport and Multistate Coalition Challenge Paramount/Warner Bros. Merger |  | https://www.njoag.gov/ag-davenport-and-multistate-coalition-challenge-paramount-warner-bros-merger/
+[2026-07-14 15:09:44] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-14 15:09:46] [NM] Found 14 item(s) on page.
+[2026-07-14 15:09:46] [NM] 1 new item(s):
+[2026-07-14 15:09:46]   NEW: Attorney General Raúl Torrez Challenges Warner Bros. / Paramount Merger |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-challenges-warner-bros-paramount-merger/
+[2026-07-14 15:09:46] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-14 15:09:47] [NY] Found 25 item(s) on page.
+[2026-07-14 15:09:47] [NY] 1 new item(s):
+[2026-07-14 15:09:47]   NEW: Attorney General James Sues to Block Paramount’s Merger with Warner Bros. |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-block-paramounts-merger-warner-bros
+[2026-07-14 15:09:47] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-14 15:09:51] [NC] Found 10 item(s) on page.
+[2026-07-14 15:09:51] [NC] No new items.
+[2026-07-14 15:09:51] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-14 15:09:51] [ND] Found 10 item(s) on page.
+[2026-07-14 15:09:51] [ND] 1 new item(s):
+[2026-07-14 15:09:51]   NEW: The North Dakota Attorney General issued an opinion to Mr. Robert C. Fleming | July 13, 2026July 13, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-mr-robert-c-fleming/
+[2026-07-14 15:09:51] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-14 15:09:52] [OH] Found 10 item(s) on page.
+[2026-07-14 15:09:52] [OH] 1 new item(s):
+[2026-07-14 15:09:52]   NEW: Nine Indicted in Central Ohio Human Trafficking Investigation | 7/13/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/July-2026/Nine-Indicted-in-Central-Ohio-Human-Trafficking-In
+[2026-07-14 15:09:52] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-14 15:09:52]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-14 15:09:56]   Playwright loaded page: 'News Releases' (859709 chars)
+[2026-07-14 15:09:56]   Playwright: page loaded but no links matched — check selectors
+[2026-07-14 15:09:56]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-07-14 15:09:56] [OK] No items returned (fetch failed or empty page).
+[2026-07-14 15:09:56] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-14 15:10:12] [OR] Found 10 item(s) on page.
+[2026-07-14 15:10:12] [OR] 1 new item(s):
+[2026-07-14 15:10:12]   NEW: Attorney General Rayfield Files Lawsuit Challenging Warner Bros./Paramount Merger |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-lawsuit-challenging-warner-bros-paramount-merger/
+[2026-07-14 15:10:12] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-14 15:10:13] [PA] Found 12 item(s) on page.
+[2026-07-14 15:10:13] [PA] No new items.
+[2026-07-14 15:10:13] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-14 15:10:13] [RI] Found 10 item(s) on page.
+[2026-07-14 15:10:13] [RI] No new items.
+[2026-07-14 15:10:13] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-14 15:10:13]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-14 15:10:16]   Playwright loaded page: 'News - South Carolina Attorney General' (110592 chars)
+[2026-07-14 15:10:16]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-14 15:10:16] [SC] Found 9 item(s) on page.
+[2026-07-14 15:10:16] [SC] 4 new item(s):
+[2026-07-14 15:10:16]   NEW: Attorney General Alan Wilson defends state sovereignty at the U.S. Supreme CourtRead More | Jul 14, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-defends-state-sovereignty-at-the-u-s-supreme-court/
+[2026-07-14 15:10:16]   NEW: Pee Dee men arrested on Child Sexual Abuse Material* chargesRead More | Jul 13, 2026 | https://www.scag.gov/about-the-office/news/pee-dee-men-arrested-on-child-sexual-abuse-material-charges/
+[2026-07-14 15:10:16]   NEW: Beaufort man arrested on Child Sexual Abuse Material* chargeRead More | Jul 13, 2026 | https://www.scag.gov/about-the-office/news/beaufort-man-arrested-on-child-sexual-abuse-material-charge/
+[2026-07-14 15:10:16]   NEW: Kershaw County man arrested on three Child Sexual Abuse Material* chargesRead More | Jul 13, 2026 | https://www.scag.gov/about-the-office/news/kershaw-county-man-arrested-on-three-child-sexual-abuse-material-charges-3/
+[2026-07-14 15:10:16] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-14 15:10:16]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-14 15:10:19]   Playwright loaded page: 'South Dakota Attorney General' (36016 chars)
+[2026-07-14 15:10:19]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-14 15:10:19] [SD] Found 1 item(s) on page.
+[2026-07-14 15:10:19] [SD] No new items.
+[2026-07-14 15:10:19] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-14 15:10:20]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-14 15:10:40] [TN] Found 50 item(s) on page.
+[2026-07-14 15:10:40] [TN] No new items.
+[2026-07-14 15:10:40] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-14 15:10:40] [TX] Found 50 item(s) on page.
+[2026-07-14 15:10:40] [TX] 1 new item(s):
+[2026-07-14 15:10:40]   NEW: Attor­ney Gen­er­al Ken Pax­ton Inves­ti­gates LinkedIn for Adver­tis­ing Fake and Mis­lead­ing Job Oppor­tu­ni­ties to Users Pay­ing for a Pre­mi­um Subscription |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-investigates-linkedin-advertising-fake-and-misleading-job-opportunities
+[2026-07-14 15:10:40] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-14 15:10:40]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-14 15:10:43]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296047 chars)
+[2026-07-14 15:10:44]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-14 15:10:44] [UT] Found 50 item(s) on page.
+[2026-07-14 15:10:44] [UT] No new items.
+[2026-07-14 15:10:44] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-14 15:10:44] [VT] Found 50 item(s) on page.
+[2026-07-14 15:10:44] [VT] No new items.
+[2026-07-14 15:10:44] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-14 15:10:45] [VA] Found 50 item(s) on page.
+[2026-07-14 15:10:45] [VA] 2 new item(s):
+[2026-07-14 15:10:45]   NEW: Virginia Joins Suit to Stop Trump Administration from Blocking Funding Addressing Homelessness |  | https://www.oag.state.va.us/media-center/news-releases/3074-virginia-joins-suit-to-stop-trump-administration-from-blocking-funding-addressing-homelessness
+[2026-07-14 15:10:45]   NEW: Attorney General Jay Jones Announces $45 Million Multistate Settlement with Block Inc. Over Deceptive Practices on Cash App |  | https://www.oag.state.va.us/media-center/news-releases/3073-attorney-general-jay-jones-announces-45-million-multistate-settlement-with-block-inc-over-deceptive-practices-on-cash-app
+[2026-07-14 15:10:45] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-14 15:10:45] [WA] Found 15 item(s) on page.
+[2026-07-14 15:10:45] [WA] 1 new item(s):
+[2026-07-14 15:10:45]   NEW: AG Brown co-leads coalition challenging Warner Bros./Paramount merger | Mon, 13 Jul 2026 15:20:08 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-co-leads-coalition-challenging-warner-brosparamount-merger
+[2026-07-14 15:10:45] [WV] Fetching https://ago.wv.gov/news
+[2026-07-14 15:10:45]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-14 15:10:48]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54627 chars)
+[2026-07-14 15:10:48]   Playwright found 30 item(s) with configured selector
+[2026-07-14 15:10:48] [WV] Found 30 item(s) on page.
+[2026-07-14 15:10:48] [WV] No new items.
+[2026-07-14 15:10:48] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-14 15:10:48]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-14 15:10:53]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1535255 chars)
+[2026-07-14 15:10:53]   Playwright found 50 item(s) with configured selector
+[2026-07-14 15:10:53] [WI] Found 50 item(s) on page.
+[2026-07-14 15:10:53] [WI] No new items.
+[2026-07-14 15:10:53] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-14 15:10:53] [WY] Found 1 item(s) on page.
+[2026-07-14 15:10:53] [WY] No new items.
+[2026-07-14 15:10:53] States with fetch errors: KS, NH, OK
+[2026-07-14 15:10:53] Sending email: 32 new item(s) across 22 state(s).
+[2026-07-14 15:10:55] Email sent.
+[2026-07-14 15:10:55] Done.
