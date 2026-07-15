@@ -3979,3 +3979,20 @@ Call log:
 [2026-07-15 14:44:46] Found 27 opinions on page.
 [2026-07-15 14:44:46] No new opinions.
 [2026-07-15 14:44:46] Done.
+[2026-07-15 16:16:50] Checking for new DE court opinions...
+[2026-07-15 16:16:50] Using Playwright to fetch opinions page...
+[2026-07-15 16:17:03] Playwright found 27 opinion(s).
+[2026-07-15 16:17:03] Found 27 opinions on page.
+[2026-07-15 16:17:03] 5 new opinion(s)!
+[2026-07-15 16:17:03]   NEW: [07/15/2026] [Court of Chancery] The Kili/Bikini/Ejit Local Government Council, on behalf of The People of Bikini v. Arden Trust Company | C.A. No. 2024-0866-NAC | CookV.C.
+[2026-07-15 16:17:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398110
+[2026-07-15 16:17:03]   NEW: [07/14/2026] [Supreme Court(Superior Court)] Blackston, Lisa vs. Delaware Division of Health and Social Services, Division of Social Services | 114, 2026 | SeitzC.J.
+[2026-07-15 16:17:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398100
+[2026-07-15 16:17:03]   NEW: [07/14/2026] [Supreme Court(Superior Court)] Carman v. State | 417, 2025 | LeGrowJ.
+[2026-07-15 16:17:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398050
+[2026-07-15 16:17:03]   NEW: [07/14/2026] [Supreme Court(Superior Court)] IMO the Petition of Quinton White for a Writ of Mandamus | 128, 2026 | SeitzC.J.
+[2026-07-15 16:17:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398040
+[2026-07-15 16:17:03]   NEW: [07/14/2026] [Supreme Court(Superior Court)] Rembert v. State | 391, 2025 | LeGrowJ.
+[2026-07-15 16:17:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398060
+[2026-07-15 16:17:05] Email notification sent.
+[2026-07-15 16:17:05] Done.
