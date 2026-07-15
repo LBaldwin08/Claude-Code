@@ -772,3 +772,16 @@
 [2026-07-14 15:09:59]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-12-million-penalties-pre-merger-reporting-act-violations
 [2026-07-14 15:10:00] Email notification sent.
 [2026-07-14 15:10:00] Done.
+[2026-07-15 15:09:27] Checking for new FTC press releases...
+[2026-07-15 15:09:27] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-15 15:09:41] Playwright found 0 press release link(s).
+[2026-07-15 15:09:41] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-15 15:09:41] requests found 20 press release link(s).
+[2026-07-15 15:09:41] Found 20 press release(s) on page.
+[2026-07-15 15:09:41] 2 new press release(s)!
+[2026-07-15 15:09:41]   NEW: [2026-07-15T12:00:00Z] FTC Approves Final Order Against TruHeight for Deceptive and Unsubstantiated Advertising of Supplements for Kids and Teens
+[2026-07-15 15:09:41]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-approves-final-order-against-truheight-deceptive-unsubstantiated-advertising-supplements-kids
+[2026-07-15 15:09:41]   NEW: [2026-07-14T12:00:00Z] FTC Secures Major Settlement with Caremark, Resolving Antitrust Case Against Second Drug Middleman
+[2026-07-15 15:09:41]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman
+[2026-07-15 15:09:42] Email notification sent.
+[2026-07-15 15:09:42] Done.
