@@ -17383,3 +17383,240 @@ Call log:
 [2026-07-14 15:10:53] Sending email: 32 new item(s) across 22 state(s).
 [2026-07-14 15:10:55] Email sent.
 [2026-07-14 15:10:55] Done.
+[2026-07-15 15:07:20] Checking for new AG press releases...
+[2026-07-15 15:07:20] Checking 50 state(s).
+[2026-07-15 15:07:20] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-15 15:07:20]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-15 15:07:24]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (230209 chars)
+[2026-07-15 15:07:24]   Playwright found 27 item(s) with configured selector
+[2026-07-15 15:07:24] [AL] Found 27 item(s) on page.
+[2026-07-15 15:07:24] [AL] No new items.
+[2026-07-15 15:07:24] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-15 15:07:25] [AK] Found 50 item(s) on page.
+[2026-07-15 15:07:25] [AK] 2 new item(s):
+[2026-07-15 15:07:25]   NEW: Acting Attorney General Cori Mills Announces $18 Million Multistate Settlement with 23andme Over Genetic Data Breach |  | https://law.alaska.gov/releases/2026/071426-23andMe.html
+[2026-07-15 15:07:25]   NEW: Alaskan Consumers Who Were Scammed Using a Bitcoin Depot May Be Eligible for Compensation |  | https://law.alaska.gov/releases/2026/071426-Bitcoin.html
+[2026-07-15 15:07:25] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-15 15:07:25] [AZ] Found 10 item(s) on page.
+[2026-07-15 15:07:25] [AZ] 1 new item(s):
+[2026-07-15 15:07:25]   NEW: Attorney General Mayes Announces Multistate Settlement of Bankruptcy Claims Against 23andMe Over Genetic Data Breach |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-multistate-settlement-bankruptcy-claims-against
+[2026-07-15 15:07:25] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-15 15:07:26] [AR] Found 50 item(s) on page.
+[2026-07-15 15:07:26] [AR] No new items.
+[2026-07-15 15:07:26] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-15 15:07:26] [CA] Found 10 item(s) on page.
+[2026-07-15 15:07:26] [CA] No new items.
+[2026-07-15 15:07:26] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-15 15:07:27] [CO] Found 49 item(s) on page.
+[2026-07-15 15:07:27] [CO] No new items.
+[2026-07-15 15:07:27] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-15 15:07:27] [CT] Found 34 item(s) on page.
+[2026-07-15 15:07:27] [CT] 3 new item(s):
+[2026-07-15 15:07:27]   NEW: Attorney General Tong Announces $29.6 Million Settlement with Glenmark Over Conspiracy to Inflate Prices and Limit Competition | 7/15/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-announces-settlement-with-glenmark-over-conspiracy-to-inflate-prices
+[2026-07-15 15:07:27]   NEW: Attorney General Tong Leads Multistate Settlement of Bankruptcy Claims Against 23andMe Over Genetic Data Breach | 7/14/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-leads-multistate-settlement-of-bankruptcy-claims-against-23andme
+[2026-07-15 15:07:27]   NEW: Attorney General Tong Statement Regarding Eversource Rate Hike Filing | 7/14/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-statement-regarding-eversource-rate-hike-filing
+[2026-07-15 15:07:27] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-15 15:07:28] [DE] Found 300 item(s) on page.
+[2026-07-15 15:07:28] [DE] 1 new item(s):
+[2026-07-15 15:07:28]   NEW: AG Jennings announces multistate settlement of bankruptcy claims against 23andMe over genetic data breach | Tue, 14 Jul 2026 09:05:41 +0000 | https://news.delaware.gov/2026/07/14/ag-jennings-announces-multistate-settlement-of-bankruptcy-claims-against-23andme-over-genetic-data-breach/
+[2026-07-15 15:07:28] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-15 15:07:28] [FL] Found 20 item(s) on page.
+[2026-07-15 15:07:28] [FL] No new items.
+[2026-07-15 15:07:28] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-15 15:07:28] [GA] Found 11 item(s) on page.
+[2026-07-15 15:07:28] [GA] No new items.
+[2026-07-15 15:07:28] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-15 15:07:28] [HI] Found 26 item(s) on page.
+[2026-07-15 15:07:28] [HI] No new items.
+[2026-07-15 15:07:28] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-15 15:07:28]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-15 15:07:32]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65591 chars)
+[2026-07-15 15:07:32]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-15 15:07:32] [ID] Found 28 item(s) on page.
+[2026-07-15 15:07:32] [ID] 1 new item(s):
+[2026-07-15 15:07:32]   NEW: Jul 102026AG Labrador Announces Arrest for Alleged Possession of Child Sexual Abuse Material in Nampa | Jul 102026 | https://www.ag.idaho.gov/newsroom/ag-labrador-announces-arrest-for-alleged-possession-of-child-sexual-abuse-material-in-nampa/
+[2026-07-15 15:07:32] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-15 15:07:33] [IL] Found 50 item(s) on page.
+[2026-07-15 15:07:33] [IL] 2 new item(s):
+[2026-07-15 15:07:33]   NEW: July 14, 2026ATTORNEY GENERAL RAOUL OBTAINS GUILTY PLEA, PRISON SENTENCE IN CASE AGAINST COOK COUNTY WOMAN WHO ABUSED DISABLED INDIVIDUAL | 2026-07-14 2:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-guilty-plea-prison-sentence-in-case-against-cook-county-woman-who-abused-disabled-individual
+[2026-07-15 15:07:33]   NEW: July 14, 2026ATTORNEY GENERAL RAOUL ANNOUNCES MULTISTATE SETTLEMENT OF BANKRUPTCY CLAIMS AGAINST 23ANDME OVER GENETIC DATA BREACH | 2026-07-14 2:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-multistate-settlement-of-bankruptcy-claims-against-23andme-over-genetic-data-breach
+[2026-07-15 15:07:33] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-15 15:07:33] [IN] Found 37 item(s) on page.
+[2026-07-15 15:07:33] [IN] No new items.
+[2026-07-15 15:07:33] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-15 15:07:33] [IA] Found 10 item(s) on page.
+[2026-07-15 15:07:33] [IA] 2 new item(s):
+[2026-07-15 15:07:33]   NEW: Attorney General Brenna Bird Announces Multistate Settlement of Bankruptcy Claims Against 23andMe in Genetic Data Breach | July 14, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-multistate-settlement-of-bankruptcy-claims-against-23andme-in/
+[2026-07-15 15:07:33]   NEW: Iowa Attorney General’s Office Concludes Officer Acted with Legal Justification in Wapello County Shooting | July 14, 2026 | https://www.iowaattorneygeneral.gov/newsroom/iowa-attorney-generals-office-concludes-officer-acted-with-legal-justification-in-wapello-county-sh/
+[2026-07-15 15:07:33] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-15 15:07:33]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-15 15:07:36]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-07-15 15:07:36]   Playwright: page loaded but no links matched — check selectors
+[2026-07-15 15:07:36]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-15 15:07:37]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-15 15:07:57]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-15 15:08:17]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-15 15:08:17] [KS] No items returned (fetch failed or empty page).
+[2026-07-15 15:08:17] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-15 15:08:18] [KY] Found 26 item(s) on page.
+[2026-07-15 15:08:18] [KY] No new items.
+[2026-07-15 15:08:18] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-15 15:08:18] [LA] Found 20 item(s) on page.
+[2026-07-15 15:08:18] [LA] 1 new item(s):
+[2026-07-15 15:08:18]   NEW: BREAKING: Attorney General Liz Murrill Secures Major Victory Ending Decades-Old Federal Oversight of Concordia Parish Schools | 7/14/2026 | https://ag.louisiana.gov/Article/571
+[2026-07-15 15:08:18] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-15 15:08:18] [ME] Found 11 item(s) on page.
+[2026-07-15 15:08:18] [ME] No new items.
+[2026-07-15 15:08:18] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-15 15:08:19] [MD] Found 50 item(s) on page.
+[2026-07-15 15:08:19] [MD] No new items.
+[2026-07-15 15:08:19] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-15 15:08:19]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-15 15:08:22]   Playwright loaded page: 'News and Announcements | Mass.gov' (176294 chars)
+[2026-07-15 15:08:22]   Playwright found 15 item(s) with configured selector
+[2026-07-15 15:08:22] [MA] Found 15 item(s) on page.
+[2026-07-15 15:08:22] [MA] 1 new item(s):
+[2026-07-15 15:08:22]   NEW: AG Campbell Announces Multistate Settlement With 23andMe Over Genetic Data Breach | 7/14/2026 | https://www.mass.gov/news/ag-campbell-announces-multistate-settlement-with-23andme-over-genetic-data-breach
+[2026-07-15 15:08:22] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-15 15:08:22]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-15 15:08:26]   Playwright loaded page: 'Attorney General: Press Releases' (371032 chars)
+[2026-07-15 15:08:26]   Playwright found 10 item(s) with configured selector
+[2026-07-15 15:08:26] [MI] Found 10 item(s) on page.
+[2026-07-15 15:08:26] [MI] 1 new item(s):
+[2026-07-15 15:08:26]   NEW: AG Nessel Announces Multistate Settlement of Bankruptcy Claims Against 23AndMe over Genetic Data Breach |  | https://www.michigan.gov/ag/news/press-releases/2026/07/14/ag-nessel-announces-settlement-of-bankruptcy-claims-against-23andme
+[2026-07-15 15:08:26] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-15 15:08:26] [MN] Found 50 item(s) on page.
+[2026-07-15 15:08:26] [MN] No new items.
+[2026-07-15 15:08:26] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-15 15:08:26] [MS] Found 1 item(s) on page.
+[2026-07-15 15:08:26] [MS] No new items.
+[2026-07-15 15:08:26] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-15 15:08:26] [MO] Found 50 item(s) on page.
+[2026-07-15 15:08:26] [MO] 1 new item(s):
+[2026-07-15 15:08:26]   NEW: Attorney General Hanaway Announces Proactive Human Trafficking Operation Removes Predators from Taney County |  | https://ago.mo.gov/attorney-general-hanaway-announces-proactive-human-trafficking-operation-removes-predators-from-taney-county/
+[2026-07-15 15:08:26] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-15 15:08:27] [MT] Found 10 item(s) on page.
+[2026-07-15 15:08:27] [MT] No new items.
+[2026-07-15 15:08:27] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-15 15:08:27] [NE] Found 10 item(s) on page.
+[2026-07-15 15:08:27] [NE] 1 new item(s):
+[2026-07-15 15:08:27]   NEW: Nebraska Nurses Disciplined for Violations at Omaha Hospice Service | Tue, 14 Jul 2026 20:23:07 +0000 | https://ago.nebraska.gov/nebraska-nurses-disciplined-violations-omaha-hospice-service
+[2026-07-15 15:08:27] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-15 15:08:27] [NV] Found 50 item(s) on page.
+[2026-07-15 15:08:27] [NV] No new items.
+[2026-07-15 15:08:27] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-15 15:08:27]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-15 15:08:30]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-07-15 15:08:30]   Playwright: page loaded but no links matched — check selectors
+[2026-07-15 15:08:30]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-07-15 15:08:30]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-15 15:08:50]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-15 15:09:10]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-15 15:09:10] [NH] No items returned (fetch failed or empty page).
+[2026-07-15 15:09:10] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-15 15:09:12] [NJ] Found 5 item(s) on page.
+[2026-07-15 15:09:12] [NJ] 3 new item(s):
+[2026-07-15 15:09:12]   NEW: State Grand Jury Declines to Criminally Charge Officer in Connection with July 29, 2025 Fatal Police-Involved Shooting in West Berlin, N.J. |  | https://www.njoag.gov/state-grand-jury-declines-to-criminally-charge-officer-in-connection-with-july-29-2025-fatal-police-involved-shooting-in-west-berlin-n-j/
+[2026-07-15 15:09:12]   NEW: UPDATE: Attorney General’s Office Releases Video Footage and Radio Recordings from March 16, 2026 Fatal Police Shooting in Lacey, N.J. |  | https://www.njoag.gov/update-attorney-generals-office-releases-video-footage-and-radio-recordings-from-march-16-2026-fatal-police-shooting-in-lacey-n-j/
+[2026-07-15 15:09:12]   NEW: Attorney General Jennifer Davenport Announces Multistate Settlement of Bankruptcy Claims Against 23andMe Over Genetic Data Breach |  | https://www.njoag.gov/attorney-general-jennifer-davenport-announces-multistate-settlement-of-bankruptcy-claims-against-23andme-over-genetic-data-breach/
+[2026-07-15 15:09:12] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-15 15:09:15] [NM] Found 14 item(s) on page.
+[2026-07-15 15:09:15] [NM] 1 new item(s):
+[2026-07-15 15:09:15]   NEW: Attorney General Raúl Torrez Announces Victory for New Mexicans Against Trump Administration in Voter Registration Rolls Case |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-announces-victory-for-new-mexicans-against-trump-administration-in-voter-registration-rolls-case/
+[2026-07-15 15:09:15] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-15 15:09:15]   Attempt 1/3 failed for https://ag.ny.gov/press-releases: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-15 15:09:35] [NY] Found 25 item(s) on page.
+[2026-07-15 15:09:35] [NY] 3 new item(s):
+[2026-07-15 15:09:35]   NEW: Attorney General James Delivers $250,000 to Improve Lead Safety Training for Construction Workers |  | https://ag.ny.gov/press-release/2026/attorney-general-james-delivers-250000-improve-lead-safety-training-construction
+[2026-07-15 15:09:35]   NEW: Attorney General James Secures $18 Million From 23andMe for Failing to Protect Customers’ Genetic Data |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-18-million-23andme-failing-protect-customers
+[2026-07-15 15:09:35]   NEW: Attorney General James Announces Arrest of Long Island Man for Fraudulently Obtaining Disability Benefits |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-arrest-long-island-man-fraudulently-obtaining
+[2026-07-15 15:09:35] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-15 15:09:48] [NC] Found 10 item(s) on page.
+[2026-07-15 15:09:48] [NC] 2 new item(s):
+[2026-07-15 15:09:48]   NEW: Attorney General Jeff Jackson Wins Settlement with 23andMe Over Genetic Data Protections |  | https://ncdoj.gov/attorney-general-jeff-jackson-wins-settlement-with-23andme-over-genetic-data-protections/
+[2026-07-15 15:09:48]   NEW: Attorney General Jeff Jackson, North Carolina Law Enforcement Leaders Defend North Carolina’s Public Safety Laws |  | https://ncdoj.gov/attorney-general-jeff-jackson-north-carolina-law-enforcement-leaders-defend-north-carolinas-public-safety-laws/
+[2026-07-15 15:09:48] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-15 15:09:48] [ND] Found 10 item(s) on page.
+[2026-07-15 15:09:48] [ND] No new items.
+[2026-07-15 15:09:48] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-15 15:09:49] [OH] Found 10 item(s) on page.
+[2026-07-15 15:09:49] [OH] No new items.
+[2026-07-15 15:09:49] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-15 15:09:49]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-15 15:09:52]   Playwright loaded page: 'News Releases' (807755 chars)
+[2026-07-15 15:09:52]   Playwright: page loaded but no links matched — check selectors
+[2026-07-15 15:09:52]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-07-15 15:09:52] [OK] No items returned (fetch failed or empty page).
+[2026-07-15 15:09:52] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-15 15:09:57] [OR] Found 10 item(s) on page.
+[2026-07-15 15:09:57] [OR] 2 new item(s):
+[2026-07-15 15:09:57]   NEW: AG Rayfield Announces Multistate Settlement of Bankruptcy Claims Against 23andMe Over Genetic Data Breach |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-announces-settlement-of-bankruptcy-claims-against-23andme/
+[2026-07-15 15:09:57]   NEW: Attorney General Rayfield Files Emergency Motion to Stop Warner Bros./Paramount Merger |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-files-emergency-motion-to-stop-warner-bros-paramount-merger/
+[2026-07-15 15:09:57] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-15 15:09:57] [PA] Found 12 item(s) on page.
+[2026-07-15 15:09:57] [PA] 3 new item(s):
+[2026-07-15 15:09:57]   NEW: CrimeJUL 15, 2026Ringleader of Blair County Drug-Dealing Crew Jailed up to 30 Years for Trafficking, Role in Overdose DeathHARRISBURG — Attorney General Dave Sunday announced that the leader of a Blair County drug-trafficking organization, and two of his cohorts, were sentenced to state prison for their…Read more | 2026-07-15T10:25:30-04:00 | https://www.attorneygeneral.gov/taking-action/ringleader-of-blair-county-drug-dealing-crew-jailed-up-to-30-years-for-trafficking-role-in-overdose-death/
+[2026-07-15 15:09:57]   NEW: Press ReleaseJUL 14, 2026AG Sunday Announces $18 Million National Settlement with 23andMe Over Genetic Data BreachPennsylvanians also to benefit from $46 million national class-action settlement HARRISBURG – Attorney General Dave Sunday joined a coalition of 42 states announcing a $18 million bankruptcy claim…Read more | 2026-07-14T12:08:13-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-18-million-national-settlement-with-23andme-over-genetic-data-breach/
+[2026-07-15 15:09:57]   NEW: Press ReleaseJUL 14, 2026Attorney General Sunday Discusses Public Safety Impacts Expected from Pa. Legislature’s Budget Deal and Bills Passed During Budget SessionsHARRISBURG — Attorney General Dave Sunday is encouraged that the recently-passed $50.8 billion state budget — along with several bills passed during last weekend’s sessions — will advance…Read more | 2026-07-14T11:35:45-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-discusses-public-safety-impacts-expected-from-pa-legislatures-budget-deal-and-bills-passed-during-budget-sessions/
+[2026-07-15 15:09:57] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-15 15:09:57] [RI] Found 10 item(s) on page.
+[2026-07-15 15:09:57] [RI] No new items.
+[2026-07-15 15:09:57] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-15 15:09:57]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-15 15:10:00]   Playwright loaded page: 'News - South Carolina Attorney General' (110592 chars)
+[2026-07-15 15:10:00]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-15 15:10:00] [SC] Found 9 item(s) on page.
+[2026-07-15 15:10:00] [SC] No new items.
+[2026-07-15 15:10:00] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-15 15:10:00]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-15 15:10:04]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-07-15 15:10:04]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-15 15:10:04] [SD] Found 1 item(s) on page.
+[2026-07-15 15:10:04] [SD] No new items.
+[2026-07-15 15:10:04] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-15 15:10:04]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-15 15:10:24] [TN] Found 50 item(s) on page.
+[2026-07-15 15:10:24] [TN] 1 new item(s):
+[2026-07-15 15:10:24]   NEW: Attorney General Jonathan Skrmetti Secures Multistate Settlement over 23andMe Genetic Data Breach |  | https://www.tn.gov/attorneygeneral/news/2026/7/14/pr26-29.html
+[2026-07-15 15:10:24] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-15 15:10:24] [TX] Found 50 item(s) on page.
+[2026-07-15 15:10:24] [TX] 1 new item(s):
+[2026-07-15 15:10:24]   NEW: Attor­ney Gen­er­al Pax­ton Secures $150Mil­lion Set­tle­ment Against23andMe Over Data Breach That Exposed Genet­ic Infor­ma­tion of6.9Mil­lion People |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-150-million-settlement-against-23andme-over-data-breach-exposed
+[2026-07-15 15:10:24] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-15 15:10:24]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-15 15:10:27]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296047 chars)
+[2026-07-15 15:10:27]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-15 15:10:27] [UT] Found 50 item(s) on page.
+[2026-07-15 15:10:27] [UT] No new items.
+[2026-07-15 15:10:27] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-15 15:10:28] [VT] Found 50 item(s) on page.
+[2026-07-15 15:10:28] [VT] 1 new item(s):
+[2026-07-15 15:10:28]   NEW: Attorney General Clark Joins Multistate Genetic Data Breach Settlement In 23andMe Bankruptcy | DateJuly 14, 2026 | https://ago.vermont.gov/blog/2026/07/14/attorney-general-clark-joins-multistate-genetic-data-breach-settlement-23andme-bankruptcy
+[2026-07-15 15:10:28] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-15 15:10:28] [VA] Found 50 item(s) on page.
+[2026-07-15 15:10:28] [VA] 1 new item(s):
+[2026-07-15 15:10:28]   NEW: Statement from Attorney General Jones After Federal Judge Tosses the DOJ’s Dangerous Voter Roll Lawsuit |  | https://www.oag.state.va.us/media-center/news-releases/3075-statement-from-attorney-general-jones-after-federal-judge-tosses-the-dojs-dangerous-voter-roll-lawsuit
+[2026-07-15 15:10:28] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-15 15:10:29] [WA] Found 15 item(s) on page.
+[2026-07-15 15:10:29] [WA] 1 new item(s):
+[2026-07-15 15:10:29]   NEW: WA to receive half a million dollars as part of multistate settlement over 23andMe genetic data breach | Tue, 14 Jul 2026 19:30:02 +0000 | https://www.atg.wa.gov/news/news-releases/wa-receive-half-million-dollars-part-multistate-settlement-over-23andme-genetic
+[2026-07-15 15:10:29] [WV] Fetching https://ago.wv.gov/news
+[2026-07-15 15:10:29]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-15 15:10:31]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54627 chars)
+[2026-07-15 15:10:31]   Playwright found 30 item(s) with configured selector
+[2026-07-15 15:10:31] [WV] Found 30 item(s) on page.
+[2026-07-15 15:10:31] [WV] No new items.
+[2026-07-15 15:10:31] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-15 15:10:31]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-15 15:10:35]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1536500 chars)
+[2026-07-15 15:10:35]   Playwright found 50 item(s) with configured selector
+[2026-07-15 15:10:35] [WI] Found 50 item(s) on page.
+[2026-07-15 15:10:35] [WI] 1 new item(s):
+[2026-07-15 15:10:35]   NEW: Wisconsin DOJ and Coalition Announce Multistate Settlement of Bankruptcy Claims Against 23andMe Over Genetic Data Breach |  | https://www.wisdoj.gov/PressReleases/press-release-23-and-me.pdf
+[2026-07-15 15:10:35] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-15 15:10:35] [WY] Found 1 item(s) on page.
+[2026-07-15 15:10:35] [WY] No new items.
+[2026-07-15 15:10:35] States with fetch errors: KS, NH, OK
+[2026-07-15 15:10:35] Sending email: 37 new item(s) across 24 state(s).
+[2026-07-15 15:10:37] Email sent.
+[2026-07-15 15:10:37] Done.
