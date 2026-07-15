@@ -4020,3 +4020,12 @@ Call log:
 [2026-07-15 20:31:20]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398130
 [2026-07-15 20:31:22] Email notification sent.
 [2026-07-15 20:31:22] Done.
+[2026-07-15 21:53:51] Checking for new DE court opinions...
+[2026-07-15 21:53:51] Using Playwright to fetch opinions page...
+[2026-07-15 21:54:03] Playwright found 27 opinion(s).
+[2026-07-15 21:54:03] Found 27 opinions on page.
+[2026-07-15 21:54:03] 1 new opinion(s)!
+[2026-07-15 21:54:03]   NEW: [07/15/2026] [Superior Court] Freeman v. State | 2011013643 | Green-StreettJ.
+[2026-07-15 21:54:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398140
+[2026-07-15 21:54:04] Email notification sent.
+[2026-07-15 21:54:04] Done.
