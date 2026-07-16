@@ -785,3 +785,11 @@
 [2026-07-15 15:09:41]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-secures-major-settlement-caremark-resolving-antitrust-case-against-second-drug-middleman
 [2026-07-15 15:09:42] Email notification sent.
 [2026-07-15 15:09:42] Done.
+[2026-07-16 15:18:34] Checking for new FTC press releases...
+[2026-07-16 15:18:34] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-16 15:18:47] Playwright found 0 press release link(s).
+[2026-07-16 15:18:47] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-16 15:18:48] requests found 20 press release link(s).
+[2026-07-16 15:18:48] Found 20 press release(s) on page.
+[2026-07-16 15:18:48] No new press releases.
+[2026-07-16 15:18:48] Done.
