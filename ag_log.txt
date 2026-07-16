@@ -17620,3 +17620,247 @@ Call log:
 [2026-07-15 15:10:35] Sending email: 37 new item(s) across 24 state(s).
 [2026-07-15 15:10:37] Email sent.
 [2026-07-15 15:10:37] Done.
+[2026-07-16 15:17:23] Checking for new AG press releases...
+[2026-07-16 15:17:23] Checking 50 state(s).
+[2026-07-16 15:17:23] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-16 15:17:23]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-16 15:17:27]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (230692 chars)
+[2026-07-16 15:17:27]   Playwright found 27 item(s) with configured selector
+[2026-07-16 15:17:27] [AL] Found 27 item(s) on page.
+[2026-07-16 15:17:27] [AL] 1 new item(s):
+[2026-07-16 15:17:27]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-conviction-of-thomasville-couple-for-theft-from-grieving-families-seeking-headstones-or-memorials/
+[2026-07-16 15:17:27] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-16 15:17:27] [AK] Found 50 item(s) on page.
+[2026-07-16 15:17:27] [AK] 2 new item(s):
+[2026-07-16 15:17:27]   NEW: Michael Paschall, of Delta Junction, Convicted and Sentenced After Pleading Guilty for Stealing over $440,000 from the Rural Deltana Volunteer Fire Department |  | https://law.alaska.gov/releases/2026/071426-Paschall.html
+[2026-07-16 15:17:27]   NEW: Day-Quan Witkowski-Agnew Convicted of Sexual Assault and Assault for Rape and Strangulation |  | https://law.alaska.gov/releases/2026/071426-Witkowski-Agnew.html
+[2026-07-16 15:17:27] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-16 15:17:27] [AZ] Found 10 item(s) on page.
+[2026-07-16 15:17:27] [AZ] No new items.
+[2026-07-16 15:17:27] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-16 15:17:28] [AR] Found 50 item(s) on page.
+[2026-07-16 15:17:28] [AR] 2 new item(s):
+[2026-07-16 15:17:28]   NEW: Thursday, July 16, 2026Attorney General Griffin Announces Arrest of Siloam Springs Woman for Exploitation of a Vulnerable PersonRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-arrest-of-siloam-springs-woman-for-exploitation-of-a-vulnerable-person/
+[2026-07-16 15:17:28]   NEW: Wednesday, July 15, 2026Attorney General Griffin Announces $45 Million Multistate Settlement with Block, Inc.; Arkansas to Receive $453,754Read More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-45-million-multistate-settlement-with-block-inc-arkansas-to-receive-453754/
+[2026-07-16 15:17:28] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-16 15:17:29] [CA] Found 10 item(s) on page.
+[2026-07-16 15:17:29] [CA] 1 new item(s):
+[2026-07-16 15:17:29]   NEW: Attorney General Bonta Sounds the Alarm on Tactics from Predatory Lenders to Evade State Consumer Protection Laws, Alerts Federal Financial Regulators | Wed, 15 Jul 2026 18:20:42 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sounds-alarm-tactics-predatory-lenders-evade-state
+[2026-07-16 15:17:29] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-16 15:17:29] [CO] Found 49 item(s) on page.
+[2026-07-16 15:17:29] [CO] No new items.
+[2026-07-16 15:17:29] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-16 15:17:29] [CT] Found 34 item(s) on page.
+[2026-07-16 15:17:29] [CT] No new items.
+[2026-07-16 15:17:29] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-16 15:17:30] [DE] Found 300 item(s) on page.
+[2026-07-16 15:17:30] [DE] No new items.
+[2026-07-16 15:17:30] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-16 15:17:30] [FL] Found 20 item(s) on page.
+[2026-07-16 15:17:30] [FL] 1 new item(s):
+[2026-07-16 15:17:30]   NEW: Attorney General James Uthmeier Announces Arrests, Charges of Four Defendants in Interstate Cocaine Trafficking Operation | 2026-07-15T15:30:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-announces-arrests-charges-four-defendants-interstate
+[2026-07-16 15:17:30] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-16 15:17:30] [GA] Found 11 item(s) on page.
+[2026-07-16 15:17:30] [GA] 1 new item(s):
+[2026-07-16 15:17:30]   NEW: Carr Announces Multistate Settlement with 23andMe Over Genetic Data BreachJuly 14, 2026 |  | https://law.georgia.gov/press-releases/2026-07-14/carr-announces-multistate-settlement-23andme-over-genetic-data-breach
+[2026-07-16 15:17:30] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-16 15:17:31] [HI] Found 26 item(s) on page.
+[2026-07-16 15:17:31] [HI] No new items.
+[2026-07-16 15:17:31] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-16 15:17:31]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-16 15:17:34]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66031 chars)
+[2026-07-16 15:17:34]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-16 15:17:34] [ID] Found 28 item(s) on page.
+[2026-07-16 15:17:34] [ID] 1 new item(s):
+[2026-07-16 15:17:34]   NEW: Jul 152026AG Labrador Issues Caution Against Rental Scams | Jul 152026 | https://www.ag.idaho.gov/newsroom/ag-labrador-issues-caution-against-rental-scams/
+[2026-07-16 15:17:34] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-16 15:17:35] [IL] Found 50 item(s) on page.
+[2026-07-16 15:17:35] [IL] 3 new item(s):
+[2026-07-16 15:17:35]   NEW: July 15, 2026ATTORNEY GENERAL RAOUL CALLS ON FEDERAL REGULATORS TO DENY BANKING CHARTERS FOR HIGH-RISK OR PREDATORY FINANCIAL TECHNOLOGY COMPANIES | 2026-07-15 2:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-calls-on-federal-regulators-to-deny-banking-charters-for-high-risk-or-predatory-financial-technology-companies
+[2026-07-16 15:17:35]   NEW: July 15, 2026ATTORNEY GENERAL RAOUL REACHES $29.6 MILLION NATIONWIDE SETTLEMENT WITH GLENMARK OVER CONSPIRACY TO INFLATE PRICES AND LIMIT COMPETITION | 2026-07-15 2:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-reaches-296-million-nationwide-settlement-with-glenmark-over-conspiracy-to-inflate-prices-and-limit-competition
+[2026-07-16 15:17:35]   NEW: June 30, 2026ATTORNEY GENERAL RAOUL ISSUES STATEMENT ON BIRTHRIGHT CITIZENSHIP | 2026-06-30 4:15 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-statement-on-birthright-citizenship-6-30-26
+[2026-07-16 15:17:35] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-16 15:17:36] [IN] Found 37 item(s) on page.
+[2026-07-16 15:17:36] [IN] No new items.
+[2026-07-16 15:17:36] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-16 15:17:36] [IA] Found 10 item(s) on page.
+[2026-07-16 15:17:36] [IA] 1 new item(s):
+[2026-07-16 15:17:36]   NEW: Attorney General Brenna Bird Announces Medicaid Fraud Elimination Task Force Holds Inaugural Meeting | July 15, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-medicaid-fraud-elimination-task-force-holds-inaugural-meeting/
+[2026-07-16 15:17:36] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-16 15:17:36]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-16 15:17:38]   Playwright loaded page: 'Access Denied' (337 chars)
+[2026-07-16 15:17:38]   Playwright: page loaded but no links matched — check selectors
+[2026-07-16 15:17:38]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-16 15:17:39]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-16 15:17:59]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-16 15:18:19]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-16 15:18:19] [KS] No items returned (fetch failed or empty page).
+[2026-07-16 15:18:19] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-16 15:18:20] [KY] Found 26 item(s) on page.
+[2026-07-16 15:18:20] [KY] No new items.
+[2026-07-16 15:18:20] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-16 15:18:20] [LA] Found 20 item(s) on page.
+[2026-07-16 15:18:20] [LA] 2 new item(s):
+[2026-07-16 15:18:20]   NEW: Attorney General Liz Murrill's Louisiana Bureau of Investigation Arrests Colorado Man for Exploiting and Extorting Louisiana Juvenile | 7/15/2026 | https://ag.louisiana.gov/Article/574
+[2026-07-16 15:18:20]   NEW: Attorney General Murrill announces multi-state settlement of bankruptcy claims against 23andMe over genetic data breach | 7/15/2026 | https://ag.louisiana.gov/Article/572
+[2026-07-16 15:18:20] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-16 15:18:21] [ME] Found 11 item(s) on page.
+[2026-07-16 15:18:21] [ME] No new items.
+[2026-07-16 15:18:21] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-16 15:18:21] [MD] Found 50 item(s) on page.
+[2026-07-16 15:18:21] [MD] No new items.
+[2026-07-16 15:18:21] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-16 15:18:21]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-16 15:18:24]   Playwright loaded page: 'News and Announcements | Mass.gov' (176445 chars)
+[2026-07-16 15:18:24]   Playwright found 15 item(s) with configured selector
+[2026-07-16 15:18:24] [MA] Found 15 item(s) on page.
+[2026-07-16 15:18:24] [MA] 1 new item(s):
+[2026-07-16 15:18:24]   NEW: AG Campbell Announces $29.6 Million Multistate Settlement with Generic Drug Manufacturer Over Price Fixing Scheme | 7/15/2026 | https://www.mass.gov/news/ag-campbell-announces-296-million-multistate-settlement-with-generic-drug-manufacturer-over-price-fixing-scheme
+[2026-07-16 15:18:24] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-16 15:18:24]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-16 15:18:28]   Playwright loaded page: 'Attorney General: Press Releases' (371059 chars)
+[2026-07-16 15:18:28]   Playwright found 10 item(s) with configured selector
+[2026-07-16 15:18:28] [MI] Found 10 item(s) on page.
+[2026-07-16 15:18:28] [MI] 1 new item(s):
+[2026-07-16 15:18:28]   NEW: AG Nessel Files Lawsuit Against Solar Company, Financial Institutions for Alleged Deceptive Scheme |  | https://www.michigan.gov/ag/news/press-releases/2026/07/15/ag-nessel-files-lawsuit-against-solar-company-financial-institutions-for-alleged-deceptive-scheme
+[2026-07-16 15:18:28] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-16 15:18:28] [MN] Found 50 item(s) on page.
+[2026-07-16 15:18:28] [MN] No new items.
+[2026-07-16 15:18:28] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-16 15:18:28] [MS] Found 1 item(s) on page.
+[2026-07-16 15:18:28] [MS] 1 new item(s):
+[2026-07-16 15:18:28]   NEW: AG Fitch Announces Settlement on Inflated Drug Prices (July 15, 2026) |  | https://attorneygenerallynnfitch.com/2026/07/15/ag-fitch-announces-settlement-on-inflated-drug-prices-july-15-2026/
+[2026-07-16 15:18:28] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-16 15:18:29] [MO] Found 50 item(s) on page.
+[2026-07-16 15:18:29] [MO] 1 new item(s):
+[2026-07-16 15:18:29]   NEW: Attorney General Hanaway Obtains Over $257,000 in Restitution for Contractor Fraud in St. Charles County |  | https://ago.mo.gov/attorney-general-hanaway-obtains-over-257000-in-restitution-for-contractor-fraud-in-st-charles-county/
+[2026-07-16 15:18:29] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-16 15:18:29] [MT] Found 10 item(s) on page.
+[2026-07-16 15:18:29] [MT] No new items.
+[2026-07-16 15:18:29] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-16 15:18:29] [NE] Found 10 item(s) on page.
+[2026-07-16 15:18:29] [NE] 1 new item(s):
+[2026-07-16 15:18:29]   NEW: Attorney General Hilgers Announces $29.6 Million Settlement with Glenmark over Conspiracy to Inflate Prices and Limit Competition | Wed, 15 Jul 2026 16:19:44 +0000 | https://ago.nebraska.gov/attorney-general-hilgers-announces-296-million-settlement-glenmark-over-conspiracy-inflate-prices
+[2026-07-16 15:18:29] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-16 15:18:30] [NV] Found 50 item(s) on page.
+[2026-07-16 15:18:30] [NV] No new items.
+[2026-07-16 15:18:30] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-16 15:18:30]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-16 15:18:32]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-07-16 15:18:32]   Playwright: page loaded but no links matched — check selectors
+[2026-07-16 15:18:32]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-07-16 15:18:32]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-16 15:18:52]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-16 15:19:12]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-16 15:19:12] [NH] No items returned (fetch failed or empty page).
+[2026-07-16 15:19:12] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-16 15:19:14] [NJ] Found 5 item(s) on page.
+[2026-07-16 15:19:14] [NJ] 2 new item(s):
+[2026-07-16 15:19:14]   NEW: Leader of Violent Trenton Street Gang Sentenced to Life in Prison for Murder, Racketeering and Other Crimes |  | https://www.njoag.gov/leader-of-violent-trenton-street-gang-sentenced-to-life-in-prison-for-murder-racketeering-and-other-crimes/
+[2026-07-16 15:19:14]   NEW: Attorney General Davenport Files Civil Complaint Against Pennsylvania Gun Show Owner for Endangering Public Safety |  | https://www.njoag.gov/attorney-general-davenport-files-civil-complaint-against-pennsylvania-gun-show-owner-for-endangering-public-safety/
+[2026-07-16 15:19:14] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-16 15:19:17] [NM] Found 14 item(s) on page.
+[2026-07-16 15:19:17] [NM] 1 new item(s):
+[2026-07-16 15:19:17]   NEW: Attorney General Raúl Torrez, Representative Leger Fernández Push New Legislation to Force DOJ to Release Remaining Epstein Files |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-representative-leger-fernandez-push-new-legislation-to-force-doj-to-release-remaining-epstein-files/
+[2026-07-16 15:19:17] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-16 15:19:17] [NY] Found 25 item(s) on page.
+[2026-07-16 15:19:17] [NY] 2 new item(s):
+[2026-07-16 15:19:17]   NEW: Attorney General James and Mayor Owens Sue Syracuse Apartment Owners for Rampant Safety and Tenant Rights Violations |  | https://ag.ny.gov/press-release/2026/attorney-general-james-and-mayor-owens-sue-syracuse-apartment-owners-rampant
+[2026-07-16 15:19:17]   NEW: Attorney General James Secures More Than $29 Million From Glenmark Pharmaceuticals for Illegal Scheme to Inflate Drug Prices |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-more-29-million-glenmark-pharmaceuticals-illegal
+[2026-07-16 15:19:17] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-16 15:19:22] [NC] Found 10 item(s) on page.
+[2026-07-16 15:19:22] [NC] 1 new item(s):
+[2026-07-16 15:19:22]   NEW: Attorney General Jeff Jackson Intervenes in Second Duke Energy Rate Case to Save North Carolina Families Another $960 Million |  | https://ncdoj.gov/attorney-general-jeff-jackson-intervenes-in-second-duke-energy-rate-case-to-save-north-carolina-families-another-960-million/
+[2026-07-16 15:19:22] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-16 15:19:22] [ND] Found 10 item(s) on page.
+[2026-07-16 15:19:22] [ND] No new items.
+[2026-07-16 15:19:22] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-16 15:19:22] [OH] Found 10 item(s) on page.
+[2026-07-16 15:19:22] [OH] 1 new item(s):
+[2026-07-16 15:19:22]   NEW: Couple Who Used to Live in Powell Indicted in $9.3 Million Medicaid Scheme: 10 Additional Medicaid Providers Charged in Separate Cases | 7/15/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/July-2026/Couple-Who-Used-to-Live-in-Powell-Indicted-in-1
+[2026-07-16 15:19:22] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-16 15:19:22]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-16 15:19:25]   Playwright loaded page: 'News Releases' (836477 chars)
+[2026-07-16 15:19:25]   Playwright found 20 item(s) with configured selector
+[2026-07-16 15:19:25] [OK] Found 20 item(s) on page.
+[2026-07-16 15:19:25] [OK] 6 new item(s):
+[2026-07-16 15:19:25]   NEW: Drummond settles with 23andMe over breach of Oklahomans’ data |  | https://oklahoma.gov/oag/news/newsroom/2026/july/drummond-settles-with-23andme-over-breach-of-oklahomans-data.html
+[2026-07-16 15:19:25]   NEW: Drummond responds to Bullard’s resignation, cites pattern of failure at OHCA |  | https://oklahoma.gov/oag/news/newsroom/2026/july/drummond-responds-to-bullards-resignation-cites-pattern-of-failure-at-ohca.html
+[2026-07-16 15:19:25]   NEW: Drummond: Cash App settlement will strengthen fraud protections for Oklahomans |  | https://oklahoma.gov/oag/news/newsroom/2026/july/drummond-cash-app-settlement-will-strengthen-fraud-protections-for-oklahomans.html
+[2026-07-16 15:19:25]   NEW: Drummond commends Pardon and Parole Board for clemency denial |  | https://oklahoma.gov/oag/news/newsroom/2026/july/drummond-commends-pardon-and-parole-board-for-clemency-denial.html
+[2026-07-16 15:19:25]   NEW: Organized Crime Task Force raids northeast Oklahoma dispensaries |  | https://oklahoma.gov/oag/news/newsroom/2026/july/organized-crime-task-force-raids-northeast-oklahoma-dispensaries.html
+[2026-07-16 15:19:25]   NEW: Drummond reaches nearly $44M settlement resolving 21-year poultry litter pollution lawsuit |  | https://oklahoma.gov/oag/news/newsroom/2026/july/drummond-reaches-nearly-44m-settlement-resolving-21-year-poultry-litter-pollution-lawsuit.html
+[2026-07-16 15:19:25] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-16 15:19:41] [OR] Found 10 item(s) on page.
+[2026-07-16 15:19:41] [OR] 1 new item(s):
+[2026-07-16 15:19:41]   NEW: Attorney General Rayfield Takes on Inflated Drug Prices With $29.6 Million Settlement |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-takes-on-inflated-drug-prices-with-29-6m-settlement/
+[2026-07-16 15:19:41] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-16 15:19:42] [PA] Found 12 item(s) on page.
+[2026-07-16 15:19:42] [PA] 2 new item(s):
+[2026-07-16 15:19:42]   NEW: Press ReleaseJUL 15, 2026Luzerne County Mother, Grandmother Sentenced to Lengthy Prison Terms for Abuse of Child who was Beaten, Restrained, MalnourishedHARRISBURG — Attorney General Dave Sunday announced that a Luzerne County woman and her mother were both sentenced Wednesday to significant state prison terms for the repeated abuse…Read more | 2026-07-15T14:31:15-04:00 | https://www.attorneygeneral.gov/taking-action/luzerne-county-mother-grandmother-sentenced-to-lengthy-prison-terms-for-abuse-of-child-who-was-beaten-restrained-malnourished/
+[2026-07-16 15:19:42]   NEW: Press ReleaseJUL 15, 2026AG Sunday Announces $29.6 Million Settlement with Prescription Drug Manufacturer Glenmark over Conspiracy to Inflate Prices and Limit CompetitionIf you purchased certain prescriptions between May 1, 2009 and December 31, 2019, you could be eligible for restitution HARRISBURG – Attorney General Dave Sunday, as part of…Read more | 2026-07-15T12:50:34-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-29-6-million-settlement-with-prescription-drug-manufacturer-glenmark-over-conspiracy-to-inflate-prices-and-limit-competition/
+[2026-07-16 15:19:42] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-16 15:19:42] [RI] Found 10 item(s) on page.
+[2026-07-16 15:19:42] [RI] No new items.
+[2026-07-16 15:19:42] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-16 15:19:42]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-16 15:19:45]   Playwright loaded page: 'News - South Carolina Attorney General' (110768 chars)
+[2026-07-16 15:19:45]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-16 15:19:45] [SC] Found 9 item(s) on page.
+[2026-07-16 15:19:45] [SC] 1 new item(s):
+[2026-07-16 15:19:45]   NEW: Attorney General Alan Wilson announces $29.6 million settlement with Glenmark over conspiracy to inflate prices and limit competitionRead More | Jul 15, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-29-6-million-settlement-with-glenmark-over-conspiracy-to-inflate-prices-and-limit-competition/
+[2026-07-16 15:19:45] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-16 15:19:45]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-16 15:19:50]   Playwright loaded page: 'South Dakota Attorney General' (36020 chars)
+[2026-07-16 15:19:50]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-16 15:19:50] [SD] Found 1 item(s) on page.
+[2026-07-16 15:19:50] [SD] No new items.
+[2026-07-16 15:19:50] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-16 15:19:50]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-16 15:20:10] [TN] Found 50 item(s) on page.
+[2026-07-16 15:20:10] [TN] No new items.
+[2026-07-16 15:20:10] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-16 15:20:11] [TX] Found 50 item(s) on page.
+[2026-07-16 15:20:11] [TX] 1 new item(s):
+[2026-07-16 15:20:11]   NEW: Attor­ney Gen­er­al Ken Pax­ton Issues State­ment in Sup­port of House Res­o­lu­tion50to Affirm Texas’s Right to Secure Its Border |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-issues-statement-support-house-resolution-50-affirm-texass-right-secure
+[2026-07-16 15:20:11] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-16 15:20:11]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-16 15:20:14]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296051 chars)
+[2026-07-16 15:20:14]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-16 15:20:14] [UT] Found 50 item(s) on page.
+[2026-07-16 15:20:14] [UT] No new items.
+[2026-07-16 15:20:14] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-16 15:20:14] [VT] Found 50 item(s) on page.
+[2026-07-16 15:20:14] [VT] 2 new item(s):
+[2026-07-16 15:20:14]   NEW: Bakersfield Resident Sentenced for Promotion and Possession of Child Sexual Abuse Materials | DateJuly 15, 2026 | https://ago.vermont.gov/blog/2026/07/15/bakersfield-resident-sentenced-promotion-and-possession-child-sexual-abuse-materials
+[2026-07-16 15:20:14]   NEW: Pittsford Shared Living Provider Sentenced for Criminal Neglect of a Vulnerable Adult and Medicaid Fraud | DateJuly 14, 2026 | https://ago.vermont.gov/blog/2026/07/14/pittsford-shared-living-provider-sentenced-criminal-neglect-vulnerable-adult-and-medicaid-fraud
+[2026-07-16 15:20:14] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-16 15:20:15] [VA] Found 50 item(s) on page.
+[2026-07-16 15:20:15] [VA] 2 new item(s):
+[2026-07-16 15:20:15]   NEW: VIDEO: Attorney General Jay Jones Releases Statement on NextEra Energy and Dominion Energy Merger Application |  | https://www.oag.state.va.us/media-center/news-releases/3077-video-attorney-general-jay-jones-releases-statement-on-nextera-energy-and-dominion-energy-merger-application
+[2026-07-16 15:20:15]   NEW: ICYMI: Attorney General Jay Jones Prepares to Crack Down on Illegal Sales of Vape and Tobacco Products |  | https://www.oag.state.va.us/media-center/news-releases/3076-icymi-attorney-general-jay-jones-prepares-to-crack-down-on-illegal-sales-of-vape-and-tobacco-products
+[2026-07-16 15:20:15] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-16 15:20:15] [WA] Found 15 item(s) on page.
+[2026-07-16 15:20:15] [WA] 1 new item(s):
+[2026-07-16 15:20:15]   NEW: California-based law firm Prestige Legal Solutions to pay $125,000 to settle claims of deceptive advertising | Wed, 15 Jul 2026 18:12:24 +0000 | https://www.atg.wa.gov/news/news-releases/california-based-law-firm-prestige-legal-solutions-pay-125000-settle-claims
+[2026-07-16 15:20:15] [WV] Fetching https://ago.wv.gov/news
+[2026-07-16 15:20:15]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-16 15:20:18]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54727 chars)
+[2026-07-16 15:20:18]   Playwright found 30 item(s) with configured selector
+[2026-07-16 15:20:18] [WV] Found 30 item(s) on page.
+[2026-07-16 15:20:18] [WV] 1 new item(s):
+[2026-07-16 15:20:18]   NEW: Full Story | 2026-07-16T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-announces-296-million-settlement-glenmark-over-conspiracy-inflate
+[2026-07-16 15:20:18] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-16 15:20:18]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-16 15:20:22]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1536105 chars)
+[2026-07-16 15:20:22]   Playwright found 50 item(s) with configured selector
+[2026-07-16 15:20:22] [WI] Found 50 item(s) on page.
+[2026-07-16 15:20:22] [WI] 1 new item(s):
+[2026-07-16 15:20:22]   NEW: Wisconsin DOJ Announces $29.6 Million Settlement with Glenmark Over Alleged Conspiracy to Inflate Prices and Limit Competition |  | https://www.wisdoj.gov/PressReleases/press-release-generic-drugs.pdf
+[2026-07-16 15:20:22] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-16 15:20:23] [WY] Found 1 item(s) on page.
+[2026-07-16 15:20:23] [WY] No new items.
+[2026-07-16 15:20:23] States with fetch errors: KS, NH
+[2026-07-16 15:20:23] Sending email: 45 new item(s) across 30 state(s).
+[2026-07-16 15:20:26] Email sent.
+[2026-07-16 15:20:26] Done.
