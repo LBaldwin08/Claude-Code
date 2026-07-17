@@ -4215,3 +4215,12 @@ Call log:
 [2026-07-17 21:14:00]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398270
 [2026-07-17 21:14:01] Email notification sent.
 [2026-07-17 21:14:01] Done.
+[2026-07-17 22:12:40] Checking for new DE court opinions...
+[2026-07-17 22:12:40] Using Playwright to fetch opinions page...
+[2026-07-17 22:12:52] Playwright found 27 opinion(s).
+[2026-07-17 22:12:52] Found 27 opinions on page.
+[2026-07-17 22:12:52] 1 new opinion(s)!
+[2026-07-17 22:12:52]   NEW: [07/17/2026] [Court of Chancery] Caldwell D. Lowrance, Jr. and KCL-JLC, L.P. v. FBSciences Holdings, Inc., Valent BioSciences LLC, and Wilmington Trust, N.A. | C.A. No. 2024-0854-BWD | David, Bonnie W.V.C.
+[2026-07-17 22:12:52]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398280
+[2026-07-17 22:12:54] Email notification sent.
+[2026-07-17 22:12:54] Done.
