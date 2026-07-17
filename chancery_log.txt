@@ -4191,3 +4191,12 @@ Call log:
 [2026-07-17 17:08:00]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398200
 [2026-07-17 17:08:02] Email notification sent.
 [2026-07-17 17:08:02] Done.
+[2026-07-17 18:32:56] Checking for new DE court opinions...
+[2026-07-17 18:32:56] Using Playwright to fetch opinions page...
+[2026-07-17 18:33:08] Playwright found 27 opinion(s).
+[2026-07-17 18:33:08] Found 27 opinions on page.
+[2026-07-17 18:33:08] 1 new opinion(s)!
+[2026-07-17 18:33:08]   NEW: [07/17/2026] [Court of Chancery] Matthew Minor v. Sonya Minor | C.A. No. 2024-1079-LM (BWD) | David, Bonnie W.V.C.
+[2026-07-17 18:33:08]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398230
+[2026-07-17 18:33:09] Email notification sent.
+[2026-07-17 18:33:09] Done.
