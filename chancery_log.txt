@@ -4206,3 +4206,12 @@ Call log:
 [2026-07-17 20:01:24] Found 27 opinions on page.
 [2026-07-17 20:01:24] No new opinions.
 [2026-07-17 20:01:24] Done.
+[2026-07-17 21:13:48] Checking for new DE court opinions...
+[2026-07-17 21:13:48] Using Playwright to fetch opinions page...
+[2026-07-17 21:14:00] Playwright found 27 opinion(s).
+[2026-07-17 21:14:00] Found 27 opinions on page.
+[2026-07-17 21:14:00] 1 new opinion(s)!
+[2026-07-17 21:14:00]   NEW: [07/17/2026] [Court of Chancery] Jay Sunny Bajaj v. OSP Razor Holdings LLC | C.A. No. 2025-0976-BWD | David, Bonnie W.V.C.
+[2026-07-17 21:14:00]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398270
+[2026-07-17 21:14:01] Email notification sent.
+[2026-07-17 21:14:01] Done.
