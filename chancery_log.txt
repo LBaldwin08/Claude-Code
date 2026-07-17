@@ -4182,3 +4182,12 @@ Call log:
 [2026-07-17 15:56:10] Found 27 opinions on page.
 [2026-07-17 15:56:10] No new opinions.
 [2026-07-17 15:56:10] Done.
+[2026-07-17 17:07:47] Checking for new DE court opinions...
+[2026-07-17 17:07:47] Using Playwright to fetch opinions page...
+[2026-07-17 17:08:00] Playwright found 27 opinion(s).
+[2026-07-17 17:08:00] Found 27 opinions on page.
+[2026-07-17 17:08:00] 1 new opinion(s)!
+[2026-07-17 17:08:00]   NEW: [07/16/2026] [Superior Court] Johnson v. Christiana School District | N25A-05-005 KMM | MillerJ.
+[2026-07-17 17:08:00]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398200
+[2026-07-17 17:08:02] Email notification sent.
+[2026-07-17 17:08:02] Done.
