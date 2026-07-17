@@ -4161,3 +4161,12 @@ Call log:
 [2026-07-17 11:04:26] Found 27 opinions on page.
 [2026-07-17 11:04:26] No new opinions.
 [2026-07-17 11:04:26] Done.
+[2026-07-17 12:41:29] Checking for new DE court opinions...
+[2026-07-17 12:41:29] Using Playwright to fetch opinions page...
+[2026-07-17 12:41:40] Playwright found 27 opinion(s).
+[2026-07-17 12:41:40] Found 27 opinions on page.
+[2026-07-17 12:41:40] 1 new opinion(s)!
+[2026-07-17 12:41:40]   NEW: [07/17/2026] [Court of Chancery] David Namdar v. Immutable Holdings Inc., Jordan Fried, and Jeffrey Garrett Long | 2024-0535-CDW | WrightM.
+[2026-07-17 12:41:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398170
+[2026-07-17 12:41:41] Email notification sent.
+[2026-07-17 12:41:41] Done.
