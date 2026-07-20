@@ -4467,3 +4467,12 @@ Call log:
 [2026-07-20 11:20:29] Found 27 opinions on page.
 [2026-07-20 11:20:29] No new opinions.
 [2026-07-20 11:20:29] Done.
+[2026-07-20 13:24:00] Checking for new DE court opinions...
+[2026-07-20 13:24:00] Using Playwright to fetch opinions page...
+[2026-07-20 13:24:11] Playwright found 27 opinion(s).
+[2026-07-20 13:24:11] Found 27 opinions on page.
+[2026-07-20 13:24:11] 1 new opinion(s)!
+[2026-07-20 13:24:11]   NEW: [07/17/2026] [Court of Chancery] Bobby Sarnevesht v. Triller Group Inc. | C.A. No. 2025-0979-LWW | WillV.C.
+[2026-07-20 13:24:11]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398300
+[2026-07-20 13:24:13] Email notification sent.
+[2026-07-20 13:24:13] Done.
