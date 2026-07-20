@@ -4510,3 +4510,12 @@ Call log:
 [2026-07-20 18:50:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398320
 [2026-07-20 18:50:28] Email notification sent.
 [2026-07-20 18:50:28] Done.
+[2026-07-20 20:17:18] Checking for new DE court opinions...
+[2026-07-20 20:17:18] Using Playwright to fetch opinions page...
+[2026-07-20 20:17:29] Playwright found 27 opinion(s).
+[2026-07-20 20:17:29] Found 27 opinions on page.
+[2026-07-20 20:17:29] 1 new opinion(s)!
+[2026-07-20 20:17:29]   NEW: [07/20/2026] [Court of Chancery] Ruby Hollow, LLC v. Tharp and Associates, LLC | C.A. No. 2024-0318-DG (LWW) | WillV.C.
+[2026-07-20 20:17:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398340
+[2026-07-20 20:17:31] Email notification sent.
+[2026-07-20 20:17:31] Done.
