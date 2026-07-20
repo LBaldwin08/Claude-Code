@@ -4482,3 +4482,20 @@ Call log:
 [2026-07-20 15:26:58] Found 27 opinions on page.
 [2026-07-20 15:26:58] No new opinions.
 [2026-07-20 15:26:58] Done.
+[2026-07-20 16:53:58] Checking for new DE court opinions...
+[2026-07-20 16:53:58] Using Playwright to fetch opinions page...
+[2026-07-20 16:54:10] Playwright found 27 opinion(s).
+[2026-07-20 16:54:10] Found 27 opinions on page.
+[2026-07-20 16:54:10] 5 new opinion(s)!
+[2026-07-20 16:54:10]   NEW: [07/17/2026] [Supreme Court(Family Court)] Arnold v. Arnold | 490, 2025 | Per CuriamJ.
+[2026-07-20 16:54:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398180
+[2026-07-20 16:54:10]   NEW: [07/17/2026] [Supreme Court(Family Court)] Ryan-Collins, Khloe v. Emma Brown | 456, 2025 | TraynorJ.
+[2026-07-20 16:54:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398250
+[2026-07-20 16:54:10]   NEW: [07/17/2026] [Supreme Court(Superior Court)] Davis v. State | 105, 2025 | LeGrowJ.
+[2026-07-20 16:54:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398310
+[2026-07-20 16:54:10]   NEW: [07/17/2026] [Supreme Court(Superior Court)] Fulton v. State | 110, 2026 | LeGrowJ.
+[2026-07-20 16:54:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398260
+[2026-07-20 16:54:10]   NEW: [07/17/2026] [Supreme Court(Superior Court)] Shelley v. State | 204, 2026 | GriffithsJ.
+[2026-07-20 16:54:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398220
+[2026-07-20 16:54:12] Email notification sent.
+[2026-07-20 16:54:12] Done.
