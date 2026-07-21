@@ -4567,3 +4567,16 @@ Call log:
 [2026-07-21 12:21:07] Found 27 opinions on page.
 [2026-07-21 12:21:07] No new opinions.
 [2026-07-21 12:21:07] Done.
+[2026-07-21 14:32:35] Checking for new DE court opinions...
+[2026-07-21 14:32:35] Using Playwright to fetch opinions page...
+[2026-07-21 14:32:46] Playwright found 27 opinion(s).
+[2026-07-21 14:32:46] Found 27 opinions on page.
+[2026-07-21 14:32:46] 3 new opinion(s)!
+[2026-07-21 14:32:46]   NEW: [07/21/2026] [Supreme Court(Superior Court)] Willie L. Bowman v. Roberto Duran-Madrigal and Evergreen Waste Services, LLC | 427, 2025 | LeGrowJ.
+[2026-07-21 14:32:46]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398380
+[2026-07-21 14:32:46]   NEW: [07/20/2026] [Superior Court] River Valley Ingredients, LLC, et al. v. American Proteins, Inc., et al. | N19C-12-160 PRW CCLD | WallaceJ.
+[2026-07-21 14:32:46]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398350
+[2026-07-21 14:32:46]   NEW: [07/20/2026] [Superior Court] US Worldmeds Partners, LLC v. Supernus Pharmaceuticals, Inc. | N25C-07-121 KMM CCLD | MillerJ.
+[2026-07-21 14:32:46]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398360
+[2026-07-21 14:32:49] Email notification sent.
+[2026-07-21 14:32:49] Done.
