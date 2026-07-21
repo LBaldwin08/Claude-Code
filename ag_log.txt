@@ -18730,3 +18730,242 @@ Call log:
 [2026-07-20 15:31:45] Sending email: 3 new item(s) across 2 state(s).
 [2026-07-20 15:31:46] Email sent.
 [2026-07-20 15:31:46] Done.
+[2026-07-21 15:21:30] Checking for new AG press releases...
+[2026-07-21 15:21:30] Checking 50 state(s).
+[2026-07-21 15:21:30] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-21 15:21:30]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-21 15:21:33]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (230718 chars)
+[2026-07-21 15:21:33]   Playwright found 27 item(s) with configured selector
+[2026-07-21 15:21:33] [AL] Found 27 item(s) on page.
+[2026-07-21 15:21:33] [AL] No new items.
+[2026-07-21 15:21:33] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-21 15:21:34] [AK] Found 50 item(s) on page.
+[2026-07-21 15:21:34] [AK] 1 new item(s):
+[2026-07-21 15:21:34]   NEW: Sisouvanh Mounlasy, of Anchorage, Sentenced to Serve 17 Years for Drug Distribution Conviction |  | https://law.alaska.gov/releases/2026/072026-Mounlasy.html
+[2026-07-21 15:21:34] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-21 15:21:34] [AZ] Found 10 item(s) on page.
+[2026-07-21 15:21:34] [AZ] 2 new item(s):
+[2026-07-21 15:21:34]   NEW: Attorney General Mayes and Coalition Win Ruling Protecting Billions in Critical Federal Funding |  | https://www.azag.gov/press-release/attorney-general-mayes-and-coalition-win-ruling-protecting-billions-critical-federal
+[2026-07-21 15:21:34]   NEW: Attorney General Mayes Secures Critical Win in Lawsuit to Block Warner Bros./Paramount Merger |  | https://www.azag.gov/press-release/attorney-general-mayes-secures-critical-win-lawsuit-block-warner-brosparamount-merger
+[2026-07-21 15:21:34] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-21 15:21:35] [AR] Found 50 item(s) on page.
+[2026-07-21 15:21:35] [AR] No new items.
+[2026-07-21 15:21:35] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-21 15:21:35] [CA] Found 10 item(s) on page.
+[2026-07-21 15:21:35] [CA] 3 new item(s):
+[2026-07-21 15:21:35]   NEW: A Major Win for Clean Air and Public Health: Attorney General Bonta Secures Court Order Requiring Implementation of Life-Saving Soot Standard | Mon, 20 Jul 2026 18:23:02 +0000 | https://oag.ca.gov/news/press-releases/major-win-clean-air-and-public-health-attorney-general-bonta-secures-court-order
+[2026-07-21 15:21:35]   NEW: Attorney General Bonta Continues to Protect California’s Environment and Public Health, Fights Trump Administration’s Latest Effort to Delay and Evade Judicial Review of Sable Offshore’s Illegal Pipeline Operation | Mon, 20 Jul 2026 18:20:34 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-continues-protect-california%E2%80%99s-environment-and-public-0
+[2026-07-21 15:21:35]   NEW: Quiet on the Set! Attorney General Bonta Secures Critical, Early Win in Lawsuit to Block Warner Bros./Paramount Merger | Mon, 20 Jul 2026 17:05:47 +0000 | https://oag.ca.gov/news/press-releases/quiet-set-attorney-general-bonta-secures-critical-early-win-lawsuit-block-warner
+[2026-07-21 15:21:35] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-21 15:21:35] [CO] Found 49 item(s) on page.
+[2026-07-21 15:21:35] [CO] No new items.
+[2026-07-21 15:21:35] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-21 15:21:37] [CT] Found 33 item(s) on page.
+[2026-07-21 15:21:37] [CT] 2 new item(s):
+[2026-07-21 15:21:37]   NEW: Attorney General Tong Secures Critical Win in Lawsuit to Block Warner Bros./Paramount Merger | 7/20/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-secures-critical-win-to-block-warner-paramount-merger
+[2026-07-21 15:21:37]   NEW: Attorney General Tong Statement on the Passing of John Droney | 7/20/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-statement-on-the-passing-of-john-droney
+[2026-07-21 15:21:37] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-21 15:21:38] [DE] Found 300 item(s) on page.
+[2026-07-21 15:21:38] [DE] 1 new item(s):
+[2026-07-21 15:21:38]   NEW: Delaware Supreme Court upholds Attorney General’s hearing authority in landmark opinion | Mon, 20 Jul 2026 08:52:41 +0000 | https://news.delaware.gov/2026/07/20/delaware-supreme-court-upholds-attorney-generals-hearing-authority-in-landmark-opinion/
+[2026-07-21 15:21:38] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-21 15:21:38] [FL] Found 20 item(s) on page.
+[2026-07-21 15:21:38] [FL] No new items.
+[2026-07-21 15:21:38] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-21 15:21:39] [GA] Found 11 item(s) on page.
+[2026-07-21 15:21:39] [GA] No new items.
+[2026-07-21 15:21:39] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-21 15:21:40] [HI] Found 26 item(s) on page.
+[2026-07-21 15:21:40] [HI] No new items.
+[2026-07-21 15:21:40] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-21 15:21:40]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-21 15:21:44]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66037 chars)
+[2026-07-21 15:21:44]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-21 15:21:44] [ID] Found 28 item(s) on page.
+[2026-07-21 15:21:44] [ID] No new items.
+[2026-07-21 15:21:44] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-21 15:21:45] [IL] Found 50 item(s) on page.
+[2026-07-21 15:21:45] [IL] 1 new item(s):
+[2026-07-21 15:21:45]   NEW: July 20, 2026ATTORNEY GENERAL RAOUL’S MEDICAID FRAUD CONTROL UNIT RECOGNIZED BY DEA FOR CASE INVOLVING COOK COUNTY PHYSICIAN AND PHARMACIST WHO STOLE OVER $1 MILLION IN MEDICAID, MEDICARE FUNDS | 2026-07-20 11:00 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raouls-medicaid-fraud-control-unit-recognized-by-dea-for-case-involving-cook-county-physician-and-pharmacist-who-stole-over-1-million-in-medicaid-medicare-funds
+[2026-07-21 15:21:45] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-21 15:21:46] [IN] Found 37 item(s) on page.
+[2026-07-21 15:21:46] [IN] No new items.
+[2026-07-21 15:21:46] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-21 15:21:46] [IA] Found 10 item(s) on page.
+[2026-07-21 15:21:46] [IA] No new items.
+[2026-07-21 15:21:46] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-21 15:21:46]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-21 15:21:49]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-07-21 15:21:49]   Playwright: page loaded but no links matched — check selectors
+[2026-07-21 15:21:49]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-21 15:21:50]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-21 15:22:10]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-21 15:22:31]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-21 15:22:31] [KS] No items returned (fetch failed or empty page).
+[2026-07-21 15:22:31] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-21 15:22:32] [KY] Found 26 item(s) on page.
+[2026-07-21 15:22:32] [KY] No new items.
+[2026-07-21 15:22:32] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-21 15:22:32] [LA] Found 20 item(s) on page.
+[2026-07-21 15:22:32] [LA] 1 new item(s):
+[2026-07-21 15:22:32]   NEW: Attorney General Liz Murrill’s Louisiana Bureau of Investigation Arrests Baton Rouge Man for Defrauding EBR Health Program | 7/20/2026 | https://ag.louisiana.gov/Article/578
+[2026-07-21 15:22:32] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-21 15:22:33] [ME] Found 11 item(s) on page.
+[2026-07-21 15:22:33] [ME] No new items.
+[2026-07-21 15:22:33] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-21 15:22:35] [MD] Found 50 item(s) on page.
+[2026-07-21 15:22:35] [MD] No new items.
+[2026-07-21 15:22:35] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-21 15:22:35]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-21 15:22:38]   Playwright loaded page: 'News and Announcements | Mass.gov' (176551 chars)
+[2026-07-21 15:22:38]   Playwright found 15 item(s) with configured selector
+[2026-07-21 15:22:38] [MA] Found 15 item(s) on page.
+[2026-07-21 15:22:38] [MA] 3 new item(s):
+[2026-07-21 15:22:38]   NEW: AG Campbell Shares Energy-Saving Resources As Wildfire Smoke Highlights Climate Impacts And Summer Energy Challenges | 7/21/2026 | https://www.mass.gov/news/ag-campbell-shares-energy-saving-resources-as-wildfire-smoke-highlights-climate-impacts-and-summer-energy-challenges
+[2026-07-21 15:22:38]   NEW: AG Campbell Secures Critical Win In Lawsuit To Block Warner Bros./Paramount Merger | 7/20/2026 | https://www.mass.gov/news/ag-campbell-secures-critical-win-in-lawsuit-to-block-warner-brosparamount-merger
+[2026-07-21 15:22:38]   NEW: AG Campbell Wins Ruling Protecting Billions In Critical Federal Funding | 7/20/2026 | https://www.mass.gov/news/ag-campbell-wins-ruling-protecting-billions-in-critical-federal-funding
+[2026-07-21 15:22:38] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-21 15:22:38]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-21 15:22:41]   Playwright loaded page: 'Attorney General: Press Releases' (378614 chars)
+[2026-07-21 15:22:41]   Playwright found 10 item(s) with configured selector
+[2026-07-21 15:22:41] [MI] Found 10 item(s) on page.
+[2026-07-21 15:22:41] [MI] 2 new item(s):
+[2026-07-21 15:22:41]   NEW: AG Nessel Vows to Appeal Reversal of Wolverine Watchmen Convictions |  | https://www.michigan.gov/ag/news/press-releases/2026/07/20/ag-nessel-vows-to-appeal-reversal-of-wolverine-watchmen-convictions
+[2026-07-21 15:22:41]   NEW: Stephanie Chatfield Sentenced for Embezzling from Peninsula Fund |  | https://www.michigan.gov/ag/news/press-releases/2026/07/20/stephanie-chatfield-sentenced-for-embezzling-from-peninsula-fund
+[2026-07-21 15:22:41] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-21 15:22:42] [MN] Found 50 item(s) on page.
+[2026-07-21 15:22:42] [MN] No new items.
+[2026-07-21 15:22:42] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-21 15:22:42] [MS] Found 1 item(s) on page.
+[2026-07-21 15:22:42] [MS] No new items.
+[2026-07-21 15:22:42] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-21 15:22:44] [MO] Found 50 item(s) on page.
+[2026-07-21 15:22:44] [MO] No new items.
+[2026-07-21 15:22:44] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-21 15:22:44] [MT] Found 10 item(s) on page.
+[2026-07-21 15:22:44] [MT] No new items.
+[2026-07-21 15:22:44] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-21 15:22:44] [NE] Found 10 item(s) on page.
+[2026-07-21 15:22:44] [NE] No new items.
+[2026-07-21 15:22:44] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-21 15:22:45] [NV] Found 50 item(s) on page.
+[2026-07-21 15:22:45] [NV] No new items.
+[2026-07-21 15:22:45] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-21 15:22:45]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-21 15:22:48]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-07-21 15:22:48]   Playwright: page loaded but no links matched — check selectors
+[2026-07-21 15:22:48]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-07-21 15:22:48]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-21 15:23:08]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-21 15:23:28]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-21 15:23:28] [NH] No items returned (fetch failed or empty page).
+[2026-07-21 15:23:28] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-21 15:23:30] [NJ] Found 5 item(s) on page.
+[2026-07-21 15:23:30] [NJ] 4 new item(s):
+[2026-07-21 15:23:30]   NEW: Attorney General Davenport Announces Racketeering, Human Trafficking, Kidnapping and other Charges Against Two People |  | https://www.njoag.gov/attorney-general-davenport-announces-racketeering-human-trafficking-kidnapping-and-other-charges-against-two-people/
+[2026-07-21 15:23:30]   NEW: AG Davenport, New Jersey Racing Commission Announce Results from the Haskell Stakes at Monmouth Park |  | https://www.njoag.gov/ag-davenport-new-jersey-racing-commission-announce-results-from-the-haskell-stakes-at-monmouth-park/
+[2026-07-21 15:23:30]   NEW: AG Davenport Secures Critical Win in Lawsuit to Block Paramount/Warner Bros. Merger |  | https://www.njoag.gov/ag-davenport-secures-critical-win-in-lawsuit-to-block-paramount-warner-bros-merger/
+[2026-07-21 15:23:30]   NEW: World Cup Anti-Human Trafficking Operations Across New Jersey Result in the Rescue of Nearly 100 Suspected Trafficking Victims and Over 70 Arrests |  | https://www.njoag.gov/world-cup-anti-human-trafficking-operations-across-new-jersey-result-in-the-rescue-of-nearly-100-suspected-trafficking-victims-and-over-70-arrests/
+[2026-07-21 15:23:30] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-21 15:23:32] [NM] Found 14 item(s) on page.
+[2026-07-21 15:23:32] [NM] 2 new item(s):
+[2026-07-21 15:23:32]   NEW: Attorney General Raúl Torrez and USDOJ Secure Nearly $4 Million Settlement for Medicaid Fraud Scheme in New Mexico |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-and-usdoj-secure-nearly-4-million-settlement-for-medicaid-fraud-scheme-in-new-mexico/
+[2026-07-21 15:23:32]   NEW: STATEMENT: Attorney General Raúl Torrez Secures Critical Win in Lawsuit to Block Warner Bros./Paramount Merger |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-secures-critical-win-in-lawsuit-to-block-warner-bros-paramount-merger/
+[2026-07-21 15:23:32] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-21 15:23:33] [NY] Found 25 item(s) on page.
+[2026-07-21 15:23:33] [NY] 2 new item(s):
+[2026-07-21 15:23:33]   NEW: Attorney General James Announces 191 Guns Turned in at Brooklyn Gun Buyback |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-191-guns-turned-brooklyn-gun-buyback
+[2026-07-21 15:23:33]   NEW: Attorney General James Wins Court Order Halting Paramount’s Merger with Warner Bros. |  | https://ag.ny.gov/press-release/2026/attorney-general-james-wins-court-order-halting-paramounts-merger-warner-bros
+[2026-07-21 15:23:33] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-21 15:23:37] [NC] No items returned (fetch failed or empty page).
+[2026-07-21 15:23:37] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-21 15:23:37] [ND] Found 10 item(s) on page.
+[2026-07-21 15:23:37] [ND] No new items.
+[2026-07-21 15:23:37] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-21 15:23:38] [OH] Found 10 item(s) on page.
+[2026-07-21 15:23:38] [OH] No new items.
+[2026-07-21 15:23:38] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-21 15:23:38]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-21 15:23:41]   Playwright loaded page: 'News Releases' (809893 chars)
+[2026-07-21 15:23:42]   Playwright: page loaded but no links matched — check selectors
+[2026-07-21 15:23:42]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-07-21 15:23:42] [OK] No items returned (fetch failed or empty page).
+[2026-07-21 15:23:42] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-21 15:23:58] [OR] Found 10 item(s) on page.
+[2026-07-21 15:23:58] [OR] 2 new item(s):
+[2026-07-21 15:23:58]   NEW: Attorney General Rayfield Secures Court Order Requiring Implementation of Life-Saving Soot Standard |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-secures-court-order-requiring-epa-to-implement-air-pollution-protections/
+[2026-07-21 15:23:58]   NEW: Attorney General Rayfield Secures Critical Win in Lawsuit to Block Warner Bros./Paramount Merger |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-secures-critical-win-in-lawsuit-to-block-warner-bros-paramount-merger/
+[2026-07-21 15:23:58] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-21 15:23:59] [PA] Found 12 item(s) on page.
+[2026-07-21 15:23:59] [PA] 1 new item(s):
+[2026-07-21 15:23:59]   NEW: Drugs, Opioids & Substance UseJUL 20, 2026AG Sunday’s Narcotics Agents Shut Down North Carolina-to-Wilkes-Barre Cocaine Pipeline with Arrest of TraffickerHARRISBURG — Attorney General Dave Sunday announced the arrest of a North Carolina man who was trafficking significant amounts of cocaine to Pennsylvania for distribution in the Wilkes-Barre…Read more | 2026-07-20T13:00:48-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-narcotics-agents-shut-down-north-carolina-to-wilkes-barre-cocaine-pipeline-with-arrest-of-trafficker/
+[2026-07-21 15:23:59] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-21 15:23:59] [RI] Found 10 item(s) on page.
+[2026-07-21 15:23:59] [RI] No new items.
+[2026-07-21 15:23:59] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-21 15:23:59]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-21 15:24:02]   Playwright loaded page: 'News - South Carolina Attorney General' (110870 chars)
+[2026-07-21 15:24:02]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-21 15:24:02] [SC] Found 9 item(s) on page.
+[2026-07-21 15:24:02] [SC] 3 new item(s):
+[2026-07-21 15:24:02]   NEW: Attorney General Alan Wilson announces Anderson nursing assistant charged with stealing from vulnerable adultRead More | Jul 20, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-anderson-nursing-assistant-charged-with-stealing-from-vulnerable-adult/
+[2026-07-21 15:24:02]   NEW: Lexington man arrested on Child Sexual Abuse Material* distribution and possession chargesRead More | Jul 20, 2026 | https://www.scag.gov/about-the-office/news/lexington-man-arrested-on-child-sexual-abuse-material-distribution-and-possession-charges/
+[2026-07-21 15:24:02]   NEW: Attorney General Alan Wilson announces drug dealer sentenced to life in the “Devil in Disguise” State Grand Jury investigationRead More | Jul 20, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-drug-dealer-sentenced-to-life-in-the-devil-in-disguise-state-grand-jury-investigation/
+[2026-07-21 15:24:02] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-21 15:24:02]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-21 15:24:05]   Playwright loaded page: 'South Dakota Attorney General' (35289 chars)
+[2026-07-21 15:24:05]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-21 15:24:05] [SD] Found 1 item(s) on page.
+[2026-07-21 15:24:05] [SD] No new items.
+[2026-07-21 15:24:05] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-21 15:24:06]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-21 15:24:26] [TN] Found 50 item(s) on page.
+[2026-07-21 15:24:26] [TN] No new items.
+[2026-07-21 15:24:26] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-21 15:24:26] [TX] Found 50 item(s) on page.
+[2026-07-21 15:24:26] [TX] No new items.
+[2026-07-21 15:24:26] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-21 15:24:26]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-21 15:24:30]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296274 chars)
+[2026-07-21 15:24:30]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-21 15:24:30] [UT] Found 50 item(s) on page.
+[2026-07-21 15:24:30] [UT] No new items.
+[2026-07-21 15:24:30] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-21 15:24:30] [VT] Found 50 item(s) on page.
+[2026-07-21 15:24:30] [VT] 3 new item(s):
+[2026-07-21 15:24:30]   NEW: Attorney General Clark Secures Protections for Critical Federal Funding to State Agencies in Multistate Lawsuit | DateJuly 20, 2026 | https://ago.vermont.gov/blog/2026/07/20/attorney-general-clark-secures-protections-critical-federal-funding-state-agencies-multistate
+[2026-07-21 15:24:30]   NEW: Middlebury Resident Charged with Aggravated Domestic Assault | DateJuly 20, 2026 | https://ago.vermont.gov/blog/2026/07/20/middlebury-resident-charged-aggravated-domestic-assault
+[2026-07-21 15:24:30]   NEW: Attorney General's Office Announces Sentences in Two Child Sexual Abuse Material Possession Cases | DateJuly 20, 2026 | https://ago.vermont.gov/blog/2026/07/20/attorney-generals-office-announces-sentences-two-child-sexual-abuse-material-possession-cases
+[2026-07-21 15:24:30] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-21 15:24:31] [VA] Found 50 item(s) on page.
+[2026-07-21 15:24:31] [VA] 1 new item(s):
+[2026-07-21 15:24:31]   NEW: Attorney General Jones Secures Multistate Settlement of Bankruptcy Claims Against 23andMe over Genetic Data Breach |  | https://www.oag.state.va.us/media-center/news-releases/3081-attorney-general-jones-secures-multistate-settlement-of-bankruptcy-claims-against-23andme-over-genetic-data-breach
+[2026-07-21 15:24:31] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-21 15:24:31] [WA] Found 15 item(s) on page.
+[2026-07-21 15:24:31] [WA] 2 new item(s):
+[2026-07-21 15:24:31]   NEW: Judge finds Kalshi’s online gambling likely violates state law | Mon, 20 Jul 2026 21:03:47 +0000 | https://www.atg.wa.gov/news/news-releases/judge-finds-kalshi-s-online-gambling-likely-violates-state-law
+[2026-07-21 15:24:31]   NEW: AG Brown, coalition temporarily block Warner Bros./Paramount merger as lawsuit proceeds | Mon, 20 Jul 2026 17:25:46 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-coalition-temporarily-block-warner-brosparamount-merger-lawsuit
+[2026-07-21 15:24:31] [WV] Fetching https://ago.wv.gov/news
+[2026-07-21 15:24:31]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-21 15:24:34]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54727 chars)
+[2026-07-21 15:24:34]   Playwright found 30 item(s) with configured selector
+[2026-07-21 15:24:34] [WV] Found 30 item(s) on page.
+[2026-07-21 15:24:34] [WV] No new items.
+[2026-07-21 15:24:34] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-21 15:24:34]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-21 15:25:05]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-07-21 15:25:05]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-07-21 15:25:21]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f53bbf5aae0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-07-21 15:25:56]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f53bbf586b0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-07-21 15:26:32]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f53bae90080>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-07-21 15:26:32] [WI] No items returned (fetch failed or empty page).
+[2026-07-21 15:26:32] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-21 15:26:33] [WY] Found 1 item(s) on page.
+[2026-07-21 15:26:33] [WY] No new items.
+[2026-07-21 15:26:33] States with fetch errors: KS, NH, NC, OK, WI
+[2026-07-21 15:26:33] Sending email: 36 new item(s) across 18 state(s).
+[2026-07-21 15:26:34] Email sent.
+[2026-07-21 15:26:34] Done.
