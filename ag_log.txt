@@ -18969,3 +18969,245 @@ Call log:
 [2026-07-21 15:26:33] Sending email: 36 new item(s) across 18 state(s).
 [2026-07-21 15:26:34] Email sent.
 [2026-07-21 15:26:34] Done.
+[2026-07-22 15:19:47] Checking for new AG press releases...
+[2026-07-22 15:19:47] Checking 50 state(s).
+[2026-07-22 15:19:47] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-22 15:19:47]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-22 15:19:50]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (230779 chars)
+[2026-07-22 15:19:50]   Playwright found 27 item(s) with configured selector
+[2026-07-22 15:19:50] [AL] Found 27 item(s) on page.
+[2026-07-22 15:19:50] [AL] No new items.
+[2026-07-22 15:19:50] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-22 15:19:50] [AK] Found 50 item(s) on page.
+[2026-07-22 15:19:50] [AK] No new items.
+[2026-07-22 15:19:50] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-22 15:19:51] [AZ] Found 10 item(s) on page.
+[2026-07-22 15:19:51] [AZ] 1 new item(s):
+[2026-07-22 15:19:51]   NEW: Attorney General Mayes Announces Multi-year Prison Sentences in Chandler Meth Trafficking Case |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-multi-year-prison-sentences-chandler-meth
+[2026-07-22 15:19:51] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-22 15:19:52] [AR] Found 50 item(s) on page.
+[2026-07-22 15:19:52] [AR] No new items.
+[2026-07-22 15:19:52] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-22 15:19:52] [CA] Found 10 item(s) on page.
+[2026-07-22 15:19:52] [CA] 5 new item(s):
+[2026-07-22 15:19:52]   NEW: Attorney General Bonta Stands Up for Affordability, Challenges Trump Administration’s Proposal to Cut Medicaid Payments to Healthcare Providers | Tue, 21 Jul 2026 17:32:03 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-stands-affordability-challenges-trump-administration%E2%80%99s
+[2026-07-22 15:19:52]   NEW: Attorney General Bonta Joins Multistate Letter Opposing EPA’s Proposal to Weaken Forever Chemical Regulation | Tue, 21 Jul 2026 19:57:34 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-joins-multistate-letter-opposing-epa%E2%80%99s-proposal-weaken-0
+[2026-07-22 15:19:52]   NEW: Attorney General Bonta Issues Statement on New State Law Strengthening California’s Response to Missing Persons Cases, Delivering Justice for Families | Tue, 21 Jul 2026 16:42:09 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-issues-statement-new-state-law-strengthening-california%E2%80%99s
+[2026-07-22 15:19:52]   NEW: Attorney General Bonta Files Lawsuit Challenging Trump Administration Rule That Eases Restrictions on Highly Potent Greenhouse Gases | Tue, 21 Jul 2026 15:31:00 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-challenging-trump-administration-rule-eases
+[2026-07-22 15:19:52]   NEW: Cracking Down on Demand: Attorney General Bonta Targets Human Trafficking in Sacramento | Tue, 21 Jul 2026 16:01:53 +0000 | https://oag.ca.gov/news/press-releases/cracking-down-demand-attorney-general-bonta-targets-human-trafficking-sacramento
+[2026-07-22 15:19:52] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-22 15:19:52] [CO] Found 49 item(s) on page.
+[2026-07-22 15:19:52] [CO] No new items.
+[2026-07-22 15:19:52] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-22 15:19:53] [CT] Found 33 item(s) on page.
+[2026-07-22 15:19:53] [CT] 1 new item(s):
+[2026-07-22 15:19:53]   NEW: Attorney General Tong Secures Court Order Requiring Implementation of Soot Standard | 7/22/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-secures-court-order-requiring-implementation-of-soot-standard
+[2026-07-22 15:19:53] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-22 15:19:53] [DE] Found 300 item(s) on page.
+[2026-07-22 15:19:53] [DE] No new items.
+[2026-07-22 15:19:53] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-22 15:19:53] [FL] Found 20 item(s) on page.
+[2026-07-22 15:19:53] [FL] No new items.
+[2026-07-22 15:19:53] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-22 15:19:53] [GA] Found 11 item(s) on page.
+[2026-07-22 15:19:53] [GA] No new items.
+[2026-07-22 15:19:53] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-22 15:19:54] [HI] Found 26 item(s) on page.
+[2026-07-22 15:19:54] [HI] No new items.
+[2026-07-22 15:19:54] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-22 15:19:54]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-22 15:19:58]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65739 chars)
+[2026-07-22 15:19:58]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-22 15:19:58] [ID] Found 28 item(s) on page.
+[2026-07-22 15:19:58] [ID] 1 new item(s):
+[2026-07-22 15:19:58]   NEW: Jul 212026$600,000 Secured by AG Labrador for Idaho in Two Consumer Data Settlements | Jul 212026 | https://www.ag.idaho.gov/newsroom/600000-secured-by-ag-labrador-for-idaho-in-two-consumer-data-settlements/
+[2026-07-22 15:19:58] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-22 15:19:59] [IL] Found 50 item(s) on page.
+[2026-07-22 15:19:59] [IL] 3 new item(s):
+[2026-07-22 15:19:59]   NEW: July 21, 2026ATTORNEY GENERAL RAOUL CHALLENGES TRUMP ADMINISTRATION RULE THAT WEAKENS REGULATION OF HIGHLY POTENT GREENHOUSE GAS | 2026-07-21 3:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-challenges-trump-administration-rule-that-weakens-regulation-of-highly-potent-greenhouse-gas
+[2026-07-22 15:19:59]   NEW: July 21, 2026ATTORNEY GENERAL RAOUL: CHICAGO MAN PLEADS GUILTY, SENTENCED TO PRISON FOR SELLING FENTANYL-LACED DRUGS | 2026-07-21 3:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-chicago-man-pleads-guilty-sentenced-to-prison-for-selling-fentanyl-laced-drugs
+[2026-07-22 15:19:59]   NEW: July 21, 2026ATTORNEY GENERAL RAOUL OPPOSES EPA’S ROLLBACK OF PFAS LIMITS IN DRINKING WATER | 2026-07-21 3:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-epas-rollback-of-pfas-limits-in-drinking-water
+[2026-07-22 15:19:59] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-22 15:19:59] [IN] Found 37 item(s) on page.
+[2026-07-22 15:19:59] [IN] No new items.
+[2026-07-22 15:19:59] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-22 15:20:00] [IA] Found 10 item(s) on page.
+[2026-07-22 15:20:00] [IA] No new items.
+[2026-07-22 15:20:00] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-22 15:20:00]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-22 15:20:02]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-07-22 15:20:02]   Playwright: page loaded but no links matched — check selectors
+[2026-07-22 15:20:02]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-22 15:20:03]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-22 15:20:23]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-22 15:20:43]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-22 15:20:43] [KS] No items returned (fetch failed or empty page).
+[2026-07-22 15:20:43] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-22 15:20:48] [KY] Found 26 item(s) on page.
+[2026-07-22 15:20:48] [KY] No new items.
+[2026-07-22 15:20:48] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-22 15:20:48] [LA] Found 20 item(s) on page.
+[2026-07-22 15:20:48] [LA] No new items.
+[2026-07-22 15:20:48] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-22 15:20:48] [ME] Found 11 item(s) on page.
+[2026-07-22 15:20:48] [ME] No new items.
+[2026-07-22 15:20:48] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-22 15:20:49] [MD] Found 50 item(s) on page.
+[2026-07-22 15:20:49] [MD] No new items.
+[2026-07-22 15:20:49] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-22 15:20:49]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-22 15:20:52]   Playwright loaded page: 'News and Announcements | Mass.gov' (176336 chars)
+[2026-07-22 15:20:52]   Playwright found 15 item(s) with configured selector
+[2026-07-22 15:20:52] [MA] Found 15 item(s) on page.
+[2026-07-22 15:20:52] [MA] 4 new item(s):
+[2026-07-22 15:20:52]   NEW: AG Campbell Calls On Congress To Extend Haitian TPS As Lawmakers Return To Session | 7/22/2026 | https://www.mass.gov/news/ag-campbell-calls-on-congress-to-extend-haitian-tps-as-lawmakers-return-to-session
+[2026-07-22 15:20:52]   NEW: AG Campbell Wins Court Order Requiring EPA to Implement Life-Saving Soot Standards | 7/21/2026 | https://www.mass.gov/news/ag-campbell-wins-court-order-requiring-epa-to-implement-life-saving-soot-standards
+[2026-07-22 15:20:52]   NEW: AG Campbell Opposes EPA’s Proposed Rollback of PFAS Forever Chemicals Limits in Drinking Water | 7/21/2026 | https://www.mass.gov/news/ag-campbell-opposes-epas-proposed-rollback-of-pfas-forever-chemicals-limits-in-drinking-water
+[2026-07-22 15:20:52]   NEW: AG Campbell Challenges Trump Administration Rule That Weakens Regulation Of Highly Potent Greenhouse Gas | 7/21/2026 | https://www.mass.gov/news/ag-campbell-challenges-trump-administration-rule-that-weakens-regulation-of-highly-potent-greenhouse-gas
+[2026-07-22 15:20:52] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-22 15:20:52]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-22 15:20:56]   Playwright loaded page: 'Attorney General: Press Releases' (378574 chars)
+[2026-07-22 15:20:56]   Playwright found 10 item(s) with configured selector
+[2026-07-22 15:20:56] [MI] Found 10 item(s) on page.
+[2026-07-22 15:20:56] [MI] 5 new item(s):
+[2026-07-22 15:20:56]   NEW: Chinese National Pleads Guilty to Operating Illicit Massage Parlors in Metro Detroit |  | https://www.michigan.gov/ag/news/press-releases/2026/07/22/chinese-national-pleads-guilty-to-operating-illicit-massage-parlors-in-metro-detroit
+[2026-07-22 15:20:56]   NEW: AG Nessel Wins Ruling Protecting Critical Federal Funding for Michigan |  | https://www.michigan.gov/ag/news/press-releases/2026/07/21/ag-nessel-wins-ruling-protecting-critical-federal-funding-for-michigan
+[2026-07-22 15:20:56]   NEW: Gwinn Man Sentenced for First-Degree Criminal Sexual Conduct, First-Degree Child Abuse |  | https://www.michigan.gov/ag/news/press-releases/2026/07/21/gwinn-man-sentenced-for-first-degree-criminal-sexual-conduct-first-degree-child-abuse
+[2026-07-22 15:20:56]   NEW: Oxford Center Safety Manager Pleads to Involuntary Manslaughter in Fatal Hyperbaric Chamber Explosion |  | https://www.michigan.gov/ag/news/press-releases/2026/07/21/oxford-center-safety-manager-pleads-to-involuntary-manslaughter
+[2026-07-22 15:20:56]   NEW: Detroit Man Convicted of Second-Degree Murder |  | https://www.michigan.gov/ag/news/press-releases/2026/07/21/detroit-man-convicted-of-second-degree-murder
+[2026-07-22 15:20:56] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-22 15:20:56] [MN] Found 50 item(s) on page.
+[2026-07-22 15:20:56] [MN] No new items.
+[2026-07-22 15:20:56] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-22 15:20:57] [MS] Found 1 item(s) on page.
+[2026-07-22 15:20:57] [MS] No new items.
+[2026-07-22 15:20:57] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-22 15:20:57] [MO] Found 50 item(s) on page.
+[2026-07-22 15:20:57] [MO] No new items.
+[2026-07-22 15:20:57] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-22 15:20:57] [MT] Found 10 item(s) on page.
+[2026-07-22 15:20:57] [MT] No new items.
+[2026-07-22 15:20:57] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-22 15:20:57] [NE] Found 10 item(s) on page.
+[2026-07-22 15:20:57] [NE] No new items.
+[2026-07-22 15:20:57] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-22 15:20:58] [NV] Found 50 item(s) on page.
+[2026-07-22 15:20:58] [NV] No new items.
+[2026-07-22 15:20:58] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-22 15:20:58]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-22 15:21:01]   Playwright loaded page: 'Press Releases | New Hampshire Department of Justice' (92086 chars)
+[2026-07-22 15:21:01]   Playwright found 10 item(s) with configured selector
+[2026-07-22 15:21:01] [NH] Found 10 item(s) on page.
+[2026-07-22 15:21:01] [NH] 10 new item(s):
+[2026-07-22 15:21:01]   NEW: Suspicious Death Investigation in Nashua, New Hampshire |  | https://www.doj.nh.gov/news-and-media/suspicious-death-investigation-nashua-new-hampshire
+[2026-07-22 15:21:01]   NEW: Court Finds Travis Lufkin Violated the New Hampshire Civil Rights Act |  | https://www.doj.nh.gov/news-and-media/court-finds-travis-lufkin-violated-new-hampshire-civil-rights-act
+[2026-07-22 15:21:01]   NEW: Determination Made on Use of Force in Officer-Involved Shooting in Charlestown on November 14, 2025 |  | https://www.doj.nh.gov/news-and-media/determination-made-use-force-officer-involved-shooting-charlestown-november-14-2025
+[2026-07-22 15:21:01]   NEW: $29.6 Million Settlement Secured with Glenmark Over Conspiracy to Inflate Prices and Limit Competition |  | https://www.doj.nh.gov/news-and-media/296-million-settlement-secured-glenmark-over-conspiracy-inflate-prices-and-limit
+[2026-07-22 15:21:01]   NEW: CONSUMER ALERT: Attorney General John M. Formella announces $18 Million Multistate Settlement with 23andMe Over Genetic Data Breach |  | https://www.doj.nh.gov/news-and-media/consumer-alert-attorney-general-john-m-formella-announces-18-million-multistate
+[2026-07-22 15:21:01]   NEW: New Hampshire Receives PFAS Settlement for Public Water Systems from BASF Corporation |  | https://www.doj.nh.gov/news-and-media/new-hampshire-receives-pfas-settlement-public-water-systems-basf-corporation
+[2026-07-22 15:21:01]   NEW: Robert Tulloch Resentenced to Two 45-to-Life Sentences for the Murders of Dartmouth Professors Half and Susanne Zantop |  | https://www.doj.nh.gov/news-and-media/robert-tulloch-resentenced-two-45-life-sentences-murders-dartmouth-professors-half
+[2026-07-22 15:21:01]   NEW: Renewed Call for Information on 42nd Anniversary of 1984 Disappearance of Shirley Ann "Tippy" McBride |  | https://www.doj.nh.gov/news-and-media/renewed-call-information-42nd-anniversary-1984-disappearance-shirley-ann-tippy
+[2026-07-22 15:21:01]   NEW: State Secures Agreement to Reopen the Northern Rail Trail in Andover, New Hampshire |  | https://www.doj.nh.gov/news-and-media/state-secures-agreement-reopen-northern-rail-trail-andover-new-hampshire
+[2026-07-22 15:21:01]   NEW: Additional Information on Homicide Investigation in Peterborough, New Hampshire |  | https://www.doj.nh.gov/news-and-media/additional-information-homicide-investigation-peterborough-new-hampshire
+[2026-07-22 15:21:01] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-22 15:21:03] [NJ] Found 5 item(s) on page.
+[2026-07-22 15:21:03] [NJ] 2 new item(s):
+[2026-07-22 15:21:03]   NEW: AG Davenport: 2025 State Recoveries Reach $193 Million |  | https://www.njoag.gov/ag-davenport-2025-state-recoveries-reach-193-million/
+[2026-07-22 15:21:03]   NEW: AG Davenport Sues Trump Administration Over Rule Weakening Regulation of Highly Potent Greenhouse Gas Linked to Climate Change |  | https://www.njoag.gov/ag-davenport-sues-trump-administration-over-rule-weakening-regulation-of-highly-potent-greenhouse-gas-linked-to-climate-change/
+[2026-07-22 15:21:03] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-22 15:21:06] [NM] Found 14 item(s) on page.
+[2026-07-22 15:21:06] [NM] 2 new item(s):
+[2026-07-22 15:21:06]   NEW: The New Mexico Department of Justice Announces Arrest of Roswell Woman for Defrauding Employer of Nearly $70,000 |  | https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-announces-arrest-of-roswell-woman-for-defrauding-employer-of-nearly-70000/
+[2026-07-22 15:21:06]   NEW: Former AG Balderas: New Mexico and SDNY Struck a Deal on Epstein in 2019 — the Federal Government Never Held Up Its End |  | https://nmdoj.gov/press-release/former-ag-balderas-new-mexico-and-sdny-struck-a-deal-on-epstein-in-2019-the-federal-government-never-held-up-its-end/
+[2026-07-22 15:21:06] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-22 15:21:06] [NY] Found 25 item(s) on page.
+[2026-07-22 15:21:06] [NY] 3 new item(s):
+[2026-07-22 15:21:06]   NEW: Attorney General James Sues to Stop EPA Rollback of Climate Protections |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-stop-epa-rollback-climate-protections
+[2026-07-22 15:21:06]   NEW: Attorney General James Secures $400,000 for Tenants and Critical Repairs to The Kenney Apartments in Newburgh |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-400000-tenants-and-critical-repairs-kenney
+[2026-07-22 15:21:06]   NEW: Attorney General James' Office of Special Investigation Opens Investigation into Civilian Death in Harlem |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-opens-investigation-20
+[2026-07-22 15:21:06] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-22 15:21:10] [NC] Found 10 item(s) on page.
+[2026-07-22 15:21:10] [NC] 1 new item(s):
+[2026-07-22 15:21:10]   NEW: No Deal: Attorney General Jackson Won’t Sign Duke Energy Settlement That Raises Families’ Bills About 9.5% |  | https://ncdoj.gov/no-deal-attorney-general-jackson-wont-sign-duke-energy-settlement-that-raises-families-bills-about-9-5/
+[2026-07-22 15:21:10] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-22 15:21:10] [ND] Found 10 item(s) on page.
+[2026-07-22 15:21:10] [ND] No new items.
+[2026-07-22 15:21:10] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-22 15:21:10] [OH] Found 10 item(s) on page.
+[2026-07-22 15:21:10] [OH] No new items.
+[2026-07-22 15:21:10] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-22 15:21:10]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-22 15:21:13]   Playwright loaded page: 'News Releases' (838948 chars)
+[2026-07-22 15:21:14]   Playwright found 20 item(s) with configured selector
+[2026-07-22 15:21:14] [OK] Found 20 item(s) on page.
+[2026-07-22 15:21:14] [OK] 1 new item(s):
+[2026-07-22 15:21:14]   NEW: Drummond: FTC's Caremark settlement a win for patients, pharmacies |  | https://oklahoma.gov/oag/news/newsroom/2026/july/drummond-ftcs-caremark-settlement-a-win-for-patients-pharmacies.html
+[2026-07-22 15:21:14] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-22 15:21:34] [OR] Found 10 item(s) on page.
+[2026-07-22 15:21:34] [OR] 1 new item(s):
+[2026-07-22 15:21:34]   NEW: Attorney General Rayfield Sues Trump Administration for Delaying Potent Greenhouse Gas Phase-Out |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-sues-trump-for-delaying-potent-greenhouse-gas-phase-out/
+[2026-07-22 15:21:34] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-22 15:21:36] [PA] Found 12 item(s) on page.
+[2026-07-22 15:21:36] [PA] No new items.
+[2026-07-22 15:21:36] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-22 15:21:36] [RI] Found 10 item(s) on page.
+[2026-07-22 15:21:36] [RI] No new items.
+[2026-07-22 15:21:36] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-22 15:21:36]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-22 15:21:39]   Playwright loaded page: 'News - South Carolina Attorney General' (110870 chars)
+[2026-07-22 15:21:39]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-22 15:21:39] [SC] Found 9 item(s) on page.
+[2026-07-22 15:21:39] [SC] No new items.
+[2026-07-22 15:21:39] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-22 15:21:39]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-22 15:21:42]   Playwright loaded page: 'South Dakota Attorney General' (36022 chars)
+[2026-07-22 15:21:42]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-22 15:21:42] [SD] Found 1 item(s) on page.
+[2026-07-22 15:21:42] [SD] No new items.
+[2026-07-22 15:21:42] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-22 15:21:42]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-22 15:22:02] [TN] Found 50 item(s) on page.
+[2026-07-22 15:22:02] [TN] No new items.
+[2026-07-22 15:22:02] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-22 15:22:03] [TX] Found 50 item(s) on page.
+[2026-07-22 15:22:03] [TX] No new items.
+[2026-07-22 15:22:03] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-22 15:22:03]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-22 15:22:06]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296187 chars)
+[2026-07-22 15:22:06]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-22 15:22:06] [UT] Found 50 item(s) on page.
+[2026-07-22 15:22:06] [UT] No new items.
+[2026-07-22 15:22:06] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-22 15:22:06] [VT] Found 50 item(s) on page.
+[2026-07-22 15:22:06] [VT] 1 new item(s):
+[2026-07-22 15:22:06]   NEW: Attorney General Clark Files Lawsuit to Fight Greenhouse Gas Emissions | DateJuly 21, 2026 | https://ago.vermont.gov/blog/2026/07/21/attorney-general-clark-files-lawsuit-fight-greenhouse-gas-emissions
+[2026-07-22 15:22:06] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-22 15:22:07] [VA] Found 50 item(s) on page.
+[2026-07-22 15:22:07] [VA] No new items.
+[2026-07-22 15:22:07] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-22 15:22:07] [WA] Found 15 item(s) on page.
+[2026-07-22 15:22:07] [WA] 1 new item(s):
+[2026-07-22 15:22:07]   NEW: AG Brown co-leads challenge to federal rule weakening regulation of highly potent greenhouse gas | Tue, 21 Jul 2026 16:36:11 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-co-leads-challenge-federal-rule-weakening-regulation-highly-potent
+[2026-07-22 15:22:07] [WV] Fetching https://ago.wv.gov/news
+[2026-07-22 15:22:07]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-22 15:22:10]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54725 chars)
+[2026-07-22 15:22:10]   Playwright found 30 item(s) with configured selector
+[2026-07-22 15:22:10] [WV] Found 30 item(s) on page.
+[2026-07-22 15:22:10] [WV] 1 new item(s):
+[2026-07-22 15:22:10]   NEW: Full Story | 2026-07-21T12:00:00Z | https://ago.wv.gov/article/consumer-alert-attorney-general-mccuskey-warns-consumers-about-free-gas-and-grocery-card
+[2026-07-22 15:22:10] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-22 15:22:10]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-22 15:22:14]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1540583 chars)
+[2026-07-22 15:22:14]   Playwright found 50 item(s) with configured selector
+[2026-07-22 15:22:14] [WI] Found 50 item(s) on page.
+[2026-07-22 15:22:14] [WI] 3 new item(s):
+[2026-07-22 15:22:14]   NEW: Wisconsin Department of Justice Opposes EPA’s Rollback of PFAS Limits in Drinking Water |  | https://www.wisdoj.gov/PressReleases/press-release-epa-pfas.pdf
+[2026-07-22 15:22:14]   NEW: Wisconsin DOJ and Coalition Win Ruling Protecting Billions in Critical Federal Funding |  | https://www.wisdoj.gov/PressReleases/press-release-funding-agency-priorities-win.pdf
+[2026-07-22 15:22:14]   NEW: Wisconsin Department of Justice Secures Court Order Requiring Implementation of Clean Air Act Rule |  | https://www.wisdoj.gov/PressReleases/press-release-clean-air-act-rule-decision.pdf
+[2026-07-22 15:22:14] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-22 15:22:14] [WY] Found 1 item(s) on page.
+[2026-07-22 15:22:14] [WY] No new items.
+[2026-07-22 15:22:14] States with fetch errors: KS
+[2026-07-22 15:22:14] Sending email: 46 new item(s) across 18 state(s).
+[2026-07-22 15:22:15] Email sent.
+[2026-07-22 15:22:15] Done.
