@@ -4670,3 +4670,14 @@ Call log:
 [2026-07-22 13:38:37] Found 27 opinions on page.
 [2026-07-22 13:38:37] No new opinions.
 [2026-07-22 13:38:37] Done.
+[2026-07-22 15:28:43] Checking for new DE court opinions...
+[2026-07-22 15:28:43] Using Playwright to fetch opinions page...
+[2026-07-22 15:28:54] Playwright found 27 opinion(s).
+[2026-07-22 15:28:54] Found 27 opinions on page.
+[2026-07-22 15:28:54] 2 new opinion(s)!
+[2026-07-22 15:28:54]   NEW: [07/22/2026] [Supreme Court(Court of Chancery)] Summit Healthcare Operating Partnership, L.P. v. Best Years, LLC | 183, 2026 | LeGrowJ.
+[2026-07-22 15:28:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398500
+[2026-07-22 15:28:54]   NEW: [07/22/2026] [Supreme Court(Superior Court)] Joanne Mondragon, as parent and guardian of J.W., a minor v. The Board of Education of The Colonial School District | 31, 2026 | LeGrowJ.
+[2026-07-22 15:28:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398490
+[2026-07-22 15:29:03] Email notification sent.
+[2026-07-22 15:29:03] Done.
