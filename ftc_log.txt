@@ -836,3 +836,14 @@
 [2026-07-21 15:23:44]        https://www.ftc.gov/news-events/news/press-releases/2026/07/founders-celsius-network-ordered-pay-165-million-resolve-ftc-charges
 [2026-07-21 15:23:45] Email notification sent.
 [2026-07-21 15:23:45] Done.
+[2026-07-22 15:20:57] Checking for new FTC press releases...
+[2026-07-22 15:20:57] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-22 15:21:11] Playwright found 0 press release link(s).
+[2026-07-22 15:21:11] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-22 15:21:11] requests found 20 press release link(s).
+[2026-07-22 15:21:11] Found 20 press release(s) on page.
+[2026-07-22 15:21:11] 1 new press release(s)!
+[2026-07-22 15:21:11]   NEW: [2026-07-21T12:00:00Z] Student Loan Forgiveness Scammer Permanently Banned from Debt Relief Industry and Telemarketing
+[2026-07-22 15:21:11]        https://www.ftc.gov/news-events/news/press-releases/2026/07/student-loan-forgiveness-scammer-permanently-banned-debt-relief-industry-telemarketing
+[2026-07-22 15:21:12] Email notification sent.
+[2026-07-22 15:21:12] Done.
