@@ -4776,3 +4776,12 @@ Call log:
 [2026-07-23 15:51:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398580
 [2026-07-23 15:51:48] Email notification sent.
 [2026-07-23 15:51:48] Done.
+[2026-07-23 17:14:32] Checking for new DE court opinions...
+[2026-07-23 17:14:32] Using Playwright to fetch opinions page...
+[2026-07-23 17:14:43] Playwright found 27 opinion(s).
+[2026-07-23 17:14:43] Found 27 opinions on page.
+[2026-07-23 17:14:43] 1 new opinion(s)!
+[2026-07-23 17:14:43]   NEW: [07/23/2026] [Court of Chancery] Samvit Ramadurgam v. Destiny XYZ Inc. et al. | C.A. No. 2024-0057-PAF | FioravantiV.C.
+[2026-07-23 17:14:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398590
+[2026-07-23 17:14:44] Email notification sent.
+[2026-07-23 17:14:44] Done.
