@@ -4752,3 +4752,14 @@ Call log:
 [2026-07-23 11:55:10] Found 27 opinions on page.
 [2026-07-23 11:55:10] No new opinions.
 [2026-07-23 11:55:10] Done.
+[2026-07-23 13:44:21] Checking for new DE court opinions...
+[2026-07-23 13:44:21] Using Playwright to fetch opinions page...
+[2026-07-23 13:44:32] Playwright found 27 opinion(s).
+[2026-07-23 13:44:32] Found 27 opinions on page.
+[2026-07-23 13:44:32] 2 new opinion(s)!
+[2026-07-23 13:44:32]   NEW: [07/22/2026] [Superior Court] State v. Thomas | 1703001172 | WallaceJ.
+[2026-07-23 13:44:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398540
+[2026-07-23 13:44:32]   NEW: [07/21/2026] [Superior Court] MSG Network Inc. v. Federal Insurance Company, et al. | N23C-01-103 PRW CCLD | WallaceJ.
+[2026-07-23 13:44:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398530
+[2026-07-23 13:44:33] Email notification sent.
+[2026-07-23 13:44:33] Done.
