@@ -1,0 +1,46 @@
+name: Cyclospora / Taylor Farms / Taco Bell Alert Monitor
+
+on:
+  schedule:
+    - cron: '0 14 * * *'   # 10am EDT (Mar–Nov) / 9am EST (Nov–Mar)
+  workflow_dispatch:
+
+concurrency:
+  group: cyclospora-monitor
+  cancel-in-progress: false  # let the current run finish; queue the next
+
+jobs:
+  check-cyclospora-alerts:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write        # needed to commit state file back
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4 playwright
+
+      - name: Install Playwright browsers
+        run: playwright install chromium --with-deps
+
+      - name: Run cyclospora alert monitor
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python check_cyclospora_alerts.py
+
+      - name: Commit updated state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add cyclospora_state.json cyclospora_log.txt
+          git diff --staged --quiet || git commit -m "Update cyclospora alert state [skip ci]"
+          git pull --rebase origin main
+          git push origin HEAD

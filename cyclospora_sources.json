@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fda_outbreaks",
+    "name": "FDA Outbreak Investigations",
+    "press_url": "https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks",
+    "rss_url": null,
+    "use_playwright": true,
+    "container_selector": "main",
+    "item_selector": "a",
+    "base_url": "https://www.fda.gov",
+    "cyclospora_only": false,
+    "notes": "Covers all pathogens; only rows whose title mentions 'cyclospora' are treated as candidates."
+  },
+  {
+    "id": "fda_recalls",
+    "name": "FDA Recalls, Market Withdrawals & Safety Alerts",
+    "press_url": "https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts",
+    "rss_url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml",
+    "use_playwright": true,
+    "container_selector": "main",
+    "item_selector": "a",
+    "base_url": "https://www.fda.gov",
+    "cyclospora_only": false,
+    "notes": "Covers all recalls; only entries whose title mentions 'cyclospora' are treated as candidates. RSS URL is a best guess, verify after first run."
+  },
+  {
+    "id": "cdc_cyclospora",
+    "name": "CDC Cyclosporiasis Outbreak Investigations",
+    "press_url": "https://www.cdc.gov/cyclosporiasis/outbreaks/index.html",
+    "rss_url": null,
+    "use_playwright": true,
+    "container_selector": "main",
+    "item_selector": "a",
+    "base_url": "https://www.cdc.gov",
+    "cyclospora_only": true,
+    "notes": "Cyclospora-specific page; every new entry is a candidate, checked for Taylor Farms / Taco Bell mentions."
+  },
+  {
+    "id": "cdc_newsroom",
+    "name": "CDC Newsroom",
+    "press_url": "https://www.cdc.gov/media/index.html",
+    "rss_url": null,
+    "use_playwright": true,
+    "container_selector": "main",
+    "item_selector": "a",
+    "base_url": "https://www.cdc.gov",
+    "cyclospora_only": false,
+    "notes": "Covers all CDC press releases; only entries whose title mentions 'cyclospora' are treated as candidates."
+  }
+]
