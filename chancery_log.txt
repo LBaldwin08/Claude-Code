@@ -4791,3 +4791,16 @@ Call log:
 [2026-07-23 18:44:15] Found 27 opinions on page.
 [2026-07-23 18:44:15] No new opinions.
 [2026-07-23 18:44:15] Done.
+[2026-07-23 20:09:19] Checking for new DE court opinions...
+[2026-07-23 20:09:19] Using Playwright to fetch opinions page...
+[2026-07-23 20:09:30] Playwright found 27 opinion(s).
+[2026-07-23 20:09:30] Found 27 opinions on page.
+[2026-07-23 20:09:30] 3 new opinion(s)!
+[2026-07-23 20:09:30]   NEW: [07/22/2026] [Superior Court] State v. Anderson | 2402003150; 2411010203 | WinstonJ.
+[2026-07-23 20:09:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398620
+[2026-07-23 20:09:30]   NEW: [07/22/2026] [Superior Court] State v. Carr | 2407013737; 2404002577 | RennieJ.
+[2026-07-23 20:09:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398630
+[2026-07-23 20:09:30]   NEW: [07/22/2026] [Superior Court] State v. Destafney | 2201008017 | RennieJ.
+[2026-07-23 20:09:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398610
+[2026-07-23 20:09:31] Email notification sent.
+[2026-07-23 20:09:31] Done.
