@@ -858,3 +858,11 @@
 [2026-07-23 15:33:58]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-returns-money-consumers-harmed-trend-deploys-deceptive-marketing
 [2026-07-23 15:34:00] Email notification sent.
 [2026-07-23 15:34:00] Done.
+[2026-07-24 15:14:37] Checking for new FTC press releases...
+[2026-07-24 15:14:37] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-24 15:14:50] Playwright found 0 press release link(s).
+[2026-07-24 15:14:50] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-24 15:14:51] requests found 20 press release link(s).
+[2026-07-24 15:14:51] Found 20 press release(s) on page.
+[2026-07-24 15:14:51] No new press releases.
+[2026-07-24 15:14:51] Done.
