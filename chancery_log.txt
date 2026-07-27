@@ -5123,3 +5123,12 @@ Call log:
 [2026-07-27 13:24:28] Found 27 opinions on page.
 [2026-07-27 13:24:28] No new opinions.
 [2026-07-27 13:24:28] Done.
+[2026-07-27 15:57:48] Checking for new DE court opinions...
+[2026-07-27 15:57:48] Using Playwright to fetch opinions page...
+[2026-07-27 15:58:01] Playwright found 27 opinion(s).
+[2026-07-27 15:58:01] Found 27 opinions on page.
+[2026-07-27 15:58:01] 1 new opinion(s)!
+[2026-07-27 15:58:01]   NEW: [07/27/2026] [Court of Chancery] Jefferies LLC v. Mountain State Energy Holdings, LLC | C.A. No. 2026-0410-CDW | WrightM.
+[2026-07-27 15:58:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398740
+[2026-07-27 15:58:02] Email notification sent.
+[2026-07-27 15:58:02] Done.
