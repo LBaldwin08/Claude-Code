@@ -5150,3 +5150,12 @@ Call log:
 [2026-07-27 19:19:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398750
 [2026-07-27 19:19:07] Email notification sent.
 [2026-07-27 19:19:07] Done.
+[2026-07-27 20:49:28] Checking for new DE court opinions...
+[2026-07-27 20:49:28] Using Playwright to fetch opinions page...
+[2026-07-27 20:49:41] Playwright found 27 opinion(s).
+[2026-07-27 20:49:41] Found 27 opinions on page.
+[2026-07-27 20:49:41] 1 new opinion(s)!
+[2026-07-27 20:49:41]   NEW: [07/27/2026] [Court of Chancery] Ashok Mayya v. Edward Lee, et al. | C.A. No. 2023-0382-NAC | CookV.C.
+[2026-07-27 20:49:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398760
+[2026-07-27 20:49:42] Email notification sent.
+[2026-07-27 20:49:42] Done.
