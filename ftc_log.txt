@@ -890,3 +890,14 @@
 [2026-07-27 16:00:34] Found 20 press release(s) on page.
 [2026-07-27 16:00:34] No new press releases.
 [2026-07-27 16:00:34] Done.
+[2026-07-28 15:51:53] Checking for new FTC press releases...
+[2026-07-28 15:51:53] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-28 15:52:06] Playwright found 0 press release link(s).
+[2026-07-28 15:52:06] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-28 15:52:06] requests found 20 press release link(s).
+[2026-07-28 15:52:06] Found 20 press release(s) on page.
+[2026-07-28 15:52:06] 1 new press release(s)!
+[2026-07-28 15:52:06]   NEW: [2026-07-27T12:00:00Z] FTC Takes Action Against Elite Events for Bypassing Ticket Purchase Limits in Violation of Better Online Ticket Sales Act
+[2026-07-28 15:52:06]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-takes-action-against-elite-events-bypassing-ticket-purchase-limits-violation-better-online
+[2026-07-28 15:52:08] Email notification sent.
+[2026-07-28 15:52:08] Done.
