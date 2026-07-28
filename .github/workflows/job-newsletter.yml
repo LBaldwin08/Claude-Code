@@ -1,9 +1,6 @@
 name: Law Firm Job Newsletter
 
 on:
-  schedule:
-    # Every Monday at 12:00 UTC = 7 AM EST / 8 AM EDT
-    - cron: "0 12 * * 1"
   workflow_dispatch:
     # Allows manual trigger from the GitHub Actions tab
 
