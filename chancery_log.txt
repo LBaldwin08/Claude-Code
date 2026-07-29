@@ -5293,3 +5293,14 @@ Call log:
 [2026-07-29 15:28:08] Found 27 opinions on page.
 [2026-07-29 15:28:08] No new opinions.
 [2026-07-29 15:28:08] Done.
+[2026-07-29 16:49:37] Checking for new DE court opinions...
+[2026-07-29 16:49:37] Using Playwright to fetch opinions page...
+[2026-07-29 16:49:48] Playwright found 27 opinion(s).
+[2026-07-29 16:49:48] Found 27 opinions on page.
+[2026-07-29 16:49:48] 2 new opinion(s)!
+[2026-07-29 16:49:48]   NEW: [07/29/2026] [Court of Chancery] Drakes Landing Associates, L.P. vs Tilden Park Capital Management,  L.P. | C.A. No. 2025-0898-NAC | CookV.C.
+[2026-07-29 16:49:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398860
+[2026-07-29 16:49:48]   NEW: [07/28/2026] [Supreme Court(Family Court)] IMO the Petition of Simon Smith for a Writ of Mandamus | 156, 2026 | TraynorJ.
+[2026-07-29 16:49:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398780
+[2026-07-29 16:49:50] Email notification sent.
+[2026-07-29 16:49:50] Done.
