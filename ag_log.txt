@@ -20536,3 +20536,234 @@ Call log:
 [2026-07-28 15:49:28] Sending email: 25 new item(s) across 15 state(s).
 [2026-07-28 15:49:29] Email sent.
 [2026-07-28 15:49:29] Done.
+[2026-07-29 15:28:28] Checking for new AG press releases...
+[2026-07-29 15:28:28] Checking 50 state(s).
+[2026-07-29 15:28:28] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-07-29 15:28:28]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-07-29 15:28:35]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (230717 chars)
+[2026-07-29 15:28:35]   Playwright found 27 item(s) with configured selector
+[2026-07-29 15:28:35] [AL] Found 27 item(s) on page.
+[2026-07-29 15:28:35] [AL] No new items.
+[2026-07-29 15:28:35] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-07-29 15:28:35] [AK] Found 50 item(s) on page.
+[2026-07-29 15:28:35] [AK] 1 new item(s):
+[2026-07-29 15:28:35]   NEW: Court Dismisses Claims Against AlaskaâState Lands Secured |  | https://law.alaska.gov/releases/2026/072426-Dalton.html
+[2026-07-29 15:28:35] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-07-29 15:28:35] [AZ] Found 10 item(s) on page.
+[2026-07-29 15:28:35] [AZ] No new items.
+[2026-07-29 15:28:35] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-07-29 15:28:36] [AR] Found 50 item(s) on page.
+[2026-07-29 15:28:36] [AR] No new items.
+[2026-07-29 15:28:36] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-07-29 15:28:37] [CA] Found 10 item(s) on page.
+[2026-07-29 15:28:37] [CA] 5 new item(s):
+[2026-07-29 15:28:37]   NEW: Attorney General Bonta Joins Multistate Coalition Opposing Federal Proposal to Fast-Track Natural Gas Pipeline Projects | Tue, 28 Jul 2026 18:27:09 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-joins-multistate-coalition-opposing-federal-proposal-fast
+[2026-07-29 15:28:37]   NEW: Attorney General Bonta Strongly Urges Trump Administration to Halt Unlawful Proposed Rule Amending U.S. EPA’s Regulations Implementing NEPA | Tue, 28 Jul 2026 17:04:07 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-strongly-urges-trump-administration-halt-unlawful
+[2026-07-29 15:28:37]   NEW: Attorney General Bonta Secures Early Court Victory Blocking Termination of School Mental Health Funding | Tue, 28 Jul 2026 17:46:11 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-early-court-victory-blocking-termination-school
+[2026-07-29 15:28:37]   NEW: A Bitter Pill for Sweetwater Care: Attorney General Bonta Secures $15 Million Medi-Cal Settlement Against the Skilled Nursing Facility Chain | Mon, 27 Jul 2026 21:54:26 +0000 | https://oag.ca.gov/news/press-releases/bitter-pill-sweetwater-care-attorney-general-bonta-secures-15-million-medi-cal
+[2026-07-29 15:28:37]   NEW: Attorney General Bonta Supports New Federal Regulations Cracking Down on Illegal Robocalls | Mon, 27 Jul 2026 21:26:02 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-supports-new-federal-regulations-cracking-down-illegal
+[2026-07-29 15:28:37] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-07-29 15:28:38] [CO] Found 49 item(s) on page.
+[2026-07-29 15:28:38] [CO] No new items.
+[2026-07-29 15:28:38] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-07-29 15:28:39] [CT] Found 32 item(s) on page.
+[2026-07-29 15:28:39] [CT] 1 new item(s):
+[2026-07-29 15:28:39]   NEW: Attorney General Tong Pushes Federal Government to Strengthen Know Your Customer Rules in Effort to Combat Illegal Robocalls | 7/28/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-pushes-to-strengthen-know-your-customer-rules-to-combat-illegal-robocalls
+[2026-07-29 15:28:39] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-07-29 15:28:40] [DE] Found 300 item(s) on page.
+[2026-07-29 15:28:40] [DE] 1 new item(s):
+[2026-07-29 15:28:40]   NEW: AG Jennings obtains court order protecting Delaware consumers against pest control company | Wed, 29 Jul 2026 05:58:44 +0000 | https://news.delaware.gov/2026/07/29/ag-jennings-obtains-court-order-protecting-delaware-consumers-against-pest-control-company/
+[2026-07-29 15:28:40] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-07-29 15:28:40] [FL] Found 20 item(s) on page.
+[2026-07-29 15:28:40] [FL] No new items.
+[2026-07-29 15:28:40] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-07-29 15:28:41] [GA] Found 11 item(s) on page.
+[2026-07-29 15:28:41] [GA] No new items.
+[2026-07-29 15:28:41] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-07-29 15:28:42] [HI] Found 26 item(s) on page.
+[2026-07-29 15:28:42] [HI] No new items.
+[2026-07-29 15:28:42] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-29 15:28:42]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-07-29 15:28:45]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65361 chars)
+[2026-07-29 15:28:45]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-07-29 15:28:45] [ID] Found 28 item(s) on page.
+[2026-07-29 15:28:45] [ID] No new items.
+[2026-07-29 15:28:45] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-07-29 15:28:47] [IL] Found 50 item(s) on page.
+[2026-07-29 15:28:47] [IL] 1 new item(s):
+[2026-07-29 15:28:47]   NEW: July 28, 2026ATTORNEY GENERAL RAOUL OPPOSES FEDERAL REGULATOR’S UNLAWFUL PLAN TO BYPASS REVIEW OF GAS PIPELINE PROJECTS | 2026-07-28 11:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-federal-regulators-unlawful-plan-to-bypass-review-of-gas-pipeline-projects
+[2026-07-29 15:28:47] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-07-29 15:28:47] [IN] Found 37 item(s) on page.
+[2026-07-29 15:28:47] [IN] No new items.
+[2026-07-29 15:28:47] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-07-29 15:28:48] [IA] Found 10 item(s) on page.
+[2026-07-29 15:28:48] [IA] 1 new item(s):
+[2026-07-29 15:28:48]   NEW: Attorney General Brenna Bird Continues Fight to Combat Illegal Robocalls | July 28, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-continues-fight-to-combat-illegal-robocalls/
+[2026-07-29 15:28:48] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-29 15:28:48]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-07-29 15:28:51]   Playwright loaded page: 'Access Denied' (337 chars)
+[2026-07-29 15:28:51]   Playwright: page loaded but no links matched — check selectors
+[2026-07-29 15:28:51]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-07-29 15:28:51]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-29 15:29:12]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-29 15:29:32]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-07-29 15:29:32] [KS] No items returned (fetch failed or empty page).
+[2026-07-29 15:29:32] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-07-29 15:29:33] [KY] Found 26 item(s) on page.
+[2026-07-29 15:29:33] [KY] No new items.
+[2026-07-29 15:29:33] [LA] Fetching https://ag.louisiana.gov/News
+[2026-07-29 15:29:34] [LA] Found 20 item(s) on page.
+[2026-07-29 15:29:34] [LA] 1 new item(s):
+[2026-07-29 15:29:34]   NEW: Attorney General Murrill's Louisiana Bureau of Investigation Arrests Eunice Man for Distribution of Child Sexual Abuse Material | 7/28/2026 | https://ag.louisiana.gov/Article/585
+[2026-07-29 15:29:34] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-07-29 15:29:34] [ME] Found 11 item(s) on page.
+[2026-07-29 15:29:34] [ME] No new items.
+[2026-07-29 15:29:34] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-07-29 15:29:35] [MD] Found 50 item(s) on page.
+[2026-07-29 15:29:35] [MD] No new items.
+[2026-07-29 15:29:35] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-29 15:29:35]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-07-29 15:29:38]   Playwright loaded page: 'News and Announcements | Mass.gov' (176997 chars)
+[2026-07-29 15:29:38]   Playwright found 15 item(s) with configured selector
+[2026-07-29 15:29:38] [MA] Found 15 item(s) on page.
+[2026-07-29 15:29:38] [MA] No new items.
+[2026-07-29 15:29:38] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-07-29 15:29:38]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-07-29 15:29:42]   Playwright loaded page: 'Attorney General: Press Releases' (374749 chars)
+[2026-07-29 15:29:42]   Playwright found 10 item(s) with configured selector
+[2026-07-29 15:29:42] [MI] Found 10 item(s) on page.
+[2026-07-29 15:29:42] [MI] 2 new item(s):
+[2026-07-29 15:29:42]   NEW: AG Nessel Files Emergency Appeal to Reverse Parole of Convicted Child Rapist, Secures Stay of Release |  | https://www.michigan.gov/ag/news/press-releases/2026/07/28/ag-nessel-files-emergency-appeal-to-reverse-parole-of-convicted-child-rapist-secures-stay-of-release
+[2026-07-29 15:29:42]   NEW: AG Nessel Secures Temporary Restraining Order Preventing Cuts to Federal Mental Health Grants |  | https://www.michigan.gov/ag/news/press-releases/2026/07/28/ag-nessel-secures-temporary-restraining-order-preventing-cuts-to-federal-mental-health-grants
+[2026-07-29 15:29:42] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-07-29 15:29:42] [MN] Found 50 item(s) on page.
+[2026-07-29 15:29:42] [MN] No new items.
+[2026-07-29 15:29:42] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-07-29 15:29:43] [MS] Found 1 item(s) on page.
+[2026-07-29 15:29:43] [MS] 1 new item(s):
+[2026-07-29 15:29:43]   NEW: AG Fitch Calls for Stronger Federal Rules to Aid State Robocall Enforcement (July 28, 2026) |  | https://attorneygenerallynnfitch.com/2026/07/28/ag-fitch-calls-for-stronger-federal-rules-to-aid-state-robocall-enforcement-july-28-2026/
+[2026-07-29 15:29:43] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-07-29 15:29:43] [MO] Found 50 item(s) on page.
+[2026-07-29 15:29:43] [MO] No new items.
+[2026-07-29 15:29:43] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-07-29 15:29:43] [MT] Found 10 item(s) on page.
+[2026-07-29 15:29:43] [MT] 1 new item(s):
+[2026-07-29 15:29:43]   NEW: Attorney General Knudsen, MVD extend driver license and ID fee waivers through September |  | https://dojmt.gov/attorney-general-knudsen-mvd-extend-driver-license-and-id-fee-waivers-through-september/
+[2026-07-29 15:29:43] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-07-29 15:29:43] [NE] Found 10 item(s) on page.
+[2026-07-29 15:29:43] [NE] No new items.
+[2026-07-29 15:29:43] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-07-29 15:29:44] [NV] Found 50 item(s) on page.
+[2026-07-29 15:29:44] [NV] No new items.
+[2026-07-29 15:29:44] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-07-29 15:29:44]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-07-29 15:29:47]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-07-29 15:29:47]   Playwright: page loaded but no links matched — check selectors
+[2026-07-29 15:29:47]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-07-29 15:29:47]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-29 15:30:07]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-29 15:30:27]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-07-29 15:30:27] [NH] No items returned (fetch failed or empty page).
+[2026-07-29 15:30:27] [NJ] Fetching https://www.njoag.gov/news/
+[2026-07-29 15:30:29] [NJ] Found 5 item(s) on page.
+[2026-07-29 15:30:29] [NJ] 1 new item(s):
+[2026-07-29 15:30:29]   NEW: State Grand Jury Declines to Criminally Charge Officer in Connection with November 3, 2024 Fatal Police-Involved Shooting in Haddon Township, N.J. |  | https://www.njoag.gov/state-grand-jury-declines-to-criminally-charge-officer-in-connection-with-november-3-2024-fatal-police-involved-shooting-in-haddon-township-n-j/
+[2026-07-29 15:30:29] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-07-29 15:30:33] [NM] Found 15 item(s) on page.
+[2026-07-29 15:30:33] [NM] 2 new item(s):
+[2026-07-29 15:30:33]   NEW: Attorney General Raúl Torrez Pushes Federal Government to Strengthen Know Your Customer Rules in Effort to Combat Illegal Robocalls |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-pushes-federal-government-to-strengthen-know-your-customer-rules-in-effort-to-combat-illegal-robocalls/
+[2026-07-29 15:30:33]   NEW: Attorney General Raúl Torrez Files Lawsuit Against CYFD Following Alleged Unlawful Removal of New Mexico Teen to Mexico |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-files-lawsuit-against-cyfd-following-alleged-unlawful-removal-of-new-mexico-teen-to-mexico/
+[2026-07-29 15:30:33] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-07-29 15:30:33] [NY] Found 25 item(s) on page.
+[2026-07-29 15:30:33] [NY] 1 new item(s):
+[2026-07-29 15:30:33]   NEW: Attorney General James Urges Federal Government to Strengthen Know Your Customer Rules to Stop Illegal Robocalls |  | https://ag.ny.gov/press-release/2026/attorney-general-james-urges-federal-government-strengthen-know-your-customer
+[2026-07-29 15:30:33] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-07-29 15:30:38] [NC] Found 10 item(s) on page.
+[2026-07-29 15:30:38] [NC] 1 new item(s):
+[2026-07-29 15:30:38]   NEW: Attorney General Jeff Jackson Leads Bipartisan AGs Pushing Federal Government to Strengthen Know Your Customer Rules to Combat Illegal Robocalls |  | https://ncdoj.gov/attorney-general-jeff-jackson-leads-bipartisan-ags-pushing-federal-government-to-strengthen-know-your-customer-rules-to-combat-illegal-robocalls/
+[2026-07-29 15:30:38] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-07-29 15:30:38] [ND] Found 10 item(s) on page.
+[2026-07-29 15:30:38] [ND] 1 new item(s):
+[2026-07-29 15:30:38]   NEW: The North Dakota Attorney General issued an opinion to Senator Sean Cleary, Representative Mitch Ostlie | July 28, 2026July 28, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-senator-sean-cleary-representative-mitch-ostlie/
+[2026-07-29 15:30:38] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-07-29 15:30:39] [OH] Found 10 item(s) on page.
+[2026-07-29 15:30:39] [OH] No new items.
+[2026-07-29 15:30:39] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-29 15:30:39]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-07-29 15:30:42]   Playwright loaded page: 'News Releases' (809905 chars)
+[2026-07-29 15:30:43]   Playwright: page loaded but no links matched — check selectors
+[2026-07-29 15:30:43]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-07-29 15:30:43] [OK] No items returned (fetch failed or empty page).
+[2026-07-29 15:30:43] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-07-29 15:30:58] [OR] Found 10 item(s) on page.
+[2026-07-29 15:30:58] [OR] 1 new item(s):
+[2026-07-29 15:30:58]   NEW: Attorney General Rayfield Pushes for Stronger Rules to Combat Illegal Robocalls |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-pushes-for-stronger-rules-to-combat-illegal-robocalls/
+[2026-07-29 15:30:58] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-07-29 15:30:59] [PA] Found 12 item(s) on page.
+[2026-07-29 15:30:59] [PA] 4 new item(s):
+[2026-07-29 15:30:59]   NEW: CrimeJUL 29, 2026VERDICT: Man Convicted of Rape of Pre-Teen Child in Lebanon County More than a Decade AgoHARRISBURG — Attorney General Dave Sunday announced that a Lebanon County jury convicted a man of rape and other offenses regarding abuse of a pre-teenage child more than…Read more | 2026-07-29T11:25:30-04:00 | https://www.attorneygeneral.gov/taking-action/verdict-man-convicted-of-rape-of-pre-teen-child-in-lebanon-county-more-than-a-decade-ago/
+[2026-07-29 15:30:59]   NEW: CrimeJUL 28, 2026AG Sunday Announces Guilty Verdict Against Non-Profit Employee in Pittsburgh-Based ‘Tickets for Kids’ Charity ScamHARRISBURG – Attorney General Dave Sunday announced that a co-defendant involved in a scheme to defraud a Pittsburgh-based charity – Tickets for Kids – has been found guilty…Read more | 2026-07-28T16:18:29-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-guilty-verdict-against-non-profit-employee-in-pittsburgh-based-tickets-for-kids-charity-scam/
+[2026-07-29 15:30:59]   NEW: CrimeJUL 28, 2026Mifflin County ‘Sexually Violent Predator’ Pleads Guilty to Possessing 450 Files of CSAM; Will Spend Life in Prison for 3rd-Strike OffenseHARRISBURG — Attorney General Dave Sunday announced that a Mifflin County man pleaded guilty to possession of child sexual abuse material (CSAM) — the conviction being a third-strike…Read more | 2026-07-28T13:50:04-04:00 | https://www.attorneygeneral.gov/taking-action/mifflin-county-sexually-violent-predator-pleads-guilty-to-possessing-450-files-of-csam-will-spend-life-in-prison-for-3rd-strike-offense/
+[2026-07-29 15:30:59]   NEW: Fraud Protection & Consumer AlertsJUL 28, 2026Attorney General Sunday Pushes Federal Government to Strengthen ‘Know Your Customer’ Obligations as Part of Efforts to Combat Illegal RobocallsHARRISBURG — Attorney General Dave Sunday co-led a bipartisan coalition of Attorneys General who are pushing the Federal Communications Commission (FCC) to strengthen its “Know Your Customer” obligations…Read more | 2026-07-28T12:37:18-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-pushes-federal-government-to-strengthen-know-your-customer-obligations-as-part-of-efforts-to-combat-illegal-robocalls/
+[2026-07-29 15:30:59] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-07-29 15:31:00] [RI] Found 10 item(s) on page.
+[2026-07-29 15:31:00] [RI] 1 new item(s):
+[2026-07-29 15:31:00]   NEW: East Greenwich chiropractor ordered to repay more than $74,000 after being sentenced for Medicaid fraud | Tue, 28 Jul 2026 18:53:37 +0000 | https://riag.ri.gov/press-releases/east-greenwich-chiropractor-ordered-repay-more-74000-after-being-sentenced-medicaid
+[2026-07-29 15:31:00] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-07-29 15:31:00]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-07-29 15:31:04]   Playwright loaded page: 'News - South Carolina Attorney General' (110106 chars)
+[2026-07-29 15:31:04]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-07-29 15:31:04] [SC] Found 9 item(s) on page.
+[2026-07-29 15:31:04] [SC] 2 new item(s):
+[2026-07-29 15:31:04]   NEW: Attorney General Alan Wilson pushes federal government to strengthen “Know Your Customer” rules in effort to combat illegal robocallsRead More | Jul 28, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-pushes-federal-government-to-strengthen-know-your-customer-rules-in-effort-to-combat-illegal-robocalls/
+[2026-07-29 15:31:04]   NEW: Hampton man arrested on Child Sexual Abuse Material* chargeRead More | Jul 28, 2026 | https://www.scag.gov/about-the-office/news/hampton-man-arrested-on-child-sexual-abuse-material-charge/
+[2026-07-29 15:31:04] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-07-29 15:31:04]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=7
+[2026-07-29 15:31:08]   Playwright loaded page: 'South Dakota Attorney General' (38722 chars)
+[2026-07-29 15:31:08]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-07-29 15:31:08] [SD] Found 1 item(s) on page.
+[2026-07-29 15:31:08] [SD] No new items.
+[2026-07-29 15:31:08] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-07-29 15:31:08]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-07-29 15:31:28] [TN] Found 50 item(s) on page.
+[2026-07-29 15:31:28] [TN] No new items.
+[2026-07-29 15:31:28] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-07-29 15:31:33] [TX] Found 50 item(s) on page.
+[2026-07-29 15:31:33] [TX] 1 new item(s):
+[2026-07-29 15:31:33]   NEW: Attor­ney Gen­er­al Ken Pax­ton Inves­ti­gates Pup­py Mill to Ensure Pup­pies Being Sold in Texas Receive Top-Tier Vet­eri­nary Care as Advertised |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-investigates-puppy-mill-ensure-puppies-being-sold-texas-receive-top-tier
+[2026-07-29 15:31:33] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-07-29 15:31:33]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-07-29 15:31:36]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296440 chars)
+[2026-07-29 15:31:36]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-07-29 15:31:36] [UT] Found 50 item(s) on page.
+[2026-07-29 15:31:36] [UT] No new items.
+[2026-07-29 15:31:36] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-07-29 15:31:37] [VT] Found 50 item(s) on page.
+[2026-07-29 15:31:37] [VT] 1 new item(s):
+[2026-07-29 15:31:37]   NEW: Hartford Resident Arraigned on Charge of Luring a Child | DateJuly 29, 2026 | https://ago.vermont.gov/blog/2026/07/29/hartford-resident-arraigned-charge-luring-child
+[2026-07-29 15:31:37] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-07-29 15:31:39] [VA] Found 50 item(s) on page.
+[2026-07-29 15:31:39] [VA] No new items.
+[2026-07-29 15:31:39] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-07-29 15:31:39] [WA] Found 15 item(s) on page.
+[2026-07-29 15:31:39] [WA] 1 new item(s):
+[2026-07-29 15:31:39]   NEW: AG Brown-led coalition blocks federal cuts to school mental health grants | Tue, 28 Jul 2026 20:18:41 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-led-coalition-blocks-federal-cuts-school-mental-health-grants
+[2026-07-29 15:31:39] [WV] Fetching https://ago.wv.gov/news
+[2026-07-29 15:31:39]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-07-29 15:31:41]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (31895 chars)
+[2026-07-29 15:31:42]   Playwright found 18 item(s) with fallback 'a' selector
+[2026-07-29 15:31:42] [WV] Found 18 item(s) on page.
+[2026-07-29 15:31:42] [WV] No new items.
+[2026-07-29 15:31:42] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-29 15:31:42]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-07-29 15:31:46]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1541770 chars)
+[2026-07-29 15:31:46]   Playwright found 50 item(s) with configured selector
+[2026-07-29 15:31:46] [WI] Found 50 item(s) on page.
+[2026-07-29 15:31:46] [WI] No new items.
+[2026-07-29 15:31:46] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-07-29 15:31:47] [WY] Found 1 item(s) on page.
+[2026-07-29 15:31:47] [WY] No new items.
+[2026-07-29 15:31:47] States with fetch errors: KS, NH, OK
+[2026-07-29 15:31:47] Sending email: 32 new item(s) across 22 state(s).
+[2026-07-29 15:31:49] Email sent.
+[2026-07-29 15:31:49] Done.
