@@ -5430,3 +5430,9 @@ Call log:
 [2026-07-30 22:08:19] Found 27 opinions on page.
 [2026-07-30 22:08:19] No new opinions.
 [2026-07-30 22:08:19] Done.
+[2026-07-30 23:31:24] Checking for new DE court opinions...
+[2026-07-30 23:31:24] Using Playwright to fetch opinions page...
+[2026-07-30 23:31:35] Playwright found 27 opinion(s).
+[2026-07-30 23:31:35] Found 27 opinions on page.
+[2026-07-30 23:31:35] No new opinions.
+[2026-07-30 23:31:35] Done.
