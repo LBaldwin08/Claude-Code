@@ -5405,3 +5405,22 @@ Call log:
 [2026-07-30 19:17:20]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398940
 [2026-07-30 19:17:22] Email notification sent.
 [2026-07-30 19:17:22] Done.
+[2026-07-30 20:40:54] Checking for new DE court opinions...
+[2026-07-30 20:40:54] Using Playwright to fetch opinions page...
+[2026-07-30 20:41:06] Playwright found 27 opinion(s).
+[2026-07-30 20:41:06] Found 27 opinions on page.
+[2026-07-30 20:41:06] 6 new opinion(s)!
+[2026-07-30 20:41:06]   NEW: [07/30/2026] [Court of Chancery] Trellis Software, Inc. v. Clearlist Holdings LLC et al. | C.A. No. 2026-0114-PAF | FioravantiV.C.
+[2026-07-30 20:41:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398970
+[2026-07-30 20:41:06]   NEW: [07/30/2026] [Court of Chancery] U.S. Bank Trust National Association as Trustee for Treehouse Series V. Trust v. Patsy Barwick and Rocky Slaughter | C.A. No. 2025-0073-DG | GibbsM.
+[2026-07-30 20:41:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398960
+[2026-07-30 20:41:06]   NEW: [07/30/2026] [Superior Court] State v. Reese | 1701016650B, 1705016514A, 1702004090A | JonesJ.
+[2026-07-30 20:41:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398990
+[2026-07-30 20:41:06]   NEW: [07/30/2026] [Superior Court] State v. Stanley | 1106019686, 1101020723 | JonesJ.
+[2026-07-30 20:41:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399010
+[2026-07-30 20:41:06]   NEW: [07/30/2026] [Superior Court] State v. Tamba | 2201002905 | WallaceJ.
+[2026-07-30 20:41:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399020
+[2026-07-30 20:41:06]   NEW: [07/30/2026] [Superior Court] State v. Torres | 1608013559 | JonesJ.
+[2026-07-30 20:41:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399000
+[2026-07-30 20:41:07] Email notification sent.
+[2026-07-30 20:41:07] Done.
