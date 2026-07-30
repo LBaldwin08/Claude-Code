@@ -909,3 +909,14 @@
 [2026-07-29 15:31:51] Found 20 press release(s) on page.
 [2026-07-29 15:31:51] No new press releases.
 [2026-07-29 15:31:51] Done.
+[2026-07-30 15:33:44] Checking for new FTC press releases...
+[2026-07-30 15:33:44] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-07-30 15:33:58] Playwright found 0 press release link(s).
+[2026-07-30 15:33:58] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-07-30 15:33:58] requests found 20 press release link(s).
+[2026-07-30 15:33:58] Found 20 press release(s) on page.
+[2026-07-30 15:33:58] 1 new press release(s)!
+[2026-07-30 15:33:58]   NEW: [2026-07-29T12:00:00Z] FTC and States Act Against Hims & Hers for Deceptive and Unlawful Privacy Practices
+[2026-07-30 15:33:58]        https://www.ftc.gov/news-events/news/press-releases/2026/07/ftc-states-act-against-hims-hers-deceptive-unlawful-privacy-practices
+[2026-07-30 15:33:59] Email notification sent.
+[2026-07-30 15:33:59] Done.
