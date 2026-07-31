@@ -5475,3 +5475,22 @@ Call log:
 [2026-07-31 15:36:19]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399030
 [2026-07-31 15:36:20] Email notification sent.
 [2026-07-31 15:36:20] Done.
+[2026-07-31 17:24:08] Checking for new DE court opinions...
+[2026-07-31 17:24:08] Using Playwright to fetch opinions page...
+[2026-07-31 17:24:21] Playwright found 27 opinion(s).
+[2026-07-31 17:24:21] Found 27 opinions on page.
+[2026-07-31 17:24:21] 6 new opinion(s)!
+[2026-07-31 17:24:21]   NEW: [07/31/2026] [Court of Chancery] In re Cellular Telephone Coordinated Partnership Litigation | Coord. C.A. No. 2022-1078-JTL | LasterV.C.
+[2026-07-31 17:24:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399060
+[2026-07-31 17:24:21]   NEW: [07/31/2026] [Court of Chancery] SPG Greensboro Equities LLC v. Ivy Greensboro I, LLC | C.A. No. 2025-0472-DH | Hume, IVM.
+[2026-07-31 17:24:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399070
+[2026-07-31 17:24:21]   NEW: [07/30/2026] [Supreme Court(Court of Chancery)] Wirth, Jerzy vs. Blake J. Edwards and Beau A. Edwards | 11, 2026 | GriffithsJ.
+[2026-07-31 17:24:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398930
+[2026-07-31 17:24:21]   NEW: [07/30/2026] [Supreme Court(Family Court)] Simpson, Madison vs. Jeremy Mitchell Sr. | 186, 2026 | SeitzC.J.
+[2026-07-31 17:24:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398890
+[2026-07-31 17:24:21]   NEW: [07/30/2026] [Supreme Court(Family Court)] Thomas Everly v. Ella Everly | 443, 2025 | GriffithsJ.
+[2026-07-31 17:24:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398920
+[2026-07-31 17:24:21]   NEW: [07/30/2026] [Supreme Court(Superior Court)] Hugo, Karen vs. Wawa Store #801, et al. | 485, 2025 | SeitzC.J.
+[2026-07-31 17:24:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=398950
+[2026-07-31 17:24:22] Email notification sent.
+[2026-07-31 17:24:22] Done.
