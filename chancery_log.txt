@@ -5500,3 +5500,14 @@ Call log:
 [2026-07-31 18:51:43] Found 27 opinions on page.
 [2026-07-31 18:51:43] No new opinions.
 [2026-07-31 18:51:43] Done.
+[2026-07-31 20:17:08] Checking for new DE court opinions...
+[2026-07-31 20:17:08] Using Playwright to fetch opinions page...
+[2026-07-31 20:17:20] Playwright found 27 opinion(s).
+[2026-07-31 20:17:20] Found 27 opinions on page.
+[2026-07-31 20:17:20] 2 new opinion(s)!
+[2026-07-31 20:17:20]   NEW: [07/31/2026] [Court of Chancery] Feeney Brothers Excavation Trust et al v. Artera Services Holdco, LLC et al | 2025-0558-PAW | WinstonJ.
+[2026-07-31 20:17:20]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399100
+[2026-07-31 20:17:20]   NEW: [07/31/2026] [Court of Chancery] In Re Swervepay Acquisition, LLC | 2021-0447-KSJM | McCormick,C.
+[2026-07-31 20:17:20]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399110
+[2026-07-31 20:17:21] Email notification sent.
+[2026-07-31 20:17:21] Done.
