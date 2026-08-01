@@ -928,3 +928,14 @@
 [2026-07-31 15:39:18] Found 20 press release(s) on page.
 [2026-07-31 15:39:18] No new press releases.
 [2026-07-31 15:39:18] Done.
+[2026-08-01 14:47:05] Checking for new FTC press releases...
+[2026-08-01 14:47:05] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-01 14:47:18] Playwright found 0 press release link(s).
+[2026-08-01 14:47:18] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-01 14:47:19] requests found 20 press release link(s).
+[2026-08-01 14:47:19] Found 20 press release(s) on page.
+[2026-08-01 14:47:19] 1 new press release(s)!
+[2026-08-01 14:47:19]   NEW: [2026-07-31T12:00:00Z] Statements on the Grant of Early Termination of the FTC’s Investigation of IonQ’s Proposed Acquisition of SkyWater
+[2026-08-01 14:47:19]        https://www.ftc.gov/news-events/news/press-releases/2026/07/statements-grant-early-termination-ftcs-investigation-ionqs-proposed-acquisition-skywater
+[2026-08-01 14:47:20] Email notification sent.
+[2026-08-01 14:47:20] Done.
