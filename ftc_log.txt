@@ -939,3 +939,11 @@
 [2026-08-01 14:47:19]        https://www.ftc.gov/news-events/news/press-releases/2026/07/statements-grant-early-termination-ftcs-investigation-ionqs-proposed-acquisition-skywater
 [2026-08-01 14:47:20] Email notification sent.
 [2026-08-01 14:47:20] Done.
+[2026-08-02 14:47:56] Checking for new FTC press releases...
+[2026-08-02 14:47:56] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-02 14:48:10] Playwright found 0 press release link(s).
+[2026-08-02 14:48:10] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-02 14:48:11] requests found 20 press release link(s).
+[2026-08-02 14:48:11] Found 20 press release(s) on page.
+[2026-08-02 14:48:11] No new press releases.
+[2026-08-02 14:48:11] Done.
