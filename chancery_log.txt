@@ -5710,3 +5710,9 @@ Call log:
 [2026-08-02 21:24:49] Found 27 opinions on page.
 [2026-08-02 21:24:49] No new opinions.
 [2026-08-02 21:24:49] Done.
+[2026-08-02 22:26:00] Checking for new DE court opinions...
+[2026-08-02 22:26:00] Using Playwright to fetch opinions page...
+[2026-08-02 22:26:12] Playwright found 27 opinion(s).
+[2026-08-02 22:26:12] Found 27 opinions on page.
+[2026-08-02 22:26:12] No new opinions.
+[2026-08-02 22:26:12] Done.
