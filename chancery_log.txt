@@ -5758,3 +5758,24 @@ Call log:
 [2026-08-03 15:26:11] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f0482bca570>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-08-03 15:26:11] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7f0482bca570>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-08-03 15:26:11] Skipping this run — will retry next scheduled check.
+[2026-08-03 17:23:33] Checking for new DE court opinions...
+[2026-08-03 17:23:33] Using Playwright to fetch opinions page...
+[2026-08-03 17:23:45] Playwright found 27 opinion(s).
+[2026-08-03 17:23:45] Found 27 opinions on page.
+[2026-08-03 17:23:45] 7 new opinion(s)!
+[2026-08-03 17:23:45]   NEW: [08/03/2026] [Court of Chancery] Gregory J. McCray v. FDH Holdings, LLC, FDH Infrastructure Group, Julian Mash and John Robinson | C.A. No. 2024-0858-CDW | WrightM.
+[2026-08-03 17:23:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399130
+[2026-08-03 17:23:45]   NEW: [08/03/2026] [Court of Chancery] HKA Global LLC v. Christopher Beirise et al. | 2024-0910-LWW | WillV.C.
+[2026-08-03 17:23:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399140
+[2026-08-03 17:23:45]   NEW: [08/03/2026] [Court of Chancery] Joseph M. Miller v. Twenty Lake Holdings LLC et al. | 2025-0010-LWW | WillV.C.
+[2026-08-03 17:23:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399150
+[2026-08-03 17:23:45]   NEW: [07/31/2026] [Supreme Court(Court of Common Pleas)] Shahin v. State | 302, 2026 | SeitzC.J.
+[2026-08-03 17:23:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399050
+[2026-08-03 17:23:45]   NEW: [07/31/2026] [Supreme Court(Family Court)] Byness, Bailey vs. Katrina Calloway | 295, 2026 | SeitzC.J.
+[2026-08-03 17:23:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399080
+[2026-08-03 17:23:45]   NEW: [07/31/2026] [Supreme Court(Superior Court)] Paczkowski v. State | 408, 2025 | LeGrowJ.
+[2026-08-03 17:23:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399040
+[2026-08-03 17:23:45]   NEW: [07/31/2026] [Supreme Court(Superior Court)] Wallace v. State | 470, 2025 | LeGrowJ.
+[2026-08-03 17:23:45]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399090
+[2026-08-03 17:23:45] Email notification sent.
+[2026-08-03 17:23:45] Done.
