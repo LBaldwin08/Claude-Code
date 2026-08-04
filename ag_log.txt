@@ -21914,3 +21914,261 @@ Call log:
 [2026-08-03 16:03:55] Sending email: 11 new item(s) across 8 state(s).
 [2026-08-03 16:03:58] Email sent.
 [2026-08-03 16:03:58] Done.
+[2026-08-04 15:53:25] Checking for new AG press releases...
+[2026-08-04 15:53:25] Checking 50 state(s).
+[2026-08-04 15:53:25] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-08-04 15:53:25]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-08-04 15:53:28]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (231410 chars)
+[2026-08-04 15:53:29]   Playwright found 27 item(s) with configured selector
+[2026-08-04 15:53:29] [AL] Found 27 item(s) on page.
+[2026-08-04 15:53:29] [AL] No new items.
+[2026-08-04 15:53:29] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-08-04 15:53:29] [AK] Found 50 item(s) on page.
+[2026-08-04 15:53:29] [AK] 2 new item(s):
+[2026-08-04 15:53:29]   NEW: Alaska Prevails in Foster Care Class Action; Ninth Circuit Dismisses Appeal |  | https://law.alaska.gov/releases/2026/080326-FosterCare.html
+[2026-08-04 15:53:29]   NEW: Byron Demantle, of Kwethluk, Sentenced to 33 years for Sexual Assault of 3 Women |  | https://law.alaska.gov/releases/2026/073126-Demantle.html
+[2026-08-04 15:53:29] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-08-04 15:53:29] [AZ] Found 10 item(s) on page.
+[2026-08-04 15:53:29] [AZ] 1 new item(s):
+[2026-08-04 15:53:29]   NEW: Attorney General Mayes Sues Trump Administration to Stop Illegal Tariffs |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-trump-administration-stop-illegal-tariffs-0
+[2026-08-04 15:53:29] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-08-04 15:53:30] [AR] Found 50 item(s) on page.
+[2026-08-04 15:53:30] [AR] 1 new item(s):
+[2026-08-04 15:53:30]   NEW: Tuesday, August 04, 2026Attorney General Griffin Leads Letter with 34 AGs Urging Congress to Preserve Federal Hemp Reforms and Prevent the Return of Intoxicating Hemp ProductsRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-leads-letter-with-34-ags-urging-congress-to-preserve-federal-hemp-reforms-and-prevent-the-return-of-intoxicating-hemp-products/
+[2026-08-04 15:53:30] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-08-04 15:53:31] [CA] Found 10 item(s) on page.
+[2026-08-04 15:53:31] [CA] 5 new item(s):
+[2026-08-04 15:53:31]   NEW: Attorney General Bonta Supports Lawsuit Challenging IRS Sharing of Taxpayer Data with ICE | Mon, 03 Aug 2026 18:43:56 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-supports-lawsuit-challenging-irs-sharing-taxpayer-data
+[2026-08-04 15:53:31]   NEW: Attorney General Bonta Sues Trump Administration for a Third Time over Its Illegal Tariffs | Mon, 03 Aug 2026 16:51:18 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-trump-administration-third-time-over-its-illegal
+[2026-08-04 15:53:31]   NEW: Attorney General Bonta Announces $400 Million Settlement in Principle with Sandoz, a Generic Drug Manufacturer, over Conspiracy to Inflate Prices and Limit Competition | Mon, 03 Aug 2026 17:57:31 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-400-million-settlement-principle-sandoz-generic
+[2026-08-04 15:53:31]   NEW: Attorney General Bonta Co-Leads Amicus Brief Supporting Boulder’s Efforts to Hold Big Oil Accountable for Misleading the Public and Worsening the Climate Crisis | Mon, 03 Aug 2026 17:04:35 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-co-leads-amicus-brief-supporting-boulder%E2%80%99s-efforts-hold
+[2026-08-04 15:53:31]   NEW: Attorney General Bonta Sues Trump Over Latest Attempt to Weaponize Personal Sensitive Data of Californians | Fri, 31 Jul 2026 20:23:36 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-trump-over-latest-attempt-weaponize-personal
+[2026-08-04 15:53:31] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-08-04 15:53:31] [CO] Found 49 item(s) on page.
+[2026-08-04 15:53:31] [CO] No new items.
+[2026-08-04 15:53:31] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-08-04 15:53:31] [CT] Found 32 item(s) on page.
+[2026-08-04 15:53:31] [CT] 2 new item(s):
+[2026-08-04 15:53:31]   NEW: Attorney General Tong Sues Trump Administration to Protect Connecticut Residents’ Personal Information | 8/3/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-to-protect-personal-information-of-connecticut-residents
+[2026-08-04 15:53:31]   NEW: Attorney General Tong Sues Trump Administration Again to Stop Illegal Tariffs | 8/3/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-trump-administration-again-to-stop-illegal-tariffs
+[2026-08-04 15:53:31] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-08-04 15:53:32] [DE] Found 300 item(s) on page.
+[2026-08-04 15:53:32] [DE] 2 new item(s):
+[2026-08-04 15:53:32]   NEW: AG Jennings sues Trump Administration again to stop illegal tariffs | Mon, 03 Aug 2026 11:41:31 +0000 | https://news.delaware.gov/2026/08/03/ag-jennings-sues-trump-administration-again-to-stop-illegal-tariffs/
+[2026-08-04 15:53:32]   NEW: AG Jennings sues to block Trump Administration’s attempts to hike health insurance prices and undermine ACA | Mon, 03 Aug 2026 08:01:02 +0000 | https://news.delaware.gov/2026/08/03/ag-jennings-sues-to-block-trump-administrations-attempts-to-hike-health-insurance-prices-and-undermine-aca/
+[2026-08-04 15:53:32] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-08-04 15:53:32] [FL] Found 20 item(s) on page.
+[2026-08-04 15:53:32] [FL] No new items.
+[2026-08-04 15:53:32] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-08-04 15:53:33] [GA] Found 11 item(s) on page.
+[2026-08-04 15:53:33] [GA] No new items.
+[2026-08-04 15:53:33] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-08-04 15:53:33] [HI] Found 26 item(s) on page.
+[2026-08-04 15:53:33] [HI] No new items.
+[2026-08-04 15:53:33] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-04 15:53:33]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-04 15:53:37]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65316 chars)
+[2026-08-04 15:53:37]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-08-04 15:53:37] [ID] Found 28 item(s) on page.
+[2026-08-04 15:53:37] [ID] No new items.
+[2026-08-04 15:53:37] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-08-04 15:53:38] [IL] Found 50 item(s) on page.
+[2026-08-04 15:53:38] [IL] 4 new item(s):
+[2026-08-04 15:53:38]   NEW: August 03, 2026ATTORNEY GENERAL RAOUL DEFENDS STATE COURTS’ ROLE IN CLIMATE CASE BEFORE U.S. SUPREME COURT | 2026-08-03 5:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-defends-state-courts-role-in-climate-case-before-us-supreme-court
+[2026-08-04 15:53:38]   NEW: August 03, 2026ATTORNEY GENERAL RAOUL ANNOUNCES SETTLEMENT WITH MAKERS OF POSH E-CIGARETTES | 2026-08-03 5:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-settlement-with-makers-of-posh-e-cigarettes
+[2026-08-04 15:53:38]   NEW: August 03, 2026ATTORNEY GENERAL RAOUL AGAIN SUES TRUMP ADMINISTRATION TO STOP ILLEGAL TARIFFS | 2026-08-03 5:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-again-sues-trump-administration-to-stop-illegal-tariffs
+[2026-08-04 15:53:38]   NEW: August 03, 2026ATTORNEY GENERAL RAOUL SUES TRUMP ADMINISTRATION TO PROTECT ILLINOIS RESIDENTS’ PERSONAL INFORMATION | 2026-08-03 5:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-sues-trump-administration-to-protect-illinois-residents-personal-information
+[2026-08-04 15:53:38] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-08-04 15:53:38] [IN] Found 37 item(s) on page.
+[2026-08-04 15:53:38] [IN] No new items.
+[2026-08-04 15:53:38] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-08-04 15:53:39] [IA] Found 10 item(s) on page.
+[2026-08-04 15:53:39] [IA] 1 new item(s):
+[2026-08-04 15:53:39]   NEW: Attorney General Brenna Bird Leads Coalition Demanding Transparency from OpenAI after AI Breach and Hacking | August 3, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-leads-coalition-demanding-transparency-from-openai-after-ai-breach-and/
+[2026-08-04 15:53:39] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-04 15:53:39]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-04 15:53:42]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-08-04 15:53:42]   Playwright: page loaded but no links matched — check selectors
+[2026-08-04 15:53:42]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-08-04 15:53:42]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-04 15:54:03]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-04 15:54:23]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-04 15:54:23] [KS] No items returned (fetch failed or empty page).
+[2026-08-04 15:54:23] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-08-04 15:54:24] [KY] Found 26 item(s) on page.
+[2026-08-04 15:54:24] [KY] No new items.
+[2026-08-04 15:54:24] [LA] Fetching https://ag.louisiana.gov/News
+[2026-08-04 15:54:24] [LA] Found 20 item(s) on page.
+[2026-08-04 15:54:24] [LA] No new items.
+[2026-08-04 15:54:24] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-08-04 15:54:25] [ME] Found 11 item(s) on page.
+[2026-08-04 15:54:25] [ME] No new items.
+[2026-08-04 15:54:25] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-08-04 15:54:25] [MD] Found 50 item(s) on page.
+[2026-08-04 15:54:25] [MD] No new items.
+[2026-08-04 15:54:25] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-04 15:54:25]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-04 15:54:28]   Playwright loaded page: 'News and Announcements | Mass.gov' (177130 chars)
+[2026-08-04 15:54:28]   Playwright found 15 item(s) with configured selector
+[2026-08-04 15:54:28] [MA] Found 15 item(s) on page.
+[2026-08-04 15:54:28] [MA] 2 new item(s):
+[2026-08-04 15:54:28]   NEW: AG Campbell Sues Trump Administration To Protect Massachusetts Residents’ Personal Information | 8/03/2026 | https://www.mass.gov/news/ag-campbell-sues-trump-administration-to-protect-massachusetts-residents-personal-information
+[2026-08-04 15:54:28]   NEW: AG Campbell Sues Trump Administration To Stop Illegal Tariffs | 8/03/2026 | https://www.mass.gov/news/ag-campbell-sues-trump-administration-to-stop-illegal-tariffs
+[2026-08-04 15:54:28] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-08-04 15:54:28]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-08-04 15:54:32]   Playwright loaded page: 'Attorney General: Press Releases' (376587 chars)
+[2026-08-04 15:54:32]   Playwright found 10 item(s) with configured selector
+[2026-08-04 15:54:32] [MI] Found 10 item(s) on page.
+[2026-08-04 15:54:32] [MI] 5 new item(s):
+[2026-08-04 15:54:32]   NEW: AG Nessel Sues Trump Administration to Protect Michigan Residents’ Personal Information |  | https://www.michigan.gov/ag/news/press-releases/2026/08/04/ag-nessel-sues-trump-administration-to-protect-michigan-residents-personal-information
+[2026-08-04 15:54:32]   NEW: AG Nessel, Governor Whitmer Sue Trump Administration Again to Stop Illegal Tariffs |  | https://www.michigan.gov/ag/news/press-releases/2026/08/03/ag-nessel-governor-whitmer-sue-trump-administration-again-to-stop-illegal-tariffs
+[2026-08-04 15:54:32]   NEW: AG Nessel Challenges Trump Administration’s Effort to Undermine Affordable Care Act |  | https://www.michigan.gov/ag/news/press-releases/2026/08/03/ag-nessel-challenges-trump-administrations-effort-to-undermine-affordable-care-act
+[2026-08-04 15:54:32]   NEW: Two Men Face Multiple Felony Charges Following Armed Carjacking in Grosse Pointe Woods |  | https://www.michigan.gov/ag/news/press-releases/2026/08/03/two-men-face-multiple-felony-charges-following-armed-carjacking-in-grosse-pointe-woods
+[2026-08-04 15:54:32]   NEW: AG Nessel Announces $400 Million Settlement in Principle with Sandoz Over Conspiracy to Inflate Prices and Limit Competition |  | https://www.michigan.gov/ag/news/press-releases/2026/08/03/ag-nessel-announces-400-million-settlement-in-principle-with-sandoz
+[2026-08-04 15:54:32] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-08-04 15:54:32] [MN] Found 50 item(s) on page.
+[2026-08-04 15:54:32] [MN] No new items.
+[2026-08-04 15:54:32] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-08-04 15:54:33] [MS] Found 1 item(s) on page.
+[2026-08-04 15:54:33] [MS] 1 new item(s):
+[2026-08-04 15:54:33]   NEW: AG Fitch, HSI, and U.S. Attorneys Announce Successful Completion of Operation Muddy Waters (August 3, 2026) |  | https://attorneygenerallynnfitch.com/2026/08/03/ag-fitch-hsi-and-u-s-attorneys-announce-successful-completion-of-operation-muddy-waters-august-3-2026/
+[2026-08-04 15:54:33] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-08-04 15:54:33] [MO] Found 50 item(s) on page.
+[2026-08-04 15:54:33] [MO] 1 new item(s):
+[2026-08-04 15:54:33]   NEW: Attorney General Hanaway Urges Congress To Help States Fight Medicaid Fraud |  | https://ago.mo.gov/attorney-general-hanaway-urges-congress-to-help-states-fight-medicaid-fraud/
+[2026-08-04 15:54:33] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-08-04 15:54:33] [MT] Found 10 item(s) on page.
+[2026-08-04 15:54:33] [MT] No new items.
+[2026-08-04 15:54:33] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-08-04 15:54:33] [NE] Found 10 item(s) on page.
+[2026-08-04 15:54:33] [NE] 2 new item(s):
+[2026-08-04 15:54:33]   NEW: Attorney General Hilgers Announces Settlement with Eight Opioid Manufacturers | Mon, 03 Aug 2026 19:41:41 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-announces-settlement-eight-opioid-manufacturers
+[2026-08-04 15:54:33]   NEW: Attorney General Hilgers Announces $400 Million Settlement in Principle with Sandoz Over Conspiracy to Inflate Prices and Limit Competition | Mon, 03 Aug 2026 18:25:37 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-announces-400-million-settlement-principle-sandoz-over-conspiracy
+[2026-08-04 15:54:33] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-08-04 15:54:34] [NV] Found 50 item(s) on page.
+[2026-08-04 15:54:34] [NV] No new items.
+[2026-08-04 15:54:34] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-08-04 15:54:34]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-08-04 15:54:36]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-08-04 15:54:36]   Playwright: page loaded but no links matched — check selectors
+[2026-08-04 15:54:36]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-08-04 15:54:37]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-04 15:54:57]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-04 15:55:17]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-04 15:55:17] [NH] No items returned (fetch failed or empty page).
+[2026-08-04 15:55:17] [NJ] Fetching https://www.njoag.gov/news/
+[2026-08-04 15:55:19] [NJ] Found 5 item(s) on page.
+[2026-08-04 15:55:19] [NJ] 2 new item(s):
+[2026-08-04 15:55:19]   NEW: AG Davenport Sues Amazon Over Anticompetitive Practices Affecting DSP Delivery Drivers |  | https://www.njoag.gov/ag-davenport-sues-amazon-over-anticompetitive-practices-affecting-dsp-delivery-drivers/
+[2026-08-04 15:55:19]   NEW: Attorney General Davenport Sues Trump Administration to Protect New Jersey Residents’ Personal Information |  | https://www.njoag.gov/attorney-general-davenport-sues-trump-administration-to-protect-new-jersey-residents-personal-information/
+[2026-08-04 15:55:19] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-08-04 15:55:22] [NM] Found 15 item(s) on page.
+[2026-08-04 15:55:22] [NM] 1 new item(s):
+[2026-08-04 15:55:22]   NEW: New Mexico Attorney General Raúl Torrez Challenges U.S. Department of Justice Denial of Records Request in DEA Fentanyl Investigation |  | https://nmdoj.gov/press-release/new-mexico-attorney-general-raul-torrez-challenges-u-s-department-of-justice-denial-of-records-request-in-dea-fentanyl-investigation/
+[2026-08-04 15:55:22] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-08-04 15:55:23] [NY] Found 25 item(s) on page.
+[2026-08-04 15:55:23] [NY] 3 new item(s):
+[2026-08-04 15:55:23]   NEW: Attorney General James Sues Trump Administration to Protect Vulnerable New Yorkers’ Personal Information |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-trump-administration-protect-vulnerable-new-yorkers
+[2026-08-04 15:55:23]   NEW: Attorney General James and Governor Hochul Announce Lawsuit Against Trump Administration to Stop Latest Round of Illegal Tariffs |  | https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-announce-lawsuit-against-trump
+[2026-08-04 15:55:23]   NEW: Attorney General James and Governor Hochul Defend New York 287(g) Ban from Federal Attack |  | https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-defend-new-york-287g-ban-federal
+[2026-08-04 15:55:23] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-08-04 15:55:27] [NC] Found 10 item(s) on page.
+[2026-08-04 15:55:27] [NC] 1 new item(s):
+[2026-08-04 15:55:27]   NEW: Attorney General Jeff Jackson Reaches $400 Million Settlement in Principle with Sandoz Over Drug Price-Fixing Conspiracy |  | https://ncdoj.gov/attorney-general-jeff-jackson-reaches-400-million-settlement-in-principle-with-sandoz-over-drug-price-fixing-conspiracy/
+[2026-08-04 15:55:27] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-08-04 15:55:28] [ND] Found 10 item(s) on page.
+[2026-08-04 15:55:28] [ND] No new items.
+[2026-08-04 15:55:28] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-08-04 15:55:28] [OH] Found 10 item(s) on page.
+[2026-08-04 15:55:28] [OH] No new items.
+[2026-08-04 15:55:28] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-04 15:55:28]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-04 15:55:31]   Playwright loaded page: 'News Releases' (809970 chars)
+[2026-08-04 15:55:31]   Playwright: page loaded but no links matched — check selectors
+[2026-08-04 15:55:31]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-08-04 15:55:31] [OK] No items returned (fetch failed or empty page).
+[2026-08-04 15:55:31] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-08-04 15:55:32] [OR] Found 10 item(s) on page.
+[2026-08-04 15:55:32] [OR] 2 new item(s):
+[2026-08-04 15:55:32]   NEW: Attorney General Dan Rayfield Again Leads Coalition Suing to Stop Trump’s Illegal Tariffs |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-again-leads-coalition-suing-to-stop-trumps-illegal-tariffs/
+[2026-08-04 15:55:32]   NEW: AG Rayfield Sues Trump to Protect Oregonians’ Personal Information |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-sues-trump-to-protect-oregonians-personal-information/
+[2026-08-04 15:55:32] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-08-04 15:55:33] [PA] Found 12 item(s) on page.
+[2026-08-04 15:55:33] [PA] 1 new item(s):
+[2026-08-04 15:55:33]   NEW: CrimeAUG 4, 2026AG Sunday’s Medicaid Fraud Control Section Charges SE Pa. Pair with Padding Work Hours for Nearly $1.5M in Medicaid ReimbursementsPHILADELPHIA — Attorney General Dave Sunday announced charges against two southeastern Pennsylvania-based personal care attendants who defrauded Medicaid by submitting to the program nearly $1.5 million in reimbursements…Read more | 2026-08-04T10:57:15-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-medicaid-fraud-control-section-charges-se-pa-pair-with-padding-work-hours-for-nearly-1-5m-in-medicaid-reimbursements/
+[2026-08-04 15:55:33] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-08-04 15:55:33] [RI] Found 10 item(s) on page.
+[2026-08-04 15:55:33] [RI] 2 new item(s):
+[2026-08-04 15:55:33]   NEW: Attorney General Neronha, coalition sue Trump Administration again to stop illegal tariffs | Mon, 03 Aug 2026 19:42:38 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-sue-trump-administration-again-stop-illegal
+[2026-08-04 15:55:33]   NEW: Attorney General Neronha, coalition sue Trump Administration to protect private data of families in need | Mon, 03 Aug 2026 16:39:35 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-sue-trump-administration-protect-private-data
+[2026-08-04 15:55:33] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-08-04 15:55:33]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-08-04 15:55:36]   Playwright loaded page: 'News - South Carolina Attorney General' (110254 chars)
+[2026-08-04 15:55:36]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-08-04 15:55:36] [SC] Found 9 item(s) on page.
+[2026-08-04 15:55:36] [SC] No new items.
+[2026-08-04 15:55:36] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-08-04 15:55:36]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8
+[2026-08-04 15:55:39]   Playwright loaded page: 'South Dakota Attorney General' (38218 chars)
+[2026-08-04 15:55:39]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-08-04 15:55:39] [SD] Found 1 item(s) on page.
+[2026-08-04 15:55:39] [SD] No new items.
+[2026-08-04 15:55:39] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-08-04 15:55:39]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-08-04 15:55:59] [TN] Found 50 item(s) on page.
+[2026-08-04 15:55:59] [TN] No new items.
+[2026-08-04 15:55:59] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-08-04 15:56:00] [TX] Found 50 item(s) on page.
+[2026-08-04 15:56:00] [TX] 1 new item(s):
+[2026-08-04 15:56:00]   NEW: Attor­ney Gen­er­al Ken Pax­ton Announces Cold Case Unit’s Arrest of La Porte Man Who Mur­dered16-Month-Old Child Over a Decade Ago |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-announces-cold-case-units-arrest-la-porte-man-who-murdered-16-month-old
+[2026-08-04 15:56:00] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-08-04 15:56:00]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-08-04 15:56:03]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296592 chars)
+[2026-08-04 15:56:03]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-08-04 15:56:03] [UT] Found 50 item(s) on page.
+[2026-08-04 15:56:03] [UT] No new items.
+[2026-08-04 15:56:03] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-08-04 15:56:04] [VT] Found 50 item(s) on page.
+[2026-08-04 15:56:04] [VT] 5 new item(s):
+[2026-08-04 15:56:04]   NEW: Vermont Joins Bipartisan Coalition of Privacy Regulators to Strengthen Data Privacy Efforts | DateAugust 4, 2026 | https://ago.vermont.gov/blog/2026/08/04/vermont-joins-bipartisan-coalition-privacy-regulators-strengthen-data-privacy-efforts
+[2026-08-04 15:56:04]   NEW: Attorney General Clark Announces $358,000 Settlement in Principle With Generic Drug Maker Sandoz | DateAugust 3, 2026 | https://ago.vermont.gov/blog/2026/08/03/attorney-general-clark-announces-358000-settlement-principle-generic-drug-maker-sandoz
+[2026-08-04 15:56:04]   NEW: Attorney General Clark Sues Trump Administration to Protect Personal Data of 'Reach Up' Program Participants | DateAugust 3, 2026 | https://ago.vermont.gov/blog/2026/08/03/attorney-general-clark-sues-trump-administration-protect-personal-data-reach-program-participants
+[2026-08-04 15:56:04]   NEW: Attorney General Clark Joins Court Brief Filing in Climate Case Before Supreme Court | DateAugust 3, 2026 | https://ago.vermont.gov/blog/2026/08/03/attorney-general-clark-joins-court-brief-filing-climate-case-supreme-court
+[2026-08-04 15:56:04]   NEW: Attorney General Clark Sues Trump Administration Again to Stop Illegal Tariffs | DateAugust 3, 2026 | https://ago.vermont.gov/blog/2026/08/03/attorney-general-clark-sues-trump-administration-again-stop-illegal-tariffs
+[2026-08-04 15:56:04] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-08-04 15:56:06] [VA] Found 50 item(s) on page.
+[2026-08-04 15:56:06] [VA] No new items.
+[2026-08-04 15:56:06] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-08-04 15:56:06] [WA] Found 15 item(s) on page.
+[2026-08-04 15:56:06] [WA] 2 new item(s):
+[2026-08-04 15:56:06]   NEW: AG Brown sues to block Trump administration’s latest round of illegal, price-inflating tariffs | Mon, 03 Aug 2026 17:10:41 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-sues-block-trump-administration-s-latest-round-illegal-price-inflating
+[2026-08-04 15:56:06]   NEW: Washington joins federal lawsuit to protect residents’ personal information | Mon, 03 Aug 2026 17:04:17 +0000 | https://www.atg.wa.gov/news/news-releases/washington-joins-federal-lawsuit-protect-residents-personal-information
+[2026-08-04 15:56:06] [WV] Fetching https://ago.wv.gov/news
+[2026-08-04 15:56:06]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-08-04 15:56:09]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54834 chars)
+[2026-08-04 15:56:09]   Playwright found 30 item(s) with configured selector
+[2026-08-04 15:56:09] [WV] Found 30 item(s) on page.
+[2026-08-04 15:56:09] [WV] 5 new item(s):
+[2026-08-04 15:56:09]   NEW: Full Story | 2026-08-03T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-leads-coalition-keep-critical-gas-pipeline-open
+[2026-08-04 15:56:09]   NEW: Full Story | 2026-08-03T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-announces-400-million-settlement-principle-sandoz-over-conspiracy
+[2026-08-04 15:56:09]   NEW: Full Story | 2026-07-31T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-leads-multistate-coalition-stand-teachers-first-amendment-rights
+[2026-08-04 15:56:09]   NEW: Full Story | 2026-07-30T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-sends-warning-financial-institutions-discriminating-against-west
+[2026-08-04 15:56:09]   NEW: Full Story | 2026-07-28T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-pushes-federal-government-strengthen-know-your-customer-rules
+[2026-08-04 15:56:09] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-04 15:56:09]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-04 15:56:39]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-08-04 15:56:39]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-08-04 15:56:54]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fb11cfe8f20>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-08-04 15:57:29]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fb11be069c0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-08-04 15:58:05]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fb11cfe8920>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-08-04 15:58:05] [WI] No items returned (fetch failed or empty page).
+[2026-08-04 15:58:05] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-08-04 15:58:05] [WY] Found 1 item(s) on page.
+[2026-08-04 15:58:05] [WY] No new items.
+[2026-08-04 15:58:05] States with fetch errors: KS, NH, OK, WI
+[2026-08-04 15:58:05] Sending email: 54 new item(s) across 24 state(s).
+[2026-08-04 15:58:09] Email sent.
+[2026-08-04 15:58:09] Done.
