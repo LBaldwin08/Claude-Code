@@ -5842,3 +5842,14 @@ Call log:
 [2026-08-04 12:56:42] Found 27 opinions on page.
 [2026-08-04 12:56:42] No new opinions.
 [2026-08-04 12:56:42] Done.
+[2026-08-04 15:22:11] Checking for new DE court opinions...
+[2026-08-04 15:22:11] Using Playwright to fetch opinions page...
+[2026-08-04 15:22:24] Playwright found 27 opinion(s).
+[2026-08-04 15:22:24] Found 27 opinions on page.
+[2026-08-04 15:22:24] 2 new opinion(s)!
+[2026-08-04 15:22:24]   NEW: [08/03/2026] [Court of Chancery] Georgia Security Solutions LLC v. NewCBN, LLC, et al. | C.A. No. 2025-0798-JTL | LasterV.C.
+[2026-08-04 15:22:24]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399200
+[2026-08-04 15:22:24]   NEW: [08/03/2026] [Superior Court] Warner v. Board of Education of Brandywine School District | N25A-08-004 CEB | ButlerR.J.
+[2026-08-04 15:22:24]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399190
+[2026-08-04 15:22:25] Email notification sent.
+[2026-08-04 15:22:25] Done.
