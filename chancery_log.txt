@@ -5949,3 +5949,18 @@ Call log:
 [2026-08-05 18:24:24]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399290
 [2026-08-05 18:24:25] Email notification sent.
 [2026-08-05 18:24:25] Done.
+[2026-08-05 20:06:08] Checking for new DE court opinions...
+[2026-08-05 20:06:08] Using Playwright to fetch opinions page...
+[2026-08-05 20:06:21] Playwright found 27 opinion(s).
+[2026-08-05 20:06:21] Found 27 opinions on page.
+[2026-08-05 20:06:21] 4 new opinion(s)!
+[2026-08-05 20:06:21]   NEW: [08/05/2026] [Superior Court] Albertson’s LLC, et al. v. Express Scripts, Inc. | N25C-12-001 KMM CCLD | MIllerJ.
+[2026-08-05 20:06:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399300
+[2026-08-05 20:06:21]   NEW: [08/05/2026] [Superior Court] Walls v. Pressley | K24A-12-002 NEP | PrimosJ.
+[2026-08-05 20:06:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399310
+[2026-08-05 20:06:21]   NEW: [08/04/2026] [Superior Court] State v. Davis | 1811002611 | RennieJ.
+[2026-08-05 20:06:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399320
+[2026-08-05 20:06:21]   NEW: [08/04/2026] [Superior Court] State v. Vickery | 2504006468 | RennieJ.
+[2026-08-05 20:06:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399330
+[2026-08-05 20:06:23] Email notification sent.
+[2026-08-05 20:06:23] Done.
