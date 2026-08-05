@@ -5910,3 +5910,12 @@ Call log:
 [2026-08-05 10:44:22] Found 27 opinions on page.
 [2026-08-05 10:44:22] No new opinions.
 [2026-08-05 10:44:22] Done.
+[2026-08-05 12:49:24] Checking for new DE court opinions...
+[2026-08-05 12:49:24] Using Playwright to fetch opinions page...
+[2026-08-05 12:49:36] Playwright found 27 opinion(s).
+[2026-08-05 12:49:36] Found 27 opinions on page.
+[2026-08-05 12:49:36] 1 new opinion(s)!
+[2026-08-05 12:49:36]   NEW: [08/05/2026] [Supreme Court(Family Court)] Walker, Cedasha v. Department of Services for Children, Youth and Their Families, Division of Family Services TPR | 35, 2026 | SeitzC.J.
+[2026-08-05 12:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399230
+[2026-08-05 12:49:37] Email notification sent.
+[2026-08-05 12:49:37] Done.
