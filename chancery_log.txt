@@ -5934,3 +5934,18 @@ Call log:
 [2026-08-05 16:59:37] Found 27 opinions on page.
 [2026-08-05 16:59:37] No new opinions.
 [2026-08-05 16:59:37] Done.
+[2026-08-05 18:24:11] Checking for new DE court opinions...
+[2026-08-05 18:24:11] Using Playwright to fetch opinions page...
+[2026-08-05 18:24:24] Playwright found 27 opinion(s).
+[2026-08-05 18:24:24] Found 27 opinions on page.
+[2026-08-05 18:24:24] 4 new opinion(s)!
+[2026-08-05 18:24:24]   NEW: [08/05/2026] [Court of Chancery] The Special Committee of the Board of Directors of Iridium Industries, Inc. vs Khosrow (Jack) Sassouni, et al., | C.A. No. 2025-1488-NAC | CookV.C.
+[2026-08-05 18:24:24]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399270
+[2026-08-05 18:24:24]   NEW: [08/05/2026] [Superior Court] Zayo Group Holdings, Inc. v. National Union Fire Insurance Company of Pittsburgh, PA, et al. | N23C-04-260 PRW CCLD | WallaceJ.
+[2026-08-05 18:24:24]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399260
+[2026-08-05 18:24:24]   NEW: [08/04/2026] [Superior Court] Gorak et al. v. State Farm Fire and Casualty Co. | N25C-05-249 SKR | RennieJ.
+[2026-08-05 18:24:24]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399280
+[2026-08-05 18:24:24]   NEW: [08/04/2026] [Superior Court] Walker, et al. v. New Castle County, et al. | N25C-11-256 SKR | RennieJ.
+[2026-08-05 18:24:24]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399290
+[2026-08-05 18:24:25] Email notification sent.
+[2026-08-05 18:24:25] Done.
