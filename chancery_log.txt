@@ -6117,3 +6117,12 @@ Call log:
 [2026-08-07 15:22:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399410
 [2026-08-07 15:22:55] Email notification sent.
 [2026-08-07 15:22:55] Done.
+[2026-08-07 16:21:59] Checking for new DE court opinions...
+[2026-08-07 16:21:59] Using Playwright to fetch opinions page...
+[2026-08-07 16:22:11] Playwright found 27 opinion(s).
+[2026-08-07 16:22:11] Found 27 opinions on page.
+[2026-08-07 16:22:11] 1 new opinion(s)!
+[2026-08-07 16:22:11]   NEW: [08/07/2026] [Court of Chancery] Verisk Analytics, Inc. and Lenny Merger Sub, Inc. v. ExactLogix, Inc. d/b/a AccuLynx.com, and Richard Spanton, Jr. | C.A. No. 2026-0023-BWD | David, Bonnie W.V.C.
+[2026-08-07 16:22:11]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399420
+[2026-08-07 16:22:12] Email notification sent.
+[2026-08-07 16:22:12] Done.
