@@ -971,3 +971,14 @@
 [2026-08-05 15:40:50] Found 20 press release(s) on page.
 [2026-08-05 15:40:50] No new press releases.
 [2026-08-05 15:40:50] Done.
+[2026-08-07 14:33:40] Checking for new FTC press releases...
+[2026-08-07 14:33:40] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-07 14:33:53] Playwright found 0 press release link(s).
+[2026-08-07 14:33:53] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-07 14:33:54] requests found 20 press release link(s).
+[2026-08-07 14:33:54] Found 20 press release(s) on page.
+[2026-08-07 14:33:54] 1 new press release(s)!
+[2026-08-07 14:33:54]   NEW: [2026-08-07T12:00:00Z] FTC Ditches ‘Disparate Impact’
+[2026-08-07 14:33:54]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-ditches-disparate-impact
+[2026-08-07 14:33:56] Email notification sent.
+[2026-08-07 14:33:56] Done.
