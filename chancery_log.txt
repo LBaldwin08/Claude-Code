@@ -6285,3 +6285,10 @@ Call log:
 [2026-08-08 16:30:35] Found 27 opinions on page.
 [2026-08-08 16:30:35] No new opinions.
 [2026-08-08 16:30:35] Done.
+[2026-08-08 17:03:54] Checking for new DE court opinions...
+[2026-08-08 17:03:54] Using Playwright to fetch opinions page...
+[2026-08-08 17:04:05] DEBUG: 0 opinions found. Sample links on page: [('javascript:history.back();', '[Go Back]')]
+[2026-08-08 17:04:05] Playwright found 0 opinion(s).
+[2026-08-08 17:04:05] Found 0 opinions on page.
+[2026-08-08 17:04:05] No new opinions.
+[2026-08-08 17:04:05] Done.
