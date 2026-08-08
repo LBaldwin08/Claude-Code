@@ -22423,3 +22423,300 @@ Call log:
 [2026-08-05 15:42:01] Sending email: 47 new item(s) across 23 state(s).
 [2026-08-05 15:42:02] Email sent.
 [2026-08-05 15:42:02] Done.
+[2026-08-08 14:05:17] Checking for new AG press releases...
+[2026-08-08 14:05:17] Checking 50 state(s).
+[2026-08-08 14:05:17] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-08-08 14:05:17]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-08-08 14:05:20]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (231546 chars)
+[2026-08-08 14:05:20]   Playwright found 27 item(s) with configured selector
+[2026-08-08 14:05:20] [AL] Found 27 item(s) on page.
+[2026-08-08 14:05:20] [AL] No new items.
+[2026-08-08 14:05:20] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-08-08 14:05:20] [AK] Found 50 item(s) on page.
+[2026-08-08 14:05:20] [AK] 2 new item(s):
+[2026-08-08 14:05:20]   NEW: Acting Attorney General Cori Mills Announces $400 Million Multi-State Settlement Over Generic Drug Conspiracy |  | https://law.alaska.gov/releases/2026/080526-Sandoz.html
+[2026-08-08 14:05:20]   NEW: Kyle and Molly Bates, Their Three Corporations, and Peyton Love Indicted for $14.6 Million of Medicaid Fraud |  | https://law.alaska.gov/releases/2026/080426-MFCU.html
+[2026-08-08 14:05:20] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-08-08 14:05:20] [AZ] Found 10 item(s) on page.
+[2026-08-08 14:05:20] [AZ] 4 new item(s):
+[2026-08-08 14:05:20]   NEW: Attorney General Mayes Seeks Sanctions Against Redwood Mobile Home Park Owners for Defying Court Order |  | https://www.azag.gov/press-release/attorney-general-mayes-seeks-sanctions-against-redwood-mobile-home-park-owners
+[2026-08-08 14:05:20]   NEW: Attorney General Mayes Wins Case Protecting Federal Support For Homelessness Services |  | https://www.azag.gov/press-release/attorney-general-mayes-wins-case-protecting-federal-support-homelessness-services
+[2026-08-08 14:05:20]   NEW: Attorney General Mayes Announces 15-Year Prison Sentence for Phoenix Man Who Sexually Exploited Children |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-15-year-prison-sentence-phoenix-man-who-sexually
+[2026-08-08 14:05:20]   NEW: Attorney General Mayes Challenges Corporation Commission's Repeal of Energy Efficiency Rules |  | https://www.azag.gov/press-release/attorney-general-mayes-challenges-corporation-commissions-repeal-energy-efficiency
+[2026-08-08 14:05:20] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-08-08 14:05:21] [AR] Found 50 item(s) on page.
+[2026-08-08 14:05:21] [AR] No new items.
+[2026-08-08 14:05:21] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-08-08 14:05:21] [CA] Found 10 item(s) on page.
+[2026-08-08 14:05:21] [CA] 10 new item(s):
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Secures Court Victory Blocking Trump Administration’s Latest Attempt to Divert Funding from Permanent Supportive Housing | Fri, 07 Aug 2026 21:39:38 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-court-victory-blocking-trump-administration%E2%80%99s
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta and Secretary of State Weber Secure Preliminary Injunction Blocking Shasta County’s Illegal Measure B | Fri, 07 Aug 2026 17:21:20 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-and-secretary-state-weber-secure-preliminary-injunction
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Issues Consumer Alert on Price Gouging Following State of Emergency Declaration in Calaveras County | Fri, 07 Aug 2026 17:46:34 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-issues-consumer-alert-price-gouging-following-state-17
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Announces Arrest and Felony Charges Against Nursing Assistant for Alleged Sexual Abuse of an Elderly Resident in the Bay Area | Fri, 07 Aug 2026 17:48:10 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-arrest-and-felony-charges-against-nursing-0
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Urges Federal Government to Protect Consumers, Deny Opportunity Financial Merger | Thu, 06 Aug 2026 22:06:37 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-urges-federal-government-protect-consumers-deny
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Joins Amicus Brief to Protect Public from Toxic Chemical Known to Cause Serious Health Risks | Thu, 06 Aug 2026 21:10:36 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-joins-amicus-brief-protect-public-toxic-chemical-known
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Secures Victory on Nexstar/Tegna Motion, Court Calls Nexstar’s Attempt to Take Over Tegna Despite Court Order “Shocking" and “Brazen” | Thu, 06 Aug 2026 21:04:47 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-victory-nexstartegna-motion-court-calls-nexstar%E2%80%99s
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Opposes Trump Administration’s Attempt to Suppress Healthcare Recommendations from Major Medical Organization | Wed, 05 Aug 2026 17:24:09 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-trump-administration%E2%80%99s-attempt-suppress
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Files Second Amended Complaint in PFAS Litigation Alleging New Fraudulent Transfers by DuPont Defendants | Thu, 06 Aug 2026 16:00:02 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-second-amended-complaint-pfas-litigation-alleging
+[2026-08-08 14:05:21]   NEW: Attorney General Bonta Defends Transgender Students’ Rights to Use Restrooms Matching Their Gender Identity | Wed, 05 Aug 2026 17:31:08 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-defends-transgender-students%E2%80%99-rights-use-restrooms
+[2026-08-08 14:05:21] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-08-08 14:05:22] [CO] Found 49 item(s) on page.
+[2026-08-08 14:05:22] [CO] No new items.
+[2026-08-08 14:05:22] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-08-08 14:05:23] [CT] Found 32 item(s) on page.
+[2026-08-08 14:05:23] [CT] 4 new item(s):
+[2026-08-08 14:05:23]   NEW: Attorney General Tong Issues Statement Following Latest Executive Orders Targeting Birthright Citizenship | 8/6/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-issues-statement-following-executive-orders-targeting-birthright-citizenship
+[2026-08-08 14:05:23]   NEW: Attorney General Tong Secures Dismissal in Challenge to Connecticut’s Felon-in-Possession Laws | 8/7/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-secures-dismissal-of-challenge-to-connecticut-firearm-ban-for-felons
+[2026-08-08 14:05:23]   NEW: Attorney General Tong Joins Coalition Urging Federal Government to Deny Opportunity Financial Merger | 8/6/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-joins-coalition-urging-federal-government-to-deny-opportunity-financial-merger
+[2026-08-08 14:05:23]   NEW: Attorney General Tong Secures Victory on Nexstar/TEGNA Motion | 8/6/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-secures-victory-on-nexstar-and-tegna-motion
+[2026-08-08 14:05:23] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-08-08 14:05:24] [DE] Found 300 item(s) on page.
+[2026-08-08 14:05:24] [DE] 1 new item(s):
+[2026-08-08 14:05:24]   NEW: DOJ obtains conviction for unauthorized use of EBT cards, conspiracy | Fri, 12 Dec 2025 11:24:16 +0000 | https://news.delaware.gov/2025/12/12/doj-obtains-conviction-for-unauthorized-use-of-ebt-cards-conspiracy/
+[2026-08-08 14:05:24] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-08-08 14:05:24] [FL] Found 20 item(s) on page.
+[2026-08-08 14:05:24] [FL] 2 new item(s):
+[2026-08-08 14:05:24]   NEW: Attorney General James Uthmeier Charges Six Defendants in Multi-Circuit Organized Retail Theft and Racketeering Scheme | 2026-08-06T20:15:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-charges-six-defendants-multi-circuit-organized-retail
+[2026-08-08 14:05:24]   NEW: Attorney General James Uthmeier Subpoenas Dr. Anthony Fauci over Potential Self-Dealing During the COVID-19 Pandemic; Teams Up with West Virginia AG McCuskey and Louisiana AG Murrill on Investigation | 2026-08-05T19:23:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-subpoenas-dr-anthony-fauci-over-potential-self-dealing
+[2026-08-08 14:05:24] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-08-08 14:05:25] [GA] Found 11 item(s) on page.
+[2026-08-08 14:05:25] [GA] 2 new item(s):
+[2026-08-08 14:05:25]   NEW: Carr Leads 15-State Coalition Urging Congress to Strengthen Federal Penalties for ATM RobberiesAugust 06, 2026 |  | https://law.georgia.gov/press-releases/2026-08-06/carr-leads-15-state-coalition-urging-congress-strengthen-federal
+[2026-08-08 14:05:25]   NEW: Carr Secures New Indictment for Trafficking of Missing Teen in Richmond CountyAugust 05, 2026 |  | https://law.georgia.gov/press-releases/2026-08-05/carr-secures-new-indictment-trafficking-missing-teen-richmond-county
+[2026-08-08 14:05:25] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-08-08 14:05:26] [HI] Found 26 item(s) on page.
+[2026-08-08 14:05:26] [HI] No new items.
+[2026-08-08 14:05:26] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-08 14:05:26]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-08 14:05:29]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65309 chars)
+[2026-08-08 14:05:29]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-08-08 14:05:29] [ID] Found 28 item(s) on page.
+[2026-08-08 14:05:29] [ID] 1 new item(s):
+[2026-08-08 14:05:29]   NEW: Aug 52026AG Labrador Urges Congress to Pass the STOP FRAUD in Medicaid Act | Aug 52026 | https://www.ag.idaho.gov/newsroom/ag-labrador-urges-congress-to-pass-the-stop-fraud-in-medicaid-act/
+[2026-08-08 14:05:29] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-08-08 14:05:31] [IL] Found 50 item(s) on page.
+[2026-08-08 14:05:31] [IL] 5 new item(s):
+[2026-08-08 14:05:31]   NEW: August 07, 2026ATTORNEY GENERAL RAOUL SECURES VICTORY WITH NEXSTAR/TEGNA MOTION | 2026-08-07 4:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-secures-victory-with-nexstar-tegna-motion
+[2026-08-08 14:05:31]   NEW: August 07, 2026ATTORNEY GENERAL RAOUL OBTAINS 14-YEAR PRISON SENTENCE IN DRUG-INDUCED HOMICIDE CASE AGAINST SUBURBAN MAN FOR ROLE IN FENTANYL OVERDOSE DEATHS | 2026-08-07 4:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-14-year-prison-sentence-in-drug-induced-homicide-case-against-suburban-man-for-role-in-fentanyl-overdose-deaths
+[2026-08-08 14:05:31]   NEW: August 07, 2026ATTORNEY GENERAL RAOUL FILES LAWSUIT OVER FIRES AT HARBOR VIEW WASTE FACILITY | 2026-08-07 4:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-lawsuit-over-fires-at-harbor-view-waste-facility
+[2026-08-08 14:05:31]   NEW: August 06, 2026ATTORNEY GENERAL RAOUL LEADS COALITION URGING FEDERAL GOVERNMENT TO DENY OPPORTUNITY FINANCIAL MERGER | 2026-08-07 4:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-urging-federal-government-to-deny-opportunity-financial-merger
+[2026-08-08 14:05:31]   NEW: August 05, 2026ATTORNEY GENERAL RAOUL, CITY OF CHICAGO SUE PULLMAN INNOVATIONS OVER AIR POLLUTION AND EXCESSIVE ODORS | 2026-08-07 4:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-city-of-chicago-sue-pullman-innovations-over-air-pollution-and-excessive-odors
+[2026-08-08 14:05:31] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-08-08 14:05:31] [IN] Found 35 item(s) on page.
+[2026-08-08 14:05:31] [IN] No new items.
+[2026-08-08 14:05:31] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-08-08 14:05:32] [IA] Found 10 item(s) on page.
+[2026-08-08 14:05:32] [IA] No new items.
+[2026-08-08 14:05:32] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-08 14:05:32]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-08 14:05:34]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-08-08 14:05:34]   Playwright: page loaded but no links matched — check selectors
+[2026-08-08 14:05:34]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-08-08 14:05:35]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-08 14:05:55]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-08 14:06:15]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-08 14:06:15] [KS] No items returned (fetch failed or empty page).
+[2026-08-08 14:06:15] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-08-08 14:06:16] [KY] Found 26 item(s) on page.
+[2026-08-08 14:06:16] [KY] No new items.
+[2026-08-08 14:06:16] [LA] Fetching https://ag.louisiana.gov/News
+[2026-08-08 14:06:17] [LA] Found 20 item(s) on page.
+[2026-08-08 14:06:17] [LA] 3 new item(s):
+[2026-08-08 14:06:17]   NEW: BREAKING: Attorney General Liz Murrill Secures Major Victory Ending Decades-Old Federal Oversight of Bossier Parish Schools | 8/6/2026 | https://ag.louisiana.gov/Article/598
+[2026-08-08 14:06:17]   NEW: AG Murrill's Louisiana Bureau of Investigation Arrests Slidell Man on 500 Child Sexual Abuse Material Charges | 8/6/2026 | https://ag.louisiana.gov/Article/597
+[2026-08-08 14:06:17]   NEW: Attorney General Liz Murrill's Louisiana Bureau of Investigation Arrests Houston Man for Stealing More Than $43,000 in Louisiana State Employees' Retirement Benefits | 8/6/2026 | https://ag.louisiana.gov/Article/595
+[2026-08-08 14:06:17] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-08-08 14:06:17] [ME] Found 11 item(s) on page.
+[2026-08-08 14:06:17] [ME] No new items.
+[2026-08-08 14:06:17] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-08-08 14:06:18] [MD] Found 50 item(s) on page.
+[2026-08-08 14:06:18] [MD] No new items.
+[2026-08-08 14:06:18] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-08 14:06:18]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-08 14:06:21]   Playwright loaded page: 'News and Announcements | Mass.gov' (177557 chars)
+[2026-08-08 14:06:21]   Playwright found 15 item(s) with configured selector
+[2026-08-08 14:06:21] [MA] Found 15 item(s) on page.
+[2026-08-08 14:06:21] [MA] 2 new item(s):
+[2026-08-08 14:06:21]   NEW: Governor Healey Signs PROTECT Act to Keep ICE out of Courthouses, Schools and Hospitals | 8/05/2026 | https://www.mass.gov/news/governor-healey-signs-protect-act-to-keep-ice-out-of-courthouses-schools-and-hospitals
+[2026-08-08 14:06:21]   NEW: AG Campbell Issues Statement On The Termination Of Temporary Protected Status For Haitian Nationals | 8/05/2026 | https://www.mass.gov/news/ag-campbell-issues-statement-on-the-termination-of-temporary-protected-status-for-haitian-nationals
+[2026-08-08 14:06:21] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-08-08 14:06:21]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-08-08 14:06:24]   Playwright loaded page: 'Attorney General: Press Releases' (376401 chars)
+[2026-08-08 14:06:24]   Playwright found 10 item(s) with configured selector
+[2026-08-08 14:06:24] [MI] Found 10 item(s) on page.
+[2026-08-08 14:06:24] [MI] 5 new item(s):
+[2026-08-08 14:06:24]   NEW: Mt. Pleasant Woman to Stand Trial for Medicaid Fraud |  | https://www.michigan.gov/ag/news/press-releases/2026/08/07/mt-pleasant-woman-to-stand-trial-for-medicaid-fraud
+[2026-08-08 14:06:24]   NEW: Licensed Practical Nurse Charged with Theft of Controlled Substances |  | https://www.michigan.gov/ag/news/press-releases/2026/08/07/licensed-practical-nurse-charged-with-theft-of-controlled-substances
+[2026-08-08 14:06:24]   NEW: AG Nessel Briefs Appeal Over MPSC Approval of DTE’s Saline Data Center Contracts |  | https://www.michigan.gov/ag/news/press-releases/2026/08/07/ag-nessel-briefs-appeal-over-mpsc-approval-of-dte-saline-data-center-contracts
+[2026-08-08 14:06:24]   NEW: AG Nessel Concludes Review of Antrim County Clerk Allowing Unsupervised Spousal Access to Office, Computer |  | https://www.michigan.gov/ag/news/press-releases/2026/08/06/ag-nessel-concludes-review-of-antrim-county-clerk-allowing-unsupervised-spousal-access-to-computer
+[2026-08-08 14:06:24]   NEW: AG Nessel Reissues Consumer Alert on Data Breaches |  | https://www.michigan.gov/ag/news/press-releases/2026/08/05/ag-nessel-reissues-consumer-alert-on-data-breaches
+[2026-08-08 14:06:24] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-08-08 14:06:25] [MN] Found 50 item(s) on page.
+[2026-08-08 14:06:25] [MN] 1 new item(s):
+[2026-08-08 14:06:25]   NEW: Protecting Rural Minnesota |  | https://www.ag.state.mn.us/Rural-Minnesota/
+[2026-08-08 14:06:25] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-08-08 14:06:25] [MS] Found 1 item(s) on page.
+[2026-08-08 14:06:25] [MS] 1 new item(s):
+[2026-08-08 14:06:25]   NEW: AG Fitch Secures Settlement to Lower Drug Costs (August 5, 2026) |  | https://attorneygenerallynnfitch.com/2026/08/05/ag-fitch-secures-settlement-to-lower-drug-costs-august-5-2026/
+[2026-08-08 14:06:25] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-08-08 14:06:26] [MO] Found 50 item(s) on page.
+[2026-08-08 14:06:26] [MO] 2 new item(s):
+[2026-08-08 14:06:26]   NEW: Attorney General Hanaway Urges Congress to Strengthen Federal Penalties for ATM Attacks |  | https://ago.mo.gov/attorney-general-hanaway-urges-congress-to-strengthen-federal-penalties-for-atm-attacks/
+[2026-08-08 14:06:26]   NEW: St. Louis-Area Distributor to Suspend Sales of Kratom Products and 7-OH in Missouri |  | https://ago.mo.gov/st-louis-area-distributor-to-suspend-sales-of-kratom-products-and-7-oh-in-missouri/
+[2026-08-08 14:06:26] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-08-08 14:06:27] [MT] Found 10 item(s) on page.
+[2026-08-08 14:06:27] [MT] 1 new item(s):
+[2026-08-08 14:06:27]   NEW: Attorney General Knudsen supports President Trump’s efforts to pass SAVE America Act |  | https://dojmt.gov/attorney-general-knudsen-supports-president-trumps-efforts-to-pass-save-america-act/
+[2026-08-08 14:06:27] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-08-08 14:06:27] [NE] Found 10 item(s) on page.
+[2026-08-08 14:06:27] [NE] 1 new item(s):
+[2026-08-08 14:06:27]   NEW: Statement on Petition Fraud | Fri, 07 Aug 2026 15:16:26 +0000 | https://ago.nebraska.gov/news/statement-petition-fraud
+[2026-08-08 14:06:27] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-08-08 14:06:27] [NV] Found 50 item(s) on page.
+[2026-08-08 14:06:27] [NV] No new items.
+[2026-08-08 14:06:27] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-08-08 14:06:27]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-08-08 14:06:30]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-08-08 14:06:30]   Playwright: page loaded but no links matched — check selectors
+[2026-08-08 14:06:30]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-08-08 14:06:30]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-08 14:06:50]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-08 14:07:10]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-08 14:07:10] [NH] No items returned (fetch failed or empty page).
+[2026-08-08 14:07:10] [NJ] Fetching https://www.njoag.gov/news/
+[2026-08-08 14:07:12] [NJ] Found 5 item(s) on page.
+[2026-08-08 14:07:12] [NJ] 5 new item(s):
+[2026-08-08 14:07:12]   NEW: Attorney General’s Office Investigating Fatal Police-Involved Shooting in Millville, N.J. |  | https://www.njoag.gov/attorney-generals-office-investigating-fatal-police-involved-shooting-in-millville-n-j/
+[2026-08-08 14:07:12]   NEW: Federal Court Approves Historic PFAS Settlements Valued at Approximately $2.5 Billion |  | https://www.njoag.gov/federal-court-approves-historic-pfas-settlements-valued-at-approximately-2-5-billion/
+[2026-08-08 14:07:12]   NEW: Attorney General Davenport Announces Civil Rights Investigation into Practices at Delaney Hall |  | https://www.njoag.gov/attorney-general-davenport-announces-civil-rights-investigation-into-practices-at-delaney-hall/
+[2026-08-08 14:07:12]   NEW: Four Men Charged with Racketeering, Human Trafficking, Promoting Prostitution, and Other Crimes |  | https://www.njoag.gov/four-men-charged-with-racketeering-human-trafficking-promoting-prostitution-and-other-crimes/
+[2026-08-08 14:07:12]   NEW: Attorney General’s Office Investigating Fatal Police-Involved Shooting in Millville |  | https://www.njoag.gov/attorney-generals-office-investigating-fatal-police-involved-shooting-in-millville/
+[2026-08-08 14:07:12] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-08-08 14:07:15] [NM] Found 13 item(s) on page.
+[2026-08-08 14:07:15] [NM] 4 new item(s):
+[2026-08-08 14:07:15]   NEW: Court Orders Meta to Pay $942 Million and Overhaul Protections for Children on Facebook and Instagram in Landmark New Mexico Ruling |  | https://nmdoj.gov/press-release/court-orders-meta-to-pay-942-million-and-overhaul-protections-for-children-on-facebook-and-instagram-in-landmark-new-mexico-ruling/
+[2026-08-08 14:07:15]   NEW: STATEMENT from Attorney General Raúl Torrez on Final Judgment in State of New Mexico v. Meta |  | https://nmdoj.gov/press-release/statement-from-attorney-general-raul-torrez-on-final-judgment-in-state-of-new-mexico-v-meta/
+[2026-08-08 14:07:15]   NEW: Attorney General Raúl Torrez Files Petition to Intervene in Crownpoint Licensing Matter to Protect New Mexico’s Groundwater |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-files-petition-to-intervene-in-crownpoint-licensing-matter-to-protect-new-mexicos-groundwater/
+[2026-08-08 14:07:15]   NEW: New Mexico Sues DOJ For Blocking Access to Unredacted Epstein Investigative Files in Zorro Ranch Criminal Probe |  | https://nmdoj.gov/press-release/new-mexico-sues-doj-for-blocking-access-to-unredacted-epstein-investigative-files-in-zorro-ranch-criminal-probe/
+[2026-08-08 14:07:15] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-08-08 14:07:15] [NY] Found 25 item(s) on page.
+[2026-08-08 14:07:15] [NY] 6 new item(s):
+[2026-08-08 14:07:15]   NEW: Attorney General James Secures More Than 140,000 Eggs for Central New York Families |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-more-140000-eggs-central-new-york-families
+[2026-08-08 14:07:15]   NEW: Attorney General James Secures More Than 140,000 Eggs for Southern Tier Families |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-more-140000-eggs-southern-tier-families
+[2026-08-08 14:07:15]   NEW: Attorney General James Wins Case Stopping Trump Administration’s Latest Attempt to Jeopardize Funds to Fight Homelessness |  | https://ag.ny.gov/press-release/2026/attorney-general-james-wins-case-stopping-trump-administrations-latest-attempt
+[2026-08-08 14:07:15]   NEW: Attorney General James Warns New Yorkers of Gold Bar Scam Targeting Seniors |  | https://ag.ny.gov/press-release/2026/attorney-general-james-warns-new-yorkers-gold-bar-scam-targeting-seniors
+[2026-08-08 14:07:15]   NEW: Attorney General James’ Office of Special Investigation Releases Report on Death of Shaun Humphrey |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-releases-report-death-shaun
+[2026-08-08 14:07:15]   NEW: Attorney General James Secures More Than 280,000 Eggs for Rochester Families |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-more-280000-eggs-rochester-families
+[2026-08-08 14:07:15] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-08-08 14:07:35]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7f597d622db0>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-08-08 14:08:18]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7f597cf10380>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-08-08 14:08:57]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7f597d76ff80>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-08-08 14:08:57] [NC] No items returned (fetch failed or empty page).
+[2026-08-08 14:08:57] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-08-08 14:08:58] [ND] Found 10 item(s) on page.
+[2026-08-08 14:08:58] [ND] No new items.
+[2026-08-08 14:08:58] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-08-08 14:08:58] [OH] Found 10 item(s) on page.
+[2026-08-08 14:08:58] [OH] No new items.
+[2026-08-08 14:08:58] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-08 14:08:58]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-08 14:09:01]   Playwright loaded page: 'News Releases' (857613 chars)
+[2026-08-08 14:09:02]   Playwright found 20 item(s) with configured selector
+[2026-08-08 14:09:02] [OK] Found 20 item(s) on page.
+[2026-08-08 14:09:02] [OK] 3 new item(s):
+[2026-08-08 14:09:02]   NEW: Drummond calls pending state employee insurance hike wrong, easily avoidable |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-calls-pending-state-employee-insurance-hike-wrong-easily-avoidable.html
+[2026-08-08 14:09:02]   NEW: Drummond leads coalition warning federal contempt ruling could reach state courts |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-leads-coalition-warning-federal-contempt-ruling-could-reach-state-courts.html
+[2026-08-08 14:09:02]   NEW: Drummond announces $469 million settlement with Sandoz over generic drug price-fixing scheme |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-announces-469-million-settlement-with-sandoz-over-generic-drug-price-fixing-scheme.html
+[2026-08-08 14:09:02] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-08-08 14:09:03] [OR] Found 10 item(s) on page.
+[2026-08-08 14:09:03] [OR] 3 new item(s):
+[2026-08-08 14:09:03]   NEW: Attorney General Rayfield Approves Salem Health–Santiam Hospital Merger |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-approves-salem-health-santiam-hospital-merger/
+[2026-08-08 14:09:03]   NEW: AG Rayfield Wins Federal Court Decision Over Nexstar “Brazenly” Violating Merger Order |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-wins-federal-court-decision-over-nexstar-violating-merger-order/
+[2026-08-08 14:09:03]   NEW: Attorney General Rayfield Statement on Trump’s New Birthright Citizenship Executive Orders |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-statement-on-trumps-birthright-citizenship-executive-orders/
+[2026-08-08 14:09:03] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-08-08 14:09:04] [PA] Found 12 item(s) on page.
+[2026-08-08 14:09:04] [PA] 6 new item(s):
+[2026-08-08 14:09:04]   NEW: Fraud Protection & Consumer AlertsAUG 7, 2026Attorney General Sunday Alerts Pennsylvanians of an Uptick in Government Imposter Scams Posing as Local County Sheriff OfficesHARRISBURG – Attorney General Dave Sunday is warning Pennsylvanians to be aware of an uptick in government imposter scams in which callers pose as members of local County…Read more | 2026-08-07T12:32:47-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-alerts-pennsylvanians-of-an-uptick-in-government-imposter-scams-posing-as-local-county-sheriff-offices/
+[2026-08-08 14:09:04]   NEW: CrimeAUG 7, 2026Attorney General Sunday Responds to Elijah Sharpe AppealHARRISBURG – Attorney General Dave Sunday issued the following statement on the Pennsylvania’s Superior Court ruling in the Elijah Sharpe case. In a published opinion issued Thursday, the…Read more | 2026-08-07T11:30:46-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-responds-to-elijah-sharpe-appeal/
+[2026-08-08 14:09:04]   NEW: Press ReleaseAUG 6, 2026Attorney General Dave Sunday Joins 34 Attorneys General Urging Congress to Preserve Federal Hemp Reforms and Prevent the Return of Intoxicating Hemp ProductsHARRISBURG — Attorney General Dave Sunday joined a bipartisan coalition of 34 attorneys general in a letter to congressional leaders urging them to preserve the federal redefinition of…Read more | 2026-08-06T12:21:04-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-dave-sunday-joins-34-attorneys-general-urging-congress-to-preserve-federal-hemp-reforms-and-prevent-the-return-of-intoxicating-hemp-products/
+[2026-08-08 14:09:04]   NEW: CrimeAUG 5, 2026AG Sunday’s Medicaid Fraud Control Section Charges 4 Warren County Home Care Workers with Neglect of Care-Dependent Resident who DiedHARRISBURG – Attorney General Dave Sunday announced four individuals have been charged for neglecting a care-dependent resident at Hickory Creek Home Care in Warren County. The resident was…Read more | 2026-08-05T14:29:49-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-medicaid-fraud-control-section-charges-4-warren-county-home-care-workers-with-neglect-of-care-dependent-resident-who-died/
+[2026-08-08 14:09:04]   NEW: Fraud Protection & Consumer AlertsAUG 5, 2026AG Sunday’s Bureau of Consumer Protection Secures $200K Settlement, Lifetime Ban Against Philadelphia-Area Home Improvement ContractorHARRISBURG – Attorney General Dave Sunday announced a settlement with Philadelphia-area contractor Murillo Sousa and his associated home improvement companies that requires Sousa to pay the Commonwealth $200,000.…Read more | 2026-08-05T12:48:39-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-bureau-of-consumer-protection-secures-200k-settlement-lifetime-ban-against-philadelphia-area-home-improvement-contractor/
+[2026-08-08 14:09:04]   NEW: CrimeAUG 5, 2026VERDICT: Lancaster County ‘Life Coach’ Convicted of all Charges Regarding Sexual Abuse of ChildHARRISBURG — Attorney General Dave Sunday announced that a Lancaster County man has been convicted of felony indecent assault of a pre-teenage child and other offenses, following a…Read more | 2026-08-05T11:48:21-04:00 | https://www.attorneygeneral.gov/taking-action/verdict-lancaster-county-life-coach-convicted-of-all-charges-regarding-sexual-abuse-of-child/
+[2026-08-08 14:09:04] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-08-08 14:09:04] [RI] Found 10 item(s) on page.
+[2026-08-08 14:09:04] [RI] No new items.
+[2026-08-08 14:09:04] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-08-08 14:09:04]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-08-08 14:09:07]   Playwright loaded page: 'News - South Carolina Attorney General' (110424 chars)
+[2026-08-08 14:09:07]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-08-08 14:09:07] [SC] Found 9 item(s) on page.
+[2026-08-08 14:09:07] [SC] 5 new item(s):
+[2026-08-08 14:09:07]   NEW: Attorney General Alan Wilson defends religious liberty in the classroom at SCOTUSRead More | Aug 06, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-defends-religious-liberty-in-the-classroom-at-scotus/
+[2026-08-08 14:09:07]   NEW: Taylors man arrested on Child Sexual Abuse Material* chargeRead More | Aug 05, 2026 | https://www.scag.gov/about-the-office/news/taylors-man-arrested-on-child-sexual-abuse-material-charge/
+[2026-08-08 14:09:07]   NEW: Lugoff man arrested on Child Sexual Abuse Material* chargeRead More | Aug 05, 2026 | https://www.scag.gov/about-the-office/news/lugoff-man-arrested-on-child-sexual-abuse-material-charge/
+[2026-08-08 14:09:07]   NEW: Attorney General Alan Wilson urges Congress to help states fight Medicaid fraudRead More | Aug 04, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-urges-congress-to-help-states-fight-medicaid-fraud/
+[2026-08-08 14:09:07]   NEW: Attorney General Alan Wilson supports efforts to keep oil pipeline open and increase affordability for familiesRead More | Aug 04, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-supports-efforts-to-keep-oil-pipeline-open-and-increase-affordability-for-families/
+[2026-08-08 14:09:07] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-08-08 14:09:07]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8
+[2026-08-08 14:09:10]   Playwright loaded page: 'South Dakota Attorney General' (36151 chars)
+[2026-08-08 14:09:10]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-08-08 14:09:10] [SD] Found 1 item(s) on page.
+[2026-08-08 14:09:10] [SD] No new items.
+[2026-08-08 14:09:10] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-08-08 14:09:11]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: HTTPSConnectionPool(host='www.tn.gov', port=443): Max retries exceeded with url: /attorneygeneral/news.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))
+[2026-08-08 14:09:31]   Attempt 2/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-08-08 14:09:51] [TN] Found 50 item(s) on page.
+[2026-08-08 14:09:51] [TN] No new items.
+[2026-08-08 14:09:51] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-08-08 14:09:52] [TX] Found 50 item(s) on page.
+[2026-08-08 14:09:52] [TX] 2 new item(s):
+[2026-08-08 14:09:52]   NEW: Attor­ney Gen­er­al Pax­ton Final­izes His­toric Set­tle­ment with Texas Children’s Hos­pi­tal, Cre­at­ing First-Ever Detran­si­tion Clin­ic and Secur­ing Near­ly $10Mil­lion for Texas |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-finalizes-historic-settlement-texas-childrens-hospital-creating-first-ever
+[2026-08-08 14:09:52]   NEW: Attor­ney Gen­er­al Ken Pax­ton Inves­ti­gates the Amer­i­can Acad­e­my of Pedi­atrics for Decep­tive­ly Pro­mot­ing Child­hood Vac­cines for Finan­cial Gain |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-investigates-american-academy-pediatrics-deceptively-promoting-childhood
+[2026-08-08 14:09:52] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-08-08 14:09:52]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-08-08 14:09:55]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296622 chars)
+[2026-08-08 14:09:55]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-08-08 14:09:55] [UT] Found 50 item(s) on page.
+[2026-08-08 14:09:55] [UT] No new items.
+[2026-08-08 14:09:55] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-08-08 14:09:56] [VT] Found 50 item(s) on page.
+[2026-08-08 14:09:56] [VT] 2 new item(s):
+[2026-08-08 14:09:56]   NEW: Attorney General Clark Secures Order Protecting Federal Support for Homelessness Services | DateAugust 7, 2026 | https://ago.vermont.gov/blog/2026/08/07/attorney-general-clark-secures-order-protecting-federal-support-homelessness-services
+[2026-08-08 14:09:56]   NEW: Attorney General Clark Joins Coalition Urging Federal Government to Deny Opportunity Financial Merger | DateAugust 6, 2026 | https://ago.vermont.gov/blog/2026/08/06/attorney-general-clark-joins-coalition-urging-federal-government-deny-opportunity-financial-merger
+[2026-08-08 14:09:56] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-08-08 14:09:58] [VA] Found 50 item(s) on page.
+[2026-08-08 14:09:58] [VA] 1 new item(s):
+[2026-08-08 14:09:58]   NEW: Attorney General Jones Sues Trump Administration Again to Stop Latest Round of Illegal Tariffs |  | https://www.oag.state.va.us/media-center/news-releases/3089-attorney-general-jones-sues-trump-administration-again-to-stop-latest-round-of-illegal-tariffs
+[2026-08-08 14:09:58] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-08-08 14:09:58] [WA] Found 15 item(s) on page.
+[2026-08-08 14:09:58] [WA] 3 new item(s):
+[2026-08-08 14:09:58]   NEW: Washington-led coalition secures order protecting federal support for homelessness services | Fri, 07 Aug 2026 18:44:09 +0000 | https://www.atg.wa.gov/news/news-releases/washington-led-coalition-secures-order-protecting-federal-support-homelessness
+[2026-08-08 14:09:58]   NEW: Apoye a Spokane haciendo donaciones a organizaciones benéficas de confianza | Wed, 05 Aug 2026 19:22:26 +0000 | https://www.atg.wa.gov/news/news-releases/apoye-spokane-haciendo-donaciones-organizaciones-ben-ficas-de-confianza
+[2026-08-08 14:09:58]   NEW: Support Spokane by donating to reputable charities | Wed, 05 Aug 2026 19:20:26 +0000 | https://www.atg.wa.gov/news/news-releases/support-spokane-donating-reputable-charities
+[2026-08-08 14:09:58] [WV] Fetching https://ago.wv.gov/news
+[2026-08-08 14:09:58]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-08-08 14:10:00]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54797 chars)
+[2026-08-08 14:10:00]   Playwright found 30 item(s) with configured selector
+[2026-08-08 14:10:00] [WV] Found 30 item(s) on page.
+[2026-08-08 14:10:00] [WV] 2 new item(s):
+[2026-08-08 14:10:00]   NEW: Full Story | 2026-08-07T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-leads-states-urging-epa-cut-bureaucratic-red-tape-slowing
+[2026-08-08 14:10:00]   NEW: Full Story | 2026-08-05T12:00:00Z | https://ago.wv.gov/article/federal-court-strikes-down-unconstitutional-firearm-registration-regulations-win-west
+[2026-08-08 14:10:00] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-08 14:10:00]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-08 14:10:05]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1546992 chars)
+[2026-08-08 14:10:05]   Playwright found 50 item(s) with configured selector
+[2026-08-08 14:10:05] [WI] Found 50 item(s) on page.
+[2026-08-08 14:10:05] [WI] 6 new item(s):
+[2026-08-08 14:10:05]   NEW: Wisconsin Department of Justice Urges Federal Government to Strengthen Know Your Customer Rules in Effort to Combat Illegal Robocalls |  | https://www.wisdoj.gov/PressReleases/press-release-robocalls-know-your-customer.pdf
+[2026-08-08 14:10:05]   NEW: Wisconsin Department of Justice Joins Lawsuit Challenging Trump Administration’s Effort to Expand Catastrophic Health Insurance Plans and Again Undermine Affordable Care Act Protections |  | https://www.wisdoj.gov/PressReleases/press-release-aca-lawsuit.pdf
+[2026-08-08 14:10:05]   NEW: Wisconsin Department of Justice Sues Trump Administration to Protect Wisconsin Residents’ Personal Information |  | https://www.wisdoj.gov/PressReleases/press-release-tanf-lawsuit.pdf
+[2026-08-08 14:10:05]   NEW: Wisconsin DOJ Sues Trump Administration Again to Stop Illegal Tariffs |  | https://www.wisdoj.gov/PressReleases/press-release-tariffs-2.0.pdf
+[2026-08-08 14:10:05]   NEW: Wisconsin Department of Justice and Coalition Announce $400 Million Settlement in Principle with Sandoz Over Alleged Conspiracy to Inflate Prices and Limit Competition |  | https://www.wisdoj.gov/PressReleases/press-release-sandoz-settlement.pdf
+[2026-08-08 14:10:05]   NEW: Wisconsin Department of Justice Blocks Federal Cuts to School Mental Health Grants |  | https://www.wisdoj.gov/PressReleases/press-release-mental-health-2.0-win.pdf
+[2026-08-08 14:10:05] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-08-08 14:10:05] [WY] Found 1 item(s) on page.
+[2026-08-08 14:10:05] [WY] No new items.
+[2026-08-08 14:10:05] States with fetch errors: KS, NH, NC
+[2026-08-08 14:10:05] Sending email: 95 new item(s) across 30 state(s).
+[2026-08-08 14:10:08] Email sent.
+[2026-08-08 14:10:08] Done.
