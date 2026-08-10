@@ -6580,3 +6580,9 @@ Call log:
 [2026-08-10 08:23:43] Found 27 opinions on page.
 [2026-08-10 08:23:43] No new opinions.
 [2026-08-10 08:23:43] Done.
+[2026-08-10 09:56:01] Checking for new DE court opinions...
+[2026-08-10 09:56:01] Using Playwright to fetch opinions page...
+[2026-08-10 09:56:12] Playwright found 27 opinion(s).
+[2026-08-10 09:56:12] Found 27 opinions on page.
+[2026-08-10 09:56:12] No new opinions.
+[2026-08-10 09:56:12] Done.
