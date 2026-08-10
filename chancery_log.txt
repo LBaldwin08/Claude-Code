@@ -6654,3 +6654,16 @@ Call log:
 [2026-08-10 17:49:12] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fad3898e720>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-08-10 17:49:12] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fad3898e720>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-08-10 17:49:12] Skipping this run — will retry next scheduled check.
+[2026-08-10 18:49:04] Checking for new DE court opinions...
+[2026-08-10 18:49:04] Using Playwright to fetch opinions page...
+[2026-08-10 18:49:17] Playwright found 27 opinion(s).
+[2026-08-10 18:49:17] Found 27 opinions on page.
+[2026-08-10 18:49:17] 3 new opinion(s)!
+[2026-08-10 18:49:17]   NEW: [08/10/2026] [Supreme Court(Superior Court)] Jean-Baptiste v. State | 455, 2024 | TraynorJ.
+[2026-08-10 18:49:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399490
+[2026-08-10 18:49:17]   NEW: [08/07/2026] [Superior Court] Ryle v. Officer David Beaver et al | N26M-03-104 SSA | AugusthyJ.
+[2026-08-10 18:49:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399510
+[2026-08-10 18:49:17]   NEW: [08/06/2026] [Superior Court] State v. Warren | 2406016195, 2403012898 | RennieJ.
+[2026-08-10 18:49:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399500
+[2026-08-10 18:49:19] Email notification sent.
+[2026-08-10 18:49:19] Done.
