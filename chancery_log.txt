@@ -6622,3 +6622,12 @@ Call log:
 [2026-08-10 14:55:32] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fae5e1d6090>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-08-10 14:55:32] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fae5e1d6090>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-08-10 14:55:32] Skipping this run — will retry next scheduled check.
+[2026-08-10 15:55:19] Checking for new DE court opinions...
+[2026-08-10 15:55:19] Using Playwright to fetch opinions page...
+[2026-08-10 15:55:32] Playwright found 27 opinion(s).
+[2026-08-10 15:55:32] Found 27 opinions on page.
+[2026-08-10 15:55:32] 1 new opinion(s)!
+[2026-08-10 15:55:32]   NEW: [08/10/2026] [Court of Chancery] H.I.G. Capital, LLC, et al. v. Kristen Allred, et al. | C.A. No. 2026-0343-BWD | David, Bonnie W.V.C.
+[2026-08-10 15:55:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399470
+[2026-08-10 15:55:33] Email notification sent.
+[2026-08-10 15:55:33] Done.
