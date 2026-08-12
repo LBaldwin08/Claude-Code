@@ -23352,3 +23352,225 @@ Call log:
 [2026-08-11 14:37:33] Sending email: 25 new item(s) across 16 state(s).
 [2026-08-11 14:37:34] Email sent.
 [2026-08-11 14:37:34] Done.
+[2026-08-12 14:34:52] Checking for new AG press releases...
+[2026-08-12 14:34:52] Checking 50 state(s).
+[2026-08-12 14:34:52] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-08-12 14:34:52]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-08-12 14:34:56]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (233769 chars)
+[2026-08-12 14:34:56]   Playwright found 27 item(s) with configured selector
+[2026-08-12 14:34:56] [AL] Found 27 item(s) on page.
+[2026-08-12 14:34:56] [AL] No new items.
+[2026-08-12 14:34:56] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-08-12 14:34:56] [AK] Found 50 item(s) on page.
+[2026-08-12 14:34:56] [AK] 1 new item(s):
+[2026-08-12 14:34:56]   NEW: Martin Victor IV Convicted of Attempted Murder and Assault |  | https://law.alaska.gov/releases/2026/081026-Victor.html
+[2026-08-12 14:34:56] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-08-12 14:34:56] [AZ] Found 10 item(s) on page.
+[2026-08-12 14:34:56] [AZ] 1 new item(s):
+[2026-08-12 14:34:56]   NEW: Attorney General Mayes Sues Out-of-State Landlords for Leaving Tucson Tenants Without AC in Summer Heat |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-out-state-landlords-leaving-tucson-tenants-without-ac
+[2026-08-12 14:34:56] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-08-12 14:34:57] [AR] Found 50 item(s) on page.
+[2026-08-12 14:34:57] [AR] 1 new item(s):
+[2026-08-12 14:34:57]   NEW: Tuesday, August 11, 2026Attorney General Griffin Announces Conviction of North Little Rock Man on Child Pornography ChargesRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-conviction-of-north-little-rock-man-on-child-pornography-charges/
+[2026-08-12 14:34:57] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-08-12 14:34:58] [CA] Found 10 item(s) on page.
+[2026-08-12 14:34:58] [CA] 2 new item(s):
+[2026-08-12 14:34:58]   NEW: California Department of Justice Releases a Report on Officer-Involved Shooting of Juan Carlos Chabel-Orellano | Tue, 11 Aug 2026 16:13:58 +0000 | https://oag.ca.gov/news/press-releases/california-department-justice-releases-report-officer-involved-shooting-juan
+[2026-08-12 14:34:58]   NEW: Attorney General Bonta Sues to Block Trump Administration’s Unlawful Handout to Big Banks | Tue, 11 Aug 2026 17:02:54 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-block-trump-administration%E2%80%99s-unlawful-handout-big
+[2026-08-12 14:34:58] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-08-12 14:34:58] [CO] Found 49 item(s) on page.
+[2026-08-12 14:34:58] [CO] No new items.
+[2026-08-12 14:34:58] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-08-12 14:34:59] [CT] Found 33 item(s) on page.
+[2026-08-12 14:34:59] [CT] 2 new item(s):
+[2026-08-12 14:34:59]   NEW: Attorney General Tong Statement on Passing of Former Lt. Governor Nancy Wyman | 8/12/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-statement-on-passing-of-former-lt-governor-nancy-wyman
+[2026-08-12 14:34:59]   NEW: Attorney General William Tong Sues to Block Trump Administration’s Lawless Handout to Big Banks | 8/11/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-william-tong-sues-to-block-lawless-handout-to-big-banks
+[2026-08-12 14:34:59] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-08-12 14:35:00] [DE] Found 300 item(s) on page.
+[2026-08-12 14:35:00] [DE] No new items.
+[2026-08-12 14:35:00] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-08-12 14:35:00] [FL] Found 20 item(s) on page.
+[2026-08-12 14:35:00] [FL] No new items.
+[2026-08-12 14:35:00] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-08-12 14:35:01] [GA] Found 11 item(s) on page.
+[2026-08-12 14:35:01] [GA] No new items.
+[2026-08-12 14:35:01] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-08-12 14:35:02] [HI] Found 26 item(s) on page.
+[2026-08-12 14:35:02] [HI] No new items.
+[2026-08-12 14:35:02] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-12 14:35:02]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-12 14:35:06]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65218 chars)
+[2026-08-12 14:35:06]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-08-12 14:35:06] [ID] Found 28 item(s) on page.
+[2026-08-12 14:35:06] [ID] 1 new item(s):
+[2026-08-12 14:35:06]   NEW: Aug 112026Banking Scam Stopped by AG Labrador’s Consumer Protection Investigators | Aug 112026 | https://www.ag.idaho.gov/newsroom/banking-scam-stopped-by-ag-labradors-consumer-protection-investigators/
+[2026-08-12 14:35:06] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-08-12 14:35:08] [IL] Found 50 item(s) on page.
+[2026-08-12 14:35:08] [IL] 2 new item(s):
+[2026-08-12 14:35:08]   NEW: August 11, 2026ATTORNEY GENERAL RAOUL CHARGES FORMER MCLEAN COUNTY SHERIFF EMPLOYEE WITH POSSESSION OF CHILD SEXUAL ABUSE MATERIAL | 2026-08-11 2:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-former-mclean-county-sheriff-employee-with-possession-of-child-sexual-abuse-material
+[2026-08-12 14:35:08]   NEW: August 11, 2026ATTORNEY GENERAL RAOUL, DEPARTMENT OF VETERANS AFFAIRS ANNOUNCE UPDATES TO BENEFITS FOR ILLINOIS VETERANS GUIDE | 2026-08-11 2:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-department-of-veterans-affairs-announce-updates-to-benefits-for-illinois-veterans-guide
+[2026-08-12 14:35:08] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-08-12 14:35:08] [IN] Found 35 item(s) on page.
+[2026-08-12 14:35:08] [IN] No new items.
+[2026-08-12 14:35:08] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-08-12 14:35:09] [IA] Found 10 item(s) on page.
+[2026-08-12 14:35:09] [IA] 1 new item(s):
+[2026-08-12 14:35:09]   NEW: Attorney General Brenna Bird Launches Public Service Announcement Campaign with Meta to Fight Investment, Romance, and User Support Scams on Social Media Platforms | August 11, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-launches-public-service-announcement-campaign-with-meta-to-fight-invest/
+[2026-08-12 14:35:09] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-12 14:35:09]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-12 14:35:12]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-08-12 14:35:12]   Playwright: page loaded but no links matched — check selectors
+[2026-08-12 14:35:12]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-08-12 14:35:13]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-12 14:35:33]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-12 14:35:53]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-12 14:35:53] [KS] No items returned (fetch failed or empty page).
+[2026-08-12 14:35:53] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-08-12 14:35:54] [KY] Found 26 item(s) on page.
+[2026-08-12 14:35:54] [KY] No new items.
+[2026-08-12 14:35:54] [LA] Fetching https://ag.louisiana.gov/News
+[2026-08-12 14:35:55] [LA] Found 20 item(s) on page.
+[2026-08-12 14:35:55] [LA] 2 new item(s):
+[2026-08-12 14:35:55]   NEW: Attorney General Liz Murrill Highlights New Law Ensuring Citizenship Verification for Taxpayer-Funded Public Assistance | 8/11/2026 | https://ag.louisiana.gov/Article/600
+[2026-08-12 14:35:55]   NEW: Victory at Fifth Circuit: Biden's gas stove rule goes down in flames | 8/11/2026 | https://ag.louisiana.gov/Article/599
+[2026-08-12 14:35:55] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-08-12 14:35:55] [ME] Found 11 item(s) on page.
+[2026-08-12 14:35:55] [ME] No new items.
+[2026-08-12 14:35:55] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-08-12 14:35:56] [MD] Found 50 item(s) on page.
+[2026-08-12 14:35:56] [MD] No new items.
+[2026-08-12 14:35:56] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-12 14:35:56]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-12 14:35:59]   Playwright loaded page: 'News and Announcements | Mass.gov' (177565 chars)
+[2026-08-12 14:35:59]   Playwright found 15 item(s) with configured selector
+[2026-08-12 14:35:59] [MA] Found 15 item(s) on page.
+[2026-08-12 14:35:59] [MA] 1 new item(s):
+[2026-08-12 14:35:59]   NEW: AG Campbell Sues To Block Trump Administration’s Unlawful Handout To Big Banks | 8/11/2026 | https://www.mass.gov/news/ag-campbell-sues-to-block-trump-administrations-unlawful-handout-to-big-banks
+[2026-08-12 14:35:59] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-08-12 14:35:59]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-08-12 14:36:03]   Playwright loaded page: 'Attorney General: Press Releases' (376400 chars)
+[2026-08-12 14:36:04]   Playwright found 10 item(s) with configured selector
+[2026-08-12 14:36:04] [MI] Found 10 item(s) on page.
+[2026-08-12 14:36:04] [MI] 1 new item(s):
+[2026-08-12 14:36:04]   NEW: Former Lincoln Township Police Officer Sentenced for Falsifying Salvage Vehicle Inspections |  | https://www.michigan.gov/ag/news/press-releases/2026/08/11/former-lincoln-township-police-officer-sentenced-for-falsifying-salvage-vehicle-inspections
+[2026-08-12 14:36:04] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-08-12 14:36:04] [MN] Found 50 item(s) on page.
+[2026-08-12 14:36:04] [MN] No new items.
+[2026-08-12 14:36:04] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-08-12 14:36:04] [MS] Found 1 item(s) on page.
+[2026-08-12 14:36:04] [MS] No new items.
+[2026-08-12 14:36:04] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-08-12 14:36:05] [MO] Found 50 item(s) on page.
+[2026-08-12 14:36:05] [MO] No new items.
+[2026-08-12 14:36:05] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-08-12 14:36:05] [MT] Found 10 item(s) on page.
+[2026-08-12 14:36:05] [MT] No new items.
+[2026-08-12 14:36:05] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-08-12 14:36:05] [NE] Found 10 item(s) on page.
+[2026-08-12 14:36:05] [NE] 2 new item(s):
+[2026-08-12 14:36:05]   NEW: AG Hilgers Joins Letter to Congress Opposing Legalization of Harmful Delta-8 Products | Tue, 11 Aug 2026 20:24:42 +0000 | https://ago.nebraska.gov/news/ag-hilgers-joins-letter-congress-opposing-legalization-harmful-delta-8-products
+[2026-08-12 14:36:05]   NEW: Nebraska Helps Secure Major Victory Against Biden-Era Gas Stove Regulations | Tue, 11 Aug 2026 20:11:38 +0000 | https://ago.nebraska.gov/news/nebraska-helps-secure-major-victory-against-biden-era-gas-stove-regulations
+[2026-08-12 14:36:05] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-08-12 14:36:06] [NV] Found 50 item(s) on page.
+[2026-08-12 14:36:06] [NV] No new items.
+[2026-08-12 14:36:06] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-08-12 14:36:06]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-08-12 14:36:08]   Playwright loaded page: 'Access Denied' (314 chars)
+[2026-08-12 14:36:08]   Playwright: page loaded but no links matched — check selectors
+[2026-08-12 14:36:08]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-08-12 14:36:08]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-12 14:36:29]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-12 14:36:49]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-12 14:36:49] [NH] No items returned (fetch failed or empty page).
+[2026-08-12 14:36:49] [NJ] Fetching https://www.njoag.gov/news/
+[2026-08-12 14:36:50] [NJ] Found 5 item(s) on page.
+[2026-08-12 14:36:50] [NJ] 1 new item(s):
+[2026-08-12 14:36:50]   NEW: State Grand Jury Declines to File Criminal Charges in Connection with an October 21, 2025, Fatal Police-Involved Shooting in Jersey City |  | https://www.njoag.gov/state-grand-jury-declines-to-file-criminal-charges-in-connection-with-an-october-21-2025-fatal-police-involved-shooting-in-jersey-city/
+[2026-08-12 14:36:50] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-08-12 14:36:54] [NM] Found 12 item(s) on page.
+[2026-08-12 14:36:54] [NM] No new items.
+[2026-08-12 14:36:54] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-08-12 14:36:54] [NY] Found 25 item(s) on page.
+[2026-08-12 14:36:54] [NY] 1 new item(s):
+[2026-08-12 14:36:54]   NEW: Attorney General James Sues Trump Administration to Protect Valuable Interest Payments to Homeowners |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-trump-administration-protect-valuable-interest
+[2026-08-12 14:36:54] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-08-12 14:36:59] [NC] Found 10 item(s) on page.
+[2026-08-12 14:36:59] [NC] No new items.
+[2026-08-12 14:36:59] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-08-12 14:36:59] [ND] Found 10 item(s) on page.
+[2026-08-12 14:36:59] [ND] No new items.
+[2026-08-12 14:36:59] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-08-12 14:36:59] [OH] Found 10 item(s) on page.
+[2026-08-12 14:36:59] [OH] No new items.
+[2026-08-12 14:36:59] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-12 14:36:59]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-12 14:37:03]   Playwright loaded page: 'News Releases' (828045 chars)
+[2026-08-12 14:37:03]   Playwright: page loaded but no links matched — check selectors
+[2026-08-12 14:37:03]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-08-12 14:37:04] [OK] No items returned (fetch failed or empty page).
+[2026-08-12 14:37:04] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-08-12 14:37:04] [OR] Found 10 item(s) on page.
+[2026-08-12 14:37:04] [OR] 1 new item(s):
+[2026-08-12 14:37:04]   NEW: AG Rayfield Sues to Block Trump Administration’s Lawless Handout to Big Banks |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-sues-to-block-trumps-lawless-handout-to-big-banks/
+[2026-08-12 14:37:04] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-08-12 14:37:05] [PA] Found 12 item(s) on page.
+[2026-08-12 14:37:05] [PA] 1 new item(s):
+[2026-08-12 14:37:05]   NEW: Technology & PrivacyAUG 11, 2026Attorney General Sunday Announces Lawsuit Against TikTok for Misrepresentations that Permit Age-13+ Rating in App StoresOffice of Attorney General lawsuit also alleges TikTok promotes ‘endless scrolling,’ which has negative effects on youth mental wellness HARRISBURG — Attorney General Dave Sunday announced the filing…Read more | 2026-08-11T12:07:08-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-announces-lawsuit-against-tiktok-for-misrepresentations-that-permit-age-13-rating-in-app-stores/
+[2026-08-12 14:37:05] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-08-12 14:37:05] [RI] Found 10 item(s) on page.
+[2026-08-12 14:37:05] [RI] 1 new item(s):
+[2026-08-12 14:37:05]   NEW: Attorney General Neronha, coalition secure order protecting federal support for homelessness services | Fri, 07 Aug 2026 19:23:05 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-secure-order-protecting-federal-support
+[2026-08-12 14:37:05] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-08-12 14:37:05]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-08-12 14:37:09]   Playwright loaded page: 'News - South Carolina Attorney General' (110199 chars)
+[2026-08-12 14:37:09]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-08-12 14:37:09] [SC] Found 9 item(s) on page.
+[2026-08-12 14:37:09] [SC] No new items.
+[2026-08-12 14:37:09] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-08-12 14:37:09]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8
+[2026-08-12 14:37:12]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-08-12 14:37:12]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-08-12 14:37:12] [SD] Found 1 item(s) on page.
+[2026-08-12 14:37:12] [SD] No new items.
+[2026-08-12 14:37:12] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-08-12 14:37:12] [TN] Found 50 item(s) on page.
+[2026-08-12 14:37:12] [TN] No new items.
+[2026-08-12 14:37:12] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-08-12 14:37:13] [TX] Found 50 item(s) on page.
+[2026-08-12 14:37:13] [TX] 1 new item(s):
+[2026-08-12 14:37:13]   NEW: Attor­ney Gen­er­al Pax­ton Secures Emer­gency Court Order Ensur­ing Baby Gabriel Receives Life-Sav­ing Care in Texas |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-emergency-court-order-ensuring-baby-gabriel-receives-life-saving
+[2026-08-12 14:37:13] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-08-12 14:37:13]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-08-12 14:37:16]   Playwright loaded page: 'Press Releases - Utah Attorney General' (297293 chars)
+[2026-08-12 14:37:16]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-08-12 14:37:16] [UT] Found 50 item(s) on page.
+[2026-08-12 14:37:16] [UT] No new items.
+[2026-08-12 14:37:16] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-08-12 14:37:16] [VT] Found 50 item(s) on page.
+[2026-08-12 14:37:16] [VT] 1 new item(s):
+[2026-08-12 14:37:16]   NEW: Attorney General Clark Sues to Block Trump Administration from Invalidating State Mortgage Laws | DateAugust 11, 2026 | https://ago.vermont.gov/blog/2026/08/11/attorney-general-clark-sues-block-trump-administration-invalidating-state-mortgage-laws
+[2026-08-12 14:37:16] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-08-12 14:37:18] [VA] Found 50 item(s) on page.
+[2026-08-12 14:37:18] [VA] No new items.
+[2026-08-12 14:37:18] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-08-12 14:37:19] [WA] Found 15 item(s) on page.
+[2026-08-12 14:37:19] [WA] No new items.
+[2026-08-12 14:37:19] [WV] Fetching https://ago.wv.gov/news
+[2026-08-12 14:37:19]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-08-12 14:37:22]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (54899 chars)
+[2026-08-12 14:37:22]   Playwright found 30 item(s) with configured selector
+[2026-08-12 14:37:22] [WV] Found 30 item(s) on page.
+[2026-08-12 14:37:22] [WV] No new items.
+[2026-08-12 14:37:22] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-12 14:37:22]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-12 14:37:26]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1548112 chars)
+[2026-08-12 14:37:26]   Playwright found 50 item(s) with configured selector
+[2026-08-12 14:37:26] [WI] Found 50 item(s) on page.
+[2026-08-12 14:37:26] [WI] No new items.
+[2026-08-12 14:37:26] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-08-12 14:37:27] [WY] Found 1 item(s) on page.
+[2026-08-12 14:37:27] [WY] No new items.
+[2026-08-12 14:37:27] States with fetch errors: KS, NH, OK
+[2026-08-12 14:37:27] Sending email: 24 new item(s) across 19 state(s).
+[2026-08-12 14:37:28] Email sent.
+[2026-08-12 14:37:28] Done.
