@@ -6924,3 +6924,14 @@ Call log:
 [2026-08-12 12:56:25] Found 27 opinions on page.
 [2026-08-12 12:56:25] No new opinions.
 [2026-08-12 12:56:25] Done.
+[2026-08-12 14:19:14] Checking for new DE court opinions...
+[2026-08-12 14:19:14] Using Playwright to fetch opinions page...
+[2026-08-12 14:19:28] Playwright found 27 opinion(s).
+[2026-08-12 14:19:28] Found 27 opinions on page.
+[2026-08-12 14:19:28] 2 new opinion(s)!
+[2026-08-12 14:19:28]   NEW: [08/12/2026] [Court of Chancery] Maju Kuruvilla v. Bolt Financial, Inc. | 2026-0435-LM | MitchellM.
+[2026-08-12 14:19:28]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399670
+[2026-08-12 14:19:28]   NEW: [08/12/2026] [Supreme Court(Superior Court)] Porter v. State | 241, 2024 | SeitzC.J.
+[2026-08-12 14:19:28]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399660
+[2026-08-12 14:19:29] Email notification sent.
+[2026-08-12 14:19:29] Done.
