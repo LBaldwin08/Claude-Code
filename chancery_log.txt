@@ -6964,3 +6964,14 @@ Call log:
 [2026-08-12 18:26:19] Found 27 opinions on page.
 [2026-08-12 18:26:19] No new opinions.
 [2026-08-12 18:26:19] Done.
+[2026-08-12 19:35:49] Checking for new DE court opinions...
+[2026-08-12 19:35:49] Using Playwright to fetch opinions page...
+[2026-08-12 19:36:02] Playwright found 27 opinion(s).
+[2026-08-12 19:36:02] Found 27 opinions on page.
+[2026-08-12 19:36:02] 2 new opinion(s)!
+[2026-08-12 19:36:02]   NEW: [08/12/2026] [Superior Court] State v. Wescott | 2507007277, 2507007410 | ClarkR.J.
+[2026-08-12 19:36:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399700
+[2026-08-12 19:36:02]   NEW: [08/12/2026] [Superior Court] State vs. Ward | S2311012149 | KarsnitzR.J.
+[2026-08-12 19:36:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399710
+[2026-08-12 19:36:03] Email notification sent.
+[2026-08-12 19:36:03] Done.
