@@ -6941,3 +6941,14 @@ Call log:
 [2026-08-12 15:28:39] Found 27 opinions on page.
 [2026-08-12 15:28:39] No new opinions.
 [2026-08-12 15:28:39] Done.
+[2026-08-12 16:26:11] Checking for new DE court opinions...
+[2026-08-12 16:26:11] Using Playwright to fetch opinions page...
+[2026-08-12 16:26:22] Playwright found 27 opinion(s).
+[2026-08-12 16:26:22] Found 27 opinions on page.
+[2026-08-12 16:26:22] 2 new opinion(s)!
+[2026-08-12 16:26:22]   NEW: [08/12/2026] [Court of Chancery] In Re Via Renewables, Inc. Merger Litigation | C.A. No. 2024-0762-KSJM | McCormick,C.
+[2026-08-12 16:26:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399680
+[2026-08-12 16:26:22]   NEW: [08/11/2026] [Superior Court] Willis, as the Personal Rep. of the Estate of Inskeep, and Willis as an individual v. Supportive Care Solutions LLC, et al. | N25C-10-217 KMV | VavalaJ.
+[2026-08-12 16:26:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399690
+[2026-08-12 16:26:24] Email notification sent.
+[2026-08-12 16:26:24] Done.
