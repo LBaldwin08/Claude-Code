@@ -1017,3 +1017,11 @@
 [2026-08-11 14:38:21]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-stops-sprawling-credit-repair-scheme-scammed-consumers-out-nearly-200-million
 [2026-08-11 14:38:22] Email notification sent.
 [2026-08-11 14:38:22] Done.
+[2026-08-12 14:38:21] Checking for new FTC press releases...
+[2026-08-12 14:38:21] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-12 14:38:36] Playwright found 0 press release link(s).
+[2026-08-12 14:38:36] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-12 14:38:37] requests found 20 press release link(s).
+[2026-08-12 14:38:37] Found 20 press release(s) on page.
+[2026-08-12 14:38:37] No new press releases.
+[2026-08-12 14:38:37] Done.
