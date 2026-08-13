@@ -7120,3 +7120,12 @@ Call log:
 [2026-08-13 20:36:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399770
 [2026-08-13 20:36:02] Email notification sent.
 [2026-08-13 20:36:02] Done.
+[2026-08-13 21:39:05] Checking for new DE court opinions...
+[2026-08-13 21:39:05] Using Playwright to fetch opinions page...
+[2026-08-13 21:39:16] Playwright found 27 opinion(s).
+[2026-08-13 21:39:16] Found 27 opinions on page.
+[2026-08-13 21:39:16] 1 new opinion(s)!
+[2026-08-13 21:39:16]   NEW: [08/13/2026] [Court of Chancery] Kentucky Downs Management, Inc., et al. v. Kentucky Downs, LLC f/k/a Kentucky Racing Acquisition, LLC et al. | C.A. No. 2024-0251-NAC | CookV.C.
+[2026-08-13 21:39:16]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399790
+[2026-08-13 21:39:17] Email notification sent.
+[2026-08-13 21:39:17] Done.
