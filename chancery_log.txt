@@ -7062,3 +7062,12 @@ Call log:
 [2026-08-13 13:55:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399720
 [2026-08-13 13:55:03] Email notification sent.
 [2026-08-13 13:55:03] Done.
+[2026-08-13 14:51:51] Checking for new DE court opinions...
+[2026-08-13 14:51:51] Using Playwright to fetch opinions page...
+[2026-08-13 14:52:02] Playwright found 27 opinion(s).
+[2026-08-13 14:52:02] Found 27 opinions on page.
+[2026-08-13 14:52:02] 1 new opinion(s)!
+[2026-08-13 14:52:02]   NEW: [08/13/2026] [Court of Chancery] Albert Richards v. CNI Holdings, Inc. | 2025-1190-LM | MitchellM.
+[2026-08-13 14:52:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399730
+[2026-08-13 14:52:03] Email notification sent.
+[2026-08-13 14:52:03] Done.
