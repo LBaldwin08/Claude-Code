@@ -7109,3 +7109,14 @@ Call log:
 [2026-08-13 19:54:04] Found 27 opinions on page.
 [2026-08-13 19:54:04] No new opinions.
 [2026-08-13 19:54:04] Done.
+[2026-08-13 20:35:50] Checking for new DE court opinions...
+[2026-08-13 20:35:50] Using Playwright to fetch opinions page...
+[2026-08-13 20:36:01] Playwright found 27 opinion(s).
+[2026-08-13 20:36:01] Found 27 opinions on page.
+[2026-08-13 20:36:01] 2 new opinion(s)!
+[2026-08-13 20:36:01]   NEW: [08/13/2026] [Court of Chancery] In Re The Boeing Co. Derivative Litigation | C.A. No. 2024-1210-MTZ | ZurnV.C.
+[2026-08-13 20:36:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399780
+[2026-08-13 20:36:01]   NEW: [08/13/2026] [Superior Court] Ellis v. Ellis, et al. | K26C-07-026 RLG; K26C-07-033 RLG; K26C-07-034 RLG | Green-StreettJ.
+[2026-08-13 20:36:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399770
+[2026-08-13 20:36:02] Email notification sent.
+[2026-08-13 20:36:02] Done.
