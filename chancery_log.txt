@@ -7053,3 +7053,12 @@ Call log:
 [2026-08-13 12:07:27] Found 27 opinions on page.
 [2026-08-13 12:07:27] No new opinions.
 [2026-08-13 12:07:27] Done.
+[2026-08-13 13:54:49] Checking for new DE court opinions...
+[2026-08-13 13:54:49] Using Playwright to fetch opinions page...
+[2026-08-13 13:55:02] Playwright found 27 opinion(s).
+[2026-08-13 13:55:02] Found 27 opinions on page.
+[2026-08-13 13:55:02] 1 new opinion(s)!
+[2026-08-13 13:55:02]   NEW: [08/13/2026] [Superior Court] Arclight Capital Partners, LLC, et al v. Freepoint Commodities, LLC, v. Lexington Ins. Co. | N24C-11-227 PRW CCLD | WallaceJ.
+[2026-08-13 13:55:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399720
+[2026-08-13 13:55:03] Email notification sent.
+[2026-08-13 13:55:03] Done.
