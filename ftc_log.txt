@@ -1025,3 +1025,14 @@
 [2026-08-12 14:38:37] Found 20 press release(s) on page.
 [2026-08-12 14:38:37] No new press releases.
 [2026-08-12 14:38:37] Done.
+[2026-08-14 14:32:30] Checking for new FTC press releases...
+[2026-08-14 14:32:30] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-14 14:32:44] Playwright found 0 press release link(s).
+[2026-08-14 14:32:44] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-14 14:32:44] requests found 20 press release link(s).
+[2026-08-14 14:32:44] Found 20 press release(s) on page.
+[2026-08-14 14:32:44] 1 new press release(s)!
+[2026-08-14 14:32:44]   NEW: [2026-08-12T12:00:00Z] FTC Sends More than $23.8 Million to Drivers and Diners Harmed by Grubhub’s Deceptive Advertising Claims and Other Unlawful Conduct
+[2026-08-14 14:32:44]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-sends-more-238-million-drivers-diners-harmed-grubhubs-deceptive-advertising-claims-other
+[2026-08-14 14:32:45] Email notification sent.
+[2026-08-14 14:32:45] Done.
