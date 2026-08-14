@@ -7277,3 +7277,9 @@ Call log:
 [2026-08-14 21:19:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399860
 [2026-08-14 21:19:44] Email notification sent.
 [2026-08-14 21:19:44] Done.
+[2026-08-14 21:48:01] Checking for new DE court opinions...
+[2026-08-14 21:48:01] Using Playwright to fetch opinions page...
+[2026-08-14 21:48:12] Playwright found 27 opinion(s).
+[2026-08-14 21:48:12] Found 27 opinions on page.
+[2026-08-14 21:48:12] No new opinions.
+[2026-08-14 21:48:12] Done.
