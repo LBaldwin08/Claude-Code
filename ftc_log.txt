@@ -1036,3 +1036,11 @@
 [2026-08-14 14:32:44]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-sends-more-238-million-drivers-diners-harmed-grubhubs-deceptive-advertising-claims-other
 [2026-08-14 14:32:45] Email notification sent.
 [2026-08-14 14:32:45] Done.
+[2026-08-15 13:53:58] Checking for new FTC press releases...
+[2026-08-15 13:53:58] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-15 13:54:12] Playwright found 0 press release link(s).
+[2026-08-15 13:54:12] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-15 13:54:12] requests found 20 press release link(s).
+[2026-08-15 13:54:12] Found 20 press release(s) on page.
+[2026-08-15 13:54:12] No new press releases.
+[2026-08-15 13:54:12] Done.
