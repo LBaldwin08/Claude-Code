@@ -1052,3 +1052,11 @@
 [2026-08-16 13:55:14] Found 20 press release(s) on page.
 [2026-08-16 13:55:14] No new press releases.
 [2026-08-16 13:55:14] Done.
+[2026-08-17 14:03:22] Checking for new FTC press releases...
+[2026-08-17 14:03:22] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-17 14:03:37] Playwright found 0 press release link(s).
+[2026-08-17 14:03:37] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-17 14:03:37] requests found 20 press release link(s).
+[2026-08-17 14:03:37] Found 20 press release(s) on page.
+[2026-08-17 14:03:37] No new press releases.
+[2026-08-17 14:03:37] Done.
