@@ -7926,3 +7926,12 @@ Call log:
 [2026-08-17 16:53:49] Found 27 opinions on page.
 [2026-08-17 16:53:49] No new opinions.
 [2026-08-17 16:53:49] Done.
+[2026-08-17 17:21:27] Checking for new DE court opinions...
+[2026-08-17 17:21:27] Using Playwright to fetch opinions page...
+[2026-08-17 17:21:39] Playwright found 27 opinion(s).
+[2026-08-17 17:21:39] Found 27 opinions on page.
+[2026-08-17 17:21:39] 1 new opinion(s)!
+[2026-08-17 17:21:39]   NEW: [08/17/2026] [Court of Chancery] Kun Jiang v. Haslet Homeowners Association | C.A. No. 2023-0780-LM (BWD) | David, Bonnie W.V.C.
+[2026-08-17 17:21:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399880
+[2026-08-17 17:21:41] Email notification sent.
+[2026-08-17 17:21:41] Done.
