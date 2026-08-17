@@ -7935,3 +7935,12 @@ Call log:
 [2026-08-17 17:21:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399880
 [2026-08-17 17:21:41] Email notification sent.
 [2026-08-17 17:21:41] Done.
+[2026-08-17 17:54:04] Checking for new DE court opinions...
+[2026-08-17 17:54:04] Using Playwright to fetch opinions page...
+[2026-08-17 17:54:16] Playwright found 27 opinion(s).
+[2026-08-17 17:54:16] Found 27 opinions on page.
+[2026-08-17 17:54:16] 1 new opinion(s)!
+[2026-08-17 17:54:16]   NEW: [08/17/2026] [Superior Court] Scott v. Caesar Rodney School District, et al | N26C-02-369 SPL | LuggJ.
+[2026-08-17 17:54:16]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399890
+[2026-08-17 17:54:17] Email notification sent.
+[2026-08-17 17:54:17] Done.
