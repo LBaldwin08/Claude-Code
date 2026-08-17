@@ -7878,3 +7878,12 @@ Call log:
 [2026-08-17 12:32:33] Found 27 opinions on page.
 [2026-08-17 12:32:33] No new opinions.
 [2026-08-17 12:32:33] Done.
+[2026-08-17 13:35:03] Checking for new DE court opinions...
+[2026-08-17 13:35:03] Using Playwright to fetch opinions page...
+[2026-08-17 13:35:15] Playwright found 27 opinion(s).
+[2026-08-17 13:35:15] Found 27 opinions on page.
+[2026-08-17 13:35:15] 1 new opinion(s)!
+[2026-08-17 13:35:15]   NEW: [08/14/2026] [Court of Chancery] In re Skechers Class Action Merger Litigation | C.A. No. 2025-1281-LWW | WillV.C.
+[2026-08-17 13:35:15]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399870
+[2026-08-17 13:35:17] Email notification sent.
+[2026-08-17 13:35:17] Done.
