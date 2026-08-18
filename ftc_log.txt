@@ -1060,3 +1060,16 @@
 [2026-08-17 14:03:37] Found 20 press release(s) on page.
 [2026-08-17 14:03:37] No new press releases.
 [2026-08-17 14:03:37] Done.
+[2026-08-18 14:07:55] Checking for new FTC press releases...
+[2026-08-18 14:07:55] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-18 14:08:08] Playwright found 0 press release link(s).
+[2026-08-18 14:08:08] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-18 14:08:08] requests found 20 press release link(s).
+[2026-08-18 14:08:08] Found 20 press release(s) on page.
+[2026-08-18 14:08:08] 2 new press release(s)!
+[2026-08-18 14:08:08]   NEW: [2026-08-17T12:00:00Z] Statement on FTC Win Blocking Loctite, Liquid Nails Construction Adhesive Merger
+[2026-08-18 14:08:08]        https://www.ftc.gov/news-events/news/press-releases/2026/08/statement-ftc-win-blocking-loctite-liquid-nails-construction-adhesive-merger
+[2026-08-18 14:08:08]   NEW: [2026-08-17T12:00:00Z] Bill Payment Firm Doxo to Pay $2.1 Million to Settle FTC Allegations It Deceived Consumers and Charged Them Add-On Fees
+[2026-08-18 14:08:08]        https://www.ftc.gov/news-events/news/press-releases/2026/08/bill-payment-firm-doxo-pay-21-million-settle-ftc-allegations-it-deceived-consumers-charged-them-add
+[2026-08-18 14:08:11] Email notification sent.
+[2026-08-18 14:08:11] Done.
