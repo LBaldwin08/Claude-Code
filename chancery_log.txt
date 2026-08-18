@@ -8178,3 +8178,12 @@ Call log:
 [2026-08-18 19:12:46] Found 27 opinions on page.
 [2026-08-18 19:12:46] No new opinions.
 [2026-08-18 19:12:46] Done.
+[2026-08-18 19:48:30] Checking for new DE court opinions...
+[2026-08-18 19:48:30] Using Playwright to fetch opinions page...
+[2026-08-18 19:48:41] Playwright found 27 opinion(s).
+[2026-08-18 19:48:41] Found 27 opinions on page.
+[2026-08-18 19:48:41] 1 new opinion(s)!
+[2026-08-18 19:48:41]   NEW: [08/18/2026] [Supreme Court] In the Matter of a Member of the Bar of the Supreme Court of Delaware | 97, 2026 | SeitzC.J.
+[2026-08-18 19:48:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399950
+[2026-08-18 19:48:42] Email notification sent.
+[2026-08-18 19:48:42] Done.
