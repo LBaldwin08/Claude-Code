@@ -8361,3 +8361,12 @@ Call log:
 [2026-08-19 19:05:38] Found 27 opinions on page.
 [2026-08-19 19:05:38] No new opinions.
 [2026-08-19 19:05:38] Done.
+[2026-08-19 19:48:57] Checking for new DE court opinions...
+[2026-08-19 19:48:57] Using Playwright to fetch opinions page...
+[2026-08-19 19:49:08] Playwright found 27 opinion(s).
+[2026-08-19 19:49:08] Found 27 opinions on page.
+[2026-08-19 19:49:08] 1 new opinion(s)!
+[2026-08-19 19:49:08]   NEW: [08/19/2026] [Supreme Court(Superior Court)] Penn v. State | 416, 2025 | LeGrowJ.
+[2026-08-19 19:49:08]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400090
+[2026-08-19 19:49:09] Email notification sent.
+[2026-08-19 19:49:09] Done.
