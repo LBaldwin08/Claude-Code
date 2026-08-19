@@ -8313,3 +8313,30 @@ Call log:
 [2026-08-19 14:26:58] Found 27 opinions on page.
 [2026-08-19 14:26:58] No new opinions.
 [2026-08-19 14:26:58] Done.
+[2026-08-19 17:25:14] Checking for new DE court opinions...
+[2026-08-19 17:25:14] Using Playwright to fetch opinions page...
+[2026-08-19 17:25:27] Playwright found 27 opinion(s).
+[2026-08-19 17:25:27] Found 27 opinions on page.
+[2026-08-19 17:25:27] 10 new opinion(s)!
+[2026-08-19 17:25:27]   NEW: [08/19/2026] [Court of Chancery] NVR, INC. v. OSPREY POINT PRESERVE, LLC | C.A. No. 2025-0581-BWD | David, Bonnie W.V.C.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399990
+[2026-08-19 17:25:27]   NEW: [08/19/2026] [Superior Court] Hichez, et al. v. Delmarva Power & Light Company, et al. | N19C-10-273 KMM | MillerJ.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400070
+[2026-08-19 17:25:27]   NEW: [08/18/2026] [Superior Court] Aligned Dental Support LLC v. Rising Tide Dental Partners, LLC, et al. | N25C-11-240 EMD CCLD | DavisP.J.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400010
+[2026-08-19 17:25:27]   NEW: [08/18/2026] [Superior Court] State v. Oropeza | 91009357DI | BrennanJ.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400060
+[2026-08-19 17:25:27]   NEW: [08/18/2026] [Superior Court] State v. Wilkerson | 2104013901, 2104013945, 2104013877 | KarsnitzR.J.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400000
+[2026-08-19 17:25:27]   NEW: [08/18/2026] [Supreme Court(Superior Court)] Hayman-Cooper v. State | 22, 2026 | SeitzC.J.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399940
+[2026-08-19 17:25:27]   NEW: [08/18/2026] [Supreme Court(Superior Court)] Robinson v. State | 176, 2026 | SeitzC.J.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399920
+[2026-08-19 17:25:27]   NEW: [08/14/2026] [Superior Court] Odessa Partners LLC, et al. v. Oasis Pro, Inc. et al. | N25C-02-468 CCLD | RennieJ.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400050
+[2026-08-19 17:25:27]   NEW: [08/14/2026] [Superior Court] Pharmland Development Corporation, et al. v. Chu, et al. | N25C-12-319 SKR CCLD | RennieJ.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400040
+[2026-08-19 17:25:27]   NEW: [08/14/2026] [Superior Court] Pitta v. Walgreens Boots Alliance, Inc., et al. | N25C-12-075 CCLD | RennieJ.
+[2026-08-19 17:25:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400030
+[2026-08-19 17:25:29] Email notification sent.
+[2026-08-19 17:25:29] Done.
