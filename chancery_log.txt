@@ -8508,3 +8508,12 @@ Call log:
 [2026-08-20 13:41:44] Found 27 opinions on page.
 [2026-08-20 13:41:44] No new opinions.
 [2026-08-20 13:41:44] Done.
+[2026-08-20 14:30:30] Checking for new DE court opinions...
+[2026-08-20 14:30:30] Using Playwright to fetch opinions page...
+[2026-08-20 14:30:43] Playwright found 27 opinion(s).
+[2026-08-20 14:30:43] Found 27 opinions on page.
+[2026-08-20 14:30:43] 1 new opinion(s)!
+[2026-08-20 14:30:43]   NEW: [08/20/2026] [Supreme Court(Superior Court)] Project Labrador Holdco, LLC v. Bakkt Opco Holdings, LLC | 340, 2026 | TraynorJ.
+[2026-08-20 14:30:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400120
+[2026-08-20 14:30:46] Email notification sent.
+[2026-08-20 14:30:46] Done.
