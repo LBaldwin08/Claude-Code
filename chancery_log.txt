@@ -8529,3 +8529,16 @@ Call log:
 [2026-08-20 15:58:06] Found 27 opinions on page.
 [2026-08-20 15:58:06] No new opinions.
 [2026-08-20 15:58:06] Done.
+[2026-08-20 16:35:21] Checking for new DE court opinions...
+[2026-08-20 16:35:21] Using Playwright to fetch opinions page...
+[2026-08-20 16:35:33] Playwright found 27 opinion(s).
+[2026-08-20 16:35:33] Found 27 opinions on page.
+[2026-08-20 16:35:33] 3 new opinion(s)!
+[2026-08-20 16:35:33]   NEW: [08/19/2026] [Supreme Court(Family Court)] Salloway, Thomas vs. Betsy Kline | 342, 2026 | TraynorJ.
+[2026-08-20 16:35:33]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399970
+[2026-08-20 16:35:33]   NEW: [08/19/2026] [Supreme Court(Superior Court)] Mikkilineni, Maheswar vs. Paypal, Inc., Godaddy.com, LLC, Shijil TS, CEO, and President, Harvard University and Architect Partner | 484, 2025 | GriffithsJ.
+[2026-08-20 16:35:33]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399960
+[2026-08-20 16:35:33]   NEW: [08/19/2026] [Supreme Court(Superior Court)] Sample v. State | 3, 2026 | SeitzC.J.
+[2026-08-20 16:35:33]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=399980
+[2026-08-20 16:35:35] Email notification sent.
+[2026-08-20 16:35:35] Done.
