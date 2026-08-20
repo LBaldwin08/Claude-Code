@@ -8566,3 +8566,12 @@ Call log:
 [2026-08-20 19:11:41] Found 27 opinions on page.
 [2026-08-20 19:11:41] No new opinions.
 [2026-08-20 19:11:41] Done.
+[2026-08-20 19:54:12] Checking for new DE court opinions...
+[2026-08-20 19:54:12] Using Playwright to fetch opinions page...
+[2026-08-20 19:54:24] Playwright found 27 opinion(s).
+[2026-08-20 19:54:24] Found 27 opinions on page.
+[2026-08-20 19:54:24] 1 new opinion(s)!
+[2026-08-20 19:54:24]   NEW: [08/20/2026] [Superior Court] State v. Taylor | 2204012723 | WallaceJ.
+[2026-08-20 19:54:24]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400140
+[2026-08-20 19:54:26] Email notification sent.
+[2026-08-20 19:54:26] Done.
