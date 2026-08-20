@@ -24977,3 +24977,244 @@ Call log:
 [2026-08-19 14:14:36] Sending email: 36 new item(s) across 22 state(s).
 [2026-08-19 14:14:38] Email sent.
 [2026-08-19 14:14:38] Done.
+[2026-08-20 14:07:27] Checking for new AG press releases...
+[2026-08-20 14:07:27] Checking 50 state(s).
+[2026-08-20 14:07:27] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-08-20 14:07:27]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-08-20 14:07:30]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (233737 chars)
+[2026-08-20 14:07:30]   Playwright found 27 item(s) with configured selector
+[2026-08-20 14:07:30] [AL] Found 27 item(s) on page.
+[2026-08-20 14:07:30] [AL] No new items.
+[2026-08-20 14:07:30] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-08-20 14:07:31] [AK] Found 50 item(s) on page.
+[2026-08-20 14:07:31] [AK] No new items.
+[2026-08-20 14:07:31] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-08-20 14:07:31] [AZ] Found 10 item(s) on page.
+[2026-08-20 14:07:31] [AZ] No new items.
+[2026-08-20 14:07:31] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-08-20 14:07:32] [AR] Found 50 item(s) on page.
+[2026-08-20 14:07:32] [AR] No new items.
+[2026-08-20 14:07:32] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-08-20 14:07:32] [CA] Found 10 item(s) on page.
+[2026-08-20 14:07:32] [CA] 1 new item(s):
+[2026-08-20 14:07:32]   NEW: Attorney General Bonta Opposes EPA’s Evaluation on Toxic Flame-Retardant Risks | Tue, 18 Aug 2026 19:15:24 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-epa%E2%80%99s-evaluation-toxic-flame-retardant-risks
+[2026-08-20 14:07:32] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-08-20 14:07:33] [CO] Found 50 item(s) on page.
+[2026-08-20 14:07:33] [CO] No new items.
+[2026-08-20 14:07:33] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-08-20 14:07:33] [CT] Found 33 item(s) on page.
+[2026-08-20 14:07:33] [CT] 1 new item(s):
+[2026-08-20 14:07:33]   NEW: Attorney General Tong, Federal Trade Commission Announce $4 Million Settlement with Manchester City Nissan Over Deceptive Fees Allegations | 8/19/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/settlement-with-manchester-city-nissan
+[2026-08-20 14:07:33] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-08-20 14:07:33] [DE] Found 300 item(s) on page.
+[2026-08-20 14:07:33] [DE] No new items.
+[2026-08-20 14:07:33] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-08-20 14:07:34] [FL] Found 20 item(s) on page.
+[2026-08-20 14:07:34] [FL] 1 new item(s):
+[2026-08-20 14:07:34]   NEW: Attorney General James Uthmeier Announces Conviction of Leesburg Woman for Elderly Exploitation | 2026-08-19T16:00:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-announces-conviction-leesburg-woman-elderly
+[2026-08-20 14:07:34] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-08-20 14:07:34] [GA] Found 11 item(s) on page.
+[2026-08-20 14:07:34] [GA] No new items.
+[2026-08-20 14:07:34] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-08-20 14:07:34] [HI] Found 26 item(s) on page.
+[2026-08-20 14:07:34] [HI] No new items.
+[2026-08-20 14:07:34] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-20 14:07:34]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-20 14:07:38]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65910 chars)
+[2026-08-20 14:07:39]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-08-20 14:07:39] [ID] Found 28 item(s) on page.
+[2026-08-20 14:07:39] [ID] 1 new item(s):
+[2026-08-20 14:07:39]   NEW: Aug 192026AG Labrador Presses for Grizzly Bear Delisting and State Control over Management | Aug 192026 | https://www.ag.idaho.gov/newsroom/ag-labrador-presses-for-grizzly-bear-delisting-and-state-control-over-management/
+[2026-08-20 14:07:39] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-08-20 14:07:40] [IL] Found 50 item(s) on page.
+[2026-08-20 14:07:40] [IL] No new items.
+[2026-08-20 14:07:40] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-08-20 14:07:40] [IN] Found 35 item(s) on page.
+[2026-08-20 14:07:40] [IN] No new items.
+[2026-08-20 14:07:40] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-08-20 14:07:40] [IA] Found 10 item(s) on page.
+[2026-08-20 14:07:40] [IA] No new items.
+[2026-08-20 14:07:40] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-20 14:07:40]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-20 14:07:43]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-08-20 14:07:43]   Playwright: page loaded but no links matched — check selectors
+[2026-08-20 14:07:43]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-08-20 14:07:43]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-20 14:08:04]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-20 14:08:24]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-20 14:08:24] [KS] No items returned (fetch failed or empty page).
+[2026-08-20 14:08:24] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-08-20 14:08:26] [KY] Found 26 item(s) on page.
+[2026-08-20 14:08:26] [KY] No new items.
+[2026-08-20 14:08:26] [LA] Fetching https://ag.louisiana.gov/News
+[2026-08-20 14:08:26] [LA] Found 20 item(s) on page.
+[2026-08-20 14:08:26] [LA] No new items.
+[2026-08-20 14:08:26] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-08-20 14:08:27] [ME] Found 12 item(s) on page.
+[2026-08-20 14:08:27] [ME] No new items.
+[2026-08-20 14:08:27] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-08-20 14:08:27] [MD] Found 50 item(s) on page.
+[2026-08-20 14:08:27] [MD] No new items.
+[2026-08-20 14:08:27] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-20 14:08:27]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-20 14:08:30]   Playwright loaded page: 'News and Announcements | Mass.gov' (177312 chars)
+[2026-08-20 14:08:30]   Playwright found 15 item(s) with configured selector
+[2026-08-20 14:08:30] [MA] Found 15 item(s) on page.
+[2026-08-20 14:08:30] [MA] 1 new item(s):
+[2026-08-20 14:08:30]   NEW: Governor Healey, New England Governors Sound Alarm Over Proposed Energy Merger | 8/19/2026 | https://www.mass.gov/news/governor-healey-new-england-governors-sound-alarm-over-proposed-energy-merger
+[2026-08-20 14:08:30] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-08-20 14:08:30]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-08-20 14:08:33]   Playwright loaded page: 'Attorney General: Press Releases' (376507 chars)
+[2026-08-20 14:08:33]   Playwright found 10 item(s) with configured selector
+[2026-08-20 14:08:33] [MI] Found 10 item(s) on page.
+[2026-08-20 14:08:33] [MI] 2 new item(s):
+[2026-08-20 14:08:33]   NEW: Detroit Man to Stand Trial for Larceny by Conversion |  | https://www.michigan.gov/ag/news/press-releases/2026/08/19/detroit-man-to-stand-trial-for-larceny-by-conversion
+[2026-08-20 14:08:33]   NEW: Department of Attorney General’s Criminal Trials Division Chief Appointed as 3rd Circuit Court Judge |  | https://www.michigan.gov/ag/news/press-releases/2026/08/19/department-of-attorney-generals-criminal-trials-division-chief-appointed-as-3rd-circuit-court-judge
+[2026-08-20 14:08:33] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-08-20 14:08:34] [MN] Found 50 item(s) on page.
+[2026-08-20 14:08:34] [MN] No new items.
+[2026-08-20 14:08:34] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-08-20 14:08:34] [MS] Found 1 item(s) on page.
+[2026-08-20 14:08:34] [MS] No new items.
+[2026-08-20 14:08:34] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-08-20 14:08:34] [MO] Found 50 item(s) on page.
+[2026-08-20 14:08:34] [MO] 1 new item(s):
+[2026-08-20 14:08:34]   NEW: Attorney General Hanaway Releases Statement on Termination of Unlawful Kansas City MWBE Program |  | https://ago.mo.gov/attorney-general-hanaway-releases-statement-on-termination-of-unlawful-kansas-city-mwbe-program/
+[2026-08-20 14:08:34] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-08-20 14:08:34] [MT] Found 10 item(s) on page.
+[2026-08-20 14:08:34] [MT] No new items.
+[2026-08-20 14:08:34] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-08-20 14:08:35] [NE] Found 10 item(s) on page.
+[2026-08-20 14:08:35] [NE] 1 new item(s):
+[2026-08-20 14:08:35]   NEW: 2026 Domestic Abuse Death Review Team Annual Report | Wed, 19 Aug 2026 16:27:47 +0000 | https://ago.nebraska.gov/news/2026-domestic-abuse-death-review-team-annual-report
+[2026-08-20 14:08:35] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-08-20 14:08:36] [NV] Found 50 item(s) on page.
+[2026-08-20 14:08:36] [NV] No new items.
+[2026-08-20 14:08:36] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-08-20 14:08:36]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-08-20 14:08:38]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-08-20 14:08:38]   Playwright: page loaded but no links matched — check selectors
+[2026-08-20 14:08:38]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-08-20 14:08:38]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-20 14:08:58]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-20 14:09:18]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-20 14:09:18] [NH] No items returned (fetch failed or empty page).
+[2026-08-20 14:09:18] [NJ] Fetching https://www.njoag.gov/news/
+[2026-08-20 14:09:20] [NJ] Found 5 item(s) on page.
+[2026-08-20 14:09:20] [NJ] No new items.
+[2026-08-20 14:09:20] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-08-20 14:09:23] [NM] Found 12 item(s) on page.
+[2026-08-20 14:09:23] [NM] 1 new item(s):
+[2026-08-20 14:09:23]   NEW: Attorney General Raúl Torrez and Local Law Enforcement Announce Successful Collaboration Using Ballistics Technology to Solve Firearm Crimes |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-and-local-law-enforcement-announce-successful-collaboration-using-ballistics-technology-to-solve-firearm-crimes/
+[2026-08-20 14:09:23] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-08-20 14:09:23] [NY] Found 25 item(s) on page.
+[2026-08-20 14:09:23] [NY] 6 new item(s):
+[2026-08-20 14:09:23]   NEW: Attorney General James Releases Guidance to Help New Yorkers Access Hospital Financial Aid |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-guidance-help-new-yorkers-access-hospital
+[2026-08-20 14:09:23]   NEW: Attorney General James Announces $4 Million to Support Community Organizations in the Bronx |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-4-million-support-community-organizations-bronx
+[2026-08-20 14:09:23]   NEW: Attorney General James Announces Guilty Plea of NYPD Sergeant for Aggravated Vehicular Homicide and Manslaughter |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-guilty-plea-nypd-sergeant-aggravated-vehicular
+[2026-08-20 14:09:23]   NEW: Attorney General James’ Office of Special Investigation Releases Report on Death of Vilmond Jean-Baptiste |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-releases-report-death-2
+[2026-08-20 14:09:23]   NEW: Attorney General James’ Office of Special Investigation Opens Investigation into Civilian Death in Manhattan |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-opens-investigation-22
+[2026-08-20 14:09:23]   NEW: Attorney General James’ Office of Special Investigation Opens Investigation into Civilian Death in Manhattan |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-opens-investigation-23
+[2026-08-20 14:09:23] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-08-20 14:09:28] [NC] Found 10 item(s) on page.
+[2026-08-20 14:09:28] [NC] 2 new item(s):
+[2026-08-20 14:09:28]   NEW: NC Food Bank Receives First Egg Delivery Following Attorney General Jackson’s Settlement in Antitrust Case; State to Receive Nearly 3M Eggs |  | https://ncdoj.gov/nc-food-bank-receives-first-egg-delivery-following-attorney-general-jacksons-settlement-in-antitrust-case-state-to-receive-nearly-3m-eggs/
+[2026-08-20 14:09:28]   NEW: Trial Begins in Attorney General Jeff Jackson’s Landmark Case Against Meta |  | https://ncdoj.gov/trial-begins-in-attorney-general-jeff-jacksons-landmark-case-against-meta/
+[2026-08-20 14:09:28] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-08-20 14:09:28] [ND] Found 10 item(s) on page.
+[2026-08-20 14:09:28] [ND] No new items.
+[2026-08-20 14:09:28] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-08-20 14:09:28] [OH] Found 10 item(s) on page.
+[2026-08-20 14:09:28] [OH] No new items.
+[2026-08-20 14:09:28] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-20 14:09:28]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-20 14:09:32]   Playwright loaded page: 'News Releases' (866430 chars)
+[2026-08-20 14:09:32]   Playwright found 20 item(s) with configured selector
+[2026-08-20 14:09:32] [OK] Found 20 item(s) on page.
+[2026-08-20 14:09:32] [OK] 10 new item(s):
+[2026-08-20 14:09:32]   NEW: Drummond calls for Lepak's immediate firing after body cam footage released |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-calls-for-lepak-s-immediate-firing-after-body-cam-footage-released.html
+[2026-08-20 14:09:32]   NEW: Drummond: Additional charges possible after TPS audit release |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-additional-charges-possible-after-tps-audit-release.html
+[2026-08-20 14:09:32]   NEW: Court grants Drummond’s request to stay judgment against poultry companies |  | https://oklahoma.gov/oag/news/newsroom/2026/august/court-grants-drummond-s-request-to-stay-judgment-against-poultry-companies.html
+[2026-08-20 14:09:32]   NEW: Attorney General agents provide support to Beggs Police Department |  | https://oklahoma.gov/oag/news/newsroom/2026/august/attorney-general-agents-provide-support-to-beggs-police-department.html
+[2026-08-20 14:09:32]   NEW: Drummond asks ATF to halt enforcement of struck-down firearms provisions |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-asks-atf-to-halt-enforcement-of-struck-down-firearms-provisions.html
+[2026-08-20 14:09:32]   NEW: Drummond announces settlements with opioid manufacturers |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-announces-settlements-with-opioid-manufacturers.html
+[2026-08-20 14:09:32]   NEW: Multi-County Grand Jury indicts attorney accused of helping former death row inmate conceal contraband |  | https://oklahoma.gov/oag/news/newsroom/2026/august/multi-county-grand-jury-indicts-attorney-accused-of-helping-former-death-row-inmate-conceal-contraband.html
+[2026-08-20 14:09:32]   NEW: Drummond comments on Cuesta-Rodriguez execution |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-comments-on-cuesta-rodriguez-execution.html
+[2026-08-20 14:09:32]   NEW: Drummond co-leads 25-state coalition urging Supreme Court to take up Iowa immigration enforcement case |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-co-leads-25-state-coalition-urging-supreme-court-to-take-up-iowa-immigration-enforcement-case.html
+[2026-08-20 14:09:32]   NEW: Drummond files for preliminary injunction to block aluminum smelter |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-files-for-preliminary-injunction-to-block-aluminum-smelter.html
+[2026-08-20 14:09:32] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-08-20 14:09:32] [OR] Found 10 item(s) on page.
+[2026-08-20 14:09:32] [OR] No new items.
+[2026-08-20 14:09:32] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-08-20 14:09:33] [PA] Found 12 item(s) on page.
+[2026-08-20 14:09:33] [PA] No new items.
+[2026-08-20 14:09:33] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-08-20 14:09:33] [RI] Found 10 item(s) on page.
+[2026-08-20 14:09:33] [RI] No new items.
+[2026-08-20 14:09:33] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-08-20 14:09:33]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-08-20 14:09:36]   Playwright loaded page: 'News - South Carolina Attorney General' (110493 chars)
+[2026-08-20 14:09:36]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-08-20 14:09:36] [SC] Found 9 item(s) on page.
+[2026-08-20 14:09:36] [SC] 2 new item(s):
+[2026-08-20 14:09:36]   NEW: Attorney General Alan Wilson's Office files Correction of False Statement in the Murdaugh caseRead More | Aug 20, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-s-office-files-correction-of-false-statement-in-the-murdaugh-case/
+[2026-08-20 14:09:36]   NEW: Attorney General Alan Wilson celebrates victory in fight against illegal immigrationRead More | Aug 19, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-celebrates-victory-in-fight-against-illegal-immigration/
+[2026-08-20 14:09:36] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-08-20 14:09:36]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8
+[2026-08-20 14:10:06]   Playwright error for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8", waiting until "domcontentloaded"
+
+[2026-08-20 14:10:06]   [SD] Playwright fetch failed, falling back to regular scrape
+[2026-08-20 14:11:07]   Attempt 1/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-08-20 14:12:27]   Attempt 2/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-08-20 14:13:47]   Attempt 3/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-08-20 14:13:47] [SD] No items returned (fetch failed or empty page).
+[2026-08-20 14:13:47] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-08-20 14:13:47]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-08-20 14:14:07] [TN] Found 50 item(s) on page.
+[2026-08-20 14:14:07] [TN] No new items.
+[2026-08-20 14:14:07] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-08-20 14:14:08] [TX] Found 50 item(s) on page.
+[2026-08-20 14:14:08] [TX] 2 new item(s):
+[2026-08-20 14:14:08]   NEW: Attor­ney Gen­er­al Ken Pax­ton Ensures Baby Gabriel Receives Life-Sav­ing Surgery |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-ensures-baby-gabriel-receives-life-saving-surgery
+[2026-08-20 14:14:08]   NEW: Major Brands Remove Harm­ful Dyes from Cere­als Served in Schools After Sign­ing His­toric Set­tle­ment with Attor­ney Gen­er­al Paxton |  | https://www.texasattorneygeneral.gov/news/releases/major-brands-remove-harmful-dyes-cereals-served-schools-after-signing-historic-settlement-attorney
+[2026-08-20 14:14:08] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-08-20 14:14:08]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-08-20 14:14:11]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296209 chars)
+[2026-08-20 14:14:11]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-08-20 14:14:11] [UT] Found 50 item(s) on page.
+[2026-08-20 14:14:11] [UT] No new items.
+[2026-08-20 14:14:11] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-08-20 14:14:11] [VT] Found 50 item(s) on page.
+[2026-08-20 14:14:11] [VT] No new items.
+[2026-08-20 14:14:11] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-08-20 14:14:13] [VA] Found 50 item(s) on page.
+[2026-08-20 14:14:13] [VA] No new items.
+[2026-08-20 14:14:13] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-08-20 14:14:13] [WA] Found 15 item(s) on page.
+[2026-08-20 14:14:13] [WA] No new items.
+[2026-08-20 14:14:13] [WV] Fetching https://ago.wv.gov/news
+[2026-08-20 14:14:13]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-08-20 14:14:16]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55050 chars)
+[2026-08-20 14:14:16]   Playwright found 30 item(s) with configured selector
+[2026-08-20 14:14:16] [WV] Found 30 item(s) on page.
+[2026-08-20 14:14:16] [WV] No new items.
+[2026-08-20 14:14:16] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-20 14:14:16]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-20 14:14:47]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-08-20 14:14:47]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-08-20 14:15:02]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f589c4c1e20>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-08-20 14:15:37]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f589c4c0470>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-08-20 14:16:13]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f589c4c0c20>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-08-20 14:16:13] [WI] No items returned (fetch failed or empty page).
+[2026-08-20 14:16:13] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-08-20 14:16:13] [WY] Found 1 item(s) on page.
+[2026-08-20 14:16:13] [WY] No new items.
+[2026-08-20 14:16:13] States with fetch errors: KS, NH, SD, WI
+[2026-08-20 14:16:13] Sending email: 32 new item(s) across 14 state(s).
+[2026-08-20 14:16:15] Email sent.
+[2026-08-20 14:16:15] Done.
