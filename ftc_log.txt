@@ -1094,3 +1094,11 @@
 [2026-08-20 14:10:08]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-connecticut-secure-4-million-settlement-manchester-city-nissan-over-deceptive-fees-allegations
 [2026-08-20 14:10:10] Email notification sent.
 [2026-08-20 14:10:10] Done.
+[2026-08-21 14:08:08] Checking for new FTC press releases...
+[2026-08-21 14:08:08] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-21 14:08:21] Playwright found 0 press release link(s).
+[2026-08-21 14:08:21] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-21 14:08:22] requests found 20 press release link(s).
+[2026-08-21 14:08:22] Found 20 press release(s) on page.
+[2026-08-21 14:08:22] No new press releases.
+[2026-08-21 14:08:22] Done.
