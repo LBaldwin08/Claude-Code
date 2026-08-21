@@ -8787,3 +8787,16 @@ Call log:
 [2026-08-21 19:46:34] Found 27 opinions on page.
 [2026-08-21 19:46:34] No new opinions.
 [2026-08-21 19:46:34] Done.
+[2026-08-21 20:19:01] Checking for new DE court opinions...
+[2026-08-21 20:19:01] Using Playwright to fetch opinions page...
+[2026-08-21 20:19:13] Playwright found 27 opinion(s).
+[2026-08-21 20:19:13] Found 27 opinions on page.
+[2026-08-21 20:19:13] 3 new opinion(s)!
+[2026-08-21 20:19:13]   NEW: [08/21/2026] [Superior Court] State v. Cannon | 2505009483 | KarsnitzR.J.
+[2026-08-21 20:19:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400250
+[2026-08-21 20:19:13]   NEW: [08/21/2026] [Superior Court] X v. Parag, et al. | N24C-10-237 FJJ | JonesJ.
+[2026-08-21 20:19:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400240
+[2026-08-21 20:19:13]   NEW: [08/20/2026] [Superior Court] Gyimah v. Burton | K24C-12-031 NEP | PrimosJ.
+[2026-08-21 20:19:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400230
+[2026-08-21 20:19:14] Email notification sent.
+[2026-08-21 20:19:14] Done.
