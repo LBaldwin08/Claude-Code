@@ -8749,3 +8749,14 @@ Call log:
 [2026-08-21 16:33:23]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400130
 [2026-08-21 16:33:24] Email notification sent.
 [2026-08-21 16:33:24] Done.
+[2026-08-21 17:22:49] Checking for new DE court opinions...
+[2026-08-21 17:22:49] Using Playwright to fetch opinions page...
+[2026-08-21 17:23:02] Playwright found 27 opinion(s).
+[2026-08-21 17:23:02] Found 27 opinions on page.
+[2026-08-21 17:23:02] 2 new opinion(s)!
+[2026-08-21 17:23:02]   NEW: [08/21/2026] [Court of Chancery] Altigen Communications, Inc. v. Day | C.A. No. 2025-1298-JTL | LasterV.C.
+[2026-08-21 17:23:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400200
+[2026-08-21 17:23:02]   NEW: [08/21/2026] [Supreme Court(Court of Chancery)] Young Min Ban v Joseph P. Manheim, et al. | 19, 2026 | LeGrowJ.
+[2026-08-21 17:23:02]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400210
+[2026-08-21 17:23:04] Email notification sent.
+[2026-08-21 17:23:04] Done.
