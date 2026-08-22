@@ -9049,3 +9049,9 @@ Call log:
 [2026-08-22 20:47:17] Found 27 opinions on page.
 [2026-08-22 20:47:17] No new opinions.
 [2026-08-22 20:47:17] Done.
+[2026-08-22 21:16:07] Checking for new DE court opinions...
+[2026-08-22 21:16:07] Using Playwright to fetch opinions page...
+[2026-08-22 21:16:19] Playwright found 27 opinion(s).
+[2026-08-22 21:16:19] Found 27 opinions on page.
+[2026-08-22 21:16:19] No new opinions.
+[2026-08-22 21:16:19] Done.
