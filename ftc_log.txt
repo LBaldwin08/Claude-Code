@@ -1113,3 +1113,11 @@
 [2026-08-22 13:55:00]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-files-amicus-brief-protect-competition-biologic-drug-markets
 [2026-08-22 13:55:01] Email notification sent.
 [2026-08-22 13:55:01] Done.
+[2026-08-23 13:56:01] Checking for new FTC press releases...
+[2026-08-23 13:56:01] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-23 13:56:15] Playwright found 0 press release link(s).
+[2026-08-23 13:56:15] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-23 13:56:16] requests found 20 press release link(s).
+[2026-08-23 13:56:16] Found 20 press release(s) on page.
+[2026-08-23 13:56:16] No new press releases.
+[2026-08-23 13:56:16] Done.
