@@ -1121,3 +1121,14 @@
 [2026-08-23 13:56:16] Found 20 press release(s) on page.
 [2026-08-23 13:56:16] No new press releases.
 [2026-08-23 13:56:16] Done.
+[2026-08-24 14:19:56] Checking for new FTC press releases...
+[2026-08-24 14:19:56] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-24 14:20:09] Playwright found 0 press release link(s).
+[2026-08-24 14:20:09] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-24 14:20:10] requests found 20 press release link(s).
+[2026-08-24 14:20:10] Found 20 press release(s) on page.
+[2026-08-24 14:20:10] 1 new press release(s)!
+[2026-08-24 14:20:10]   NEW: [2026-08-24T12:00:00Z] FTC Secures Order Resolving Antitrust Concerns with Zillow-Redfin Agreement
+[2026-08-24 14:20:10]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-secures-order-resolving-antitrust-concerns-zillow-redfin-agreement
+[2026-08-24 14:20:11] Email notification sent.
+[2026-08-24 14:20:11] Done.
