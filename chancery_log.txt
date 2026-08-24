@@ -9510,3 +9510,9 @@ Call log:
 [2026-08-24 22:51:51] Found 27 opinions on page.
 [2026-08-24 22:51:51] No new opinions.
 [2026-08-24 22:51:51] Done.
+[2026-08-24 23:17:52] Checking for new DE court opinions...
+[2026-08-24 23:17:52] Using Playwright to fetch opinions page...
+[2026-08-24 23:18:04] Playwright found 27 opinion(s).
+[2026-08-24 23:18:04] Found 27 opinions on page.
+[2026-08-24 23:18:04] No new opinions.
+[2026-08-24 23:18:04] Done.
