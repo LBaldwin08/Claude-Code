@@ -9459,3 +9459,12 @@ Call log:
 [2026-08-24 19:24:20] Found 27 opinions on page.
 [2026-08-24 19:24:20] No new opinions.
 [2026-08-24 19:24:20] Done.
+[2026-08-24 19:52:58] Checking for new DE court opinions...
+[2026-08-24 19:52:58] Using Playwright to fetch opinions page...
+[2026-08-24 19:53:09] Playwright found 27 opinion(s).
+[2026-08-24 19:53:09] Found 27 opinions on page.
+[2026-08-24 19:53:09] 1 new opinion(s)!
+[2026-08-24 19:53:09]   NEW: [08/24/2026] [Supreme Court(Superior Court)] Robert E. Vanella, on behalf of The Delaware Call v. Christina Duran, in her official capacity as FOIA Coordinator for the Delaware Department of Safe | 419, 2025 | GriffithsJ.
+[2026-08-24 19:53:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400300
+[2026-08-24 19:53:10] Email notification sent.
+[2026-08-24 19:53:10] Done.
