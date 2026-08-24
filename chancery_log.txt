@@ -9424,3 +9424,14 @@ Call log:
 [2026-08-24 15:33:37]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400280
 [2026-08-24 15:33:39] Email notification sent.
 [2026-08-24 15:33:39] Done.
+[2026-08-24 16:29:37] Checking for new DE court opinions...
+[2026-08-24 16:29:37] Using Playwright to fetch opinions page...
+[2026-08-24 16:29:48] Playwright found 27 opinion(s).
+[2026-08-24 16:29:48] Found 27 opinions on page.
+[2026-08-24 16:29:48] 2 new opinion(s)!
+[2026-08-24 16:29:48]   NEW: [08/21/2026] [Supreme Court(Superior Court)] Kellam v. State | 253, 2026 | SeitzC.J.
+[2026-08-24 16:29:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400180
+[2026-08-24 16:29:48]   NEW: [08/21/2026] [Supreme Court(Superior Court)] Montgomery v. State | 326, 2026 | TraynorJ.
+[2026-08-24 16:29:48]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400190
+[2026-08-24 16:29:49] Email notification sent.
+[2026-08-24 16:29:49] Done.
