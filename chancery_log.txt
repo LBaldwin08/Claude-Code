@@ -9672,3 +9672,12 @@ Call log:
 [2026-08-25 19:55:01] Found 27 opinions on page.
 [2026-08-25 19:55:01] No new opinions.
 [2026-08-25 19:55:01] Done.
+[2026-08-25 20:21:37] Checking for new DE court opinions...
+[2026-08-25 20:21:37] Using Playwright to fetch opinions page...
+[2026-08-25 20:21:50] Playwright found 27 opinion(s).
+[2026-08-25 20:21:50] Found 27 opinions on page.
+[2026-08-25 20:21:50] 1 new opinion(s)!
+[2026-08-25 20:21:50]   NEW: [08/25/2026] [Superior Court] Kakar et al. v. Octo Consulting Group, LLC | N22C-01-104 PRW CCLD | WallaceJ.
+[2026-08-25 20:21:50]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400350
+[2026-08-25 20:21:51] Email notification sent.
+[2026-08-25 20:21:51] Done.
