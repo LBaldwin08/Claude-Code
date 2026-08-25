@@ -9540,3 +9540,9 @@ Call log:
 [2026-08-25 03:25:28] Found 27 opinions on page.
 [2026-08-25 03:25:28] No new opinions.
 [2026-08-25 03:25:28] Done.
+[2026-08-25 04:07:31] Checking for new DE court opinions...
+[2026-08-25 04:07:31] Using Playwright to fetch opinions page...
+[2026-08-25 04:07:45] Playwright found 27 opinion(s).
+[2026-08-25 04:07:45] Found 27 opinions on page.
+[2026-08-25 04:07:45] No new opinions.
+[2026-08-25 04:07:45] Done.
