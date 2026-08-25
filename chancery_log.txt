@@ -9552,3 +9552,9 @@ Call log:
 [2026-08-25 05:03:46] Found 27 opinions on page.
 [2026-08-25 05:03:46] No new opinions.
 [2026-08-25 05:03:46] Done.
+[2026-08-25 05:56:40] Checking for new DE court opinions...
+[2026-08-25 05:56:40] Using Playwright to fetch opinions page...
+[2026-08-25 05:56:52] Playwright found 27 opinion(s).
+[2026-08-25 05:56:52] Found 27 opinions on page.
+[2026-08-25 05:56:52] No new opinions.
+[2026-08-25 05:56:52] Done.
