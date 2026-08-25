@@ -9681,3 +9681,12 @@ Call log:
 [2026-08-25 20:21:50]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400350
 [2026-08-25 20:21:51] Email notification sent.
 [2026-08-25 20:21:51] Done.
+[2026-08-25 20:54:06] Checking for new DE court opinions...
+[2026-08-25 20:54:06] Using Playwright to fetch opinions page...
+[2026-08-25 20:54:18] Playwright found 27 opinion(s).
+[2026-08-25 20:54:18] Found 27 opinions on page.
+[2026-08-25 20:54:18] 1 new opinion(s)!
+[2026-08-25 20:54:18]   NEW: [08/24/2026] [Superior Court] Lillard v. Offit Kurman, P.A. | N24C-10-001 DJB | BrennanJ.
+[2026-08-25 20:54:18]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400360
+[2026-08-25 20:54:18] Email notification sent.
+[2026-08-25 20:54:18] Done.
