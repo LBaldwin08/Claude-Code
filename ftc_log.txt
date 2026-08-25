@@ -1132,3 +1132,14 @@
 [2026-08-24 14:20:10]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-secures-order-resolving-antitrust-concerns-zillow-redfin-agreement
 [2026-08-24 14:20:11] Email notification sent.
 [2026-08-24 14:20:11] Done.
+[2026-08-25 14:21:57] Checking for new FTC press releases...
+[2026-08-25 14:21:57] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-25 14:22:10] Playwright found 0 press release link(s).
+[2026-08-25 14:22:10] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-25 14:22:11] requests found 20 press release link(s).
+[2026-08-25 14:22:11] Found 20 press release(s) on page.
+[2026-08-25 14:22:11] 1 new press release(s)!
+[2026-08-25 14:22:11]   NEW: [2026-08-25T12:00:00Z] FTC Approves Final Consent Order in Ascension Health-AmSurg Deal
+[2026-08-25 14:22:11]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-approves-final-consent-order-ascension-health-amsurg-deal
+[2026-08-25 14:22:12] Email notification sent.
+[2026-08-25 14:22:12] Done.
