@@ -26323,3 +26323,251 @@ Call log:
 [2026-08-25 14:16:50] Sending email: 34 new item(s) across 20 state(s).
 [2026-08-25 14:16:51] Email sent.
 [2026-08-25 14:16:51] Done.
+[2026-08-26 14:10:18] Checking for new AG press releases...
+[2026-08-26 14:10:18] Checking 50 state(s).
+[2026-08-26 14:10:18] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-08-26 14:10:18]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-08-26 14:10:21]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (234051 chars)
+[2026-08-26 14:10:21]   Playwright found 27 item(s) with configured selector
+[2026-08-26 14:10:21] [AL] Found 27 item(s) on page.
+[2026-08-26 14:10:21] [AL] 3 new item(s):
+[2026-08-26 14:10:21]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-steve-marshall-announces-court-of-criminal-appeals-upholds-felony-murder-conviction-in-conecuh-county/
+[2026-08-26 14:10:21]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-steve-marshall-announces-court-of-criminal-appeals-upholds-capital-murder-conviction-in-mobile-county-2/
+[2026-08-26 14:10:21]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-court-upholds-117-counts-of-possession-of-child-sexual-abuse-material-conviction-in-tuscaloosa-county/
+[2026-08-26 14:10:21] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-08-26 14:10:21] [AK] Found 50 item(s) on page.
+[2026-08-26 14:10:21] [AK] No new items.
+[2026-08-26 14:10:21] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-08-26 14:10:21] [AZ] Found 10 item(s) on page.
+[2026-08-26 14:10:21] [AZ] No new items.
+[2026-08-26 14:10:21] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-08-26 14:10:22] [AR] Found 50 item(s) on page.
+[2026-08-26 14:10:22] [AR] 2 new item(s):
+[2026-08-26 14:10:22]   NEW: Wednesday, August 26, 2026Attorney General Griffin Announces Historic Child-Safety Reform in $17.1 Billion Settlement with MetaRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-historic-child-safety-reform-in-17-1-billion-settlement-with-meta/
+[2026-08-26 14:10:22]   NEW: Tuesday, August 25, 2026Attorney General Griffin Wins $470,000 Judgment against Capital City Tree ServiceRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-wins-470000-judgment-against-capital-city-tree-service/
+[2026-08-26 14:10:22] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-08-26 14:10:23] [CA] Found 10 item(s) on page.
+[2026-08-26 14:10:23] [CA] 4 new item(s):
+[2026-08-26 14:10:23]   NEW: Attorney General Bonta Secures Transformative $17 Billion Settlement with Meta, Proposed Settlement Includes Fundamental Changes to Instagram and Facebook | Wed, 26 Aug 2026 05:28:48 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-transformative-17-billion-settlement-meta
+[2026-08-26 14:10:23]   NEW: Attorney General Bonta Protects the Environment and Americans by Opposing a New Oil and Gas Rule on Public Lands | Tue, 25 Aug 2026 17:39:12 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-protects-environment-and-americans-opposing-new-oil-and
+[2026-08-26 14:10:23]   NEW: Attorney General Bonta Defends State Laws Protecting Preschoolers from Discrimination | Tue, 25 Aug 2026 17:10:53 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-defends-state-laws-protecting-preschoolers-discrimination
+[2026-08-26 14:10:23]   NEW: Attorney General Bonta: At California Department of Justice, Public Safety is Job Number One, Two, and Three | Tue, 25 Aug 2026 15:21:52 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-california-department-justice-public-safety-job-number
+[2026-08-26 14:10:23] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-08-26 14:10:23] [CO] Found 50 item(s) on page.
+[2026-08-26 14:10:23] [CO] No new items.
+[2026-08-26 14:10:23] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-08-26 14:10:24] [CT] Found 33 item(s) on page.
+[2026-08-26 14:10:24] [CT] 2 new item(s):
+[2026-08-26 14:10:24]   NEW: Attorney General Tong Appeals Ghost Gun Court Decision | 8/26/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-appeals-ghost-gun-court-decision
+[2026-08-26 14:10:24]   NEW: Attorney General Tong Announces $17.1 Billion Settlement with Meta, Forces Sweeping Child-Safety Reforms on Instagram and Facebook | 8/26/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/settlement-with-meta
+[2026-08-26 14:10:24] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-08-26 14:10:25] [DE] Found 300 item(s) on page.
+[2026-08-26 14:10:25] [DE] No new items.
+[2026-08-26 14:10:25] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-08-26 14:10:26] [FL] Found 20 item(s) on page.
+[2026-08-26 14:10:26] [FL] 1 new item(s):
+[2026-08-26 14:10:26]   NEW: Attorney General James Uthmeier and FDLE Announce the Rescue and Recovery of 163 Missing Children | 2026-08-25T15:00:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-and-fdle-announce-rescue-and-recovery-163-missing
+[2026-08-26 14:10:26] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-08-26 14:10:26] [GA] Found 11 item(s) on page.
+[2026-08-26 14:10:26] [GA] 3 new item(s):
+[2026-08-26 14:10:26]   NEW: Carr Announces Largest Big Tech Settlement in HistoryAugust 26, 2026 |  | https://law.georgia.gov/press-releases/2026-08-26/carr-announces-largest-big-tech-settlement-history
+[2026-08-26 14:10:26]   NEW: Carr Returns Stolen Crypto to Investment Fraud Victim in Cobb CountyAugust 25, 2026 |  | https://law.georgia.gov/press-releases/2026-08-25/carr-returns-stolen-crypto-investment-fraud-victim-cobb-county
+[2026-08-26 14:10:26]   NEW: Carr: Owner of Therapy Center Charged with $88k Medicaid Fraud in Fulton CountyAugust 25, 2026 |  | https://law.georgia.gov/press-releases/2026-08-25/carr-owner-therapy-center-charged-88k-medicaid-fraud-fulton-county
+[2026-08-26 14:10:26] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-08-26 14:10:27] [HI] Found 26 item(s) on page.
+[2026-08-26 14:10:27] [HI] No new items.
+[2026-08-26 14:10:27] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-26 14:10:27]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-26 14:10:31]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65845 chars)
+[2026-08-26 14:10:31]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-08-26 14:10:31] [ID] Found 28 item(s) on page.
+[2026-08-26 14:10:31] [ID] 1 new item(s):
+[2026-08-26 14:10:31]   NEW: Aug 252026AG Labrador Announces $29.6 Million Settlement with Glenmark Over Conspiracy to Inflate Prices, Limit Competition | Aug 252026 | https://www.ag.idaho.gov/newsroom/ag-labrador-announces-29-6-million-settlement-with-glenmark-over-conspiracy-to-inflate-prices-limit-competition/
+[2026-08-26 14:10:31] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-08-26 14:10:32] [IL] Found 50 item(s) on page.
+[2026-08-26 14:10:32] [IL] 2 new item(s):
+[2026-08-26 14:10:32]   NEW: August 26, 2026ATTORNEY GENERAL RAOUL ANNOUNCES BIPARTISAN SETTLEMENT WITH META | 2026-08-26 8:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-bipartisan-settlement-with-meta
+[2026-08-26 14:10:32]   NEW: August 25, 2026ATTORNEY GENERAL RAOUL CHARGES BOONE COUNTY ATTORNEY WITH AGGRAVATED BATTERY, SEXUAL ABUSE | 2026-08-26 8:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-boone-county-attorney-with-aggravated-battery-sexual-abuse
+[2026-08-26 14:10:32] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-08-26 14:10:33] [IN] Found 35 item(s) on page.
+[2026-08-26 14:10:33] [IN] No new items.
+[2026-08-26 14:10:33] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-08-26 14:10:33] [IA] Found 10 item(s) on page.
+[2026-08-26 14:10:33] [IA] 1 new item(s):
+[2026-08-26 14:10:33]   NEW: Attorney General Brenna Bird Announces Massive Big Tech Win for Iowa | August 26, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-massive-big-tech-win-for-iowa/
+[2026-08-26 14:10:33] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-26 14:10:33]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-26 14:10:36]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-08-26 14:10:36]   Playwright: page loaded but no links matched — check selectors
+[2026-08-26 14:10:36]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-08-26 14:10:37]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-26 14:10:57]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-26 14:11:17]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-26 14:11:17] [KS] No items returned (fetch failed or empty page).
+[2026-08-26 14:11:17] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-08-26 14:11:18] [KY] Found 26 item(s) on page.
+[2026-08-26 14:11:18] [KY] No new items.
+[2026-08-26 14:11:18] [LA] Fetching https://ag.louisiana.gov/News
+[2026-08-26 14:11:18] [LA] Found 20 item(s) on page.
+[2026-08-26 14:11:18] [LA] 2 new item(s):
+[2026-08-26 14:11:18]   NEW: Attorney General Liz Murrill Announces $12.19 Billion Meta Settlement and Legal Action Against Snap, Inc and Discord | 8/26/2026 | https://ag.louisiana.gov/Article/616
+[2026-08-26 14:11:18]   NEW: AG Murrill’s LBI Arrests Monroe Man on More Than 500 Counts of Child Sexual Abuse Material and Sexual Abuse of Animals | 8/25/2026 | https://ag.louisiana.gov/Article/613
+[2026-08-26 14:11:18] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-08-26 14:11:19] [ME] Found 12 item(s) on page.
+[2026-08-26 14:11:19] [ME] No new items.
+[2026-08-26 14:11:19] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-08-26 14:11:20] [MD] Found 50 item(s) on page.
+[2026-08-26 14:11:20] [MD] No new items.
+[2026-08-26 14:11:20] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-26 14:11:20]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-26 14:11:22]   Playwright loaded page: 'News and Announcements | Mass.gov' (177551 chars)
+[2026-08-26 14:11:23]   Playwright found 15 item(s) with configured selector
+[2026-08-26 14:11:23] [MA] Found 15 item(s) on page.
+[2026-08-26 14:11:23] [MA] 4 new item(s):
+[2026-08-26 14:11:23]   NEW: AG Campbell Reaches Landmark Settlement With Meta That Requires Design Changes To Protect Massachusetts Young People From Social Media Harms | 8/26/2026 | https://www.mass.gov/news/ag-campbell-reaches-landmark-settlement-with-meta-that-requires-design-changes-to-protect-massachusetts-young-people-from-social-media-harms
+[2026-08-26 14:11:23]   NEW: Healey-Driscoll Administration Releases New Guidance to Implement PROTECT Act in Schools and Child Care Programs | 8/25/2026 | https://www.mass.gov/news/healey-driscoll-administration-releases-new-guidance-to-implement-protect-act-in-schools-and-child-care-programs
+[2026-08-26 14:11:23]   NEW: AG Campbell Urges Supreme Court To Uphold Colorado Civil Rights Protections For Universal Preschool | 8/24/2026 | https://www.mass.gov/news/ag-campbell-urges-supreme-court-to-uphold-colorado-civil-rights-protections-for-universal-preschool
+[2026-08-26 14:11:23]   NEW: AG Campbell Issues Statement On SCOTUS Ruling Temporarily Permitting Trump Administration To Move Forward With Its Attempt To Regulate Voting | 8/24/2026 | https://www.mass.gov/news/ag-campbell-issues-statement-on-scotus-ruling-temporarily-permitting-trump-administration-to-move-forward-with-its-attempt-to-regulate-voting
+[2026-08-26 14:11:23] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-08-26 14:11:23]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-08-26 14:11:25]   Playwright loaded page: 'Attorney General: Press Releases' (377247 chars)
+[2026-08-26 14:11:26]   Playwright found 10 item(s) with configured selector
+[2026-08-26 14:11:26] [MI] Found 10 item(s) on page.
+[2026-08-26 14:11:26] [MI] No new items.
+[2026-08-26 14:11:26] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-08-26 14:11:26] [MN] Found 50 item(s) on page.
+[2026-08-26 14:11:26] [MN] No new items.
+[2026-08-26 14:11:26] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-08-26 14:11:26] [MS] Found 1 item(s) on page.
+[2026-08-26 14:11:26] [MS] 1 new item(s):
+[2026-08-26 14:11:26]   NEW: AG Fitch Announces 2026 Opioid Settlement Fund Grant Cycle (August 25, 2026) |  | https://attorneygenerallynnfitch.com/2026/08/25/ag-fitch-announces-2026-opioid-settlement-fund-grant-cycle-august-25-2026/
+[2026-08-26 14:11:26] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-08-26 14:11:26] [MO] Found 50 item(s) on page.
+[2026-08-26 14:11:26] [MO] No new items.
+[2026-08-26 14:11:26] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-08-26 14:11:27] [MT] Found 10 item(s) on page.
+[2026-08-26 14:11:27] [MT] No new items.
+[2026-08-26 14:11:27] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-08-26 14:11:27] [NE] Found 10 item(s) on page.
+[2026-08-26 14:11:27] [NE] 1 new item(s):
+[2026-08-26 14:11:27]   NEW: Attorney General Hilgers Announces Largest Big Tech Settlement in History | Wed, 26 Aug 2026 13:44:40 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-announces-largest-big-tech-settlement-history
+[2026-08-26 14:11:27] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-08-26 14:11:28] [NV] Found 50 item(s) on page.
+[2026-08-26 14:11:28] [NV] No new items.
+[2026-08-26 14:11:28] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-08-26 14:11:28]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-08-26 14:11:30]   Playwright loaded page: 'Access Denied' (314 chars)
+[2026-08-26 14:11:30]   Playwright: page loaded but no links matched — check selectors
+[2026-08-26 14:11:30]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-08-26 14:11:30]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-26 14:11:50]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-26 14:12:10]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-26 14:12:10] [NH] No items returned (fetch failed or empty page).
+[2026-08-26 14:12:10] [NJ] Fetching https://www.njoag.gov/news/
+[2026-08-26 14:12:12] [NJ] Found 5 item(s) on page.
+[2026-08-26 14:12:12] [NJ] 5 new item(s):
+[2026-08-26 14:12:12]   NEW: Attorney General Davenport Announces Historic $17 Billion Settlement With Meta |  | https://www.njoag.gov/attorney-general-davenport-announces-historic-17-billion-settlement-with-meta/
+[2026-08-26 14:12:12]   NEW: Dean of Research, School of Environmental and Biological Sciences at Rutgers University, Arrested for Invasion of Privacy |  | https://www.njoag.gov/dean-of-research-school-of-environmental-and-biological-sciences-at-rutgers-university-arrested-for-invasion-of-privacy/
+[2026-08-26 14:12:12]   NEW: Attorney General Davenport and Division on Civil Rights Celebrate the Winners in Anti-Bias Youth Competition |  | https://www.njoag.gov/attorney-general-davenport-and-division-on-civil-rights-celebrate-the-winners-in-anti-bias-youth-competition/
+[2026-08-26 14:12:12]   NEW: State Grand Jury Declines to File Criminal Charges in Connection with December 2025 Fatal Crash Following Encounter with Ewing Police Officers |  | https://www.njoag.gov/state-grand-jury-declines-to-file-criminal-charges-in-connection-with-december-2025-fatal-crash-following-encounter-with-ewing-police-officers/
+[2026-08-26 14:12:12]   NEW: Philadelphia Man Arrested for Allegedly Arranging to Meet What He Believed Were Two Underage Girls for Sex |  | https://www.njoag.gov/philadelphia-man-arrested-for-allegedly-arranging-to-meet-what-he-believed-were-two-underage-girls-for-sex/
+[2026-08-26 14:12:12] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-08-26 14:12:16] [NM] Found 11 item(s) on page.
+[2026-08-26 14:12:16] [NM] No new items.
+[2026-08-26 14:12:16] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-08-26 14:12:16] [NY] Found 25 item(s) on page.
+[2026-08-26 14:12:16] [NY] 3 new item(s):
+[2026-08-26 14:12:16]   NEW: Attorney General James Secures Up to $17.1 Billion and Groundbreaking Reforms from Meta to Protect Children on Social Media |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-171-billion-and-groundbreaking-reforms-meta
+[2026-08-26 14:12:16]   NEW: Attorney General James Announces Conviction and Resignation of Former New York State Police Trooper Who Jeopardized Narcotics Investigation |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-conviction-and-resignation-former-new-york
+[2026-08-26 14:12:16]   NEW: Attorney General James and Governor Hochul Release Statement on Lawsuit Challenging 287(g) Ban |  | https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-release-statement-lawsuit-challenging
+[2026-08-26 14:12:16] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-08-26 14:12:31]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7f6b07ca70b0>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-08-26 14:13:08]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7f6b097aecc0>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-08-26 14:13:45]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7f6b097afd10>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-08-26 14:13:45] [NC] No items returned (fetch failed or empty page).
+[2026-08-26 14:13:45] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-08-26 14:13:45] [ND] Found 10 item(s) on page.
+[2026-08-26 14:13:45] [ND] No new items.
+[2026-08-26 14:13:45] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-08-26 14:13:46] [OH] Found 10 item(s) on page.
+[2026-08-26 14:13:46] [OH] 1 new item(s):
+[2026-08-26 14:13:46]   NEW: Attorney General Wilson Announces Largest Big Tech Settlement in History | 8/26/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/August-2026/Attorney-General-Wilson-Announces-Largest-Big-Tech
+[2026-08-26 14:13:46] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-26 14:13:46]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-26 14:13:49]   Playwright loaded page: 'News Releases' (836646 chars)
+[2026-08-26 14:13:49]   Playwright: page loaded but no links matched — check selectors
+[2026-08-26 14:13:49]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-08-26 14:13:50] [OK] No items returned (fetch failed or empty page).
+[2026-08-26 14:13:50] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-08-26 14:13:50] [OR] Found 10 item(s) on page.
+[2026-08-26 14:13:50] [OR] No new items.
+[2026-08-26 14:13:50] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-08-26 14:13:51] [PA] Found 12 item(s) on page.
+[2026-08-26 14:13:51] [PA] 1 new item(s):
+[2026-08-26 14:13:51]   NEW: Fraud Protection & Consumer AlertsAUG 25, 2026Attorney General Sunday Announces Lawsuit Against Snapchat for Failures to Protect Children from Compulsive UsePHILADELPHIA — Attorney General Dave Sunday announced the filing of a lawsuit against Snap, Inc. — owner-operators of Snapchat — regarding the social media giant’s failures to warn…Read more | 2026-08-25T14:11:02-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-announces-lawsuit-against-snapchat-for-failures-to-protect-children-from-compulsive-use/
+[2026-08-26 14:13:51] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-08-26 14:13:51] [RI] Found 10 item(s) on page.
+[2026-08-26 14:13:51] [RI] 1 new item(s):
+[2026-08-26 14:13:51]   NEW: Attorney General Neronha objects to proposed increases to 2027 statewide healthcare insurance rates | Tue, 25 Aug 2026 15:33:20 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-objects-proposed-increases-2027-statewide-healthcare
+[2026-08-26 14:13:51] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-08-26 14:13:51]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-08-26 14:13:54]   Playwright loaded page: 'News - South Carolina Attorney General' (110447 chars)
+[2026-08-26 14:13:54]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-08-26 14:13:54] [SC] Found 9 item(s) on page.
+[2026-08-26 14:13:54] [SC] 3 new item(s):
+[2026-08-26 14:13:54]   NEW: Attorney General Alan Wilson announces largest Big Tech settlement in historyRead More | Aug 26, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-largest-big-tech-settlement-in-history/
+[2026-08-26 14:13:54]   NEW: Lexington man arrested on Child Sexual Abuse Material* chargeRead More | Aug 25, 2026 | https://www.scag.gov/about-the-office/news/lexington-man-arrested-on-child-sexual-abuse-material-charge/
+[2026-08-26 14:13:54]   NEW: Lexington man arrested on Criminal Solicitation of a Minor chargeRead More | Aug 25, 2026 | https://www.scag.gov/about-the-office/news/lexington-man-arrested-on-criminal-solicitation-of-a-minor-charge/
+[2026-08-26 14:13:54] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-08-26 14:13:54]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8
+[2026-08-26 14:13:58]   Playwright loaded page: 'South Dakota Attorney General' (37496 chars)
+[2026-08-26 14:13:58]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-08-26 14:13:58] [SD] Found 1 item(s) on page.
+[2026-08-26 14:13:58] [SD] No new items.
+[2026-08-26 14:13:58] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-08-26 14:13:58] [TN] Found 50 item(s) on page.
+[2026-08-26 14:13:58] [TN] 1 new item(s):
+[2026-08-26 14:13:58]   NEW: Attorney General Skrmetti Announces Largest Big Tech Settlement in History |  | https://www.tn.gov/attorneygeneral/news/2026/8/26/pr26-33.html
+[2026-08-26 14:13:58] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-08-26 14:13:58] [TX] Found 50 item(s) on page.
+[2026-08-26 14:13:58] [TX] 1 new item(s):
+[2026-08-26 14:13:58]   NEW: Attor­ney Gen­er­al Ken Pax­ton Secures Over $1Bil­lion from Meta in His­toric Set­tle­ment that Pro­tects Texas Kids Online |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-over-1-billion-meta-historic-settlement-protects-texas-kids
+[2026-08-26 14:13:58] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-08-26 14:13:58]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-08-26 14:14:02]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296620 chars)
+[2026-08-26 14:14:03]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-08-26 14:14:03] [UT] Found 50 item(s) on page.
+[2026-08-26 14:14:03] [UT] No new items.
+[2026-08-26 14:14:03] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-08-26 14:14:03] [VT] Found 50 item(s) on page.
+[2026-08-26 14:14:03] [VT] 1 new item(s):
+[2026-08-26 14:14:03]   NEW: Attorney General Clark Responds to U.S. Supreme Court Decision Allowing President Trump’s Second Elections-Related Executive Order to Be Implemented | DateAugust 25, 2026 | https://ago.vermont.gov/blog/2026/08/25/attorney-general-clark-responds-us-supreme-court-decision-allowing-president-trumps-second-elections
+[2026-08-26 14:14:03] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-08-26 14:14:04] [VA] Found 50 item(s) on page.
+[2026-08-26 14:14:04] [VA] 3 new item(s):
+[2026-08-26 14:14:04]   NEW: Attorney General Jay Jones Announces a $17 Billion Landmark Settlement with Meta with $353 Million Guaranteed for Virginia |  | https://www.oag.state.va.us/media-center/news-releases/3105-attorney-general-jay-jones-announces-a-17-billion-landmark-settlement-with-meta-with-353-million-guaranteed-for-virginia
+[2026-08-26 14:14:04]   NEW: Attorney General Jones Responds to U.S. Supreme Court Decision Allowing President Trump’s Second Elections-Related Executive Order to Be Implemented |  | https://www.oag.state.va.us/media-center/news-releases/3104-attorney-general-jones-responds-to-u-s-supreme-court-decision-allowing-president-trumps-second-elections-related-executive-order-to-be-implemented
+[2026-08-26 14:14:04]   NEW: Protecting Consumers: Attorney General Jones Stops Illegal Scheme to Eliminate Competition in Virginia Between Zillow and Redfin |  | https://www.oag.state.va.us/media-center/news-releases/3102-protecting-consumers-attorney-general-jones-stops-illegal-scheme-to-eliminate-competition-in-virginia-between-zillow-and-redfin
+[2026-08-26 14:14:04] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-08-26 14:14:04] [WA] Found 15 item(s) on page.
+[2026-08-26 14:14:04] [WA] No new items.
+[2026-08-26 14:14:04] [WV] Fetching https://ago.wv.gov/news
+[2026-08-26 14:14:04]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-08-26 14:14:07]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55050 chars)
+[2026-08-26 14:14:07]   Playwright found 30 item(s) with configured selector
+[2026-08-26 14:14:07] [WV] Found 30 item(s) on page.
+[2026-08-26 14:14:07] [WV] 1 new item(s):
+[2026-08-26 14:14:07]   NEW: Full Story | 2026-08-26T12:00:00Z | https://ago.wv.gov/article/attorney-general-jb-mccuskey-announces-largest-big-tech-settlement-history
+[2026-08-26 14:14:07] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-26 14:14:07]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-26 14:14:12]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1555430 chars)
+[2026-08-26 14:14:12]   Playwright found 50 item(s) with configured selector
+[2026-08-26 14:14:12] [WI] Found 50 item(s) on page.
+[2026-08-26 14:14:12] [WI] No new items.
+[2026-08-26 14:14:12] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-08-26 14:14:12] [WY] Found 1 item(s) on page.
+[2026-08-26 14:14:12] [WY] No new items.
+[2026-08-26 14:14:12] States with fetch errors: KS, NH, NC, OK
+[2026-08-26 14:14:12] Sending email: 48 new item(s) across 24 state(s).
+[2026-08-26 14:14:13] Email sent.
+[2026-08-26 14:14:13] Done.
