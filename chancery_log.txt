@@ -9852,3 +9852,18 @@ Call log:
 [2026-08-26 20:29:31]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400390
 [2026-08-26 20:29:32] Email notification sent.
 [2026-08-26 20:29:32] Done.
+[2026-08-26 23:59:18] Checking for new DE court opinions...
+[2026-08-26 23:59:18] Using Playwright to fetch opinions page...
+[2026-08-26 23:59:30] Playwright found 27 opinion(s).
+[2026-08-26 23:59:30] Found 27 opinions on page.
+[2026-08-26 23:59:30] 4 new opinion(s)!
+[2026-08-26 23:59:30]   NEW: [08/26/2026] [Superior Court] Boyington v. Redner's Markets, Inc. v. Integrated Health Associates, Inc. | K24C-05-008 RLG | Green-StreettJ.
+[2026-08-26 23:59:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400410
+[2026-08-26 23:59:30]   NEW: [08/26/2026] [Superior Court] Gas Stop, LLC v. GP1, LLC, et al. | N25C-11-062 DJB | BrennanJ.
+[2026-08-26 23:59:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400420
+[2026-08-26 23:59:30]   NEW: [08/26/2026] [Superior Court] Smith v. Christiana Care Health Services | K26C-05-013 RLG | Green-StreettJ.
+[2026-08-26 23:59:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400400
+[2026-08-26 23:59:30]   NEW: [08/25/2026] [Superior Court] Leyva v. Klingman | N26A-02-001 CLS | ScottJ.
+[2026-08-26 23:59:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400430
+[2026-08-26 23:59:31] Email notification sent.
+[2026-08-26 23:59:31] Done.
