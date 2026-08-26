@@ -9843,3 +9843,12 @@ Call log:
 [2026-08-26 18:12:53] Found 27 opinions on page.
 [2026-08-26 18:12:53] No new opinions.
 [2026-08-26 18:12:53] Done.
+[2026-08-26 20:29:17] Checking for new DE court opinions...
+[2026-08-26 20:29:17] Using Playwright to fetch opinions page...
+[2026-08-26 20:29:31] Playwright found 27 opinion(s).
+[2026-08-26 20:29:31] Found 27 opinions on page.
+[2026-08-26 20:29:31] 1 new opinion(s)!
+[2026-08-26 20:29:31]   NEW: [08/26/2026] [Court of Chancery] Seetal Dodiya v. Michael E. Franklin, et al. | 2025-0932-LWW | WillV.C.
+[2026-08-26 20:29:31]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400390
+[2026-08-26 20:29:32] Email notification sent.
+[2026-08-26 20:29:32] Done.
