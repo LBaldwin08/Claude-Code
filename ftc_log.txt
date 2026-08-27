@@ -1151,3 +1151,16 @@
 [2026-08-26 14:20:44] Found 20 press release(s) on page.
 [2026-08-26 14:20:44] No new press releases.
 [2026-08-26 14:20:44] Done.
+[2026-08-27 23:02:36] Checking for new FTC press releases...
+[2026-08-27 23:02:36] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-27 23:02:49] Playwright found 0 press release link(s).
+[2026-08-27 23:02:49] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-27 23:02:49] requests found 20 press release link(s).
+[2026-08-27 23:02:49] Found 20 press release(s) on page.
+[2026-08-27 23:02:49] 2 new press release(s)!
+[2026-08-27 23:02:49]   NEW: [2026-08-27T12:00:00Z] FTC Finalizes Orders with Cox Media Group, Two Other Firms Settling Charges They Deceived Customers About “Active Listening” AI-Powered Marketing Service
+[2026-08-27 23:02:49]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-finalizes-orders-cox-media-group-two-other-firms-settling-charges-they-deceived-customers-about
+[2026-08-27 23:02:49]   NEW: [2026-08-26T12:00:00Z] FTC Announces 2027 Telemarketer Fees to Access the National Do Not Call Registry
+[2026-08-27 23:02:49]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-announces-2027-telemarketer-fees-access-national-do-not-call-registry
+[2026-08-27 23:02:51] Email notification sent.
+[2026-08-27 23:02:51] Done.
