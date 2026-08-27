@@ -26571,3 +26571,293 @@ Call log:
 [2026-08-26 14:14:12] Sending email: 48 new item(s) across 24 state(s).
 [2026-08-26 14:14:13] Email sent.
 [2026-08-26 14:14:13] Done.
+[2026-08-27 23:01:02] Checking for new AG press releases...
+[2026-08-27 23:01:02] Checking 50 state(s).
+[2026-08-27 23:01:02] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-08-27 23:01:02]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-08-27 23:01:06]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (235665 chars)
+[2026-08-27 23:01:07]   Playwright found 27 item(s) with configured selector
+[2026-08-27 23:01:07] [AL] Found 27 item(s) on page.
+[2026-08-27 23:01:07] [AL] 3 new item(s):
+[2026-08-27 23:01:07]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-court-of-criminal-appeals-upholds-murder-and-first-degree-burglary-convictions-in-covington-county-2/
+[2026-08-27 23:01:07]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-court-of-criminal-appeals-upholds-murder-and-first-degree-burglary-convictions-in-covington-county/
+[2026-08-27 23:01:07]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-historic-settlement-with-meta-platforms-inc/
+[2026-08-27 23:01:07] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-08-27 23:01:07] [AK] Found 50 item(s) on page.
+[2026-08-27 23:01:07] [AK] 3 new item(s):
+[2026-08-27 23:01:07]   NEW: Daniel Lewis Convicted of Attempted Murder and Other Charges for 2024 Shooting at Kanankanak Hospital |  | https://law.alaska.gov/releases/2026/082626-Lewis.html
+[2026-08-27 23:01:07]   NEW: Acting Alaska Attorney General Cori Mills Announces Largest Big Tech Settlement in History |  | https://law.alaska.gov/releases/2026/082626-BigTech.html
+[2026-08-27 23:01:07]   NEW: Brian Hall Resentenced for 1993 Anchorage Double Murder |  | https://law.alaska.gov/releases/2026/082426-Hall.html
+[2026-08-27 23:01:07] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-08-27 23:01:07] [AZ] Found 10 item(s) on page.
+[2026-08-27 23:01:07] [AZ] 4 new item(s):
+[2026-08-27 23:01:07]   NEW: Attorney General Mayes Reminds Veterans About the Deadline to Submit a Claim Form for VetLink Solutions’ Restitution |  | https://www.azag.gov/press-release/attorney-general-mayes-reminds-veterans-about-deadline-submit-claim-form-vetlink
+[2026-08-27 23:01:07]   NEW: Attorney General Mayes Announces Review of Automated License Plate Readers’ Impact on Privacy Rights, Voices Concerns on Misuse |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-review-automated-license-plate-readers-impact
+[2026-08-27 23:01:07]   NEW: Attorney General Mayes Announces Largest Big Tech Settlement in History |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-largest-big-tech-settlement-history
+[2026-08-27 23:01:07]   NEW: Attorney General Mayes Sues United States Postal Service Over Unlawful Attempt to Interfere with Arizona’s Elections |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-united-states-postal-service-over-unlawful-attempt
+[2026-08-27 23:01:07] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-08-27 23:01:08] [AR] Found 50 item(s) on page.
+[2026-08-27 23:01:08] [AR] 1 new item(s):
+[2026-08-27 23:01:08]   NEW: Thursday, August 27, 2026Attorney General Griffin Applauds Federal Appeals Court Opinion Regarding Fair Compensation for Arkansas PharmaciesRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-applauds-federal-appeals-court-opinion-regarding-fair-compensation-for-arkansas-pharmacies/
+[2026-08-27 23:01:08] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-08-27 23:01:09] [CA] Found 10 item(s) on page.
+[2026-08-27 23:01:09] [CA] 5 new item(s):
+[2026-08-27 23:01:09]   NEW: Attorney General Bonta Files Lawsuit Challenging Trump Administration’s Attempt to Impose Unlawful Conditions on Title X Family Planning Funds | Thu, 27 Aug 2026 01:23:46 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-challenging-trump-administration%E2%80%99s-1
+[2026-08-27 23:01:09]   NEW: California Attorney General Bonta Strongly Opposes Trump Administration’s Proposal to Weaken Environmental Protections for Nuclear Energy Projects | Wed, 26 Aug 2026 20:51:19 +0000 | https://oag.ca.gov/news/press-releases/california-attorney-general-bonta-strongly-opposes-trump-administration%E2%80%99s
+[2026-08-27 23:01:09]   NEW: Attorney General Bonta Leads Multistate Coalition in Opposing New Barriers to Sponsorship of Unaccompanied Children | Wed, 26 Aug 2026 18:49:45 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-leads-multistate-coalition-opposing-new-barriers
+[2026-08-27 23:01:09]   NEW: Attorney General Bonta Leads Amicus Brief Challenging Trump Administration Rule Restricting Length of International Student Visas | Wed, 26 Aug 2026 16:17:16 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-leads-amicus-brief-challenging-trump-administration-rule
+[2026-08-27 23:01:09]   NEW: Attorney General Bonta Files Lawsuit Challenging USPS Rule Restricting Mail-In Voting, Interfering with Elections | Wed, 26 Aug 2026 04:47:26 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-challenging-usps-rule-restricting-mail
+[2026-08-27 23:01:09] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-08-27 23:01:09] [CO] Found 50 item(s) on page.
+[2026-08-27 23:01:09] [CO] No new items.
+[2026-08-27 23:01:09] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-08-27 23:01:09] [CT] Found 33 item(s) on page.
+[2026-08-27 23:01:09] [CT] 3 new item(s):
+[2026-08-27 23:01:09]   NEW: Connecticut Sues Kalshi to Stop Illegal, Unlicensed Sports Betting | 8/26/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/connecticut-sues-kalshi-to-stop-illegal-unlicensed-sports-betting
+[2026-08-27 23:01:09]   NEW: Attorney General Tong Challenges Title X Funding Conditions | 8/27/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-challenges-title-x-funding-conditions
+[2026-08-27 23:01:09]   NEW: Attorney General Tong Sues United States Postal Service Over Unlawful Attempt to Interfere with States' Vote-By-Mail Procedures | 8/26/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-united-states-postal-service
+[2026-08-27 23:01:09] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-08-27 23:01:10] [DE] Found 300 item(s) on page.
+[2026-08-27 23:01:10] [DE] 3 new item(s):
+[2026-08-27 23:01:10]   NEW: AG Jennings sues United States Postal Service over unlawful attempt to interfere with states’ vote-by-mail procedures | Wed, 26 Aug 2026 10:07:18 +0000 | https://news.delaware.gov/2026/08/26/ag-jennings-sues-united-states-postal-service-over-unlawful-attempt-to-interfere-with-states-vote-by-mail-procedures/
+[2026-08-27 23:01:10]   NEW: AG Jennings announces largest Big Tech settlement in history | Wed, 26 Aug 2026 08:13:36 +0000 | https://news.delaware.gov/2026/08/26/ag-jennings-announces-largest-big-tech-settlement-in-history/
+[2026-08-27 23:01:10]   NEW: AG Jennings protects absentee voting ahead of general election | Wed, 26 Aug 2026 06:10:28 +0000 | https://news.delaware.gov/2026/08/26/ag-jennings-protects-absentee-voting-ahead-of-general-election/
+[2026-08-27 23:01:10] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-08-27 23:01:10] [FL] Found 20 item(s) on page.
+[2026-08-27 23:01:10] [FL] 3 new item(s):
+[2026-08-27 23:01:10]   NEW: Attorney General James Uthmeier Takes Legal Action Against Prime Therapeutics and Express Scripts for Price-Fixing Scheme Threatening Floridians’ Access to Affordable Medications | 2026-08-27T15:00:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-takes-legal-action-against-prime-therapeutics-and
+[2026-08-27 23:01:10]   NEW: Attorney General James Uthmeier Announces Arrest of Illegal Alien for Battery on a Law Enforcement Officer | 2026-08-27T11:25:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-announces-arrest-illegal-alien-battery-law-enforcement
+[2026-08-27 23:01:10]   NEW: Attorney General James Uthmeier Announces $1.2 Million Settlement with Deloitte Over Discriminatory DEI Practices | 2026-08-26T20:15:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-announces-12-million-settlement-deloitte-over
+[2026-08-27 23:01:10] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-08-27 23:01:10] [GA] Found 11 item(s) on page.
+[2026-08-27 23:01:10] [GA] No new items.
+[2026-08-27 23:01:10] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-08-27 23:01:12] [HI] Found 26 item(s) on page.
+[2026-08-27 23:01:12] [HI] No new items.
+[2026-08-27 23:01:12] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-27 23:01:12]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-27 23:01:15]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65775 chars)
+[2026-08-27 23:01:15]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-08-27 23:01:15] [ID] Found 28 item(s) on page.
+[2026-08-27 23:01:15] [ID] 2 new item(s):
+[2026-08-27 23:01:15]   NEW: Aug 272026AG Labrador Wins Settlement Against Fraudulent Investment Business | Aug 272026 | https://www.ag.idaho.gov/newsroom/ag-labrador-wins-settlement-against-fraudulent-investment-business/
+[2026-08-27 23:01:15]   NEW: Aug 262026AG Labrador Delivers Largest Big Tech Settlement in History for Child Protection Against Facebook, Instagram | Aug 262026 | https://www.ag.idaho.gov/newsroom/ag-labrador-delivers-largest-big-tech-settlement-in-history-for-child-protection-against-facebook-instagram/
+[2026-08-27 23:01:15] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-08-27 23:01:16] [IL] Found 50 item(s) on page.
+[2026-08-27 23:01:16] [IL] 6 new item(s):
+[2026-08-27 23:01:16]   NEW: August 27, 2026ATTORNEY GENERAL RAOUL CHALLENGES TRUMP ADMINISTRATION RULE RESTRICTING LENGTH OF INTERNATIONAL STUDENT VISAS | 2026-08-27 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-challenges-trump-administration-rule-restricting-length-of-international-student-visas
+[2026-08-27 23:01:16]   NEW: August 27, 2026ATTORNEY GENERAL RAOUL FILES LAWSUIT TO PROTECT TITLE X FAMILY PLANNING FUNDING | 2026-08-27 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-lawsuit-to-protect-title-x-family-planning-funding
+[2026-08-27 23:01:16]   NEW: August 27, 2026ATTORNEY GENERAL RAOUL CHARGES ST. CLAIR COUNTY MAN WITH POSSESSION OF CHILD SEXUAL ABUSE MATERIAL | 2026-08-27 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-st-clair-county-man-with-possession-of-child-sexual-abuse-material-8/27/26
+[2026-08-27 23:01:16]   NEW: August 26, 2026ATTORNEY GENERAL RAOUL LEADS COALITION OPPOSING TRUMP ADMINISTRATION’S PROPOSAL TO ELIMINATE COLLECTION OF NATIONAL WORKFORCE DEMOGRAPHIC DATA | 2026-08-27 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-opposing-trump-administrations-proposal-to-eliminate-collection-of-national-workforce-demographic-data
+[2026-08-27 23:01:16]   NEW: August 26, 2026ATTORNEY GENERAL RAOUL SUES THE U.S. POSTAL SERVICE OVER UNLAWFUL ATTEMPT TO INTERFERE WITH MAIL VOTING IN ILLINOIS | 2026-08-27 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-sues-the-us-postal-service-over-unlawful-attempt-to-interfere-with-mail-voting-in-illinois
+[2026-08-27 23:01:16]   NEW: August 26, 2026ATTORNEY GENERAL RAOUL URGES SUPREME COURT TO UPHOLD COLORADO CIVIL RIGHTS PROTECTIONS FOR UNIVERSAL PRESCHOOL | 2026-08-27 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-urges-supreme-court-to-uphold-colorado-civil-rights-protections-for-universal-preschool
+[2026-08-27 23:01:16] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-08-27 23:01:17] [IN] Found 35 item(s) on page.
+[2026-08-27 23:01:17] [IN] No new items.
+[2026-08-27 23:01:17] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-08-27 23:01:17] [IA] Found 10 item(s) on page.
+[2026-08-27 23:01:17] [IA] No new items.
+[2026-08-27 23:01:17] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-27 23:01:17]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-27 23:01:20]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-08-27 23:01:20]   Playwright: page loaded but no links matched — check selectors
+[2026-08-27 23:01:20]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-08-27 23:01:20]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-27 23:01:40]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-27 23:02:01]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-27 23:02:01] [KS] No items returned (fetch failed or empty page).
+[2026-08-27 23:02:01] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-08-27 23:02:01] [KY] Found 26 item(s) on page.
+[2026-08-27 23:02:01] [KY] No new items.
+[2026-08-27 23:02:01] [LA] Fetching https://ag.louisiana.gov/News
+[2026-08-27 23:02:02] [LA] Found 20 item(s) on page.
+[2026-08-27 23:02:02] [LA] 4 new item(s):
+[2026-08-27 23:02:02]   NEW: youngsville man | 8/27/2026 | https://ag.louisiana.gov/Article/620
+[2026-08-27 23:02:02]   NEW: AG Murrill’s Office Arrests Youngsville Man on 50 Counts of Distributing Child Sexual Abuse Material and Animal Sex Abuse Charge | 8/27/2026 | https://ag.louisiana.gov/Article/619
+[2026-08-27 23:02:02]   NEW: AG Murrill’s LBI Arrests Metairie Man on Child Sexual Abuse Material and Indecent Behavior Charges | 8/27/2026 | https://ag.louisiana.gov/Article/618
+[2026-08-27 23:02:02]   NEW: AG Murrill’s Louisiana Bureau of Investigation Arrests Bastrop Man on 260 Counts of Possession of Child Sexual Abuse Material | 8/26/2026 | https://ag.louisiana.gov/Article/617
+[2026-08-27 23:02:02] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-08-27 23:02:02] [ME] Found 14 item(s) on page.
+[2026-08-27 23:02:02] [ME] 2 new item(s):
+[2026-08-27 23:02:02]   NEW: Attorney General Aaron M. Frey Announces Largest Big Tech Settlement in History | 8/26/2026 | https://www.maine.gov/ag/news-and-library/press-releases/attorney-general-aaron-m-frey-announces-largest-big-tech-settlement
+[2026-08-27 23:02:02]   NEW: Attorney General Aaron M. Frey Sues United States Postal Service Over Unlawful Attempt to Interfere with States’ Vote-by-Mail Procedures | 8/26/2026 | https://www.maine.gov/ag/news-and-library/press-releases/attorney-general-aaron-m-frey-sues-united-states-postal-service
+[2026-08-27 23:02:02] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-08-27 23:02:03] [MD] Found 50 item(s) on page.
+[2026-08-27 23:02:03] [MD] No new items.
+[2026-08-27 23:02:03] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-27 23:02:03]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-27 23:02:06]   Playwright loaded page: 'News and Announcements | Mass.gov' (177375 chars)
+[2026-08-27 23:02:06]   Playwright found 15 item(s) with configured selector
+[2026-08-27 23:02:06] [MA] Found 15 item(s) on page.
+[2026-08-27 23:02:06] [MA] 2 new item(s):
+[2026-08-27 23:02:06]   NEW: AG Campbell Challenges Title X Funding Conditions On Family Planning Programs | 8/27/2026 | https://www.mass.gov/news/ag-campbell-challenges-title-x-funding-conditions-on-family-planning-programs
+[2026-08-27 23:02:06]   NEW: AG Campbell Sues United States Postal Service Over Unlawful Attempt To Interfere With States’ Vote-By-Mail Procedures | 8/26/2026 | https://www.mass.gov/news/ag-campbell-sues-united-states-postal-service-over-unlawful-attempt-to-interfere-with-states-vote-by-mail-procedures
+[2026-08-27 23:02:06] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-08-27 23:02:06]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-08-27 23:02:10]   Playwright loaded page: 'Attorney General: Press Releases' (377284 chars)
+[2026-08-27 23:02:10]   Playwright found 10 item(s) with configured selector
+[2026-08-27 23:02:10] [MI] Found 10 item(s) on page.
+[2026-08-27 23:02:10] [MI] 4 new item(s):
+[2026-08-27 23:02:10]   NEW: AG Nessel Challenges Title X Funding Conditions |  | https://www.michigan.gov/ag/news/press-releases/2026/08/27/ag-nessel-challenges-title-x-funding-conditions
+[2026-08-27 23:02:10]   NEW: Two Men to Stand Trial on Multiple Felony Charges Following Grosse Pointe Woods Carjacking |  | https://www.michigan.gov/ag/news/press-releases/2026/08/27/two-men-to-stand-trial-on-multiple-felony-charges-following-grosse-pointe-woods-carjacking
+[2026-08-27 23:02:10]   NEW: AG Nessel Announces Landmark Settlement with Meta |  | https://www.michigan.gov/ag/news/press-releases/2026/08/26/ag-nessel-announces-landmark-settlement-with-meta
+[2026-08-27 23:02:10]   NEW: Michigan Sues United States Postal Service Over Unlawful Vote-by-Mail Procedures |  | https://www.michigan.gov/ag/news/press-releases/2026/08/26/michigan-sues-united-states-postal-service-over-unlawful-vote-by-mail-procedures
+[2026-08-27 23:02:10] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-08-27 23:02:10] [MN] Found 50 item(s) on page.
+[2026-08-27 23:02:10] [MN] No new items.
+[2026-08-27 23:02:10] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-08-27 23:02:10] [MS] Found 1 item(s) on page.
+[2026-08-27 23:02:10] [MS] 1 new item(s):
+[2026-08-27 23:02:10]   NEW: AG Fitch Announces Child Exploitation Sentencing (August 27, 2026) |  | https://attorneygenerallynnfitch.com/2026/08/27/ag-fitch-announces-child-exploitation-sentencing-august-27-2026/
+[2026-08-27 23:02:10] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-08-27 23:02:11] [MO] Found 50 item(s) on page.
+[2026-08-27 23:02:11] [MO] 2 new item(s):
+[2026-08-27 23:02:11]   NEW: Attorney General Hanaway Announces Resolution to Mark Twain Hotel Nuisance Claims, Relief for Residents |  | https://ago.mo.gov/attorney-general-hanaway-announces-resolution-to-mark-twain-hotel-nuisance-claims-relief-for-residents/
+[2026-08-27 23:02:11]   NEW: Attorney General Hanaway Announces Largest Big Tech Settlement in History |  | https://ago.mo.gov/attorney-general-hanaway-announces-largest-big-tech-settlement-in-history/
+[2026-08-27 23:02:11] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-08-27 23:02:11] [MT] Found 10 item(s) on page.
+[2026-08-27 23:02:11] [MT] 2 new item(s):
+[2026-08-27 23:02:11]   NEW: Attorney General Knudsen urges federal agencies to investigate and stop funding for woke climate organization |  | https://dojmt.gov/attorney-general-knudsen-urges-federal-agencies-to-investigate-and-stop-funding-for-woke-climate-organization/
+[2026-08-27 23:02:11]   NEW: Attorney General Knudsen secures up to $127 million in largest big tech settlement in history |  | https://dojmt.gov/attorney-general-knudsen-secures-settlement-up-to-127-million-in-largest-big-tech-settlement-in-history/
+[2026-08-27 23:02:11] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-08-27 23:02:11] [NE] Found 10 item(s) on page.
+[2026-08-27 23:02:11] [NE] 2 new item(s):
+[2026-08-27 23:02:11]   NEW: Attorney General Hilgers Launches Online Safety Guide for Parents | Thu, 27 Aug 2026 18:52:18 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-launches-online-safety-guide-parents
+[2026-08-27 23:02:11]   NEW: Attorney General Hilgers Files Lawsuit Against First Street for Harming Nebraska Homeowners | Thu, 27 Aug 2026 16:03:09 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-files-lawsuit-against-first-street-harming-nebraska-homeowners
+[2026-08-27 23:02:11] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-08-27 23:02:12] [NV] Found 50 item(s) on page.
+[2026-08-27 23:02:12] [NV] No new items.
+[2026-08-27 23:02:12] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-08-27 23:02:12]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-08-27 23:02:14]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-08-27 23:02:14]   Playwright: page loaded but no links matched — check selectors
+[2026-08-27 23:02:14]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-08-27 23:02:14]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-27 23:02:34]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-27 23:02:54]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-27 23:02:54] [NH] No items returned (fetch failed or empty page).
+[2026-08-27 23:02:54] [NJ] Fetching https://www.njoag.gov/news/
+[2026-08-27 23:02:56] [NJ] Found 5 item(s) on page.
+[2026-08-27 23:02:56] [NJ] 2 new item(s):
+[2026-08-27 23:02:56]   NEW: AG Davenport Challenges Unconstitutional Funding Conditions on Healthcare |  | https://www.njoag.gov/ag-davenport-challenges-unconstitutional-funding-conditions-on-healthcare/
+[2026-08-27 23:02:56]   NEW: AG Davenport Sues Trump Administration to Block Unlawful USPS Rule Attempting to Restrict Voting by Mail |  | https://www.njoag.gov/ag-davenport-sues-trump-administration-to-block-unlawful-usps-rule-attempting-to-restrict-voting-by-mail/
+[2026-08-27 23:02:56] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-08-27 23:02:57] [NM] Found 11 item(s) on page.
+[2026-08-27 23:02:57] [NM] 2 new item(s):
+[2026-08-27 23:02:57]   NEW: Attorney General Raúl Torrez Sues U.S. Department of Justice to Obtain Records on DEA’s Handling of Fentanyl in New Mexico |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-sues-u-s-department-of-justice-to-obtain-records-on-deas-handling-of-fentanyl-in-new-mexico/
+[2026-08-27 23:02:57]   NEW: Attorney General Raúl Torrez Sues United States Postal Service Over Unlawful Attempt to Interfere with States’ Vote-By-Mail Procedures |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-sues-united-states-postal-service-over-unlawful-attempt-to-interfere-with-states-vote-by-mail-procedures/
+[2026-08-27 23:02:57] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-08-27 23:02:57] [NY] Found 25 item(s) on page.
+[2026-08-27 23:02:57] [NY] 5 new item(s):
+[2026-08-27 23:02:57]   NEW: Attorney General James Leads Lawsuit to Protect Title X Family Planning Services |  | https://ag.ny.gov/press-release/2026/attorney-general-james-leads-lawsuit-protect-title-x-family-planning-services
+[2026-08-27 23:02:57]   NEW: Attorney General James Releases Footage from Investigation into Death of Anthony Griffin |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-footage-investigation-death-anthony-griffin
+[2026-08-27 23:02:57]   NEW: Attorney General James and Governor Hochul Announce Lawsuit Against Rensselaer County Sheriff for Violating New York’s Local Cops, Local Crimes Act |  | https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-announce-lawsuit-against-rensselaer
+[2026-08-27 23:02:57]   NEW: Attorney General James Secures More Than 270,000 Eggs for Capital Region Families |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-more-270000-eggs-capital-region-families
+[2026-08-27 23:02:57]   NEW: Attorney General James Sues to Block Trump Administration Rule That Would Shut Millions of Voters Out of Mail-In Voting |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-block-trump-administration-rule-would-shut-millions
+[2026-08-27 23:02:57] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-08-27 23:02:59] [NC] Found 10 item(s) on page.
+[2026-08-27 23:02:59] [NC] 3 new item(s):
+[2026-08-27 23:02:59]   NEW: Attorney General Jeff Jackson Sues Over New Mail-In Ballot Rule That Could Prevent Eligible North Carolinians from Voting |  | https://ncdoj.gov/attorney-general-jeff-jackson-sues-over-new-mail-in-ballot-rule-that-could-prevent-eligible-north-carolinians-from-voting/
+[2026-08-27 23:02:59]   NEW: Attorney General Jeff Jackson Secures up to $645 Million for North Carolina in Landmark Child Safety Settlement with Meta |  | https://ncdoj.gov/attorney-general-jeff-jackson-secures-up-to-645-million-for-north-carolina-in-landmark-child-safety-settlement-with-meta/
+[2026-08-27 23:02:59]   NEW: Winston-Salem Food Bank Receives nearly 300,000 Eggs Delivery Following Attorney General Jackson’s Settlement in Antitrust Case |  | https://ncdoj.gov/winston-salem-food-bank-receives-nearly-300000-eggs-delivery-following-attorney-general-jacksons-settlement-in-antitrust-case/
+[2026-08-27 23:02:59] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-08-27 23:03:00] [ND] Found 10 item(s) on page.
+[2026-08-27 23:03:00] [ND] No new items.
+[2026-08-27 23:03:00] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-08-27 23:03:00] [OH] Found 10 item(s) on page.
+[2026-08-27 23:03:00] [OH] No new items.
+[2026-08-27 23:03:00] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-27 23:03:00]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-27 23:03:03]   Playwright loaded page: 'News Releases' (866103 chars)
+[2026-08-27 23:03:03]   Playwright found 20 item(s) with configured selector
+[2026-08-27 23:03:03] [OK] Found 20 item(s) on page.
+[2026-08-27 23:03:03] [OK] 3 new item(s):
+[2026-08-27 23:03:03]   NEW: Drummond reaches landmark settlement with Meta |  | https://oklahoma.gov/oag/news/newsroom/2026/august/drummond-reaches-landmark-settlement-with-meta.html
+[2026-08-27 23:03:03]   NEW: New AG opinion from Drummond: Farmers don’t need highway escort to haul equipment |  | https://oklahoma.gov/oag/news/newsroom/2026/august/new-ag-opinion-from-drummond-farmers-don-t-need-highway-escort-to-haul-equipment.html
+[2026-08-27 23:03:03]   NEW: Multi-County Grand Jury indicts man accused of selling fatal dose of fentanyl |  | https://oklahoma.gov/oag/news/newsroom/2026/august/multi-county-grand-jury-indicts-man-accused-of-selling-fatal-dos.html
+[2026-08-27 23:03:03] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-08-27 23:03:03]   Attempt 1/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: HTTPSConnectionPool(host='www.doj.state.or.us', port=443): Max retries exceeded with url: /media/news-media-releases/all-media-releases/ (Caused by NameResolutionError("HTTPSConnection(host='www.doj.state.or.us', port=443): Failed to resolve 'www.doj.state.or.us' ([Errno -5] No address associated with hostname)"))
+[2026-08-27 23:03:23]   Attempt 2/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: HTTPSConnectionPool(host='www.doj.state.or.us', port=443): Max retries exceeded with url: /media/news-media-releases/all-media-releases/ (Caused by NameResolutionError("HTTPSConnection(host='www.doj.state.or.us', port=443): Failed to resolve 'www.doj.state.or.us' ([Errno -5] No address associated with hostname)"))
+[2026-08-27 23:03:43]   Attempt 3/3 failed for https://www.doj.state.or.us/media/news-media-releases/all-media-releases/: HTTPSConnectionPool(host='www.doj.state.or.us', port=443): Max retries exceeded with url: /media/news-media-releases/all-media-releases/ (Caused by NameResolutionError("HTTPSConnection(host='www.doj.state.or.us', port=443): Failed to resolve 'www.doj.state.or.us' ([Errno -5] No address associated with hostname)"))
+[2026-08-27 23:03:43] [OR] No items returned (fetch failed or empty page).
+[2026-08-27 23:03:43] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-08-27 23:03:44] [PA] Found 12 item(s) on page.
+[2026-08-27 23:03:44] [PA] 2 new item(s):
+[2026-08-27 23:03:44]   NEW: CrimeAUG 27, 2026VERDICT: Lebanon County Jury Convicts Man of All Charges Regarding Abuse of 2 ChildrenHARRISBURG — Attorney General Dave Sunday announced that a Lebanon County man was convicted this week of all charges for abuse of two children that happened over a…Read more | 2026-08-27T14:37:30-04:00 | https://www.attorneygeneral.gov/taking-action/verdict-lebanon-county-jury-convicts-man-of-all-charges-regarding-abuse-of-2-children/
+[2026-08-27 23:03:44]   NEW: Technology & PrivacyAUG 26, 2026AG Sunday Announces Historic Settlement with Meta that Assures Protections on Social Media Platforms, Brings $500M+ to PennsylvaniaSettlement with the social media titan was reached amidst a civil trial regarding Meta’s alleged failures to protect its young users [video id="PMHpUmhaexU" type="youtube" aspect="16:9" thumbnail=""] HARRISBURG —…Read more | 2026-08-26T11:48:03-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-historic-settlement-with-meta-that-assures-protections-on-social-media-platforms-brings-500m-to-pennsylvania/
+[2026-08-27 23:03:44] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-08-27 23:03:44] [RI] Found 10 item(s) on page.
+[2026-08-27 23:03:44] [RI] 5 new item(s):
+[2026-08-27 23:03:44]   NEW: Middletown man to serve 40 years in state prison for child molestation and sexual assault | Thu, 27 Aug 2026 19:02:56 +0000 | https://riag.ri.gov/press-releases/middletown-man-serve-40-years-state-prison-child-molestation-and-sexual-assault
+[2026-08-27 23:03:44]   NEW: Attorney General Neronha, coalition challenge Title X funding conditions | Thu, 27 Aug 2026 15:29:07 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-challenge-title-x-funding-conditions
+[2026-08-27 23:03:44]   NEW: Attorney General Neronha helps secure $170 million in bill credits, climate mandates on behalf of Rhode Island ratepayers | Thu, 27 Aug 2026 14:53:13 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-helps-secure-170-million-bill-credits-climate-mandates
+[2026-08-27 23:03:44]   NEW: Attorney General Neronha, coalition sue USPS over unlawful attempt to interfere with states’ vote-by-mail procedures | Wed, 26 Aug 2026 14:36:15 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-sue-usps-over-unlawful-attempt-interfere-states
+[2026-08-27 23:03:44]   NEW: Attorney General Neronha, coalition announce largest Big Tech settlement in history | Wed, 26 Aug 2026 13:29:28 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-coalition-announce-largest-big-tech-settlement-history
+[2026-08-27 23:03:44] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-08-27 23:03:44]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-08-27 23:03:47]   Playwright loaded page: 'News - South Carolina Attorney General' (110334 chars)
+[2026-08-27 23:03:47]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-08-27 23:03:47] [SC] Found 9 item(s) on page.
+[2026-08-27 23:03:47] [SC] No new items.
+[2026-08-27 23:03:47] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-08-27 23:03:47]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8
+[2026-08-27 23:03:50]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-08-27 23:03:50]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-08-27 23:03:50] [SD] Found 1 item(s) on page.
+[2026-08-27 23:03:50] [SD] No new items.
+[2026-08-27 23:03:50] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-08-27 23:03:50] [TN] Found 50 item(s) on page.
+[2026-08-27 23:03:50] [TN] No new items.
+[2026-08-27 23:03:50] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-08-27 23:03:51] [TX] Found 50 item(s) on page.
+[2026-08-27 23:03:51] [TX] No new items.
+[2026-08-27 23:03:51] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-08-27 23:03:51]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-08-27 23:03:55]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296858 chars)
+[2026-08-27 23:03:55]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-08-27 23:03:55] [UT] Found 50 item(s) on page.
+[2026-08-27 23:03:55] [UT] No new items.
+[2026-08-27 23:03:55] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-08-27 23:03:55] [VT] Found 50 item(s) on page.
+[2026-08-27 23:03:55] [VT] 6 new item(s):
+[2026-08-27 23:03:55]   NEW: Attorney General Clark Challenges Title X Funding Conditions | DateAugust 27, 2026 | https://ago.vermont.gov/blog/2026/08/27/attorney-general-clark-challenges-title-x-funding-conditions
+[2026-08-27 23:03:55]   NEW: Springfield Resident Sentenced for Attempted Luring of a Child | DateAugust 27, 2026 | https://ago.vermont.gov/blog/2026/08/27/springfield-resident-sentenced-attempted-luring-child
+[2026-08-27 23:03:55]   NEW: Former Care Provider Charged With Sexual Abuse of a Vulnerable Adult | DateAugust 27, 2026 | https://ago.vermont.gov/blog/2026/08/27/former-care-provider-charged-sexual-abuse-vulnerable-adult
+[2026-08-27 23:03:55]   NEW: Vergennes Resident Charged With Driving Under the Influence and Grossly Negligent Operation Resulting in Death | DateAugust 27, 2026 | https://ago.vermont.gov/blog/2026/08/27/vergennes-resident-charged-driving-under-influence-and-grossly-negligent-operation-resulting-death
+[2026-08-27 23:03:55]   NEW: Attorney General Clark Sues Postal Service Over Unlawful Attempt to Interfere With States' Vote-by-Mail Procedures | DateAugust 26, 2026 | https://ago.vermont.gov/blog/2026/08/26/attorney-general-clark-sues-postal-service-over-unlawful-attempt-interfere-states-vote-mail
+[2026-08-27 23:03:55]   NEW: Attorney General Clark Announces Historic $92.7 Million Settlement With Meta | DateAugust 26, 2026 | https://ago.vermont.gov/blog/2026/08/26/attorney-general-clark-announces-historic-927-million-settlement-meta
+[2026-08-27 23:03:55] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-08-27 23:03:56] [VA] Found 50 item(s) on page.
+[2026-08-27 23:03:56] [VA] 3 new item(s):
+[2026-08-27 23:03:56]   NEW: ICYMI: Attorney General Jones Announces Federal Accountability Unit |  | https://www.oag.state.va.us/media-center/news-releases/3108-icymi-attorney-general-jones-announces-federal-accountability-unit
+[2026-08-27 23:03:56]   NEW: ICYMI: Attorney General Jones Secures Transformative Settlement with Meta, Delivering the Commonwealth $353 Million |  | https://www.oag.state.va.us/media-center/news-releases/3107-icymi-attorney-general-jones-secures-transformative-settlement-with-meta-delivering-the-commonwealth-353-million
+[2026-08-27 23:03:56]   NEW: Attorney General Jones Forms Dedicated Legal Unit to Confront Unprecedented Trump Administration Overreach |  | https://www.oag.state.va.us/media-center/news-releases/3106-attorney-general-jones-forms-dedicated-legal-unit-to-confront-unprecedented-trump-administration-overreach
+[2026-08-27 23:03:56] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-08-27 23:03:56] [WA] Found 15 item(s) on page.
+[2026-08-27 23:03:56] [WA] 3 new item(s):
+[2026-08-27 23:03:56]   NEW: Washington sues to protect funds for reproductive and preventive healthcare from illegal funding conditions | Thu, 27 Aug 2026 15:35:27 +0000 | https://www.atg.wa.gov/news/news-releases/washington-sues-protect-funds-reproductive-and-preventive-healthcare-illegal
+[2026-08-27 23:03:56]   NEW: AG Brown announces largest Big Tech settlement in history | Wed, 26 Aug 2026 15:23:00 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-announces-largest-big-tech-settlement-history
+[2026-08-27 23:03:56]   NEW: AG Brown sues U.S. Postal Service over unlawful attack on vote-by-mail | Wed, 26 Aug 2026 14:22:36 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-sues-us-postal-service-over-unlawful-attack-vote-mail
+[2026-08-27 23:03:56] [WV] Fetching https://ago.wv.gov/news
+[2026-08-27 23:03:56]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-08-27 23:03:59]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55109 chars)
+[2026-08-27 23:03:59]   Playwright found 30 item(s) with configured selector
+[2026-08-27 23:03:59] [WV] Found 30 item(s) on page.
+[2026-08-27 23:03:59] [WV] 1 new item(s):
+[2026-08-27 23:03:59]   NEW: Full Story | 2026-08-27T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-praises-response-wv-department-education-hope-scholarship-and
+[2026-08-27 23:03:59] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-27 23:03:59]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-27 23:04:03]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1559052 chars)
+[2026-08-27 23:04:03]   Playwright found 50 item(s) with configured selector
+[2026-08-27 23:04:03] [WI] Found 50 item(s) on page.
+[2026-08-27 23:04:03] [WI] 3 new item(s):
+[2026-08-27 23:04:03]   NEW: Wisconsin Department of Justice Challenges Illegal Trump Administration Conditions on Funding for Reproductive Health Care, Cancer Screenings |  | https://www.wisdoj.gov/PressReleases/press-release-title-x-lawsuit.pdf
+[2026-08-27 23:04:03]   NEW: Wisconsin Department of Justice Announces Largest Big Tech Settlement in History |  | https://www.wisdoj.gov/PressReleases/press-release-meta-settlement.pdf
+[2026-08-27 23:04:03]   NEW: Wisconsin Department of Justice Sues United States Postal Service Over Unlawful Attempt to Interfere with States’ Vote-By-Mail Procedures |  | https://www.wisdoj.gov/PressReleases/press-release-mail-voting-lawsuit.pdf
+[2026-08-27 23:04:03] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-08-27 23:04:03] [WY] Found 1 item(s) on page.
+[2026-08-27 23:04:03] [WY] No new items.
+[2026-08-27 23:04:03] States with fetch errors: KS, NH, OR
+[2026-08-27 23:04:03] Sending email: 90 new item(s) across 30 state(s).
+[2026-08-27 23:04:04] Email sent.
+[2026-08-27 23:04:04] Done.
