@@ -9893,3 +9893,12 @@ Call log:
 [2026-08-28 03:38:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400480
 [2026-08-28 03:38:31] Email notification sent.
 [2026-08-28 03:38:31] Done.
+[2026-08-28 15:51:11] Checking for new DE court opinions...
+[2026-08-28 15:51:11] Using Playwright to fetch opinions page...
+[2026-08-28 15:51:23] Playwright found 27 opinion(s).
+[2026-08-28 15:51:23] Found 27 opinions on page.
+[2026-08-28 15:51:23] 1 new opinion(s)!
+[2026-08-28 15:51:23]   NEW: [08/28/2026] [Court of Chancery] NCP US Terminals LP v. Odfjell Terminals US Holdings LLC et al. | 2024-1338-KSJM | McCormick,C.
+[2026-08-28 15:51:23]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400500
+[2026-08-28 15:51:24] Email notification sent.
+[2026-08-28 15:51:24] Done.
