@@ -1,29 +1,29 @@
 {
   "seen_ids": {
     "cdc_cyclospora": [
-      "https://www.cdc.gov/parasites/index.html",
+      "https://www.cdc.gov/foodborne-outbreaks/investigation-steps/index.html",
       "https://www.cdc.gov/ncezid",
-      "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
       "https://www.cdc.gov/foodborne-outbreaks/outbreak-basics/investigation-steps.html",
-      "https://www.cdc.gov/foodborne-outbreaks/investigation-steps/index.html"
+      "https://www.cdc.gov/cyclosporiasis/outbreaks/07-26/index.html",
+      "https://www.cdc.gov/parasites/index.html"
     ],
     "cdc_newsroom": [
-      "https://www.cdc.gov/outbreaks/index.html",
-      "https://www.cdc.gov/media/releases/2026/cdc-statement-on-newly-released-kindergarten-vaccination-data.html",
-      "https://www.cdc.gov/media/releases/2026/hhs-secretary-kennedys-remarks-honoring-david-rose-august-7-2026.html",
       "https://www.cdc.gov/media/es/index.html",
-      "https://www.cdc.gov/media/releases/2026/statement-on-cdc-public-health-readiness-response-for-the-fifa-world-cup-2026.html",
-      "https://www.cdc.gov/media/releases/2026/2026-cdc-warns-of-salmonella-outbreak-linked-to-jalapenos.html",
-      "https://www.cdc.gov/media/releases/2026/shredded-iceberg-lettuce-served-at-taco-bell-locations-is-source-of-cyclosporiasis-infections.html",
-      "https://www.cdc.gov/media/releases/2026/outbreak-linked-to-alfalfa-sprouts-people-sickened-with-e-coli-and-salmonella.html",
-      "https://www.cdc.gov/about/index.html",
-      "https://www.cdc.gov/media/releases/2026/cyclospora-outbreak-linked-to-iceberg-lettuce-expanded-to-four-new-states.html",
-      "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-cyclosporiasis-response-7-14-26.html",
+      "https://www.cdc.gov/media/releases/2026/cdc-statement-on-newly-released-kindergarten-vaccination-data.html",
       "https://www.cdc.gov/media/releases/2026/new-cdc-data-shows-decline-in-healthcare-associated-infections.html",
-      "https://www.cdc.gov/media/releases/2026/cdc-ebola-outbreak-in-democratic-republic-of-congo-and-uganda.html",
+      "https://www.cdc.gov/outbreaks/index.html",
+      "https://www.cdc.gov/media/releases/2026/statement-on-cdc-public-health-readiness-response-for-the-fifa-world-cup-2026.html",
+      "https://www.cdc.gov/media/releases/2026/cyclospora-outbreak-linked-to-iceberg-lettuce-expanded-to-four-new-states.html",
+      "https://www.cdc.gov/media/releases/2026/cdc-warns-of-e-coli-outbreak-linked-to-frozen-blueberries.html",
       "https://www.cdc.gov/media/b-roll/index.html",
-      "https://www.cdc.gov/media/releases/2026/cdc-warns-of-e-coli-outbreak-linked-to-frozen-blueberries.html"
+      "https://www.cdc.gov/media/releases/2026/transcript-update-on-cdcs-cyclosporiasis-response-7-14-26.html",
+      "https://www.cdc.gov/media/releases/2026/shredded-iceberg-lettuce-served-at-taco-bell-locations-is-source-of-cyclosporiasis-infections.html",
+      "https://www.cdc.gov/media/releases/2026/2026-cdc-warns-of-salmonella-outbreak-linked-to-jalapenos.html",
+      "https://www.cdc.gov/media/releases/2026/outbreak-linked-to-alfalfa-sprouts-people-sickened-with-e-coli-and-salmonella.html",
+      "https://www.cdc.gov/media/releases/2026/hhs-secretary-kennedys-remarks-honoring-david-rose-august-7-2026.html",
+      "https://www.cdc.gov/media/releases/2026/cdc-ebola-outbreak-in-democratic-republic-of-congo-and-uganda.html",
+      "https://www.cdc.gov/about/index.html"
     ]
   },
-  "last_run": "2026-08-27T23:43:40.365334"
+  "last_run": "2026-08-28T23:31:35.301389"
 }
