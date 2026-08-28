@@ -26861,3 +26861,248 @@ Call log:
 [2026-08-27 23:04:03] Sending email: 90 new item(s) across 30 state(s).
 [2026-08-27 23:04:04] Email sent.
 [2026-08-27 23:04:04] Done.
+[2026-08-28 23:08:22] Checking for new AG press releases...
+[2026-08-28 23:08:22] Checking 50 state(s).
+[2026-08-28 23:08:22] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-08-28 23:08:22]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-08-28 23:08:26]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (235558 chars)
+[2026-08-28 23:08:26]   Playwright found 27 item(s) with configured selector
+[2026-08-28 23:08:26] [AL] Found 27 item(s) on page.
+[2026-08-28 23:08:26] [AL] 1 new item(s):
+[2026-08-28 23:08:26]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-court-of-criminal-appeals-upholds-intentional-murder-conviction-in-russell-county/
+[2026-08-28 23:08:26] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-08-28 23:08:26] [AK] Found 50 item(s) on page.
+[2026-08-28 23:08:26] [AK] 1 new item(s):
+[2026-08-28 23:08:26]   NEW: Jury Convicts Nome Man of 28 counts of Sexual Abuse of 9 Children Occurring Over 4 Decades |  | https://law.alaska.gov/releases/2026/082726-Ozenna.html
+[2026-08-28 23:08:26] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-08-28 23:08:26] [AZ] Found 10 item(s) on page.
+[2026-08-28 23:08:26] [AZ] 4 new item(s):
+[2026-08-28 23:08:26]   NEW: Attorney General Mayes Secures Court Order to Protect Arizonans’ Right to Vote by Mail |  | https://www.azag.gov/press-release/attorney-general-mayes-secures-court-order-protect-arizonans-right-vote-mail
+[2026-08-28 23:08:26]   NEW: Attorney General Mayes Vows to Defend Prop 308 Against Federal Lawsuit |  | https://www.azag.gov/press-release/attorney-general-mayes-vows-defend-prop-308-against-federal-lawsuit
+[2026-08-28 23:08:26]   NEW: Attorney General Mayes Celebrates Ninth Circuit Ruling Affirming State Authority to Regulate Sports Betting |  | https://www.azag.gov/press-release/attorney-general-mayes-celebrates-ninth-circuit-ruling-affirming-state-authority
+[2026-08-28 23:08:26]   NEW: Attorney General Mayes Defends Arizona's Proof-of-Citizenship Voter Registration Law at U.S. Supreme Court |  | https://www.azag.gov/press-release/attorney-general-mayes-defends-arizonas-proof-citizenship-voter-registration-law-us
+[2026-08-28 23:08:26] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-08-28 23:08:27] [AR] Found 50 item(s) on page.
+[2026-08-28 23:08:27] [AR] No new items.
+[2026-08-28 23:08:27] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-08-28 23:08:28] [CA] Found 10 item(s) on page.
+[2026-08-28 23:08:28] [CA] 5 new item(s):
+[2026-08-28 23:08:28]   NEW: Attorney General Bonta Secures Ninth Circuit Victory Defending California’s Commonsense Gun Store Safety Measures | Fri, 28 Aug 2026 18:43:17 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-ninth-circuit-victory-defending-california%E2%80%99s
+[2026-08-28 23:08:28]   NEW: California Department of Justice Investigating Lathrop Police Department Officer-Involved Shooting Under AB 1506 | Fri, 28 Aug 2026 17:46:13 +0000 | https://oag.ca.gov/news/press-releases/california-department-justice-investigating-lathrop-police-department-officer
+[2026-08-28 23:08:28]   NEW: Attorney General Bonta Announces Lawsuit Challenging Unlawful Trump Administration Wind Deal | Fri, 28 Aug 2026 15:33:51 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-lawsuit-challenging-unlawful-trump
+[2026-08-28 23:08:28]   NEW: Attorney General Bonta Secures Early Win for Voters in Lawsuit Over USPS Rule Restricting Mail-In Voting | Fri, 28 Aug 2026 02:45:14 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-early-win-voters-lawsuit-over-usps-rule
+[2026-08-28 23:08:28]   NEW: Statement from Attorney General Bonta on Court Ruling Affirming Trump Administration's Illegal Interim Final Rule to Lower Wages for Farmworkers | Thu, 27 Aug 2026 17:03:29 +0000 | https://oag.ca.gov/news/press-releases/statement-attorney-general-bonta-court-ruling-affirming-trump-administrations
+[2026-08-28 23:08:28] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-08-28 23:08:28] [CO] Found 50 item(s) on page.
+[2026-08-28 23:08:28] [CO] No new items.
+[2026-08-28 23:08:28] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-08-28 23:08:29] [CT] Found 33 item(s) on page.
+[2026-08-28 23:08:29] [CT] 1 new item(s):
+[2026-08-28 23:08:29]   NEW: Attorney General Tong Secures Court Order Temporarily Blocking Postal Service’s Unlawful Mail Voting Rule | 8/28/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-secures-court-order-blocking-unlawful-mail-voting-rule
+[2026-08-28 23:08:29] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-08-28 23:08:30] [DE] Found 300 item(s) on page.
+[2026-08-28 23:08:30] [DE] No new items.
+[2026-08-28 23:08:30] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-08-28 23:08:31] [FL] Found 20 item(s) on page.
+[2026-08-28 23:08:31] [FL] No new items.
+[2026-08-28 23:08:31] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-08-28 23:08:31] [GA] Found 11 item(s) on page.
+[2026-08-28 23:08:31] [GA] 1 new item(s):
+[2026-08-28 23:08:31]   NEW: AG Carr and DA Shealy Secure New Indictment for Death of 16-Year-Old in RemertonAugust 28, 2026 |  | https://law.georgia.gov/press-releases/2026-08-28/ag-carr-and-da-shealy-secure-new-indictment-death-16-year-old-remerton
+[2026-08-28 23:08:31] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-08-28 23:08:32] [HI] Found 26 item(s) on page.
+[2026-08-28 23:08:32] [HI] No new items.
+[2026-08-28 23:08:32] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-28 23:08:32]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-08-28 23:08:36]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65820 chars)
+[2026-08-28 23:08:36]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-08-28 23:08:36] [ID] Found 28 item(s) on page.
+[2026-08-28 23:08:36] [ID] No new items.
+[2026-08-28 23:08:36] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-08-28 23:08:37] [IL] Found 50 item(s) on page.
+[2026-08-28 23:08:37] [IL] 3 new item(s):
+[2026-08-28 23:08:37]   NEW: August 28, 2026UPDATE: ATTORNEY GENERAL RAOUL SECURES ORDER TEMPORARILY BLOCKING THE U.S. POSTAL SERVICE’S UNLAWFUL MAIL VOTING RULE | 2026-08-28 1:30 PM | https://illinoisattorneygeneral.gov/news/story/update-attorney-general-raoul-secures-order-temporarily-blocking-the-us-postal-services-unlawful-mail-voting-rule
+[2026-08-28 23:08:37]   NEW: August 28, 2026ATTORNEY GENERAL RAOUL OPPOSES NEW BARRIERS TO SPONSORSHIP OF UNACCOMPANIED CHILDREN | 2026-08-28 1:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-new-barriers-to-sponsorship-of-unaccompanied-children
+[2026-08-28 23:08:37]   NEW: August 07, 2026ATTORNEY GENERAL RAOUL SECURES VICTORY WITH NEXSTAR/TEGNA MOTION | 2026-08-28 1:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-secures-victory-with-nexstar-tegna-motion
+[2026-08-28 23:08:37] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-08-28 23:08:38] [IN] Found 35 item(s) on page.
+[2026-08-28 23:08:38] [IN] No new items.
+[2026-08-28 23:08:38] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-08-28 23:08:38] [IA] Found 10 item(s) on page.
+[2026-08-28 23:08:38] [IA] No new items.
+[2026-08-28 23:08:38] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-28 23:08:38]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-08-28 23:08:41]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-08-28 23:08:41]   Playwright: page loaded but no links matched — check selectors
+[2026-08-28 23:08:41]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-08-28 23:08:42]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-28 23:09:02]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-28 23:09:23]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-08-28 23:09:23] [KS] No items returned (fetch failed or empty page).
+[2026-08-28 23:09:23] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-08-28 23:09:25] [KY] Found 26 item(s) on page.
+[2026-08-28 23:09:25] [KY] No new items.
+[2026-08-28 23:09:25] [LA] Fetching https://ag.louisiana.gov/News
+[2026-08-28 23:09:25] [LA] Found 20 item(s) on page.
+[2026-08-28 23:09:25] [LA] 2 new item(s):
+[2026-08-28 23:09:25]   NEW: Louisiana Attorney General Liz Murrill’s Office Arrested a New Orleans Man on 10 Counts of Child Sexual Abuse Material | 8/28/2026 | https://ag.louisiana.gov/Article/622
+[2026-08-28 23:09:25]   NEW: AG Murrill’s Office Rearrests Caddo School Paraprofessional on First-Degree Rape of a Disabled Student | 8/28/2026 | https://ag.louisiana.gov/Article/621
+[2026-08-28 23:09:25] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-08-28 23:09:26] [ME] Found 14 item(s) on page.
+[2026-08-28 23:09:26] [ME] No new items.
+[2026-08-28 23:09:26] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-08-28 23:09:27] [MD] Found 50 item(s) on page.
+[2026-08-28 23:09:27] [MD] No new items.
+[2026-08-28 23:09:27] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-28 23:09:27]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-08-28 23:09:30]   Playwright loaded page: 'News and Announcements | Mass.gov' (177361 chars)
+[2026-08-28 23:09:30]   Playwright found 15 item(s) with configured selector
+[2026-08-28 23:09:30] [MA] Found 15 item(s) on page.
+[2026-08-28 23:09:30] [MA] 1 new item(s):
+[2026-08-28 23:09:30]   NEW: AG Campbell Secures Court Order Temporarily Blocking Postal Service’s Unlawful Mail Voting Rule | 8/28/2026 | https://www.mass.gov/news/ag-campbell-secures-court-order-temporarily-blocking-postal-services-unlawful-mail-voting-rule
+[2026-08-28 23:09:30] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-08-28 23:09:30]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-08-28 23:09:34]   Playwright loaded page: 'Attorney General: Press Releases' (377445 chars)
+[2026-08-28 23:09:34]   Playwright found 10 item(s) with configured selector
+[2026-08-28 23:09:34] [MI] Found 10 item(s) on page.
+[2026-08-28 23:09:34] [MI] 2 new item(s):
+[2026-08-28 23:09:34]   NEW: AG Nessel Seeks to Slash DTE’s $474 Million Rate Hike Request by 71% |  | https://www.michigan.gov/ag/news/press-releases/2026/08/28/ag-nessel-seeks-to-slash-dtes-474-million-rate-hike-request-by-71
+[2026-08-28 23:09:34]   NEW: Court Grants Emergency Stay for Unlawful USPS Mail Ballot Rule |  | https://www.michigan.gov/ag/news/press-releases/2026/08/27/court-grants-emergency-stay-for-unlawful-usps-mail-ballot-rule
+[2026-08-28 23:09:34] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-08-28 23:09:34] [MN] Found 50 item(s) on page.
+[2026-08-28 23:09:34] [MN] 1 new item(s):
+[2026-08-28 23:09:34]   NEW: Sanford Health - North Memorial Health Transaction Review |  | https://www.ag.state.mn.us/Health-Care/Transactions/Sanford-North.asp
+[2026-08-28 23:09:34] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-08-28 23:09:34] [MS] Found 1 item(s) on page.
+[2026-08-28 23:09:34] [MS] 1 new item(s):
+[2026-08-28 23:09:34]   NEW: AG Fitch Statement on Arraignment in the Walker Montgomery Case (August 28, 2026) |  | https://attorneygenerallynnfitch.com/2026/08/28/ag-fitch-statement-on-arraignment-in-the-walker-montgomery-case-august-28-2026/
+[2026-08-28 23:09:34] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-08-28 23:09:35] [MO] Found 50 item(s) on page.
+[2026-08-28 23:09:35] [MO] 1 new item(s):
+[2026-08-28 23:09:35]   NEW: Attorney General Hanaway Announces Guilty Verdict in Butler County Double Murder Case |  | https://ago.mo.gov/attorney-general-hanaway-announces-guilty-verdict-in-butler-county-double-murder-case/
+[2026-08-28 23:09:35] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-08-28 23:09:35] [MT] Found 10 item(s) on page.
+[2026-08-28 23:09:35] [MT] 1 new item(s):
+[2026-08-28 23:09:35]   NEW: Attorney General Knudsen issues legal guidance following Silencer Shop ruling |  | https://dojmt.gov/attorney-general-knudsen-issues-legal-guidance-following-silencer-shop-ruling/
+[2026-08-28 23:09:35] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-08-28 23:09:35] [NE] Found 10 item(s) on page.
+[2026-08-28 23:09:35] [NE] No new items.
+[2026-08-28 23:09:35] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-08-28 23:09:36] [NV] Found 50 item(s) on page.
+[2026-08-28 23:09:36] [NV] No new items.
+[2026-08-28 23:09:36] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-08-28 23:09:36]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-08-28 23:09:38]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-08-28 23:09:38]   Playwright: page loaded but no links matched — check selectors
+[2026-08-28 23:09:38]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-08-28 23:09:38]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-28 23:09:58]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-28 23:10:19]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-08-28 23:10:19] [NH] No items returned (fetch failed or empty page).
+[2026-08-28 23:10:19] [NJ] Fetching https://www.njoag.gov/news/
+[2026-08-28 23:10:20] [NJ] Found 5 item(s) on page.
+[2026-08-28 23:10:20] [NJ] 3 new item(s):
+[2026-08-28 23:10:20]   NEW: AG Davenport Announces Prospect Park Councilman Admits Role in Illegal Gambling Operation |  | https://www.njoag.gov/ag-davenport-announces-prospect-park-councilman-admits-role-in-illegal-gambling-operation/
+[2026-08-28 23:10:20]   NEW: Nursing Director Admits to Assaulting Resident at Rehabilitation Center, Attempted Cover-Up |  | https://www.njoag.gov/nursing-director-admits-to-assaulting-resident-at-rehabilitation-center-attempted-cover-up/
+[2026-08-28 23:10:20]   NEW: Ocean County Nurse Admits to Assaulting and Neglecting Elderly Nursing Home Resident |  | https://www.njoag.gov/ocean-county-nurse-admits-to-assaulting-and-neglecting-elderly-nursing-home-resident/
+[2026-08-28 23:10:20] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-08-28 23:10:22] [NM] Found 12 item(s) on page.
+[2026-08-28 23:10:22] [NM] 3 new item(s):
+[2026-08-28 23:10:22]   NEW: MEDIA ADVISORY: FastBucks Settlement Funds Now Available to Eligible New Mexicans |  | https://nmdoj.gov/press-release/media-advisory-fastbucks-settlement-funds-now-available-to-eligible-new-mexicans/
+[2026-08-28 23:10:22]   NEW: Attorney General Raúl Torrez Secures Court Order Temporarily Blocking Postal Service’s Unlawful Mail Voting Rule |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-secures-court-order-temporarily-blocking-postal-services-unlawful-mail-voting-rule/
+[2026-08-28 23:10:22]   NEW: New Mexico Department of Justice Secures Maximum Sentence, Over a Decade, Against Father Who Manufactured Child Sexual Abuse Material Containing His Own Child |  | https://nmdoj.gov/press-release/new-mexico-department-of-justice-secures-maximum-sentence-over-a-decade-against-father-who-manufactured-child-sexual-abuse-material-containing-his-own-child/
+[2026-08-28 23:10:22] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-08-28 23:10:22] [NY] Found 25 item(s) on page.
+[2026-08-28 23:10:22] [NY] 1 new item(s):
+[2026-08-28 23:10:22]   NEW: Attorney General James Blocks Unlawful USPS Mail-In Voting Rule |  | https://ag.ny.gov/press-release/2026/attorney-general-james-blocks-unlawful-usps-mail-voting-rule
+[2026-08-28 23:10:22] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-08-28 23:10:25] [NC] Found 10 item(s) on page.
+[2026-08-28 23:10:25] [NC] 1 new item(s):
+[2026-08-28 23:10:25]   NEW: Attorney General Jeff Jackson’s Landmark Meta Settlement Goes Into Effect |  | https://ncdoj.gov/attorney-general-jeff-jacksons-landmark-meta-settlement-goes-into-effect/
+[2026-08-28 23:10:25] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-08-28 23:10:26] [ND] Found 10 item(s) on page.
+[2026-08-28 23:10:26] [ND] 1 new item(s):
+[2026-08-28 23:10:26]   NEW: The North Dakota Attorney General issued an opinion to North Prairie Regional Water District | August 28, 2026August 28, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-an-opinion-to-north-prairie-regional-water-district/
+[2026-08-28 23:10:26] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-08-28 23:10:26] [OH] Found 10 item(s) on page.
+[2026-08-28 23:10:26] [OH] 1 new item(s):
+[2026-08-28 23:10:26]   NEW: Attorney General Wilson Awards Second Round of Grants to Combat Illegal Dumping in Neighborhoods | 8/28/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/August-2026/Attorney-General-Wilson-Awards-Second-Round-of-Gra
+[2026-08-28 23:10:26] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-28 23:10:26]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-08-28 23:10:29]   Playwright loaded page: 'News Releases' (836646 chars)
+[2026-08-28 23:10:29]   Playwright: page loaded but no links matched — check selectors
+[2026-08-28 23:10:29]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-08-28 23:10:29] [OK] No items returned (fetch failed or empty page).
+[2026-08-28 23:10:29] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-08-28 23:10:30] [OR] Found 10 item(s) on page.
+[2026-08-28 23:10:30] [OR] 4 new item(s):
+[2026-08-28 23:10:30]   NEW: AG Rayfield Secures Court Order to Protect Oregonians’ Voting Rights |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-secures-court-order-to-protect-oregonians-voting-rights/
+[2026-08-28 23:10:30]   NEW: Attorney General Rayfield Stands Up to Federal Attacks on Family Planning |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-stands-up-to-federal-attacks-on-family-planning/
+[2026-08-28 23:10:30]   NEW: Attorney General Rayfield Moves to Block Trump’s Meddling in Oregon Elections |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-moves-to-block-trumps-meddling-in-oregon-elections/
+[2026-08-28 23:10:30]   NEW: Attorney General Dan Rayfield Announces Landmark Settlement Forcing Meta to Redesign Instagram and Facebook to Protect Kids |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-announces-landmark-settlement-with-meta-to-protect-kids/
+[2026-08-28 23:10:30] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-08-28 23:10:31] [PA] Found 12 item(s) on page.
+[2026-08-28 23:10:31] [PA] 2 new item(s):
+[2026-08-28 23:10:31]   NEW: Fraud Protection & Consumer AlertsAUG 28, 2026AG Sunday Warns Pennsylvanians of Phishing Scam Targeting “MyChart” Patient Portal UsersHARRISBURG – Attorney General Dave Sunday is warning Pennsylvanians who use MyChart — a popular online patient portal used by many hospitals and health care providers — to…Read more | 2026-08-28T11:32:29-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-warns-pennsylvanians-of-phishing-scam-targeting-mychart-patient-portal-users/
+[2026-08-28 23:10:31]   NEW: CrimeAUG 28, 2026VERDICT: Ronald Weiss Again Convicted of 1st-Degree Murder for Killing 16YO Girl in 1978HARRISBURG — Attorney General Dave Sunday announced that an Indiana County jury convicted Ronald Lee Weiss of first-degree murder for killing Barbara Bruzda — nearly 50 years after…Read more | 2026-08-28T11:03:46-04:00 | https://www.attorneygeneral.gov/taking-action/verdict-ronald-weiss-again-convicted-of-1st-degree-murder-for-killing-16yo-girl-in-1978/
+[2026-08-28 23:10:31] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-08-28 23:10:31] [RI] Found 10 item(s) on page.
+[2026-08-28 23:10:31] [RI] No new items.
+[2026-08-28 23:10:31] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-08-28 23:10:31]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-08-28 23:10:35]   Playwright loaded page: 'News - South Carolina Attorney General' (110334 chars)
+[2026-08-28 23:10:35]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-08-28 23:10:35] [SC] Found 9 item(s) on page.
+[2026-08-28 23:10:35] [SC] No new items.
+[2026-08-28 23:10:35] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-08-28 23:10:35]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=8
+[2026-08-28 23:10:38]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-08-28 23:10:38]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-08-28 23:10:38] [SD] Found 1 item(s) on page.
+[2026-08-28 23:10:38] [SD] No new items.
+[2026-08-28 23:10:38] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-08-28 23:10:38] [TN] Found 50 item(s) on page.
+[2026-08-28 23:10:38] [TN] No new items.
+[2026-08-28 23:10:38] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-08-28 23:10:39] [TX] Found 50 item(s) on page.
+[2026-08-28 23:10:39] [TX] 1 new item(s):
+[2026-08-28 23:10:39]   NEW: Attor­ney Gen­er­al Ken Pax­ton Sup­ports Pause of765-kV Trans­mis­sion Line Build­out Pend­ing Leg­isla­tive Review |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-supports-pause-765-kv-transmission-line-buildout-pending-legislative
+[2026-08-28 23:10:39] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-08-28 23:10:39]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-08-28 23:10:43]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296883 chars)
+[2026-08-28 23:10:43]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-08-28 23:10:43] [UT] Found 50 item(s) on page.
+[2026-08-28 23:10:43] [UT] No new items.
+[2026-08-28 23:10:43] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-08-28 23:10:43] [VT] Found 50 item(s) on page.
+[2026-08-28 23:10:43] [VT] 1 new item(s):
+[2026-08-28 23:10:43]   NEW: Attorney General Clark Announces 2026 Legal Community Fighting Hunger Food and Diaper Drive | DateAugust 28, 2026 | https://ago.vermont.gov/blog/2026/08/28/attorney-general-clark-announces-2026-legal-community-fighting-hunger-food-and-diaper-drive
+[2026-08-28 23:10:43] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-08-28 23:10:44] [VA] Found 50 item(s) on page.
+[2026-08-28 23:10:44] [VA] 1 new item(s):
+[2026-08-28 23:10:44]   NEW: VIDEO: Attorney General Jay Jones on C-SPAN Discussing Landmark $353 Million Settlement Between Meta and Virginia |  | https://www.oag.state.va.us/media-center/news-releases/3109-video-attorney-general-jay-jones-on-c-span-discussing-landmark-353-million-settlement-between-meta-and-virginia
+[2026-08-28 23:10:44] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-08-28 23:10:44] [WA] Found 15 item(s) on page.
+[2026-08-28 23:10:44] [WA] 1 new item(s):
+[2026-08-28 23:10:44]   NEW: AG Brown secures court order temporarily blocking Postal Service’s unlawful mail voting rule | Fri, 28 Aug 2026 16:26:39 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-secures-court-order-temporarily-blocking-postal-service-s-unlawful-mail
+[2026-08-28 23:10:44] [WV] Fetching https://ago.wv.gov/news
+[2026-08-28 23:10:44]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-08-28 23:10:47]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55162 chars)
+[2026-08-28 23:10:47]   Playwright found 30 item(s) with configured selector
+[2026-08-28 23:10:47] [WV] Found 30 item(s) on page.
+[2026-08-28 23:10:47] [WV] 1 new item(s):
+[2026-08-28 23:10:47]   NEW: Full Story | 2026-08-28T12:00:00Z | https://ago.wv.gov/article/ag-mccuskey-asks-supreme-court-reverse-epa-rule-threatening-west-virginia-jobs-energy-costs
+[2026-08-28 23:10:47] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-28 23:10:47]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-08-28 23:10:51]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1560254 chars)
+[2026-08-28 23:10:51]   Playwright found 50 item(s) with configured selector
+[2026-08-28 23:10:51] [WI] Found 50 item(s) on page.
+[2026-08-28 23:10:51] [WI] 1 new item(s):
+[2026-08-28 23:10:51]   NEW: Wisconsin Department of Justice Secures Court Order Temporarily Blocking Key Parts of Postal Service’s Unlawful Mail Voting Rule |  | https://www.wisdoj.gov/PressReleases/press-release-mail-voting-lawsuit-win.pdf
+[2026-08-28 23:10:51] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-08-28 23:10:52] [WY] Found 1 item(s) on page.
+[2026-08-28 23:10:52] [WY] No new items.
+[2026-08-28 23:10:52] States with fetch errors: KS, NH, OK
+[2026-08-28 23:10:52] Sending email: 47 new item(s) across 28 state(s).
+[2026-08-28 23:10:53] Email sent.
+[2026-08-28 23:10:53] Done.
