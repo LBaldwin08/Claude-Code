@@ -1381,3 +1381,40 @@
 [2026-08-30 18:01:48] [cdc_newsroom] No new items.
 [2026-08-30 18:01:48] No new cyclospora + Taylor Farms/Taco Bell matches.
 [2026-08-30 18:01:48] Done.
+[2026-08-31 19:54:13] Checking for new FDA/CDC cyclospora items...
+[2026-08-31 19:54:13] [fda_outbreaks] Fetching https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+[2026-08-31 19:54:13]   Using Playwright headless browser for https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks
+[2026-08-31 19:54:17]   Playwright loaded page: '' (161 chars)
+[2026-08-31 19:54:17]   Playwright: page loaded but no links matched — check selectors
+[2026-08-31 19:54:17]   [fda_outbreaks] Playwright fetch failed, falling back to plain HTTP
+[2026-08-31 19:54:17]   Attempt 1/3 failed for https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:54:37]   Attempt 2/3 failed for https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:54:57]   Attempt 3/3 failed for https://www.fda.gov/food/outbreaks-foodborne-illness/investigations-foodborne-illness-outbreaks: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:54:57] [fda_outbreaks] No items returned (fetch failed or empty page).
+[2026-08-31 19:54:57] [fda_recalls] Fetching https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml
+[2026-08-31 19:54:57]   Attempt 1/3 failed for https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:55:17]   Attempt 2/3 failed for https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:55:37]   Attempt 3/3 failed for https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/recalls/rss.xml: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:55:37]   [fda_recalls] RSS fetch failed, falling back to HTML scrape
+[2026-08-31 19:55:37]   Using Playwright headless browser for https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts
+[2026-08-31 19:55:39]   Playwright loaded page: '' (161 chars)
+[2026-08-31 19:55:39]   Playwright: page loaded but no links matched — check selectors
+[2026-08-31 19:55:39]   [fda_recalls] Playwright fetch failed, falling back to plain HTTP
+[2026-08-31 19:55:39]   Attempt 1/3 failed for https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:55:59]   Attempt 2/3 failed for https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:56:19]   Attempt 3/3 failed for https://www.fda.gov/safety/recalls-market-withdrawals-safety-alerts: 404 Client Error: Not Found for url: https://www.fda.gov/apology_objects/abuse-detection-apology.html
+[2026-08-31 19:56:19] [fda_recalls] No items returned (fetch failed or empty page).
+[2026-08-31 19:56:19] [cdc_cyclospora] Fetching https://www.cdc.gov/cyclosporiasis/outbreaks/index.html
+[2026-08-31 19:56:19]   Using Playwright headless browser for https://www.cdc.gov/cyclosporiasis/outbreaks/index.html
+[2026-08-31 19:56:23]   Playwright loaded page: 'Cyclosporiasis Outbreaks and Investigations | Cyclosporiasis | CDC' (65144 chars)
+[2026-08-31 19:56:23]   Playwright found 4 item(s) with configured selector
+[2026-08-31 19:56:23] [cdc_cyclospora] Found 4 item(s) on page.
+[2026-08-31 19:56:23] [cdc_cyclospora] No new items.
+[2026-08-31 19:56:23] [cdc_newsroom] Fetching https://www.cdc.gov/media/index.html
+[2026-08-31 19:56:23]   Using Playwright headless browser for https://www.cdc.gov/media/index.html
+[2026-08-31 19:56:26]   Playwright loaded page: 'CDC Newsroom | CDC' (99726 chars)
+[2026-08-31 19:56:26]   Playwright found 10 item(s) with configured selector
+[2026-08-31 19:56:26] [cdc_newsroom] Found 10 item(s) on page.
+[2026-08-31 19:56:26] [cdc_newsroom] 1 new item(s) to evaluate.
+[2026-08-31 19:56:26] No new cyclospora + Taylor Farms/Taco Bell matches.
+[2026-08-31 19:56:26] Done.
