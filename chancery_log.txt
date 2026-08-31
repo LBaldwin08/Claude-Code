@@ -10024,3 +10024,14 @@ Call log:
 [2026-08-31 19:12:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400580
 [2026-08-31 19:12:05] Email notification sent.
 [2026-08-31 19:12:05] Done.
+[2026-08-31 23:16:43] Checking for new DE court opinions...
+[2026-08-31 23:16:43] Using Playwright to fetch opinions page...
+[2026-08-31 23:16:55] Playwright found 27 opinion(s).
+[2026-08-31 23:16:55] Found 27 opinions on page.
+[2026-08-31 23:16:55] 2 new opinion(s)!
+[2026-08-31 23:16:55]   NEW: [08/31/2026] [Superior Court] Abdullah, et al. v. Ford Motor Company | N25C-03-277 DJB | BrennanJ.
+[2026-08-31 23:16:55]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400630
+[2026-08-31 23:16:55]   NEW: [08/31/2026] [Superior Court] Omnicare Pharmacy of Florida, LLC v. Lake City Nursing, LLC, et al. | N25C-01-233 KMM | MillerJ.
+[2026-08-31 23:16:55]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400640
+[2026-08-31 23:16:56] Email notification sent.
+[2026-08-31 23:16:56] Done.
