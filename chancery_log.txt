@@ -10011,3 +10011,16 @@ Call log:
 [2026-08-31 12:27:58] Found 27 opinions on page.
 [2026-08-31 12:27:58] No new opinions.
 [2026-08-31 12:27:58] Done.
+[2026-08-31 19:11:51] Checking for new DE court opinions...
+[2026-08-31 19:11:51] Using Playwright to fetch opinions page...
+[2026-08-31 19:12:03] Playwright found 27 opinion(s).
+[2026-08-31 19:12:03] Found 27 opinions on page.
+[2026-08-31 19:12:03] 3 new opinion(s)!
+[2026-08-31 19:12:03]   NEW: [08/31/2026] [Superior Court] State v. Brown | 1401003084 | ButlerR.J.
+[2026-08-31 19:12:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400620
+[2026-08-31 19:12:03]   NEW: [08/31/2026] [Supreme Court(Superior Court)] Great American Insurance Company v. Big V Capital LLC | 329, 2026 | SeitzC.J.
+[2026-08-31 19:12:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400570
+[2026-08-31 19:12:03]   NEW: [08/28/2026] [Court of Chancery] ATG Capital Opportunities Fund LP v. Ryan Lane, et al. | 2026-0447-LWW | WillV.C.
+[2026-08-31 19:12:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400580
+[2026-08-31 19:12:05] Email notification sent.
+[2026-08-31 19:12:05] Done.
