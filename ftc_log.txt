@@ -1188,3 +1188,14 @@
 [2026-08-30 17:44:22] Found 20 press release(s) on page.
 [2026-08-30 17:44:22] No new press releases.
 [2026-08-30 17:44:22] Done.
+[2026-08-31 19:35:34] Checking for new FTC press releases...
+[2026-08-31 19:35:34] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-08-31 19:35:48] Playwright found 0 press release link(s).
+[2026-08-31 19:35:48] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-08-31 19:35:48] requests found 20 press release link(s).
+[2026-08-31 19:35:48] Found 20 press release(s) on page.
+[2026-08-31 19:35:48] 1 new press release(s)!
+[2026-08-31 19:35:48]   NEW: [2026-08-31T12:00:00Z] FTC, States Sue Amazon Over Secret Ad Surcharge Scheme
+[2026-08-31 19:35:48]        https://www.ftc.gov/news-events/news/press-releases/2026/08/ftc-states-sue-amazon-over-secret-ad-surcharge-scheme
+[2026-08-31 19:35:50] Email notification sent.
+[2026-08-31 19:35:50] Done.
