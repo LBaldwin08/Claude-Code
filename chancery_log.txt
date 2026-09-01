@@ -10075,3 +10075,14 @@ Call log:
 [2026-09-01 20:01:29] Found 27 opinions on page.
 [2026-09-01 20:01:29] No new opinions.
 [2026-09-01 20:01:29] Done.
+[2026-09-01 22:42:51] Checking for new DE court opinions...
+[2026-09-01 22:42:51] Using Playwright to fetch opinions page...
+[2026-09-01 22:43:03] Playwright found 27 opinion(s).
+[2026-09-01 22:43:03] Found 27 opinions on page.
+[2026-09-01 22:43:03] 2 new opinion(s)!
+[2026-09-01 22:43:03]   NEW: [09/01/2026] [Superior Court] Senisch v. Comegys et al. | N26C-06-211 SSA | AugusthyJ.
+[2026-09-01 22:43:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400670
+[2026-09-01 22:43:03]   NEW: [08/31/2026] [Superior Court] First Hartford Realty Corporation v. Food Ventures North America, Inc. | N23C-06-085 PRW | WallaceJ.
+[2026-09-01 22:43:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400680
+[2026-09-01 22:43:04] Email notification sent.
+[2026-09-01 22:43:04] Done.
