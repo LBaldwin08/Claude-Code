@@ -10056,3 +10056,16 @@ Call log:
 [2026-09-01 12:39:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400650
 [2026-09-01 12:39:37] Email notification sent.
 [2026-09-01 12:39:37] Done.
+[2026-09-01 17:06:42] Checking for new DE court opinions...
+[2026-09-01 17:06:42] Using Playwright to fetch opinions page...
+[2026-09-01 17:06:54] Playwright found 27 opinion(s).
+[2026-09-01 17:06:54] Found 27 opinions on page.
+[2026-09-01 17:06:54] 3 new opinion(s)!
+[2026-09-01 17:06:54]   NEW: [08/31/2026] [Supreme Court(Family Court)] Mikeson, Terek v. Mertyle Umbrington | 37, 2026 | GriffithsJ.
+[2026-09-01 17:06:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400600
+[2026-09-01 17:06:54]   NEW: [08/31/2026] [Supreme Court(Superior Court)] Earl v. State | 121, 2026 | SeitzC.J.
+[2026-09-01 17:06:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400610
+[2026-09-01 17:06:54]   NEW: [08/27/2026] [Superior Court] Adage Investment Partners, LLC v. Bounce AI, Inc. | N25C-10-327 KMM CCLD | MillerJ.
+[2026-09-01 17:06:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400660
+[2026-09-01 17:06:56] Email notification sent.
+[2026-09-01 17:06:56] Done.
