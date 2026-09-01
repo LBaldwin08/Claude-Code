@@ -27722,3 +27722,236 @@ Call log:
 [2026-08-31 19:36:13] Sending email: 12 new item(s) across 8 state(s).
 [2026-08-31 19:36:14] Email sent.
 [2026-08-31 19:36:14] Done.
+[2026-09-01 17:22:26] Checking for new AG press releases...
+[2026-09-01 17:22:26] Checking 50 state(s).
+[2026-09-01 17:22:26] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-09-01 17:22:26]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-09-01 17:22:30]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (235559 chars)
+[2026-09-01 17:22:30]   Playwright found 27 item(s) with configured selector
+[2026-09-01 17:22:30] [AL] Found 27 item(s) on page.
+[2026-09-01 17:22:30] [AL] No new items.
+[2026-09-01 17:22:30] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-09-01 17:22:30] [AK] Found 50 item(s) on page.
+[2026-09-01 17:22:30] [AK] 1 new item(s):
+[2026-09-01 17:22:30]   NEW: Acting Attorney General Cori Mills Announces a Multi-Agency Lawsuit Against Amazon over Deceptive Advertisement Auctions |  | https://law.alaska.gov/releases/2026/083126-Amazon.html
+[2026-09-01 17:22:30] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-09-01 17:22:30] [AZ] Found 10 item(s) on page.
+[2026-09-01 17:22:30] [AZ] 1 new item(s):
+[2026-09-01 17:22:30]   NEW: Attorney General Mayes Sues Amazon Over Secret Ad Surcharge Scheme Harming Small Businesses in Arizona |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-amazon-over-secret-ad-surcharge-scheme-harming-small
+[2026-09-01 17:22:30] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-09-01 17:22:31] [AR] Found 50 item(s) on page.
+[2026-09-01 17:22:31] [AR] No new items.
+[2026-09-01 17:22:31] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-09-01 17:22:32] [CA] Found 10 item(s) on page.
+[2026-09-01 17:22:32] [CA] 6 new item(s):
+[2026-09-01 17:22:32]   NEW: California Department of Justice Investigating San Fernando Police Department Officer-Involved Shooting Under AB 1506 | Tue, 01 Sep 2026 16:30:49 +0000 | https://oag.ca.gov/news/press-releases/california-department-justice-investigating-san-fernando-police-department
+[2026-09-01 17:22:32]   NEW: Attorney General Bonta Opposes Trump Administration Continued Efforts to Weaken U.S. Nuclear Safety Regulations | Tue, 01 Sep 2026 15:29:25 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-trump-administration-continued-efforts-weaken-us
+[2026-09-01 17:22:32]   NEW: Attorney General Bonta Announces Investigation Results: 14 Year Prison Sentence for San Diego Child Predator | Mon, 31 Aug 2026 22:27:59 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-investigation-results-14-year-prison-sentence
+[2026-09-01 17:22:32]   NEW: Attorney General Bonta Slams EPA’s Proposed Rule to Weaken Regulation of Heavy-Duty Vehicle Pollution | Mon, 31 Aug 2026 19:16:32 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-slams-epa%E2%80%99s-proposed-rule-weaken-regulation-heavy-duty
+[2026-09-01 17:22:32]   NEW: Attorney General Bonta Secures Sentence Against Southern California Jeweler for $1.7 Million Ponzi Scheme | Mon, 31 Aug 2026 20:22:12 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-sentence-against-southern-california-jeweler-17
+[2026-09-01 17:22:32]   NEW: Attorney General Bonta Sues Amazon for Deceptive Digital Advertising Sales | Mon, 31 Aug 2026 18:35:26 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-amazon-deceptive-digital-advertising-sales
+[2026-09-01 17:22:32] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-09-01 17:22:32] [CO] Found 50 item(s) on page.
+[2026-09-01 17:22:32] [CO] No new items.
+[2026-09-01 17:22:32] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-09-01 17:22:35] [CT] Found 33 item(s) on page.
+[2026-09-01 17:22:35] [CT] No new items.
+[2026-09-01 17:22:35] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-09-01 17:22:36] [DE] Found 300 item(s) on page.
+[2026-09-01 17:22:36] [DE] No new items.
+[2026-09-01 17:22:36] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-09-01 17:22:37] [FL] Found 20 item(s) on page.
+[2026-09-01 17:22:37] [FL] 1 new item(s):
+[2026-09-01 17:22:37]   NEW: Attorney General James Uthmeier Charges Couple for Sexually Abusing and Confining Four Children in a Semi-truck | 2026-09-01T15:21:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-charges-couple-sexually-abusing-and-confining-four-0
+[2026-09-01 17:22:37] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-09-01 17:22:37] [GA] Found 11 item(s) on page.
+[2026-09-01 17:22:37] [GA] No new items.
+[2026-09-01 17:22:37] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-09-01 17:22:38] [HI] Found 26 item(s) on page.
+[2026-09-01 17:22:38] [HI] No new items.
+[2026-09-01 17:22:38] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-01 17:22:38]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-01 17:22:50]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65691 chars)
+[2026-09-01 17:22:50]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-09-01 17:22:50] [ID] Found 28 item(s) on page.
+[2026-09-01 17:22:50] [ID] 1 new item(s):
+[2026-09-01 17:22:50]   NEW: Aug 312026AG Labrador Demands Answers from Big Four Accounting Firms Over Climate Change Conflicts of Interest | Aug 312026 | https://www.ag.idaho.gov/newsroom/ag-labrador-demands-answers-from-big-four-accounting-firms-over-climate-change-conflicts-of-interest/
+[2026-09-01 17:22:50] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-09-01 17:22:51] [IL] Found 50 item(s) on page.
+[2026-09-01 17:22:51] [IL] No new items.
+[2026-09-01 17:22:51] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-09-01 17:22:51] [IN] Found 35 item(s) on page.
+[2026-09-01 17:22:51] [IN] No new items.
+[2026-09-01 17:22:51] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-09-01 17:22:55] [IA] Found 10 item(s) on page.
+[2026-09-01 17:22:55] [IA] No new items.
+[2026-09-01 17:22:55] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-01 17:22:55]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-01 17:22:57]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-09-01 17:22:57]   Playwright: page loaded but no links matched — check selectors
+[2026-09-01 17:22:57]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-09-01 17:22:58]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-01 17:23:18]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-01 17:23:38]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-01 17:23:38] [KS] No items returned (fetch failed or empty page).
+[2026-09-01 17:23:38] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-09-01 17:23:39] [KY] Found 26 item(s) on page.
+[2026-09-01 17:23:39] [KY] No new items.
+[2026-09-01 17:23:39] [LA] Fetching https://ag.louisiana.gov/News
+[2026-09-01 17:23:39] [LA] Found 20 item(s) on page.
+[2026-09-01 17:23:39] [LA] 1 new item(s):
+[2026-09-01 17:23:39]   NEW: ATTORNEY GENERAL MURRILL FIGHTS BACK AGAINST PBM POWER GRAB THAT PUTS PROFITS OVER LOUISIANA PATIENTS | 8/31/2026 | https://ag.louisiana.gov/Article/624
+[2026-09-01 17:23:39] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-09-01 17:23:39] [ME] Found 14 item(s) on page.
+[2026-09-01 17:23:39] [ME] No new items.
+[2026-09-01 17:23:39] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-09-01 17:23:40] [MD] Found 50 item(s) on page.
+[2026-09-01 17:23:40] [MD] No new items.
+[2026-09-01 17:23:40] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-01 17:23:40]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-01 17:23:43]   Playwright loaded page: 'News and Announcements | Mass.gov' (177621 chars)
+[2026-09-01 17:23:43]   Playwright found 15 item(s) with configured selector
+[2026-09-01 17:23:43] [MA] Found 15 item(s) on page.
+[2026-09-01 17:23:43] [MA] 1 new item(s):
+[2026-09-01 17:23:43]   NEW: AG Campbell Issues $1.15 Million In Citations Against Addiction Treatment Centers For Having Participants Perform Unpaid Labor Under The Guise Of “Rehabilitation” | 9/01/2026 | https://www.mass.gov/news/ag-campbell-issues-115-million-in-citations-against-addiction-treatment-centers-for-having-participants-perform-unpaid-labor-under-the-guise-of-rehabilitation
+[2026-09-01 17:23:43] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-09-01 17:23:43]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-09-01 17:23:46]   Playwright loaded page: 'Attorney General: Press Releases' (377538 chars)
+[2026-09-01 17:23:46]   Playwright found 10 item(s) with configured selector
+[2026-09-01 17:23:46] [MI] Found 10 item(s) on page.
+[2026-09-01 17:23:46] [MI] 2 new item(s):
+[2026-09-01 17:23:46]   NEW: AG Nessel Urges Consumers to Be Aware of Warning Signs on Child Identity Theft Awareness Day |  | https://www.michigan.gov/ag/news/press-releases/2026/09/01/ag-nessel-urges-consumers-to-be-aware-of-warning-signs-on-child-identity-theft-awareness-day
+[2026-09-01 17:23:46]   NEW: AG Nessel Congratulates Department Staff Receiving Recognition for Contributions to Michigan |  | https://www.michigan.gov/ag/news/press-releases/2026/08/31/ag-nessel-congratulates-department-staff-receiving-recognition-for-contributions-to-michigan
+[2026-09-01 17:23:46] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-09-01 17:23:46] [MN] Found 50 item(s) on page.
+[2026-09-01 17:23:46] [MN] No new items.
+[2026-09-01 17:23:46] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-09-01 17:23:47] [MS] Found 1 item(s) on page.
+[2026-09-01 17:23:47] [MS] No new items.
+[2026-09-01 17:23:47] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-09-01 17:23:47] [MO] Found 50 item(s) on page.
+[2026-09-01 17:23:47] [MO] No new items.
+[2026-09-01 17:23:47] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-09-01 17:23:47] [MT] Found 10 item(s) on page.
+[2026-09-01 17:23:47] [MT] No new items.
+[2026-09-01 17:23:47] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-09-01 17:23:47] [NE] Found 10 item(s) on page.
+[2026-09-01 17:23:47] [NE] 2 new item(s):
+[2026-09-01 17:23:47]   NEW: Attorney General Mike Hilgers Helps Secure Major Legal Victory against NY's Climate Change Superfund Act | Tue, 01 Sep 2026 13:49:52 +0000 | https://ago.nebraska.gov/news/attorney-general-mike-hilgers-helps-secure-major-legal-victory-against-nys-climate-change
+[2026-09-01 17:23:47]   NEW: Attorney General Hilgers Joins FTC Lawsuit Against Amazon for Deceptive Advertising Prices Harming Small Businesses | Mon, 31 Aug 2026 19:41:27 +0000 | https://ago.nebraska.gov/attorney-general-hilgers-joins-ftc-lawsuit-against-amazon-deceptive-advertising-prices-harming
+[2026-09-01 17:23:47] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-09-01 17:23:48] [NV] Found 50 item(s) on page.
+[2026-09-01 17:23:48] [NV] No new items.
+[2026-09-01 17:23:48] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-09-01 17:23:48]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-09-01 17:23:51]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-09-01 17:23:51]   Playwright: page loaded but no links matched — check selectors
+[2026-09-01 17:23:51]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-09-01 17:23:51]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-01 17:24:11]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-01 17:24:31]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-01 17:24:31] [NH] No items returned (fetch failed or empty page).
+[2026-09-01 17:24:31] [NJ] Fetching https://www.njoag.gov/news/
+[2026-09-01 17:24:32] [NJ] Found 5 item(s) on page.
+[2026-09-01 17:24:32] [NJ] 3 new item(s):
+[2026-09-01 17:24:32]   NEW: AG Davenport Renews Call for EPA Action on Microplastics |  | https://www.njoag.gov/ag-davenport-renews-call-for-epa-action-on-microplastics/
+[2026-09-01 17:24:32]   NEW: AG Davenport: Match Inc. to Pay $650,000 and Change Public Disclosures to Resolve Allegations Its Internet Dating Services Misrepresented Criminal-Background Screening Policies |  | https://www.njoag.gov/ag-davenport-match-inc-to-pay-650000-and-change-public-disclosures-to-resolve-allegations-its-internet-dating-services-misrepresented-criminal-background-screening-policies/
+[2026-09-01 17:24:32]   NEW: AG Davenport Sues Amazon with FTC and 21 States for Rigging Advertising Auctions, Reaping Billions in Illegal Profits |  | https://www.njoag.gov/ag-davenport-sues-amazon-with-ftc-and-21-states-for-rigging-advertising-auctions-reaping-billions-in-illegal-profits/
+[2026-09-01 17:24:32] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-09-01 17:24:34] [NM] Found 12 item(s) on page.
+[2026-09-01 17:24:34] [NM] No new items.
+[2026-09-01 17:24:34] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-09-01 17:24:34] [NY] Found 25 item(s) on page.
+[2026-09-01 17:24:34] [NY] 1 new item(s):
+[2026-09-01 17:24:34]   NEW: Attorney General James’ Office of Special Investigation Releases Report on Deaths of Mario, Maria, and Magdalena Garcia |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-releases-report-deaths-mario
+[2026-09-01 17:24:34] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-09-01 17:24:36] [NC] Found 10 item(s) on page.
+[2026-09-01 17:24:36] [NC] 1 new item(s):
+[2026-09-01 17:24:36]   NEW: Attorney General Jeff Jackson Sues Amazon Over $20 Billion Ad-Rigging Scheme |  | https://ncdoj.gov/attorney-general-jeff-jackson-sues-amazon-over-20-billion-ad-rigging-scheme/
+[2026-09-01 17:24:36] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-09-01 17:24:37] [ND] Found 10 item(s) on page.
+[2026-09-01 17:24:37] [ND] 4 new item(s):
+[2026-09-01 17:24:37]   NEW: The North Dakota Attorney General issued a summary opinion to North Dakota Department of Health and Human Services | August 31, 2026August 31, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-a-summary-opinion-to-north-dakota-department-of-health-and-human-services/
+[2026-09-01 17:24:37]   NEW: The North Dakota Attorney General issued a summary opinion to Mandan Public School District | August 31, 2026August 31, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-a-summary-opinion-to-mandan-public-school-district/
+[2026-09-01 17:24:37]   NEW: The North Dakota Attorney General issued a summary opinion to James River Humane Society | August 31, 2026August 31, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-a-summary-opinion-to-james-river-humane-society/
+[2026-09-01 17:24:37]   NEW: The North Dakota Attorney General issued a summary opinion to Morton County | August 31, 2026August 31, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-a-summary-opinion-to-morton-county/
+[2026-09-01 17:24:37] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-09-01 17:24:37] [OH] Found 10 item(s) on page.
+[2026-09-01 17:24:37] [OH] No new items.
+[2026-09-01 17:24:37] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-01 17:24:37]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-01 17:24:40]   Playwright loaded page: 'News Releases' (836784 chars)
+[2026-09-01 17:24:41]   Playwright: page loaded but no links matched — check selectors
+[2026-09-01 17:24:41]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-09-01 17:24:41] [OK] No items returned (fetch failed or empty page).
+[2026-09-01 17:24:41] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-09-01 17:24:41] [OR] Found 10 item(s) on page.
+[2026-09-01 17:24:42] [OR] No new items.
+[2026-09-01 17:24:42] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-09-01 17:24:42] [PA] Found 12 item(s) on page.
+[2026-09-01 17:24:42] [PA] 2 new item(s):
+[2026-09-01 17:24:42]   NEW: CrimeSEP 1, 2026AG Sunday Highlights Two Years of His Organized Retail Crime Section, Collaborative Efforts to Combat Sophisticated Theft and Fraud Across Pa.CRANBERRY TOWNSHIP – Attorney General Dave Sunday highlights the two-year anniversary of the Office of Attorney General’s Organized Retail Crime Section, and the office’s continued efforts to combat…Read more | 2026-09-01T12:54:39-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-highlights-two-years-of-his-organized-retail-crime-section-collaborative-efforts-to-combat-sophisticated-theft-and-fraud-across-pa/
+[2026-09-01 17:24:42]   NEW: CrimeAUG 31, 2026AG Sunday’s Child Predator Section Secures State Prison Sentence for Former IT Tech for Western Pa. School District Found with CSAMHARRISBURG — Attorney General Dave Sunday announced that a former IT tech for a Washington County school district was jailed up to eight years for possession of child…Read more | 2026-08-31T15:56:28-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-child-predator-section-secures-state-prison-sentence-for-former-it-tech-for-western-pa-school-district-found-with-csam/
+[2026-09-01 17:24:42] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-09-01 17:24:42] [RI] Found 10 item(s) on page.
+[2026-09-01 17:24:42] [RI] No new items.
+[2026-09-01 17:24:42] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-09-01 17:24:42]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-09-01 17:24:45]   Playwright loaded page: 'News - South Carolina Attorney General' (110437 chars)
+[2026-09-01 17:24:45]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-09-01 17:24:45] [SC] Found 9 item(s) on page.
+[2026-09-01 17:24:45] [SC] 1 new item(s):
+[2026-09-01 17:24:45]   NEW: Three Lowcountry men arrested on Child Sexual Abuse Material* chargesRead More | Sep 01, 2026 | https://www.scag.gov/about-the-office/news/three-lowcountry-men-arrested-on-child-sexual-abuse-material-charges/
+[2026-09-01 17:24:45] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-09-01 17:24:45]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=9
+[2026-09-01 17:24:48]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-09-01 17:24:48]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-09-01 17:24:48] [SD] Found 1 item(s) on page.
+[2026-09-01 17:24:48] [SD] No new items.
+[2026-09-01 17:24:48] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-09-01 17:24:49] [TN] Found 50 item(s) on page.
+[2026-09-01 17:24:49] [TN] 1 new item(s):
+[2026-09-01 17:24:49]   NEW: Federal Court Upholds Tennessee Bail Law |  | https://www.tn.gov/attorneygeneral/news/2026/9/1/pr26-34.html
+[2026-09-01 17:24:49] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-09-01 17:24:49] [TX] Found 50 item(s) on page.
+[2026-09-01 17:24:49] [TX] 2 new item(s):
+[2026-09-01 17:24:49]   NEW: Attor­ney Gen­er­al Ken Pax­ton Inves­ti­gates Tri­West Health Insur­ance Com­pa­ny Over Wrong­ful Denial ofTRI­CAREClaims |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-investigates-triwest-health-insurance-company-over-wrongful-denial
+[2026-09-01 17:24:49]   NEW: Attor­ney Gen­er­al Ken Pax­ton Sues Ama­zon for Rig­ging Adver­tis­ing Auc­tions That Over­charged Busi­ness­es $4.5Bil­lion in a Sin­gle Year, Which Drove Up Prices on Consumers |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sues-amazon-rigging-advertising-auctions-overcharged-businesses-45
+[2026-09-01 17:24:49] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-09-01 17:24:49]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-09-01 17:24:53]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296792 chars)
+[2026-09-01 17:24:53]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-09-01 17:24:53] [UT] Found 50 item(s) on page.
+[2026-09-01 17:24:53] [UT] No new items.
+[2026-09-01 17:24:53] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-09-01 17:24:54] [VT] Found 50 item(s) on page.
+[2026-09-01 17:24:54] [VT] 2 new item(s):
+[2026-09-01 17:24:54]   NEW: Attorney General Clark Sues Amazon for Ad Surcharge Scheme | DateAugust 31, 2026 | https://ago.vermont.gov/blog/2026/08/31/attorney-general-clark-sues-amazon-ad-surcharge-scheme
+[2026-09-01 17:24:54]   NEW: Attorney General Clark and Coalition Secure Court Order Blocking Postal Service's Unlawful Mail Voting Rule | DateAugust 28, 2026 | https://ago.vermont.gov/blog/2026/08/28/attorney-general-clark-and-coalition-secure-court-order-blocking-postal-services-unlawful-mail
+[2026-09-01 17:24:54] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-09-01 17:24:54] [VA] Found 50 item(s) on page.
+[2026-09-01 17:24:54] [VA] No new items.
+[2026-09-01 17:24:54] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-09-01 17:24:55] [WA] Found 15 item(s) on page.
+[2026-09-01 17:24:55] [WA] 1 new item(s):
+[2026-09-01 17:24:55]   NEW: Washington joins FTC lawsuit alleging Amazon inflated ad pricing | Mon, 31 Aug 2026 19:27:21 +0000 | https://www.atg.wa.gov/news/news-releases/washington-joins-ftc-lawsuit-alleging-amazon-inflated-ad-pricing
+[2026-09-01 17:24:55] [WV] Fetching https://ago.wv.gov/news
+[2026-09-01 17:24:55]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-09-01 17:24:57]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55124 chars)
+[2026-09-01 17:24:57]   Playwright found 30 item(s) with configured selector
+[2026-09-01 17:24:57] [WV] Found 30 item(s) on page.
+[2026-09-01 17:24:57] [WV] 1 new item(s):
+[2026-09-01 17:24:57]   NEW: Full Story | 2026-08-31T12:00:00Z | https://ago.wv.gov/article/west-virginia-secures-major-legal-victory-against-new-yorks-climate-change-superfund-act
+[2026-09-01 17:24:57] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-01 17:24:57]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-01 17:25:01]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1560252 chars)
+[2026-09-01 17:25:02]   Playwright found 50 item(s) with configured selector
+[2026-09-01 17:25:02] [WI] Found 50 item(s) on page.
+[2026-09-01 17:25:02] [WI] No new items.
+[2026-09-01 17:25:02] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-09-01 17:25:02] [WY] Found 2 item(s) on page.
+[2026-09-01 17:25:02] [WY] No new items.
+[2026-09-01 17:25:02] States with fetch errors: KS, NH, OK
+[2026-09-01 17:25:02] Sending email: 35 new item(s) across 20 state(s).
+[2026-09-01 17:25:03] Email sent.
+[2026-09-01 17:25:03] Done.
