@@ -10110,3 +10110,12 @@ Call log:
 [2026-09-02 14:01:57] Found 27 opinions on page.
 [2026-09-02 14:01:57] No new opinions.
 [2026-09-02 14:01:57] Done.
+[2026-09-02 17:58:30] Checking for new DE court opinions...
+[2026-09-02 17:58:30] Using Playwright to fetch opinions page...
+[2026-09-02 17:58:43] Playwright found 27 opinion(s).
+[2026-09-02 17:58:43] Found 27 opinions on page.
+[2026-09-02 17:58:43] 1 new opinion(s)!
+[2026-09-02 17:58:43]   NEW: [09/02/2026] [Court of Chancery] ATG Capital Opportunities Fund LP v. Ryan Lane, et al. | 2026-0447-LWW | WillV.C.
+[2026-09-02 17:58:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400690
+[2026-09-02 17:58:44] Email notification sent.
+[2026-09-02 17:58:44] Done.
