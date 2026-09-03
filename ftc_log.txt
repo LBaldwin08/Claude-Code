@@ -1215,3 +1215,16 @@
 [2026-09-02 17:16:32] Found 20 press release(s) on page.
 [2026-09-02 17:16:32] No new press releases.
 [2026-09-02 17:16:32] Done.
+[2026-09-03 17:08:13] Checking for new FTC press releases...
+[2026-09-03 17:08:13] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-03 17:08:27] Playwright found 0 press release link(s).
+[2026-09-03 17:08:27] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-03 17:08:28] requests found 20 press release link(s).
+[2026-09-03 17:08:28] Found 20 press release(s) on page.
+[2026-09-03 17:08:28] 2 new press release(s)!
+[2026-09-03 17:08:28]   NEW: [2026-09-03T12:00:00Z] FTC Extends Public Comment on Proposed Policy Statement Regarding Personalized Pricing
+[2026-09-03 17:08:28]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-extends-public-comment-proposed-policy-statement-regarding-personalized-pricing
+[2026-09-03 17:08:28]   NEW: [2026-09-02T12:00:00Z] Statement Regarding Fairfield Medical Center’s Sale to Adena Health
+[2026-09-03 17:08:28]        https://www.ftc.gov/news-events/news/press-releases/2026/09/statement-regarding-fairfield-medical-centers-sale-adena-health
+[2026-09-03 17:08:29] Email notification sent.
+[2026-09-03 17:08:29] Done.
