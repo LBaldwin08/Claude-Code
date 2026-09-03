@@ -28188,3 +28188,244 @@ Call log:
 [2026-09-02 17:21:18] Sending email: 29 new item(s) across 20 state(s).
 [2026-09-02 17:21:19] Email sent.
 [2026-09-02 17:21:19] Done.
+[2026-09-03 17:05:55] Checking for new AG press releases...
+[2026-09-03 17:05:55] Checking 50 state(s).
+[2026-09-03 17:05:55] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-09-03 17:05:55]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-09-03 17:05:59]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (236776 chars)
+[2026-09-03 17:05:59]   Playwright found 27 item(s) with configured selector
+[2026-09-03 17:05:59] [AL] Found 27 item(s) on page.
+[2026-09-03 17:05:59] [AL] No new items.
+[2026-09-03 17:05:59] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-09-03 17:05:59] [AK] Found 50 item(s) on page.
+[2026-09-03 17:05:59] [AK] No new items.
+[2026-09-03 17:05:59] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-09-03 17:05:59] [AZ] Found 10 item(s) on page.
+[2026-09-03 17:05:59] [AZ] 1 new item(s):
+[2026-09-03 17:05:59]   NEW: Attorney General Mayes Announces Nearly 97% Success Rate Defending Criminal Convictions on Appeal |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-nearly-97-success-rate-defending-criminal
+[2026-09-03 17:05:59] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-09-03 17:06:00] [AR] Found 50 item(s) on page.
+[2026-09-03 17:06:00] [AR] No new items.
+[2026-09-03 17:06:00] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-09-03 17:06:01] [CA] Found 10 item(s) on page.
+[2026-09-03 17:06:01] [CA] 3 new item(s):
+[2026-09-03 17:06:01]   NEW: Attorney General Bonta Secures Preliminary Injunction in Lawsuit Challenging Trump Administration’s Attack on Clean Air Act Waivers | Thu, 03 Sep 2026 00:20:16 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-preliminary-injunction-lawsuit-challenging-trump
+[2026-09-03 17:06:01]   NEW: Attorney General Bonta Challenges Rule Attempting to Block Federal Reimbursements for Providers of Gender-Affirming Care | Wed, 02 Sep 2026 19:12:07 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-challenges-rule-attempting-block-federal-reimbursements
+[2026-09-03 17:06:01]   NEW: Combating Child Sexual Exploitation: Attorney General Bonta Announces Results of Operation Chatter Box | Tue, 01 Sep 2026 22:03:01 +0000 | https://oag.ca.gov/news/press-releases/combating-child-sexual-exploitation-attorney-general-bonta-announces-results
+[2026-09-03 17:06:01] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-09-03 17:06:02] [CO] Found 50 item(s) on page.
+[2026-09-03 17:06:02] [CO] No new items.
+[2026-09-03 17:06:02] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-09-03 17:06:02] [CT] Found 33 item(s) on page.
+[2026-09-03 17:06:02] [CT] 2 new item(s):
+[2026-09-03 17:06:02]   NEW: Attorney General Tong Warns Connecticut Consumers Against Unregulated Overseas Decentraliized Finance (Defi) Crypto Exchanges | 9/3/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-warns--consumers-against-unregulated-decentraliized-finance-crypto-exchanges
+[2026-09-03 17:06:02]   NEW: Attorney General Tong Joins Coalition Challenging Trump Administration’s Latest Attack on Healthcare for Transgender Youth | 9/2/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-joins-coalition-challenging-latest-attack-on-healthcare-for-transgender-youth
+[2026-09-03 17:06:02] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-09-03 17:06:02] [DE] Found 300 item(s) on page.
+[2026-09-03 17:06:02] [DE] No new items.
+[2026-09-03 17:06:02] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-09-03 17:06:02] [FL] Found 20 item(s) on page.
+[2026-09-03 17:06:02] [FL] No new items.
+[2026-09-03 17:06:02] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-09-03 17:06:03] [GA] Found 11 item(s) on page.
+[2026-09-03 17:06:03] [GA] No new items.
+[2026-09-03 17:06:03] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-09-03 17:06:03] [HI] Found 26 item(s) on page.
+[2026-09-03 17:06:03] [HI] No new items.
+[2026-09-03 17:06:03] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-03 17:06:03]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-03 17:06:34]   Playwright error for https://www.ag.idaho.gov/newsroom/category/press-releases/: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.ag.idaho.gov/newsroom/category/press-releases/", waiting until "domcontentloaded"
+
+[2026-09-03 17:06:34]   [ID] Playwright fetch failed, falling back to regular scrape
+[2026-09-03 17:06:49]   Attempt 1/3 failed for https://www.ag.idaho.gov/newsroom/category/press-releases/: HTTPSConnectionPool(host='www.ag.idaho.gov', port=443): Read timed out. (read timeout=15)
+[2026-09-03 17:07:24]   Attempt 2/3 failed for https://www.ag.idaho.gov/newsroom/category/press-releases/: HTTPSConnectionPool(host='www.ag.idaho.gov', port=443): Read timed out. (read timeout=15)
+[2026-09-03 17:07:59]   Attempt 3/3 failed for https://www.ag.idaho.gov/newsroom/category/press-releases/: HTTPSConnectionPool(host='www.ag.idaho.gov', port=443): Read timed out. (read timeout=15)
+[2026-09-03 17:07:59] [ID] No items returned (fetch failed or empty page).
+[2026-09-03 17:07:59] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-09-03 17:08:00] [IL] Found 50 item(s) on page.
+[2026-09-03 17:08:00] [IL] 1 new item(s):
+[2026-09-03 17:08:00]   NEW: September 02, 2026ATTORNEY GENERAL RAOUL LEADS COALITION CHALLENGING TRUMP ADMINISTRATION’S LATEST ATTACK ON HEALTHCARE FOR TRANSGENDER YOUTH | 2026-09-02 3:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-leads-coalition-challenging-trump-administrations-latest-attack-on-healthcare-for-transgender-youth
+[2026-09-03 17:08:00] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-09-03 17:08:00] [IN] Found 35 item(s) on page.
+[2026-09-03 17:08:00] [IN] No new items.
+[2026-09-03 17:08:00] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-09-03 17:08:01] [IA] Found 10 item(s) on page.
+[2026-09-03 17:08:01] [IA] No new items.
+[2026-09-03 17:08:01] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-03 17:08:01]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-03 17:08:04]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-09-03 17:08:04]   Playwright: page loaded but no links matched — check selectors
+[2026-09-03 17:08:04]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-09-03 17:08:04]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-03 17:08:24]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-03 17:08:44]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-03 17:08:44] [KS] No items returned (fetch failed or empty page).
+[2026-09-03 17:08:44] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-09-03 17:08:45] [KY] Found 26 item(s) on page.
+[2026-09-03 17:08:45] [KY] No new items.
+[2026-09-03 17:08:45] [LA] Fetching https://ag.louisiana.gov/News
+[2026-09-03 17:08:45] [LA] Found 20 item(s) on page.
+[2026-09-03 17:08:45] [LA] No new items.
+[2026-09-03 17:08:45] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-09-03 17:08:46] [ME] Found 14 item(s) on page.
+[2026-09-03 17:08:46] [ME] No new items.
+[2026-09-03 17:08:46] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-09-03 17:08:46] [MD] Found 50 item(s) on page.
+[2026-09-03 17:08:46] [MD] No new items.
+[2026-09-03 17:08:46] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-03 17:08:46]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-03 17:08:49]   Playwright loaded page: 'News and Announcements | Mass.gov' (177664 chars)
+[2026-09-03 17:08:49]   Playwright found 15 item(s) with configured selector
+[2026-09-03 17:08:49] [MA] Found 15 item(s) on page.
+[2026-09-03 17:08:49] [MA] 1 new item(s):
+[2026-09-03 17:08:49]   NEW: AG Campbell Co-Leads Lawsuit Challenging Trump Administration's Latest Attack On Healthcare For Transgender Youth | 9/02/2026 | https://www.mass.gov/news/ag-campbell-co-leads-lawsuit-challenging-trump-administrations-latest-attack-on-healthcare-for-transgender-youth
+[2026-09-03 17:08:49] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-09-03 17:08:49]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-09-03 17:08:53]   Playwright loaded page: 'Attorney General: Press Releases' (377568 chars)
+[2026-09-03 17:08:53]   Playwright found 10 item(s) with configured selector
+[2026-09-03 17:08:53] [MI] Found 10 item(s) on page.
+[2026-09-03 17:08:53] [MI] 1 new item(s):
+[2026-09-03 17:08:53]   NEW: AG Nessel Joins Coalition Challenging Trump Administration’s Latest Attack on Youth Healthcare |  | https://www.michigan.gov/ag/news/press-releases/2026/09/03/ag-nessel-joins-coalition-challenging-trump-administrations-latest-attack-on-youth-healthcare
+[2026-09-03 17:08:53] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-09-03 17:08:53] [MN] Found 50 item(s) on page.
+[2026-09-03 17:08:53] [MN] No new items.
+[2026-09-03 17:08:53] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-09-03 17:08:54] [MS] Found 1 item(s) on page.
+[2026-09-03 17:08:54] [MS] No new items.
+[2026-09-03 17:08:54] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-09-03 17:08:54] [MO] Found 50 item(s) on page.
+[2026-09-03 17:08:54] [MO] No new items.
+[2026-09-03 17:08:54] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-09-03 17:08:55] [MT] Found 10 item(s) on page.
+[2026-09-03 17:08:55] [MT] No new items.
+[2026-09-03 17:08:55] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-09-03 17:08:55] [NE] Found 10 item(s) on page.
+[2026-09-03 17:08:55] [NE] 1 new item(s):
+[2026-09-03 17:08:55]   NEW: Attorney General Hilgers Secures a Commitment from Everlight Solar to Honest Sales Practices | Thu, 03 Sep 2026 16:42:29 +0000 | https://ago.nebraska.gov/attorney-general-hilgers-secures-commitment-everlight-solar-honest-sales-practices
+[2026-09-03 17:08:55] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-09-03 17:08:56] [NV] Found 50 item(s) on page.
+[2026-09-03 17:08:56] [NV] No new items.
+[2026-09-03 17:08:56] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-09-03 17:08:56]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-09-03 17:08:59]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-09-03 17:08:59]   Playwright: page loaded but no links matched — check selectors
+[2026-09-03 17:08:59]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-09-03 17:08:59]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-03 17:09:19]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-03 17:09:39]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-03 17:09:39] [NH] No items returned (fetch failed or empty page).
+[2026-09-03 17:09:39] [NJ] Fetching https://www.njoag.gov/news/
+[2026-09-03 17:09:40] [NJ] Found 5 item(s) on page.
+[2026-09-03 17:09:40] [NJ] 1 new item(s):
+[2026-09-03 17:09:40]   NEW: AG: Former Fire Chief, Police Officer in Ocean County Indicted on Additional Charges After Allegedly Subjecting Subordinates to Non-Consensual Sex Acts |  | https://www.njoag.gov/ag-former-fire-chief-police-officer-in-ocean-county-indicted-on-additional-charges-after-allegedly-subjecting-subordinates-to-non-consensual-sex-acts/
+[2026-09-03 17:09:40] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-09-03 17:10:00]   Attempt 1/3 failed for https://nmdoj.gov/press-releases/: 522 Server Error: <none> for url: https://nmdoj.gov/press-releases/
+[2026-09-03 17:10:25]   Attempt 2/3 failed for https://nmdoj.gov/press-releases/: 522 Server Error: <none> for url: https://nmdoj.gov/press-releases/
+[2026-09-03 17:10:47] [NM] Found 15 item(s) on page.
+[2026-09-03 17:10:47] [NM] 2 new item(s):
+[2026-09-03 17:10:47]   NEW: Attorney General Raúl Torrez Files Responses Backing Emergency Petitions Challenging Project Jupiter Permitting Decisions |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-files-responses-backing-emergency-petitions-challenging-project-jupiter-permitting-decisions/
+[2026-09-03 17:10:47]   NEW: MEDIA ALERT: New Mexico Department of Justice CGIC Unit Generates Case-Breaking Lead in Roswell Murder Investigations |  | https://nmdoj.gov/press-release/media-alert-new-mexico-department-of-justice-cgic-unit-generates-case-breaking-lead-in-roswell-murder-investigations/
+[2026-09-03 17:10:47] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-09-03 17:10:47] [NY] Found 25 item(s) on page.
+[2026-09-03 17:10:47] [NY] 5 new item(s):
+[2026-09-03 17:10:47]   NEW: Attorney General James Secures Over $6 Million for Brooklyn Homebuyers Cheated by Condo Developer |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-over-6-million-brooklyn-homebuyers-cheated-condo
+[2026-09-03 17:10:47]   NEW: Attorney General James Announces Arrest of Rochester Nursing Home Employee for Assaulting Resident |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-arrest-rochester-nursing-home-employee
+[2026-09-03 17:10:47]   NEW: Attorney General James Sues to Protect Gender-Affirming Care for Transgender Youth |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-protect-gender-affirming-care-transgender-youth
+[2026-09-03 17:10:47]   NEW: Attorney General James’ Office of Special Investigation Opens Investigation into Civilian Death in Manhattan |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-opens-investigation-25
+[2026-09-03 17:10:47]   NEW: Attorney General James’ Office of Special Investigation Releases Report on Death of Matthew Brown |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-releases-report-death-3
+[2026-09-03 17:10:47] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-09-03 17:11:06]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7efe8c9e2de0>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-09-03 17:11:43]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7efe8c9e2150>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-09-03 17:12:21]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: HTTPSConnectionPool(host='ncdoj.gov', port=443): Max retries exceeded with url: /newsroom/press-releases/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='ncdoj.gov', port=443) at 0x7efe8c9e0140>, 'Connection to ncdoj.gov timed out. (connect timeout=15)'))
+[2026-09-03 17:12:21] [NC] No items returned (fetch failed or empty page).
+[2026-09-03 17:12:21] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-09-03 17:12:22] [ND] Found 10 item(s) on page.
+[2026-09-03 17:12:22] [ND] No new items.
+[2026-09-03 17:12:22] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-09-03 17:12:22] [OH] Found 10 item(s) on page.
+[2026-09-03 17:12:22] [OH] No new items.
+[2026-09-03 17:12:22] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-03 17:12:22]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-03 17:12:25]   Playwright loaded page: 'News Releases' (836784 chars)
+[2026-09-03 17:12:25]   Playwright: page loaded but no links matched — check selectors
+[2026-09-03 17:12:25]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-09-03 17:12:26] [OK] No items returned (fetch failed or empty page).
+[2026-09-03 17:12:26] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-09-03 17:12:26] [OR] No items returned (fetch failed or empty page).
+[2026-09-03 17:12:26] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-09-03 17:12:26] [PA] Found 12 item(s) on page.
+[2026-09-03 17:12:26] [PA] 4 new item(s):
+[2026-09-03 17:12:26]   NEW: CrimeSEP 3, 2026Man Found with Child Sexual Abuse Material Among 12 People Nabbed in Allegheny County-Based ‘Straw Purchase’ Arrest SweepHARRISBURG — Attorney General Dave Sunday, along with the Allegheny County Gun Violence Task Force and other western Pennsylvania partners, announced charges against 12 people regarding straw purchases…Read more | 2026-09-03T11:12:03-04:00 | https://www.attorneygeneral.gov/taking-action/man-found-with-child-sexual-abuse-material-among-12-people-nabbed-in-allegheny-county-based-straw-purchase-arrest-sweep/
+[2026-09-03 17:12:26]   NEW: CrimeSEP 3, 2026Columbia County Man’s Latest Attempt to Escape Accountability for Killing 3YO Girl Fails; Appeals Court Rules 3rd-Degree Murder Conviction StandsHARRISBURG — Attorney General Dave Sunday announced that the conviction will stand against a Columbia County man who murdered his then-girlfriend’s 3-year-old daughter in 2017. Michael Crimi was…Read more | 2026-09-03T09:54:26-04:00 | https://www.attorneygeneral.gov/taking-action/columbia-county-mans-latest-attempt-to-escape-accountability-for-killing-3yo-girl-fails-appeals-court-rules-3rd-degree-murder-conviction-stands/
+[2026-09-03 17:12:26]   NEW: Press ReleaseSEP 3, 2026AG Sunday’s Bureau of Consumer Protection: Philadelphia Towing Group Breaking Court Order by Unlawfully Towing VehiclesHARRISBURG – Attorney General Dave Sunday and his office’s Bureau of Consumer Protection has filed a contempt petition against a Philadelphia-based towing group regarding breach of a 2022…Read more | 2026-09-03T08:59:11-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-bureau-of-consumer-protection-philadelphia-towing-group-breaking-court-order-by-unlawfully-towing-vehicles/
+[2026-09-03 17:12:26]   NEW: CrimeSEP 2, 2026Six Defendants Charged with Felonies in College Student-Fraternity Cocaine-Trafficking Ring Have Charges Bound Over for County CourtThe defendants recently had preliminary hearings or waived hearings HARRISBURG — Attorney General Dave Sunday announced that six people charged with felonies regarding a cocaine-trafficking ring involving Penn…Read more | 2026-09-02T16:39:29-04:00 | https://www.attorneygeneral.gov/taking-action/six-defendants-charged-with-felonies-in-college-student-fraternity-cocaine-trafficking-ring-have-charges-bound-over-for-county-court/
+[2026-09-03 17:12:26] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-09-03 17:12:26] [RI] Found 10 item(s) on page.
+[2026-09-03 17:12:26] [RI] No new items.
+[2026-09-03 17:12:26] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-09-03 17:12:26]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-09-03 17:12:30]   Playwright loaded page: 'News - South Carolina Attorney General' (110339 chars)
+[2026-09-03 17:12:30]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-09-03 17:12:30] [SC] Found 9 item(s) on page.
+[2026-09-03 17:12:30] [SC] 3 new item(s):
+[2026-09-03 17:12:30]   NEW: Attorney General Alan Wilson announces housekeeper charged with stealing from assisted living residentsRead More | Sep 03, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-housekeeper-charged-with-stealing-from-assisted-living-residents/
+[2026-09-03 17:12:30]   NEW: Simpsonville man arrested on Child Sexual Abuse Material* chargeRead More | Sep 02, 2026 | https://www.scag.gov/about-the-office/news/simpsonville-man-arrested-on-child-sexual-abuse-material-charge-1/
+[2026-09-03 17:12:30]   NEW: Little River man arrested on Child Sexual Abuse Material* chargesRead More | Sep 02, 2026 | https://www.scag.gov/about-the-office/news/little-river-man-arrested-on-child-sexual-abuse-material-charges/
+[2026-09-03 17:12:30] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-09-03 17:12:30]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=9
+[2026-09-03 17:12:33]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-09-03 17:12:33]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-09-03 17:12:33] [SD] Found 1 item(s) on page.
+[2026-09-03 17:12:33] [SD] No new items.
+[2026-09-03 17:12:33] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-09-03 17:12:33]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-09-03 17:12:54] [TN] Found 50 item(s) on page.
+[2026-09-03 17:12:54] [TN] No new items.
+[2026-09-03 17:12:54] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-09-03 17:12:54] [TX] Found 50 item(s) on page.
+[2026-09-03 17:12:54] [TX] No new items.
+[2026-09-03 17:12:54] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-09-03 17:12:54]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-09-03 17:12:58]   Playwright loaded page: 'Press Releases - Utah Attorney General' (296516 chars)
+[2026-09-03 17:12:58]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-09-03 17:12:58] [UT] Found 50 item(s) on page.
+[2026-09-03 17:12:58] [UT] No new items.
+[2026-09-03 17:12:58] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-09-03 17:12:59] [VT] Found 50 item(s) on page.
+[2026-09-03 17:12:59] [VT] 1 new item(s):
+[2026-09-03 17:12:59]   NEW: Attorney General Clark Joins Lawsuit Challenging Trump Administration's Attack on Health Care for Transgender Youth | DateSeptember 2, 2026 | https://ago.vermont.gov/blog/2026/09/02/attorney-general-clark-joins-lawsuit-challenging-trump-administrations-attack-health-care
+[2026-09-03 17:12:59] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-09-03 17:12:59] [VA] Found 50 item(s) on page.
+[2026-09-03 17:12:59] [VA] 1 new item(s):
+[2026-09-03 17:12:59]   NEW: Attorney General Jones Awards More Than $800,000 for Families Following Historic Victory in Fair Housing Case |  | https://www.oag.state.va.us/media-center/news-releases/3111-attorney-general-jones-awards-more-than-800-000-for-families-following-historic-victory-in-fair-housing-case
+[2026-09-03 17:12:59] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-09-03 17:12:59] [WA] Found 15 item(s) on page.
+[2026-09-03 17:12:59] [WA] 2 new item(s):
+[2026-09-03 17:12:59]   NEW: AG’s office urges UTC to reject PacifiCorp sale, details potential costs to Washington customers | Thu, 03 Sep 2026 14:01:15 +0000 | https://www.atg.wa.gov/news/news-releases/ag-s-office-urges-utc-reject-pacificorp-sale-details-potential-costs-washington
+[2026-09-03 17:12:59]   NEW: Washington joins coalition challenging federal attack on gender-affirming healthcare for youth | Wed, 02 Sep 2026 20:32:14 +0000 | https://www.atg.wa.gov/news/news-releases/washington-joins-coalition-challenging-federal-attack-gender-affirming
+[2026-09-03 17:12:59] [WV] Fetching https://ago.wv.gov/news
+[2026-09-03 17:12:59]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-09-03 17:13:02]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55124 chars)
+[2026-09-03 17:13:02]   Playwright found 30 item(s) with configured selector
+[2026-09-03 17:13:02] [WV] Found 30 item(s) on page.
+[2026-09-03 17:13:02] [WV] No new items.
+[2026-09-03 17:13:02] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-03 17:13:02]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-03 17:13:33]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-09-03 17:13:33]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-09-03 17:13:48]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7efe8c9e1fd0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-09-03 17:14:23]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7efe8c9e1700>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-09-03 17:14:59]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7efe8d6c5850>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-09-03 17:14:59] [WI] No items returned (fetch failed or empty page).
+[2026-09-03 17:14:59] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-09-03 17:14:59] [WY] Found 2 item(s) on page.
+[2026-09-03 17:14:59] [WY] No new items.
+[2026-09-03 17:14:59] States with fetch errors: ID, KS, NH, NC, OK, OR, WI
+[2026-09-03 17:14:59] Sending email: 29 new item(s) across 15 state(s).
+[2026-09-03 17:15:00] Email sent.
+[2026-09-03 17:15:00] Done.
