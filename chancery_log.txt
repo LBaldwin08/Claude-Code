@@ -10213,3 +10213,14 @@ Call log:
 [2026-09-04 18:46:09] Found 27 opinions on page.
 [2026-09-04 18:46:09] No new opinions.
 [2026-09-04 18:46:09] Done.
+[2026-09-04 21:10:33] Checking for new DE court opinions...
+[2026-09-04 21:10:33] Using Playwright to fetch opinions page...
+[2026-09-04 21:10:44] Playwright found 27 opinion(s).
+[2026-09-04 21:10:44] Found 27 opinions on page.
+[2026-09-04 21:10:44] 2 new opinion(s)!
+[2026-09-04 21:10:44]   NEW: [09/04/2026] [Court of Chancery] The Honorable Gerald W. Hocker, et al. v. The Honorable Anthony J. Albence, in his official capacity as State Election Commissioner, et al. | C.A. No. 2026-1021-BWD | David, Bonnie W.V.C.
+[2026-09-04 21:10:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400770
+[2026-09-04 21:10:44]   NEW: [09/04/2026] [Superior Court] Pousson v. D'Andrea, et al. | S23C-04-020 MHC | ConnerJ.
+[2026-09-04 21:10:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400750
+[2026-09-04 21:10:45] Email notification sent.
+[2026-09-04 21:10:45] Done.
