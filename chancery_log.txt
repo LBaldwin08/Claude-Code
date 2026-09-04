@@ -10196,3 +10196,14 @@ Call log:
 [2026-09-04 11:33:17] Found 27 opinions on page.
 [2026-09-04 11:33:17] No new opinions.
 [2026-09-04 11:33:17] Done.
+[2026-09-04 15:37:46] Checking for new DE court opinions...
+[2026-09-04 15:37:46] Using Playwright to fetch opinions page...
+[2026-09-04 15:37:57] Playwright found 27 opinion(s).
+[2026-09-04 15:37:57] Found 27 opinions on page.
+[2026-09-04 15:37:57] 2 new opinion(s)!
+[2026-09-04 15:37:57]   NEW: [09/04/2026] [Court of Chancery] Candor Compass LLC v. iDentivisuals SRL, et al. | C.A. No. 2024-1179-MTZ | ZurnV.C.
+[2026-09-04 15:37:57]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400720
+[2026-09-04 15:37:57]   NEW: [09/04/2026] [Superior Court] Advanced Paving Services, LLC v. Metra Industries, Inc., v. Artesian Water Co., Inc. | N25C-03-232 SSA | AugusthyJ.
+[2026-09-04 15:37:57]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400730
+[2026-09-04 15:37:58] Email notification sent.
+[2026-09-04 15:37:58] Done.
