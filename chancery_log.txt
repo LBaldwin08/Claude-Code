@@ -10260,3 +10260,10 @@ Call log:
 [2026-09-05 16:29:20] Found 27 opinions on page.
 [2026-09-05 16:29:20] No new opinions.
 [2026-09-05 16:29:20] Done.
+[2026-09-05 18:31:18] Checking for new DE court opinions...
+[2026-09-05 18:31:18] Using Playwright to fetch opinions page...
+[2026-09-05 18:31:29] DEBUG: 0 opinions found. Sample links on page: [('javascript:history.back();', '[Go Back]')]
+[2026-09-05 18:31:29] Playwright found 0 opinion(s).
+[2026-09-05 18:31:29] Found 0 opinions on page.
+[2026-09-05 18:31:29] No new opinions.
+[2026-09-05 18:31:29] Done.
