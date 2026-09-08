@@ -10405,3 +10405,12 @@ Call log:
 [2026-09-08 18:15:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400800
 [2026-09-08 18:15:22] Email notification sent.
 [2026-09-08 18:15:22] Done.
+[2026-09-08 21:18:40] Checking for new DE court opinions...
+[2026-09-08 21:18:40] Using Playwright to fetch opinions page...
+[2026-09-08 21:18:52] Playwright found 27 opinion(s).
+[2026-09-08 21:18:52] Found 27 opinions on page.
+[2026-09-08 21:18:52] 1 new opinion(s)!
+[2026-09-08 21:18:52]   NEW: [09/08/2026] [Supreme Court(Superior Court)] Delaware Department of Safety and Homeland Security, et al, v. Gavin J. Birney, et al | 412, 2025 | SeitzC.J.
+[2026-09-08 21:18:52]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400820
+[2026-09-08 21:18:54] Email notification sent.
+[2026-09-08 21:18:54] Done.
