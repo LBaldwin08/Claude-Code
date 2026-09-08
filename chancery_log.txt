@@ -10388,3 +10388,20 @@ Call log:
 [2026-09-08 14:42:16] Found 27 opinions on page.
 [2026-09-08 14:42:16] No new opinions.
 [2026-09-08 14:42:16] Done.
+[2026-09-08 18:15:09] Checking for new DE court opinions...
+[2026-09-08 18:15:09] Using Playwright to fetch opinions page...
+[2026-09-08 18:15:22] Playwright found 27 opinion(s).
+[2026-09-08 18:15:22] Found 27 opinions on page.
+[2026-09-08 18:15:22] 5 new opinion(s)!
+[2026-09-08 18:15:22]   NEW: [09/08/2026] [Court of Chancery] Ken McAllister, Elevatus Brand Partners, LLC v. Robert Stidham, Joe Lewis, and Elevatus Brand Partners, LLC | C.A. No. 2023-1127-CDW | WrightM.
+[2026-09-08 18:15:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400810
+[2026-09-08 18:15:22]   NEW: [09/04/2026] [Superior Court] State v. Johnson | 2506006677 | PrimosJ.
+[2026-09-08 18:15:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400790
+[2026-09-08 18:15:22]   NEW: [09/04/2026] [Supreme Court(Family Court)] Perkins, Katherine vs. Roy Hoswell | 262, 2026 | TraynorJ.
+[2026-09-08 18:15:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400740
+[2026-09-08 18:15:22]   NEW: [09/04/2026] [Supreme Court(Superior Court)] Davis v. State | 104, 2025 | LeGrowJ.
+[2026-09-08 18:15:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400780
+[2026-09-08 18:15:22]   NEW: [09/03/2026] [Superior Court] Statee v.  Abshagen | 2503007436 | RennieJ.
+[2026-09-08 18:15:22]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400800
+[2026-09-08 18:15:22] Email notification sent.
+[2026-09-08 18:15:22] Done.
