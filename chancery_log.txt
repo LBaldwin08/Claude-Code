@@ -10438,3 +10438,16 @@ Call log:
 [2026-09-09 12:38:47] Found 27 opinions on page.
 [2026-09-09 12:38:47] No new opinions.
 [2026-09-09 12:38:47] Done.
+[2026-09-09 16:58:30] Checking for new DE court opinions...
+[2026-09-09 16:58:30] Using Playwright to fetch opinions page...
+[2026-09-09 16:58:43] Playwright found 27 opinion(s).
+[2026-09-09 16:58:43] Found 27 opinions on page.
+[2026-09-09 16:58:43] 3 new opinion(s)!
+[2026-09-09 16:58:43]   NEW: [09/09/2026] [Court of Chancery] Aron Youngerwood v. AP Sulphur Spring LP, et al. | 2025-1375-LM (LWW) | WillV.C.
+[2026-09-09 16:58:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400860
+[2026-09-09 16:58:43]   NEW: [09/08/2026] [Superior Court] Old Town Hall Associates, LLC v. City of Seaford Board of Adjustments and Appeals | S25A-12-002 CAK | KarsnitzR.J.
+[2026-09-09 16:58:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400830
+[2026-09-09 16:58:43]   NEW: [09/04/2026] [Court of Chancery] Siddhi Mittal and Jeffrey Liew v. Yhangry Inc. | C.A. No. 2026-1052-DG | GibbsM.
+[2026-09-09 16:58:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400850
+[2026-09-09 16:58:45] Email notification sent.
+[2026-09-09 16:58:45] Done.
