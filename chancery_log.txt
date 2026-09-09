@@ -10457,3 +10457,9 @@ Call log:
 [2026-09-09 19:37:31] Found 27 opinions on page.
 [2026-09-09 19:37:31] No new opinions.
 [2026-09-09 19:37:31] Done.
+[2026-09-09 22:10:11] Checking for new DE court opinions...
+[2026-09-09 22:10:11] Using Playwright to fetch opinions page...
+[2026-09-09 22:10:24] Playwright found 27 opinion(s).
+[2026-09-09 22:10:24] Found 27 opinions on page.
+[2026-09-09 22:10:24] No new opinions.
+[2026-09-09 22:10:24] Done.
