@@ -10503,3 +10503,12 @@ Call log:
 [2026-09-10 17:46:37]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400900
 [2026-09-10 17:46:38] Email notification sent.
 [2026-09-10 17:46:38] Done.
+[2026-09-10 20:20:17] Checking for new DE court opinions...
+[2026-09-10 20:20:17] Using Playwright to fetch opinions page...
+[2026-09-10 20:20:29] Playwright found 27 opinion(s).
+[2026-09-10 20:20:29] Found 27 opinions on page.
+[2026-09-10 20:20:29] 1 new opinion(s)!
+[2026-09-10 20:20:29]   NEW: [09/10/2026] [Court of Chancery] Anthony Bovino v. Historic Red Clay Valley, Inc. | C.A. No. 2025-0691-BWD | David, Bonnie W.V.C.
+[2026-09-10 20:20:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400940
+[2026-09-10 20:20:30] Email notification sent.
+[2026-09-10 20:20:30] Done.
