@@ -10542,3 +10542,16 @@ Call log:
 [2026-09-11 14:33:42] Found 27 opinions on page.
 [2026-09-11 14:33:42] No new opinions.
 [2026-09-11 14:33:42] Done.
+[2026-09-11 18:06:34] Checking for new DE court opinions...
+[2026-09-11 18:06:34] Using Playwright to fetch opinions page...
+[2026-09-11 18:06:47] Playwright found 27 opinion(s).
+[2026-09-11 18:06:47] Found 27 opinions on page.
+[2026-09-11 18:06:47] 3 new opinion(s)!
+[2026-09-11 18:06:47]   NEW: [09/10/2026] [Supreme Court(Court of Chancery)] IMO the Petition of Frank Rende for a Writ of Mandamus | 228, 2026 | GriffithsJ.
+[2026-09-11 18:06:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400890
+[2026-09-11 18:06:47]   NEW: [09/10/2026] [Supreme Court(Superior Court)] Fountain, Darryl vs. TM Associates Management, Inc., d/b/a Shady Groves Apartments | 124, 2026 | TraynorJ.
+[2026-09-11 18:06:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400930
+[2026-09-11 18:06:47]   NEW: [09/10/2026] [Supreme Court(Superior Court)] Milbourne, Douglas and Orquidea Milbourne vs. Derrick Swinton | 487, 2025 | SeitzC.J.
+[2026-09-11 18:06:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400920
+[2026-09-11 18:06:48] Email notification sent.
+[2026-09-11 18:06:48] Done.
