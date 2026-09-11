@@ -10530,3 +10530,9 @@ Call log:
 [2026-09-11 05:33:27] Found 27 opinions on page.
 [2026-09-11 05:33:27] No new opinions.
 [2026-09-11 05:33:27] Done.
+[2026-09-11 10:27:46] Checking for new DE court opinions...
+[2026-09-11 10:27:46] Using Playwright to fetch opinions page...
+[2026-09-11 10:27:57] Playwright found 27 opinion(s).
+[2026-09-11 10:27:57] Found 27 opinions on page.
+[2026-09-11 10:27:57] No new opinions.
+[2026-09-11 10:27:57] Done.
