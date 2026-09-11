@@ -1296,3 +1296,11 @@
 [2026-09-10 17:07:31]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-publishes-proposed-2027-budget-horseracing-integrity-safety-authority
 [2026-09-10 17:07:32] Email notification sent.
 [2026-09-10 17:07:32] Done.
+[2026-09-11 17:07:30] Checking for new FTC press releases...
+[2026-09-11 17:07:30] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-11 17:07:44] Playwright found 0 press release link(s).
+[2026-09-11 17:07:44] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-11 17:07:44] requests found 20 press release link(s).
+[2026-09-11 17:07:44] Found 20 press release(s) on page.
+[2026-09-11 17:07:44] No new press releases.
+[2026-09-11 17:07:44] Done.
