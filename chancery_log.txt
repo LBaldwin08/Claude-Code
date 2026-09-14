@@ -10680,3 +10680,20 @@ Call log:
 [2026-09-14 16:44:47] Found 27 opinions on page.
 [2026-09-14 16:44:47] No new opinions.
 [2026-09-14 16:44:47] Done.
+[2026-09-14 20:43:41] Checking for new DE court opinions...
+[2026-09-14 20:43:41] Using Playwright to fetch opinions page...
+[2026-09-14 20:43:53] Playwright found 27 opinion(s).
+[2026-09-14 20:43:53] Found 27 opinions on page.
+[2026-09-14 20:43:53] 5 new opinion(s)!
+[2026-09-14 20:43:53]   NEW: [09/14/2026] [Court of Chancery] ATG Capital Opportunities Fund LP v. Ryan Lane, et al. | 2026-0447-LWW | WillV.C.
+[2026-09-14 20:43:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400970
+[2026-09-14 20:43:53]   NEW: [09/14/2026] [Court of Chancery] Hugh Edmundson v. Theorem Technology, Inc. | C.A. No. 2026-0647-CDW | WrightM.
+[2026-09-14 20:43:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401010
+[2026-09-14 20:43:53]   NEW: [09/14/2026] [Court of Chancery] Melissa Brandao v. HerdDogg, Inc. | C.A. No. 2026-0824-TJF | FoxM.
+[2026-09-14 20:43:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401020
+[2026-09-14 20:43:53]   NEW: [09/14/2026] [Court of Chancery] Neil Luthra, et al. v. HIR Holdings LP | C.A. No. 2025-1122-LM (BWD) | David, Bonnie W.V.C.
+[2026-09-14 20:43:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=400990
+[2026-09-14 20:43:53]   NEW: [09/14/2026] [Supreme Court(Court of Chancery)] IsZo Capital LP v. Stephen Brandenburg, et al. | 12, 2026 | TraynorJ.
+[2026-09-14 20:43:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401030
+[2026-09-14 20:43:54] Email notification sent.
+[2026-09-14 20:43:54] Done.
