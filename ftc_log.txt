@@ -1336,3 +1336,16 @@
 [2026-09-15 17:44:46] Found 20 press release(s) on page.
 [2026-09-15 17:44:46] No new press releases.
 [2026-09-15 17:44:46] Done.
+[2026-09-16 17:42:40] Checking for new FTC press releases...
+[2026-09-16 17:42:40] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-16 17:42:53] Playwright found 0 press release link(s).
+[2026-09-16 17:42:53] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-16 17:42:54] requests found 20 press release link(s).
+[2026-09-16 17:42:54] Found 20 press release(s) on page.
+[2026-09-16 17:42:54] 2 new press release(s)!
+[2026-09-16 17:42:54]   NEW: [2026-09-16T12:00:00Z] FTC Takes Action to Prevent Anticompetitive Arrangement in Beretta, Ruger Deal
+[2026-09-16 17:42:54]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-takes-action-prevent-anticompetitive-arrangement-beretta-ruger-deal
+[2026-09-16 17:42:54]   NEW: [2026-09-15T12:00:00Z] FTC Publishes Price Transparency FAQs for Auto Dealers
+[2026-09-16 17:42:54]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-publishes-price-transparency-faqs-auto-dealers
+[2026-09-16 17:42:55] Email notification sent.
+[2026-09-16 17:42:55] Done.
