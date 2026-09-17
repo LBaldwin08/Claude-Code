@@ -31323,3 +31323,239 @@ Call log:
 [2026-09-16 17:45:23] Sending email: 27 new item(s) across 19 state(s).
 [2026-09-16 17:45:24] Email sent.
 [2026-09-16 17:45:24] Done.
+[2026-09-17 17:41:49] Checking for new AG press releases...
+[2026-09-17 17:41:49] Checking 50 state(s).
+[2026-09-17 17:41:49] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-09-17 17:41:49]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-09-17 17:41:53]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (159808 chars)
+[2026-09-17 17:41:53]   Playwright found 27 item(s) with configured selector
+[2026-09-17 17:41:53] [AL] Found 27 item(s) on page.
+[2026-09-17 17:41:53] [AL] No new items.
+[2026-09-17 17:41:53] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-09-17 17:41:53] [AK] Found 50 item(s) on page.
+[2026-09-17 17:41:53] [AK] 1 new item(s):
+[2026-09-17 17:41:53]   NEW: Palmer Jury Convicts Michael Melendez of Murder in the First Degree |  | https://law.alaska.gov/releases/2026/091726-Melendez.html
+[2026-09-17 17:41:53] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-09-17 17:41:53] [AZ] Found 10 item(s) on page.
+[2026-09-17 17:41:53] [AZ] 1 new item(s):
+[2026-09-17 17:41:53]   NEW: Attorney General Mayes Seeks Public's Help in Investigation into the Death of Oro Valley Woman |  | https://www.azag.gov/press-release/attorney-general-mayes-seeks-publics-help-investigation-death-oro-valley-woman
+[2026-09-17 17:41:53] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-09-17 17:41:54] [AR] Found 50 item(s) on page.
+[2026-09-17 17:41:54] [AR] No new items.
+[2026-09-17 17:41:54] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-09-17 17:41:55] [CA] Found 10 item(s) on page.
+[2026-09-17 17:41:55] [CA] 2 new item(s):
+[2026-09-17 17:41:55]   NEW: Attorney General Bonta Issues Guidance on Antidiscrimination Protections | Thu, 17 Sep 2026 04:47:02 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-issues-guidance-antidiscrimination-protections
+[2026-09-17 17:41:55]   NEW: Attorney General Bonta Co-Leads Coalition Opposing Trump Administration’s Attempt to Gut U.S. Department of Agriculture | Thu, 17 Sep 2026 15:48:21 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-co-leads-coalition-opposing-trump-administration%E2%80%99s
+[2026-09-17 17:41:55] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-09-17 17:41:55] [CO] Found 50 item(s) on page.
+[2026-09-17 17:41:55] [CO] No new items.
+[2026-09-17 17:41:55] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-09-17 17:41:56] [CT] Found 33 item(s) on page.
+[2026-09-17 17:41:56] [CT] 3 new item(s):
+[2026-09-17 17:41:56]   NEW: Attorney General Tong Statement Regarding Kosta Diamantis Pension | 9/17/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-statement-regarding-kosta-diamantis-pension
+[2026-09-17 17:41:56]   NEW: Attorney General Tong Announces $694 Million Multistate Settlement with Subprime Auto Lender Credit Acceptance Corporation | 9/17/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-announces-settlement-with-credit-acceptance-corporation
+[2026-09-17 17:41:56]   NEW: Attorney General Tong Statement Regarding PURA Final Decision Decreasing Rates for Connecticut Natural Gas and Southern Connecticut Gas | 9/16/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/decreasing-rates-for-connecticut-natural-gas-and-southern-connecticut-gas
+[2026-09-17 17:41:56] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-09-17 17:41:57] [DE] Found 300 item(s) on page.
+[2026-09-17 17:41:57] [DE] No new items.
+[2026-09-17 17:41:57] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-09-17 17:41:57] [FL] Found 20 item(s) on page.
+[2026-09-17 17:41:57] [FL] 2 new item(s):
+[2026-09-17 17:41:57]   NEW: Attorney General James Uthmeier Proposes the Florida Anti-Spam Communications Act to Stop Robocalls, Robotexts, and AI Voice Scams | 2026-09-17T15:30:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-proposes-florida-anti-spam-communications-act-stop
+[2026-09-17 17:41:57]   NEW: Attorney General James Uthmeier Takes Legal Action Against Amazon for Secret Ad Surcharge Scheme Driving Up Prices for Florida Families | 2026-09-16T20:00:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-takes-legal-action-against-amazon-secret-ad-surcharge
+[2026-09-17 17:41:57] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-09-17 17:41:57] [GA] Found 11 item(s) on page.
+[2026-09-17 17:41:57] [GA] 1 new item(s):
+[2026-09-17 17:41:57]   NEW: Carr: Decatur Woman Sentenced for Involvement in $158k Business Email Compromise ScamSeptember 16, 2026 |  | https://law.georgia.gov/press-releases/2026-09-16/carr-decatur-woman-sentenced-involvement-158k-business-email-compromise
+[2026-09-17 17:41:57] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-09-17 17:41:57] [HI] Found 26 item(s) on page.
+[2026-09-17 17:41:57] [HI] No new items.
+[2026-09-17 17:41:57] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-17 17:41:57]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-17 17:42:01]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66056 chars)
+[2026-09-17 17:42:01]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-09-17 17:42:01] [ID] Found 28 item(s) on page.
+[2026-09-17 17:42:01] [ID] No new items.
+[2026-09-17 17:42:01] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-09-17 17:42:02] [IL] Found 50 item(s) on page.
+[2026-09-17 17:42:02] [IL] 2 new item(s):
+[2026-09-17 17:42:02]   NEW: September 17, 2026ATTORNEY GENERAL RAOUL OPPOSES ATTEMPT TO GUT U.S. DEPARTMENT OF AGRICULTURE | 2026-09-17 11:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-attempt-to-gut-us-department-of-agriculture
+[2026-09-17 17:42:02]   NEW: September 16, 2026ATTORNEY GENERAL RAOUL CHARGES CHAMPAIGN COUNTY MAN WITH POSSESSION, DISSEMINATION OF CHILD SEXUAL ABUSE MATERIAL | 2026-09-17 11:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-champaign-county-man-with-possession-dissemination-of-child-sexual-abuse-material
+[2026-09-17 17:42:02] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-09-17 17:42:02] [IN] Found 34 item(s) on page.
+[2026-09-17 17:42:02] [IN] No new items.
+[2026-09-17 17:42:02] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-09-17 17:42:02] [IA] Found 10 item(s) on page.
+[2026-09-17 17:42:02] [IA] No new items.
+[2026-09-17 17:42:02] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-17 17:42:02]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-17 17:42:05]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-09-17 17:42:05]   Playwright: page loaded but no links matched — check selectors
+[2026-09-17 17:42:05]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-09-17 17:42:06]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-17 17:42:26]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-17 17:42:46]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-17 17:42:46] [KS] No items returned (fetch failed or empty page).
+[2026-09-17 17:42:46] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-09-17 17:42:48] [KY] Found 26 item(s) on page.
+[2026-09-17 17:42:48] [KY] No new items.
+[2026-09-17 17:42:48] [LA] Fetching https://ag.louisiana.gov/News
+[2026-09-17 17:42:48] [LA] Found 20 item(s) on page.
+[2026-09-17 17:42:48] [LA] No new items.
+[2026-09-17 17:42:48] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-09-17 17:42:48] [ME] Found 14 item(s) on page.
+[2026-09-17 17:42:48] [ME] No new items.
+[2026-09-17 17:42:48] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-09-17 17:42:49] [MD] Found 50 item(s) on page.
+[2026-09-17 17:42:49] [MD] No new items.
+[2026-09-17 17:42:49] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-17 17:42:49]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-17 17:42:52]   Playwright loaded page: 'News and Announcements | Mass.gov' (178395 chars)
+[2026-09-17 17:42:52]   Playwright found 15 item(s) with configured selector
+[2026-09-17 17:42:52] [MA] Found 15 item(s) on page.
+[2026-09-17 17:42:52] [MA] 1 new item(s):
+[2026-09-17 17:42:52]   NEW: AG Campbell Announces Nearly $385 Million Multistate Settlement With Abbott Laboratories For False Claims Related To Contaminated Infant Formula | 9/17/2026 | https://www.mass.gov/news/ag-campbell-announces-nearly-385-million-multistate-settlement-with-abbott-laboratories-for-false-claims-related-to-contaminated-infant-formula
+[2026-09-17 17:42:52] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-09-17 17:42:52]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-09-17 17:42:56]   Playwright loaded page: 'Attorney General: Press Releases' (377196 chars)
+[2026-09-17 17:42:56]   Playwright found 10 item(s) with configured selector
+[2026-09-17 17:42:56] [MI] Found 10 item(s) on page.
+[2026-09-17 17:42:56] [MI] 1 new item(s):
+[2026-09-17 17:42:56]   NEW: AG Nessel Secures $384 Million Medicaid Fraud Settlement with Abbott Over Infant Formula Operations |  | https://www.michigan.gov/ag/news/press-releases/2026/09/16/ag-nessel-secures-384-million-medicaid-fraud-settlement-with-abbott-over-infant-formula-operations
+[2026-09-17 17:42:56] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-09-17 17:42:56] [MN] Found 50 item(s) on page.
+[2026-09-17 17:42:56] [MN] No new items.
+[2026-09-17 17:42:56] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-09-17 17:42:56] [MS] Found 1 item(s) on page.
+[2026-09-17 17:42:56] [MS] 1 new item(s):
+[2026-09-17 17:42:56]   NEW: AG Fitch Provides Fentanyl Awareness Training to Ole Miss Students (September 16, 2026) |  | https://attorneygenerallynnfitch.com/2026/09/16/ag-fitch-provides-fentanyl-awareness-training-to-ole-miss-students-september-16-2026/
+[2026-09-17 17:42:56] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-09-17 17:42:57] [MO] Found 50 item(s) on page.
+[2026-09-17 17:42:57] [MO] No new items.
+[2026-09-17 17:42:57] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-09-17 17:42:57] [MT] Found 10 item(s) on page.
+[2026-09-17 17:42:57] [MT] No new items.
+[2026-09-17 17:42:57] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-09-17 17:42:57] [NE] Found 10 item(s) on page.
+[2026-09-17 17:42:57] [NE] 1 new item(s):
+[2026-09-17 17:42:57]   NEW: Attorney General Hilgers Joins $694 Million Multistate Settlement with Subprime Auto Lender Credit Acceptance Corporation | Thu, 17 Sep 2026 16:24:52 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-joins-694-million-multistate-settlement-subprime-auto-lender-credit
+[2026-09-17 17:42:57] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-09-17 17:42:58] [NV] Found 50 item(s) on page.
+[2026-09-17 17:42:58] [NV] No new items.
+[2026-09-17 17:42:58] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-09-17 17:42:58]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-09-17 17:43:00]   Playwright loaded page: 'Access Denied' (314 chars)
+[2026-09-17 17:43:00]   Playwright: page loaded but no links matched — check selectors
+[2026-09-17 17:43:00]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-09-17 17:43:01]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-17 17:43:21]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-17 17:43:41]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-17 17:43:41] [NH] No items returned (fetch failed or empty page).
+[2026-09-17 17:43:41] [NJ] Fetching https://www.njoag.gov/news/
+[2026-09-17 17:43:42] [NJ] Found 5 item(s) on page.
+[2026-09-17 17:43:42] [NJ] 3 new item(s):
+[2026-09-17 17:43:42]   NEW: New Jersey Announces $694 Million Settlement with Subprime Auto Lender Credit Acceptance Corporation For Making Unaffordable, Designed-To-Fail Loans |  | https://www.njoag.gov/new-jersey-announces-694-million-settlement-with-subprime-auto-lender-credit-acceptance-corporation-for-making-unaffordable-designed-to-fail-loans/
+[2026-09-17 17:43:42]   NEW: Abbott Laboratories Agrees to Pay Over $384 Million to Settle False Claims Act Allegations Related to Infant Formula and Nutritional Therapy Products |  | https://www.njoag.gov/abbott-laboratories-agrees-to-pay-over-384-million-to-settle-false-claims-act-allegations-related-to-infant-formula-and-nutritional-therapy-products/
+[2026-09-17 17:43:42]   NEW: New Jersey Division of Gaming Enforcement Announces August 2026 Total Gaming Revenue Results |  | https://www.njoag.gov/new-jersey-division-of-gaming-enforcement-announces-august-2026-total-gaming-revenue-results/
+[2026-09-17 17:43:42] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-09-17 17:43:44] [NM] Found 14 item(s) on page.
+[2026-09-17 17:43:44] [NM] No new items.
+[2026-09-17 17:43:44] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-09-17 17:43:44] [NY] Found 25 item(s) on page.
+[2026-09-17 17:43:44] [NY] 4 new item(s):
+[2026-09-17 17:43:44]   NEW: INDUSTRY ALERT: Attorney General James Urges Workers With Knowledge of Unsafe AI Development to File Whistleblower Complaints |  | https://ag.ny.gov/press-release/2026/industry-alert-attorney-general-james-urges-workers-knowledge-unsafe-ai
+[2026-09-17 17:43:44]   NEW: Attorney General James Secures $700 Million from Abusive Subprime Auto Lender Credit Acceptance Corporation |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-700-million-abusive-subprime-auto-lender-credit
+[2026-09-17 17:43:44]   NEW: Attorney General James’ Office of Special Investigation Opens Investigation into Civilian Death in the Bronx |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-opens-investigation-28
+[2026-09-17 17:43:44]   NEW: Attorney General James’ Office of Special Investigation Opens Investigation into Civilian Death in Greene County |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-opens-investigation-29
+[2026-09-17 17:43:44] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-09-17 17:43:46] [NC] Found 10 item(s) on page.
+[2026-09-17 17:43:46] [NC] 2 new item(s):
+[2026-09-17 17:43:46]   NEW: Attorney General Jeff Jackson Upholds Criminal Convictions in Hit-and-Run, Murder, and Attempted Murder Cases Across North Carolina |  | https://ncdoj.gov/attorney-general-jeff-jackson-upholds-criminal-convictions-in-hit-and-run-murder-and-attempted-murder-cases-across-north-carolina/
+[2026-09-17 17:43:46]   NEW: Elizabeth City Food Bank Receives Nearly 300,000 Eggs Delivery Following Attorney General Jackson’s Settlement in Antitrust Case |  | https://ncdoj.gov/elizabeth-city-food-bank-receives-nearly-300000-eggs-delivery-following-attorney-general-jacksons-settlement-in-antitrust-case/
+[2026-09-17 17:43:46] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-09-17 17:43:47] [ND] Found 10 item(s) on page.
+[2026-09-17 17:43:47] [ND] No new items.
+[2026-09-17 17:43:47] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-09-17 17:43:48] [OH] Found 10 item(s) on page.
+[2026-09-17 17:43:48] [OH] 1 new item(s):
+[2026-09-17 17:43:48]   NEW: Second Man Indicted, Arrested in 1995 Homicides of Mother, Young Son | 9/16/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/September-2026/Second-Man-Indicted-Arrested-in-1995-Homicides-of
+[2026-09-17 17:43:48] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-17 17:43:48]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-17 17:43:51]   Playwright loaded page: 'News Releases' (836960 chars)
+[2026-09-17 17:43:51]   Playwright: page loaded but no links matched — check selectors
+[2026-09-17 17:43:51]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-09-17 17:43:51] [OK] No items returned (fetch failed or empty page).
+[2026-09-17 17:43:51] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-09-17 17:43:52] [OR] Found 10 item(s) on page.
+[2026-09-17 17:43:52] [OR] 2 new item(s):
+[2026-09-17 17:43:52]   NEW: Attorney General Rayfield Announces Multiple Medicaid Fraud Enforcement Actions |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-announces-multiple-medicaid-fraud-enforcement-actions/
+[2026-09-17 17:43:52]   NEW: Attorney General Rayfield Delivers Win for Oregon Drivers Trapped in Predatory Auto Loans |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-delivers-win-for-oregon-drivers-trapped-in-predatory-auto-loans/
+[2026-09-17 17:43:52] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-09-17 17:43:53] [PA] Found 12 item(s) on page.
+[2026-09-17 17:43:53] [PA] 1 new item(s):
+[2026-09-17 17:43:53]   NEW: Press ReleaseSEP 17, 2026Attorney General Sunday Joins $694 Million National Settlement with Subprime Auto Lender Credit Acceptance CorporationHARRISBURG – Attorney General Dave Sunday announced that Pennsylvania, along with the attorneys general for 40 other states, has settled with Credit Acceptance Corporation, providing $694 million in…Read more | 2026-09-17T13:07:49-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-joins-694-million-national-settlement-with-subprime-auto-lender-credit-acceptance-corporation/
+[2026-09-17 17:43:53] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-09-17 17:43:53] [RI] Found 10 item(s) on page.
+[2026-09-17 17:43:53] [RI] No new items.
+[2026-09-17 17:43:53] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-09-17 17:43:53]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-09-17 17:43:56]   Playwright loaded page: 'News - South Carolina Attorney General' (110215 chars)
+[2026-09-17 17:43:56]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-09-17 17:43:56] [SC] Found 9 item(s) on page.
+[2026-09-17 17:43:56] [SC] 1 new item(s):
+[2026-09-17 17:43:56]   NEW: Camden man arrested on Child Sexual Abuse Material* and related chargesRead More | Sep 16, 2026 | https://www.scag.gov/about-the-office/news/camden-man-arrested-on-child-sexual-abuse-material-and-related-charges/
+[2026-09-17 17:43:56] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-09-17 17:43:56]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=9
+[2026-09-17 17:43:59]   Playwright loaded page: 'South Dakota Attorney General' (36018 chars)
+[2026-09-17 17:43:59]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-09-17 17:43:59] [SD] Found 1 item(s) on page.
+[2026-09-17 17:43:59] [SD] No new items.
+[2026-09-17 17:43:59] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-09-17 17:43:59] [TN] Found 50 item(s) on page.
+[2026-09-17 17:43:59] [TN] No new items.
+[2026-09-17 17:43:59] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-09-17 17:44:00] [TX] Found 50 item(s) on page.
+[2026-09-17 17:44:00] [TX] 1 new item(s):
+[2026-09-17 17:44:00]   NEW: Attor­ney Gen­er­al Pax­ton Inves­ti­gatesAIData Cen­ter Devel­op­ment in Tay­lor Over Poten­tial Mis­use of Land Con­veyed Years Ago for Use as Parkland |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-investigates-ai-data-center-development-taylor-over-potential-misuse-land
+[2026-09-17 17:44:00] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-09-17 17:44:00]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-09-17 17:44:02]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298515 chars)
+[2026-09-17 17:44:03]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-09-17 17:44:03] [UT] Found 50 item(s) on page.
+[2026-09-17 17:44:03] [UT] No new items.
+[2026-09-17 17:44:03] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-09-17 17:44:03] [VT] Found 50 item(s) on page.
+[2026-09-17 17:44:03] [VT] 4 new item(s):
+[2026-09-17 17:44:03]   NEW: Attorney General Clark Continues to Fight to Protect Affordable Care Act Coverage | DateSeptember 9, 2026 | https://ago.vermont.gov/blog/2026/09/09/attorney-general-clark-continues-fight-protect-affordable-care-act-coverage
+[2026-09-17 17:44:03]   NEW: Attorney General Clark joins state coalition defending limits on ICE warrantless arrests | DateSeptember 8, 2026 | https://ago.vermont.gov/blog/2026/09/08/attorney-general-clark-joins-state-coalition-defending-limits-ice-warrantless-arrests
+[2026-09-17 17:44:03]   NEW: Attorney General Clark Secures Full Victory in Lawsuit Challenging Trump Administration’s Attack on Fair Housing Protections | DateSeptember 8, 2026 | https://ago.vermont.gov/blog/2026/09/08/attorney-general-clark-secures-full-victory-lawsuit-challenging-trump-administrations-attack-fair
+[2026-09-17 17:44:03]   NEW: Attorney General Clark Opposes Trump Administration’s Rapid and Drastic Overhaul of Nuclear Energy Regulation | DateSeptember 1, 2026 | https://ago.vermont.gov/blog/2026/09/01/attorney-general-clark-opposes-trump-administrations-rapid-and-drastic-overhaul-nuclear-energy
+[2026-09-17 17:44:03] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-09-17 17:44:04] [VA] Found 50 item(s) on page.
+[2026-09-17 17:44:04] [VA] 1 new item(s):
+[2026-09-17 17:44:04]   NEW: Attorney General Jones Announces Price Gouging Protections in Effect Amid Prolonged and Severe Drought Conditions Across the Commonwealth |  | https://www.oag.state.va.us/media-center/news-releases/3117-attorney-general-jones-announces-price-gouging-protections-in-effect-amid-prolonged-and-severe-drought-conditions-across-the-commonwealth
+[2026-09-17 17:44:04] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-09-17 17:44:04] [WA] Found 15 item(s) on page.
+[2026-09-17 17:44:04] [WA] 2 new item(s):
+[2026-09-17 17:44:04]   NEW: WA consumers get financial relief through auto lender settlement | Thu, 17 Sep 2026 16:52:12 +0000 | https://www.atg.wa.gov/news/news-releases/wa-consumers-get-financial-relief-through-auto-lender-settlement
+[2026-09-17 17:44:04]   NEW: AG Brown co-leads coalition opposing attempt to gut U.S. Department of Agriculture | Thu, 17 Sep 2026 14:44:23 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-co-leads-coalition-opposing-attempt-gut-us-department-agriculture
+[2026-09-17 17:44:04] [WV] Fetching https://ago.wv.gov/news
+[2026-09-17 17:44:04]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-09-17 17:44:09]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55173 chars)
+[2026-09-17 17:44:09]   Playwright found 30 item(s) with configured selector
+[2026-09-17 17:44:09] [WV] Found 30 item(s) on page.
+[2026-09-17 17:44:09] [WV] No new items.
+[2026-09-17 17:44:09] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-17 17:44:09]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-17 17:44:12]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1567815 chars)
+[2026-09-17 17:44:13]   Playwright found 50 item(s) with configured selector
+[2026-09-17 17:44:13] [WI] Found 50 item(s) on page.
+[2026-09-17 17:44:13] [WI] No new items.
+[2026-09-17 17:44:13] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-09-17 17:44:13] [WY] Found 2 item(s) on page.
+[2026-09-17 17:44:13] [WY] No new items.
+[2026-09-17 17:44:13] States with fetch errors: KS, NH, OK
+[2026-09-17 17:44:13] Sending email: 38 new item(s) across 22 state(s).
+[2026-09-17 17:44:14] Email sent.
+[2026-09-17 17:44:14] Done.
