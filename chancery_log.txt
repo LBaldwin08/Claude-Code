@@ -10806,3 +10806,14 @@ Call log:
 [2026-09-17 12:40:55] Found 27 opinions on page.
 [2026-09-17 12:40:55] No new opinions.
 [2026-09-17 12:40:55] Done.
+[2026-09-17 17:25:25] Checking for new DE court opinions...
+[2026-09-17 17:25:25] Using Playwright to fetch opinions page...
+[2026-09-17 17:25:37] Playwright found 27 opinion(s).
+[2026-09-17 17:25:37] Found 27 opinions on page.
+[2026-09-17 17:25:37] 2 new opinion(s)!
+[2026-09-17 17:25:37]   NEW: [09/17/2026] [Superior Court] Tiller v. USAA General Indemnity Co. et al. | N25C-11-054 SPL | LuggJ.
+[2026-09-17 17:25:37]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401100
+[2026-09-17 17:25:37]   NEW: [09/16/2026] [Supreme Court(Family Court)] Harrison, Finley vs. Gabriel Santos and Mila Wagner | 343, 2026 | TraynorJ.
+[2026-09-17 17:25:37]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401080
+[2026-09-17 17:25:39] Email notification sent.
+[2026-09-17 17:25:39] Done.
