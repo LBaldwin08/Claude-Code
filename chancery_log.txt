@@ -10823,3 +10823,14 @@ Call log:
 [2026-09-17 20:27:53] Found 27 opinions on page.
 [2026-09-17 20:27:53] No new opinions.
 [2026-09-17 20:27:53] Done.
+[2026-09-17 22:59:00] Checking for new DE court opinions...
+[2026-09-17 22:59:00] Using Playwright to fetch opinions page...
+[2026-09-17 22:59:11] Playwright found 27 opinion(s).
+[2026-09-17 22:59:11] Found 27 opinions on page.
+[2026-09-17 22:59:11] 2 new opinion(s)!
+[2026-09-17 22:59:11]   NEW: [09/17/2026] [Court of Chancery] James Spadola v. Ernest "Trippi" Congo II, et al. | C.A. No. 2026-0563-KSJM | McCormick,C.
+[2026-09-17 22:59:11]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401120
+[2026-09-17 22:59:11]   NEW: [09/17/2026] [Superior Court] City of Wilmington v. RHR Holdings, LLC | N25J-03690 | O'ConnorC.
+[2026-09-17 22:59:11]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401110
+[2026-09-17 22:59:12] Email notification sent.
+[2026-09-17 22:59:12] Done.
