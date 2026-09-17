@@ -1349,3 +1349,16 @@
 [2026-09-16 17:42:54]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-publishes-price-transparency-faqs-auto-dealers
 [2026-09-16 17:42:55] Email notification sent.
 [2026-09-16 17:42:55] Done.
+[2026-09-17 17:43:11] Checking for new FTC press releases...
+[2026-09-17 17:43:11] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-17 17:43:25] Playwright found 0 press release link(s).
+[2026-09-17 17:43:25] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-17 17:43:26] requests found 20 press release link(s).
+[2026-09-17 17:43:26] Found 20 press release(s) on page.
+[2026-09-17 17:43:26] 2 new press release(s)!
+[2026-09-17 17:43:26]   NEW: [2026-09-17T12:00:00Z] FTC Takes Historic Action Against Multilevel Marketing Operator Amway  for Unfair and Deceptive Business Practices
+[2026-09-17 17:43:26]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-takes-historic-action-against-multilevel-marketing-operator-amway-unfair-deceptive-business
+[2026-09-17 17:43:26]   NEW: [2026-09-17T12:00:00Z] FTC Announces Additional Payments to Consumers Stemming from FTC’s Amazon Prime Settlement
+[2026-09-17 17:43:26]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-announces-additional-payments-consumers-stemming-ftcs-amazon-prime-settlement
+[2026-09-17 17:43:27] Email notification sent.
+[2026-09-17 17:43:27] Done.
