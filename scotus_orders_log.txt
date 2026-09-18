@@ -1047,3 +1047,10 @@
 [2026-09-17 17:54:09]        https://www.supremecourt.gov/orders/courtorders/091626zr_c07d.pdf
 [2026-09-17 17:54:10] Email notification sent.
 [2026-09-17 17:54:10] Done.
+[2026-09-18 17:25:45] Checking for new Supreme Court orders...
+[2026-09-18 17:25:45] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-09-18 17:25:48] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-09-18 17:25:50] Playwright found 116 order(s).
+[2026-09-18 17:25:50] Found 116 order(s) on page.
+[2026-09-18 17:25:50] No new orders.
+[2026-09-18 17:25:50] Done.
