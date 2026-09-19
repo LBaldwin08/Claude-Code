@@ -1373,3 +1373,11 @@
 [2026-09-18 17:10:06]        https://www.ftc.gov/news-events/news/press-releases/2026/09/fleetcor-agrees-pay-100-million-resolve-administrative-action-after-federal-court-finds-it-violated
 [2026-09-18 17:10:07] Email notification sent.
 [2026-09-18 17:10:07] Done.
+[2026-09-19 16:44:25] Checking for new FTC press releases...
+[2026-09-19 16:44:25] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-19 16:44:38] Playwright found 0 press release link(s).
+[2026-09-19 16:44:38] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-19 16:44:39] requests found 20 press release link(s).
+[2026-09-19 16:44:39] Found 20 press release(s) on page.
+[2026-09-19 16:44:39] No new press releases.
+[2026-09-19 16:44:39] Done.
