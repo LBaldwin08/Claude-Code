@@ -10994,3 +10994,18 @@ Call log:
 [2026-09-21 16:45:42] Found 27 opinions on page.
 [2026-09-21 16:45:42] No new opinions.
 [2026-09-21 16:45:42] Done.
+[2026-09-21 20:44:22] Checking for new DE court opinions...
+[2026-09-21 20:44:22] Using Playwright to fetch opinions page...
+[2026-09-21 20:44:34] Playwright found 27 opinion(s).
+[2026-09-21 20:44:34] Found 27 opinions on page.
+[2026-09-21 20:44:34] 4 new opinion(s)!
+[2026-09-21 20:44:34]   NEW: [09/21/2026] [Supreme Court(Court of Chancery)] Gerald W. Hocker and Steven Washington v. The Honorable Anthony J. Albence and State of Delaware Department of Elections | 406, 2026 | SeitzC.J.
+[2026-09-21 20:44:34]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401170
+[2026-09-21 20:44:34]   NEW: [09/21/2026] [Supreme Court(Superior Court)] Brian Wilson aka Fudayl Wakim v. State of Delaware | 4, 2026 | GriffithsJ.
+[2026-09-21 20:44:34]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401180
+[2026-09-21 20:44:34]   NEW: [09/21/2026] [Supreme Court(Superior Court)] Pulliam v. State | 252, 2026 | LeGrowJ.
+[2026-09-21 20:44:34]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401190
+[2026-09-21 20:44:34]   NEW: [09/17/2026] [Court of Chancery] James Spadola v. Ernest "Trippi" Congo II, et al. | C.A. No. 2026-0563-KSJM | McCormick,C.
+[2026-09-21 20:44:34]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401200
+[2026-09-21 20:44:35] Email notification sent.
+[2026-09-21 20:44:35] Done.
