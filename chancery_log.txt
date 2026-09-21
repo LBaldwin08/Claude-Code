@@ -10970,3 +10970,9 @@ Call log:
 [2026-09-20 22:07:37] Found 27 opinions on page.
 [2026-09-20 22:07:37] No new opinions.
 [2026-09-20 22:07:37] Done.
+[2026-09-21 00:22:40] Checking for new DE court opinions...
+[2026-09-21 00:22:40] Using Playwright to fetch opinions page...
+[2026-09-21 00:22:51] Playwright found 27 opinion(s).
+[2026-09-21 00:22:51] Found 27 opinions on page.
+[2026-09-21 00:22:51] No new opinions.
+[2026-09-21 00:22:51] Done.
