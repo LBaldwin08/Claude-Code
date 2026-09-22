@@ -11039,3 +11039,22 @@ Call log:
 [2026-09-22 13:36:19] Attempt 3/3 failed: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fbbee4401d0>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-09-22 13:36:19] ERROR fetching page after 3 attempts: HTTPSConnectionPool(host='courts.delaware.gov', port=443): Max retries exceeded with url: /opinions/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='courts.delaware.gov', port=443) at 0x7fbbee4401d0>, 'Connection to courts.delaware.gov timed out. (connect timeout=15)'))
 [2026-09-22 13:36:19] Skipping this run — will retry next scheduled check.
+[2026-09-22 17:52:36] Checking for new DE court opinions...
+[2026-09-22 17:52:36] Using Playwright to fetch opinions page...
+[2026-09-22 17:52:47] Playwright found 27 opinion(s).
+[2026-09-22 17:52:47] Found 27 opinions on page.
+[2026-09-22 17:52:47] 6 new opinion(s)!
+[2026-09-22 17:52:47]   NEW: [09/21/2026] [Superior Court] American Home Assurance Co. et al V. Google, LLC et al | N26C-02-652 CCLD | RennieJ.
+[2026-09-22 17:52:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401260
+[2026-09-22 17:52:47]   NEW: [09/21/2026] [Superior Court] State v. Anderson | 2408003609 | RennieJ.
+[2026-09-22 17:52:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401240
+[2026-09-22 17:52:47]   NEW: [09/21/2026] [Superior Court] State v. Jones | 2106013860 | RennieJ.
+[2026-09-22 17:52:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401220
+[2026-09-22 17:52:47]   NEW: [09/21/2026] [Superior Court] State v. Norman | 2203010974 | RennieJ.
+[2026-09-22 17:52:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401250
+[2026-09-22 17:52:47]   NEW: [09/21/2026] [Superior Court] State v. Rendle | 2503004426 | RennieJ.
+[2026-09-22 17:52:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401230
+[2026-09-22 17:52:47]   NEW: [09/18/2026] [Superior Court] State v. Wescott | 2507007410, 2507007277 | PrimosJ.
+[2026-09-22 17:52:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401210
+[2026-09-22 17:52:48] Email notification sent.
+[2026-09-22 17:52:48] Done.
