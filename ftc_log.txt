@@ -1416,3 +1416,14 @@
 [2026-09-23 17:56:03] Found 20 press release(s) on page.
 [2026-09-23 17:56:03] No new press releases.
 [2026-09-23 17:56:03] Done.
+[2026-09-24 17:55:48] Checking for new FTC press releases...
+[2026-09-24 17:55:48] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-24 17:56:02] Playwright found 0 press release link(s).
+[2026-09-24 17:56:02] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-24 17:56:03] requests found 20 press release link(s).
+[2026-09-24 17:56:03] Found 20 press release(s) on page.
+[2026-09-24 17:56:03] 1 new press release(s)!
+[2026-09-24 17:56:03]   NEW: [2026-09-24T12:00:00Z] FTC Seeks Public Comment on Whether to Update Rule on Impersonation of Government and Businesses to Address Platforms’ Role in Promoting Impersonation Scams
+[2026-09-24 17:56:03]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-seeks-public-comment-whether-update-rule-impersonation-government-businesses-address-platforms
+[2026-09-24 17:56:04] Email notification sent.
+[2026-09-24 17:56:04] Done.
