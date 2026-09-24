@@ -11155,3 +11155,16 @@ Call log:
 [2026-09-24 17:42:55]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401320
 [2026-09-24 17:42:56] Email notification sent.
 [2026-09-24 17:42:56] Done.
+[2026-09-24 21:02:57] Checking for new DE court opinions...
+[2026-09-24 21:02:57] Using Playwright to fetch opinions page...
+[2026-09-24 21:03:09] Playwright found 27 opinion(s).
+[2026-09-24 21:03:09] Found 27 opinions on page.
+[2026-09-24 21:03:09] 3 new opinion(s)!
+[2026-09-24 21:03:09]   NEW: [09/24/2026] [Court of Chancery] Curonix LLC v. Laura Tyler Perryman, StimGuard Medical Corporation, LTP Limited, LLC, et al. | C.A. No. 2019-1003-BWD | David, Bonnie W.V.C.
+[2026-09-24 21:03:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401360
+[2026-09-24 21:03:09]   NEW: [09/24/2026] [Court of Chancery] IN RE CARE ONE, LLC ADVANCEMENT LITIGATION | C.A. No. 2025-1286-NAC | CookV.C.
+[2026-09-24 21:03:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401380
+[2026-09-24 21:03:09]   NEW: [09/24/2026] [Supreme Court(Superior Court)] Claude Gendreau, et al. vs Movora LLC, et al. | 447, 2025 | GriffithsJ.
+[2026-09-24 21:03:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401370
+[2026-09-24 21:03:10] Email notification sent.
+[2026-09-24 21:03:10] Done.
