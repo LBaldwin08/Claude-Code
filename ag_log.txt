@@ -32927,3 +32927,237 @@ Call log:
 [2026-09-23 17:57:13] Sending email: 41 new item(s) across 27 state(s).
 [2026-09-23 17:57:14] Email sent.
 [2026-09-23 17:57:14] Done.
+[2026-09-24 17:54:21] Checking for new AG press releases...
+[2026-09-24 17:54:21] Checking 50 state(s).
+[2026-09-24 17:54:21] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-09-24 17:54:21]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-09-24 17:54:26]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (241731 chars)
+[2026-09-24 17:54:26]   Playwright found 27 item(s) with configured selector
+[2026-09-24 17:54:26] [AL] Found 27 item(s) on page.
+[2026-09-24 17:54:26] [AL] No new items.
+[2026-09-24 17:54:26] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-09-24 17:54:26] [AK] Found 50 item(s) on page.
+[2026-09-24 17:54:26] [AK] No new items.
+[2026-09-24 17:54:26] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-09-24 17:54:26] [AZ] Found 10 item(s) on page.
+[2026-09-24 17:54:26] [AZ] 2 new item(s):
+[2026-09-24 17:54:26]   NEW: Attorney General Mayes Urges Congress to Protect Americans from Unchecked AI Development |  | https://www.azag.gov/press-release/attorney-general-mayes-urges-congress-protect-americans-unchecked-ai-development
+[2026-09-24 17:54:26]   NEW: Attorney General Mayes Sues Kratom Maker Botanic Tonics in First-In-Nation Consumer Protection Lawsuit |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-kratom-maker-botanic-tonics-first-nation-consumer
+[2026-09-24 17:54:26] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-09-24 17:54:27] [AR] Found 50 item(s) on page.
+[2026-09-24 17:54:27] [AR] 1 new item(s):
+[2026-09-24 17:54:27]   NEW: Thursday, September 24, 2026Attorney General Griffin Announces Seven Arrests Made by Medicaid Fraud Control UnitRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-announces-seven-arrests-made-by-medicaid-fraud-control-unit/
+[2026-09-24 17:54:27] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-09-24 17:54:28] [CA] Found 10 item(s) on page.
+[2026-09-24 17:54:28] [CA] 3 new item(s):
+[2026-09-24 17:54:28]   NEW: Attorney General Bonta Secures Major Victories from State’s Highest Court, Confirming Authority to Issue Binding Directives to Riverside Sheriff and Ordering Sheriff to Return Voted Ballots to the Registrar of Voters | Thu, 24 Sep 2026 16:17:06 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-major-victories-state%E2%80%99s-highest-court-confirming
+[2026-09-24 17:54:28]   NEW: Attorney General Bonta Urges Consumers to Claim Compensation for Inflated Generic Drug Prices | Thu, 24 Sep 2026 14:04:08 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-urges-consumers-claim-compensation-inflated-generic-drug
+[2026-09-24 17:54:28]   NEW: Attorney General Bonta Disputes Another Trump Administration Proposal That Would Harm Our National Forests | Wed, 23 Sep 2026 20:23:18 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-disputes-another-trump-administration-proposal-would-harm
+[2026-09-24 17:54:28] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-09-24 17:54:28] [CO] Found 50 item(s) on page.
+[2026-09-24 17:54:28] [CO] No new items.
+[2026-09-24 17:54:28] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-09-24 17:54:29] [CT] Found 33 item(s) on page.
+[2026-09-24 17:54:29] [CT] 3 new item(s):
+[2026-09-24 17:54:29]   NEW: Attorney General Tong Joins Bipartisan S.O.S. to Congress on Unchecked AI Development | 9/24/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-joins-bipartisan-sos-to-congress-on-unchecked-ai-development
+[2026-09-24 17:54:29]   NEW: Attorney General Tong Calls on Trump Administration to Stop Undermining Federal Vaccine Guidance | 9/24/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-calls-on-trump-administration-to-stop-undermining-federal-vaccine-guidance
+[2026-09-24 17:54:29]   NEW: Attorney General Tong Leads $2.3 Million Multistate Settlement with LabCorp Over the American Medical Collection Agency Data Breach | 9/24/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-leads-multistate-settlement-with-labcorp
+[2026-09-24 17:54:29] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-09-24 17:54:30] [DE] Found 300 item(s) on page.
+[2026-09-24 17:54:30] [DE] 3 new item(s):
+[2026-09-24 17:54:30]   NEW: AG Jennings defeats Trump Administration’s illegal attempts to defund Head Start and other programs | Thu, 24 Sep 2026 05:49:57 +0000 | https://news.delaware.gov/2026/09/24/ag-jennings-defeats-trump-administrations-illegal-attempts-to-defund-head-start-and-other-programs/
+[2026-09-24 17:54:30]   NEW: AG Jennings secures court order blocking Trump Administration’s unlawful demand of CDL drivers’ personal information | Wed, 23 Sep 2026 09:39:57 +0000 | https://news.delaware.gov/2026/09/23/ag-jennings-secures-court-order-blocking-trump-administrations-unlawful-demand-of-cdl-drivers-personal-information/
+[2026-09-24 17:54:30]   NEW: AG Jennings permanently blocks Trump Administration’s SNAP penalties | Wed, 23 Sep 2026 09:37:40 +0000 | https://news.delaware.gov/2026/09/23/ag-jennings-permanently-blocks-trump-administrations-snap-penalties/
+[2026-09-24 17:54:30] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-09-24 17:54:30] [FL] Found 20 item(s) on page.
+[2026-09-24 17:54:30] [FL] No new items.
+[2026-09-24 17:54:30] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-09-24 17:54:30] [GA] Found 11 item(s) on page.
+[2026-09-24 17:54:30] [GA] 1 new item(s):
+[2026-09-24 17:54:30]   NEW: Carr: Behavioral Health Provider Facing 31-Count Medicaid Fraud Indictment in DeKalb CountySeptember 23, 2026 |  | https://law.georgia.gov/press-releases/2026-09-23/carr-behavioral-health-provider-facing-31-count-medicaid-fraud-indictment
+[2026-09-24 17:54:30] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-09-24 17:54:30] [HI] Found 26 item(s) on page.
+[2026-09-24 17:54:30] [HI] No new items.
+[2026-09-24 17:54:30] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-24 17:54:30]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-24 17:54:34]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66199 chars)
+[2026-09-24 17:54:34]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-09-24 17:54:34] [ID] Found 28 item(s) on page.
+[2026-09-24 17:54:34] [ID] No new items.
+[2026-09-24 17:54:34] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-09-24 17:54:35] [IL] Found 50 item(s) on page.
+[2026-09-24 17:54:35] [IL] 2 new item(s):
+[2026-09-24 17:54:35]   NEW: September 24, 2026ATTORNEY GENERAL RAOUL ANNOUNCES EFFINGHAM COUNTY MAN’S 38-YEAR PRISON SENTENCE FOR PRODUCING CHILD SEXUAL ABUSE MATERIAL | 2026-09-24 11:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-effingham-county-mans-38-year-prison-sentence-for-producing-child-sexual-abuse-material
+[2026-09-24 17:54:35]   NEW: September 23, 2026ATTORNEY GENERAL RAOUL CALLS ON TRUMP ADMINISTRATION TO STOP UNDERMINING FEDERAL VACCINE GUIDANCE | 2026-09-24 11:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-calls-on-trump-administration-to-stop-undermining-federal-vaccine-guidance
+[2026-09-24 17:54:35] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-09-24 17:54:36] [IN] Found 34 item(s) on page.
+[2026-09-24 17:54:36] [IN] No new items.
+[2026-09-24 17:54:36] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-09-24 17:54:36] [IA] Found 10 item(s) on page.
+[2026-09-24 17:54:36] [IA] No new items.
+[2026-09-24 17:54:36] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-24 17:54:36]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-24 17:54:39]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-09-24 17:54:39]   Playwright: page loaded but no links matched — check selectors
+[2026-09-24 17:54:39]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-09-24 17:54:39]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-24 17:55:00]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-24 17:55:20]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-24 17:55:20] [KS] No items returned (fetch failed or empty page).
+[2026-09-24 17:55:20] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-09-24 17:55:20] [KY] Found 26 item(s) on page.
+[2026-09-24 17:55:20] [KY] No new items.
+[2026-09-24 17:55:20] [LA] Fetching https://ag.louisiana.gov/News
+[2026-09-24 17:55:21] [LA] Found 20 item(s) on page.
+[2026-09-24 17:55:21] [LA] No new items.
+[2026-09-24 17:55:21] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-09-24 17:55:21] [ME] Found 14 item(s) on page.
+[2026-09-24 17:55:21] [ME] No new items.
+[2026-09-24 17:55:21] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-09-24 17:55:21] [MD] Found 50 item(s) on page.
+[2026-09-24 17:55:21] [MD] No new items.
+[2026-09-24 17:55:21] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-24 17:55:21]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-24 17:55:24]   Playwright loaded page: 'Not allowed | Mass Gov' (14082 chars)
+[2026-09-24 17:55:24]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-09-24 17:55:24] [MA] Found 1 item(s) on page.
+[2026-09-24 17:55:24] [MA] No new items.
+[2026-09-24 17:55:24] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-09-24 17:55:24]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-09-24 17:55:27]   Playwright loaded page: 'Attorney General: Press Releases' (377516 chars)
+[2026-09-24 17:55:27]   Playwright found 10 item(s) with configured selector
+[2026-09-24 17:55:27] [MI] Found 10 item(s) on page.
+[2026-09-24 17:55:27] [MI] 2 new item(s):
+[2026-09-24 17:55:27]   NEW: Attorney General Nessel Calls on Trump Administration to Stop Undermining Federal Vaccine Guidance |  | https://www.michigan.gov/ag/news/press-releases/2026/09/24/attorney-general-nessel-calls-on-trump-administration-to-stop-undermining-federal-vaccine-guidance
+[2026-09-24 17:55:27]   NEW: AG Nessel Charges Dental Practice Manager for Alleged Medicaid Fraud Scheme |  | https://www.michigan.gov/ag/news/press-releases/2026/09/24/ag-nessel-charges-dental-practice-manager-for-alleged-medicaid-fraud-scheme
+[2026-09-24 17:55:27] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-09-24 17:55:28] [MN] Found 50 item(s) on page.
+[2026-09-24 17:55:28] [MN] No new items.
+[2026-09-24 17:55:28] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-09-24 17:55:28] [MS] Found 1 item(s) on page.
+[2026-09-24 17:55:28] [MS] 1 new item(s):
+[2026-09-24 17:55:28]   NEW: AG Fitch Urges NSC to Protect GLP-1 Drugs from Chinese Exploitation (September 24, 2026) |  | https://attorneygenerallynnfitch.com/2026/09/24/ag-fitch-urges-nsc-to-protect-glp-1-drugs-from-chinese-exploitation-september-24-2026/
+[2026-09-24 17:55:28] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-09-24 17:55:28] [MO] Found 50 item(s) on page.
+[2026-09-24 17:55:28] [MO] No new items.
+[2026-09-24 17:55:28] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-09-24 17:55:28] [MT] Found 10 item(s) on page.
+[2026-09-24 17:55:28] [MT] No new items.
+[2026-09-24 17:55:28] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-09-24 17:55:29] [NE] Found 10 item(s) on page.
+[2026-09-24 17:55:29] [NE] No new items.
+[2026-09-24 17:55:29] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-09-24 17:55:30] [NV] Found 50 item(s) on page.
+[2026-09-24 17:55:30] [NV] No new items.
+[2026-09-24 17:55:30] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-09-24 17:55:30]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-09-24 17:55:32]   Playwright loaded page: 'Access Denied' (314 chars)
+[2026-09-24 17:55:32]   Playwright: page loaded but no links matched — check selectors
+[2026-09-24 17:55:32]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-09-24 17:55:32]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-24 17:55:52]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-24 17:56:12]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-24 17:56:12] [NH] No items returned (fetch failed or empty page).
+[2026-09-24 17:56:12] [NJ] Fetching https://www.njoag.gov/news/
+[2026-09-24 17:56:14] [NJ] Found 5 item(s) on page.
+[2026-09-24 17:56:14] [NJ] 1 new item(s):
+[2026-09-24 17:56:14]   NEW: New Jersey Joins Multistate LabCorp Settlement Over 2019 Data Breach Impacting More Than 400,000 New Jerseyans |  | https://www.njoag.gov/new-jersey-joins-multistate-labcorp-settlement-over-2019-data-breach-impacting-more-than-400000-new-jerseyans/
+[2026-09-24 17:56:14] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-09-24 17:56:15] [NM] Found 14 item(s) on page.
+[2026-09-24 17:56:15] [NM] No new items.
+[2026-09-24 17:56:15] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-09-24 17:56:15] [NY] Found 25 item(s) on page.
+[2026-09-24 17:56:15] [NY] 4 new item(s):
+[2026-09-24 17:56:15]   NEW: Attorney General James Calls on Congress to Protect Americans from Unchecked AI Development |  | https://ag.ny.gov/press-release/2026/attorney-general-james-calls-congress-protect-americans-unchecked-ai-development
+[2026-09-24 17:56:15]   NEW: Attorney General James and Governor Hochul Announce Lawsuit Against Polymarket for Running Illegal Gambling Operation |  | https://ag.ny.gov/press-release/2026/attorney-general-james-and-governor-hochul-announce-lawsuit-against-polymarket
+[2026-09-24 17:56:15]   NEW: Attorney General James Secures $2.3 Million and Reforms to Protect Consumers After Labcorp Data Breach |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-23-million-and-reforms-protect-consumers-after
+[2026-09-24 17:56:15]   NEW: La Fiscal General James Logra $2.3 Millones de Dólares y Reformas Para Proteger a los Consumidores Tras la Brecha de Datos de Labcorp |  | https://ag.ny.gov/press-release/2026/la-fiscal-general-james-logra-23-millones-de-dolares-y-reformas-para-proteger
+[2026-09-24 17:56:15] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-09-24 17:56:18] [NC] Found 10 item(s) on page.
+[2026-09-24 17:56:18] [NC] 1 new item(s):
+[2026-09-24 17:56:18]   NEW: Attorney General Jeff Jackson Secures Conviction and 39-Year Sentence in Asheville Murder Case |  | https://ncdoj.gov/attorney-general-jeff-jackson-secures-conviction-and-39-year-sentence-in-asheville-murder-case/
+[2026-09-24 17:56:18] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-09-24 17:56:18] [ND] Found 10 item(s) on page.
+[2026-09-24 17:56:18] [ND] No new items.
+[2026-09-24 17:56:18] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-09-24 17:56:18] [OH] Found 10 item(s) on page.
+[2026-09-24 17:56:18] [OH] No new items.
+[2026-09-24 17:56:18] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-24 17:56:18]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-24 17:56:21]   Playwright loaded page: 'News Releases' (866630 chars)
+[2026-09-24 17:56:22]   Playwright found 20 item(s) with configured selector
+[2026-09-24 17:56:22] [OK] Found 20 item(s) on page.
+[2026-09-24 17:56:22] [OK] 1 new item(s):
+[2026-09-24 17:56:22]   NEW: Multi-County Grand Jury indicts five in three human trafficking cases |  | https://oklahoma.gov/oag/news/newsroom/2026/september/multi-county-grand-jury-indicts-five-in-three-human-trafficking-cases.html
+[2026-09-24 17:56:22] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-09-24 17:56:27] [OR] Found 10 item(s) on page.
+[2026-09-24 17:56:27] [OR] 1 new item(s):
+[2026-09-24 17:56:27]   NEW: Attorney General Rayfield Urges Federal Courts to Reject Unlawful ICE Detention and Arrests |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-urges-federal-court-to-reject-unlawful-ice-detentions-and-arrests/
+[2026-09-24 17:56:27] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-09-24 17:56:28] [PA] Found 12 item(s) on page.
+[2026-09-24 17:56:28] [PA] 1 new item(s):
+[2026-09-24 17:56:28]   NEW: Press ReleaseSEP 24, 2026Attorney General Sunday Announces Multistate Settlement with Labcorp over American Medical Collection Agency Data BreachHARRISBURG – Attorney General Dave Sunday announced that Pennsylvania, as part of a coalition of 44 attorneys general, has settled with the Laboratory Corporation of America (Labcorp) resolving…Read more | 2026-09-24T12:01:21-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-announces-multistate-settlement-with-labcorp-over-american-medical-collection-agency-data-breach/
+[2026-09-24 17:56:28] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-09-24 17:56:28] [RI] Found 10 item(s) on page.
+[2026-09-24 17:56:28] [RI] No new items.
+[2026-09-24 17:56:28] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-09-24 17:56:28]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-09-24 17:56:31]   Playwright loaded page: 'News - South Carolina Attorney General' (110341 chars)
+[2026-09-24 17:56:31]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-09-24 17:56:31] [SC] Found 9 item(s) on page.
+[2026-09-24 17:56:31] [SC] 1 new item(s):
+[2026-09-24 17:56:31]   NEW: Attorney General Alan Wilson announces nurse charged with stealing drugs from patientsRead More | Sep 23, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-nurse-charged-with-stealing-drugs-from-patients/
+[2026-09-24 17:56:31] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-09-24 17:56:31]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=9
+[2026-09-24 17:56:34]   Playwright loaded page: 'South Dakota Attorney General' (38218 chars)
+[2026-09-24 17:56:34]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-09-24 17:56:34] [SD] Found 1 item(s) on page.
+[2026-09-24 17:56:34] [SD] No new items.
+[2026-09-24 17:56:34] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-09-24 17:56:34] [TN] Found 50 item(s) on page.
+[2026-09-24 17:56:34] [TN] No new items.
+[2026-09-24 17:56:34] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-09-24 17:56:35] [TX] Found 50 item(s) on page.
+[2026-09-24 17:56:35] [TX] 2 new item(s):
+[2026-09-24 17:56:35]   NEW: Attor­ney Gen­er­al Pax­ton Launch­es Land­mark Inves­ti­ga­tion into Hun­dreds of Data Cen­ter Devel­op­ments in Texas to Ensure Com­pli­ance with Water Use Report­ing Requirements |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-launches-landmark-investigation-hundreds-data-center-developments-texas
+[2026-09-24 17:56:35]   NEW: Attor­ney Gen­er­al Ken Pax­ton Announces Iden­ti­fi­ca­tion of Remains of Jason Landry, Texas State Stu­dent Who Went Miss­ing After Car Crash in2020 |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-announces-identification-remains-jason-landry-texas-state-student-who
+[2026-09-24 17:56:35] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-09-24 17:56:35]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-09-24 17:56:37]   Playwright loaded page: 'Press Releases - Utah Attorney General' (299018 chars)
+[2026-09-24 17:56:38]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-09-24 17:56:38] [UT] Found 50 item(s) on page.
+[2026-09-24 17:56:38] [UT] No new items.
+[2026-09-24 17:56:38] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-09-24 17:56:38] [VT] Found 50 item(s) on page.
+[2026-09-24 17:56:38] [VT] No new items.
+[2026-09-24 17:56:38] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-09-24 17:56:39] [VA] Found 50 item(s) on page.
+[2026-09-24 17:56:39] [VA] No new items.
+[2026-09-24 17:56:39] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-09-24 17:56:39] [WA] Found 15 item(s) on page.
+[2026-09-24 17:56:39] [WA] 1 new item(s):
+[2026-09-24 17:56:39]   NEW: AG Brown and bipartisan coalition call on Congress to protect Americans from unchecked AI development | Thu, 24 Sep 2026 16:53:38 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-and-bipartisan-coalition-call-congress-protect-americans-unchecked-ai
+[2026-09-24 17:56:39] [WV] Fetching https://ago.wv.gov/news
+[2026-09-24 17:56:39]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-09-24 17:56:42]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55310 chars)
+[2026-09-24 17:56:42]   Playwright found 30 item(s) with configured selector
+[2026-09-24 17:56:42] [WV] Found 30 item(s) on page.
+[2026-09-24 17:56:42] [WV] No new items.
+[2026-09-24 17:56:42] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-24 17:56:42]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-24 17:57:12]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-09-24 17:57:12]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-09-24 17:57:28]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f968e808980>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-09-24 17:58:03]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f968fa222a0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-09-24 17:58:38]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f968e5261e0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-09-24 17:58:38] [WI] No items returned (fetch failed or empty page).
+[2026-09-24 17:58:38] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-09-24 17:58:39] [WY] Found 2 item(s) on page.
+[2026-09-24 17:58:39] [WY] No new items.
+[2026-09-24 17:58:39] States with fetch errors: KS, NH, WI
+[2026-09-24 17:58:39] Sending email: 31 new item(s) across 18 state(s).
+[2026-09-24 17:58:40] Email sent.
+[2026-09-24 17:58:40] Done.
