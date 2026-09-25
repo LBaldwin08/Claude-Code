@@ -1427,3 +1427,14 @@
 [2026-09-24 17:56:03]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-seeks-public-comment-whether-update-rule-impersonation-government-businesses-address-platforms
 [2026-09-24 17:56:04] Email notification sent.
 [2026-09-24 17:56:04] Done.
+[2026-09-25 18:02:53] Checking for new FTC press releases...
+[2026-09-25 18:02:53] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-25 18:03:06] Playwright found 0 press release link(s).
+[2026-09-25 18:03:06] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-25 18:03:07] requests found 20 press release link(s).
+[2026-09-25 18:03:07] Found 20 press release(s) on page.
+[2026-09-25 18:03:07] 1 new press release(s)!
+[2026-09-25 18:03:07]   NEW: [2026-09-24T12:00:00Z] FTC Approves Publication of Federal Register Notices Revising the Commission’s Rules of Practice
+[2026-09-25 18:03:07]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-approves-publication-federal-register-notices-revising-commissions-rules-practice
+[2026-09-25 18:03:08] Email notification sent.
+[2026-09-25 18:03:08] Done.
