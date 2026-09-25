@@ -11186,3 +11186,12 @@ Call log:
 [2026-09-25 09:17:24] Found 27 opinions on page.
 [2026-09-25 09:17:24] No new opinions.
 [2026-09-25 09:17:24] Done.
+[2026-09-25 14:40:29] Checking for new DE court opinions...
+[2026-09-25 14:40:29] Using Playwright to fetch opinions page...
+[2026-09-25 14:40:42] Playwright found 27 opinion(s).
+[2026-09-25 14:40:42] Found 27 opinions on page.
+[2026-09-25 14:40:42] 1 new opinion(s)!
+[2026-09-25 14:40:42]   NEW: [09/25/2026] [Superior Court] FirstService Roofing Holdings, Inc., et al. v. Travis Webb | N25C-09-183 PAW CCLD | WinstonJ.
+[2026-09-25 14:40:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401390
+[2026-09-25 14:40:43] Email notification sent.
+[2026-09-25 14:40:43] Done.
