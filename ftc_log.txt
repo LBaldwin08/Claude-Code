@@ -1438,3 +1438,11 @@
 [2026-09-25 18:03:07]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-approves-publication-federal-register-notices-revising-commissions-rules-practice
 [2026-09-25 18:03:08] Email notification sent.
 [2026-09-25 18:03:08] Done.
+[2026-09-26 17:21:47] Checking for new FTC press releases...
+[2026-09-26 17:21:47] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-26 17:22:00] Playwright found 0 press release link(s).
+[2026-09-26 17:22:00] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-26 17:22:00] requests found 20 press release link(s).
+[2026-09-26 17:22:00] Found 20 press release(s) on page.
+[2026-09-26 17:22:00] No new press releases.
+[2026-09-26 17:22:00] Done.
