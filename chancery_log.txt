@@ -11301,3 +11301,14 @@ Call log:
 [2026-09-28 15:43:06] Found 27 opinions on page.
 [2026-09-28 15:43:06] No new opinions.
 [2026-09-28 15:43:06] Done.
+[2026-09-28 21:31:28] Checking for new DE court opinions...
+[2026-09-28 21:31:28] Using Playwright to fetch opinions page...
+[2026-09-28 21:31:40] Playwright found 27 opinion(s).
+[2026-09-28 21:31:40] Found 27 opinions on page.
+[2026-09-28 21:31:40] 2 new opinion(s)!
+[2026-09-28 21:31:40]   NEW: [09/28/2026] [Court of Chancery] Melissa Brandao v. HerdDogg, Inc. | C.A. No. 2026-0824-TJF | FoxM.
+[2026-09-28 21:31:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401440
+[2026-09-28 21:31:40]   NEW: [09/25/2026] [Supreme Court(Superior Court)] Gibbs v. State | 113, 2026 | LeGrowJ.
+[2026-09-28 21:31:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401410
+[2026-09-28 21:31:40] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 6a1803df08f44-9143d0a64b9sm77490336d6.35 - gsmtp')
+[2026-09-28 21:31:40] Done.
