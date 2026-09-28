@@ -1454,3 +1454,14 @@
 [2026-09-27 17:55:11] Found 20 press release(s) on page.
 [2026-09-27 17:55:11] No new press releases.
 [2026-09-27 17:55:11] Done.
+[2026-09-28 20:13:04] Checking for new FTC press releases...
+[2026-09-28 20:13:04] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-28 20:13:19] Playwright found 0 press release link(s).
+[2026-09-28 20:13:19] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-28 20:13:19] requests found 20 press release link(s).
+[2026-09-28 20:13:19] Found 20 press release(s) on page.
+[2026-09-28 20:13:19] 1 new press release(s)!
+[2026-09-28 20:13:19]   NEW: [2026-09-28T12:00:00Z] FTC, States Win Protections to Lower Pesticide Prices for American Farmers in Antitrust Case Against Corteva
+[2026-09-28 20:13:19]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-states-win-protections-lower-pesticide-prices-american-farmers-antitrust-case-against-corteva
+[2026-09-28 20:13:20] ERROR sending email: Connection unexpectedly closed
+[2026-09-28 20:13:20] Done.
