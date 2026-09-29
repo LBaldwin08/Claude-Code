@@ -34071,3 +34071,235 @@ Call log:
 [2026-09-28 20:15:35] Sending email: 27 new item(s) across 19 state(s).
 [2026-09-28 20:15:35] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 6a1803df08f44-9143edd60a7sm74017356d6.20 - gsmtp')
 [2026-09-28 20:15:35] Done.
+[2026-09-29 18:47:08] Checking for new AG press releases...
+[2026-09-29 18:47:08] Checking 50 state(s).
+[2026-09-29 18:47:08] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-09-29 18:47:08]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-09-29 18:47:12]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (241958 chars)
+[2026-09-29 18:47:12]   Playwright found 27 item(s) with configured selector
+[2026-09-29 18:47:12] [AL] Found 27 item(s) on page.
+[2026-09-29 18:47:12] [AL] No new items.
+[2026-09-29 18:47:12] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-09-29 18:47:12] [AK] Found 50 item(s) on page.
+[2026-09-29 18:47:12] [AK] 1 new item(s):
+[2026-09-29 18:47:12]   NEW: Acting Attorney General Cori Mills Joins Coalition of 23 States in Challenging 3 Day Waiting Periods for Firearms Purchases |  | https://law.alaska.gov/releases/2026/092826-Firearms.html
+[2026-09-29 18:47:12] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-09-29 18:47:12] [AZ] Found 10 item(s) on page.
+[2026-09-29 18:47:12] [AZ] 1 new item(s):
+[2026-09-29 18:47:12]   NEW: Attorney General Mayes Secures Prison Sentence for Phoenix Drug Trafficker Caught with 50 Pounds of Meth, Thousands of Fentanyl Pills |  | https://www.azag.gov/press-release/attorney-general-mayes-secures-prison-sentence-phoenix-drug-trafficker-caught-50
+[2026-09-29 18:47:12] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-09-29 18:47:13] [AR] Found 50 item(s) on page.
+[2026-09-29 18:47:13] [AR] 2 new item(s):
+[2026-09-29 18:47:13]   NEW: Tuesday, September 29, 2026Bob R. Brooks Jr. Justice Building Wins 2026 Glass Magazine Award—Fifth Award in Two YearsRead More > |  | https://arkansasag.gov/news-release/bob-r-brooks-jr-justice-building-wins-2026-glass-magazine-award-fifth-award-in-two-years/
+[2026-09-29 18:47:13]   NEW: Monday, September 28, 2026Attorney General Griffin’s Fraud and Consumer Protection Summit Kicks Off First Day with over 800 RegistrantsRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffins-fraud-and-consumer-protection-summit-kicks-off-first-day-with-over-800-registrants/
+[2026-09-29 18:47:13] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-09-29 18:47:13] [CA] Found 10 item(s) on page.
+[2026-09-29 18:47:13] [CA] 5 new item(s):
+[2026-09-29 18:47:13]   NEW: Attorney General Bonta’s Sponsored Bills to Protect the Rights of California’s Immigrants Signed into Law | Tue, 29 Sep 2026 15:23:46 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta%E2%80%99s-sponsored-bills-protect-rights-california%E2%80%99s-immigrants
+[2026-09-29 18:47:13]   NEW: Attorney General Bonta Opposes Unlawful DHS Rule Fast-Tracking Asylum Seekers into Removal Proceedings Without an Interview | Tue, 29 Sep 2026 16:19:30 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-unlawful-dhs-rule-fast-tracking-asylum-seekers
+[2026-09-29 18:47:13]   NEW: California Department of Justice Investigating Madera Police Department Officer-Involved Shooting Under AB 1506 | Mon, 28 Sep 2026 21:25:34 +0000 | https://oag.ca.gov/news/press-releases/california-department-justice-investigating-madera-police-department-officer
+[2026-09-29 18:47:13]   NEW: Attorney General Bonta Celebrates New Laws Strengthening Protections for Patients and Providers of Reproductive and Gender-Affirming Healthcare | Mon, 28 Sep 2026 22:49:13 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-celebrates-new-laws-strengthening-protections-patients
+[2026-09-29 18:47:13]   NEW: Attorney General Bonta Sues Trump Administration Over Flawed Environmental Assessment for Commercial Drone Delivery Operations | Mon, 28 Sep 2026 19:06:23 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-trump-administration-over-flawed-environmental
+[2026-09-29 18:47:13] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-09-29 18:47:14] [CO] Found 50 item(s) on page.
+[2026-09-29 18:47:14] [CO] No new items.
+[2026-09-29 18:47:14] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-09-29 18:47:15] [CT] Found 33 item(s) on page.
+[2026-09-29 18:47:15] [CT] 1 new item(s):
+[2026-09-29 18:47:15]   NEW: Attorney General Tong Co-Leads Coalition Urging FERC to Reject NextEra-Dominion Merger | 9/29/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-co-leads-coalition-urging-ferc-to-reject-nextera-dominion-merger
+[2026-09-29 18:47:15] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-09-29 18:47:17] [DE] Found 300 item(s) on page.
+[2026-09-29 18:47:17] [DE] No new items.
+[2026-09-29 18:47:17] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-09-29 18:47:17] [FL] Found 20 item(s) on page.
+[2026-09-29 18:47:17] [FL] No new items.
+[2026-09-29 18:47:17] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-09-29 18:47:17] [GA] Found 11 item(s) on page.
+[2026-09-29 18:47:17] [GA] 1 new item(s):
+[2026-09-29 18:47:17]   NEW: Carr Indicts Caregiver for Neglect of Disabled Adults in Savannah Group HomeSeptember 29, 2026 |  | https://law.georgia.gov/press-releases/2026-09-29/carr-indicts-caregiver-neglect-disabled-adults-savannah-group-home
+[2026-09-29 18:47:17] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-09-29 18:47:18] [HI] Found 26 item(s) on page.
+[2026-09-29 18:47:18] [HI] No new items.
+[2026-09-29 18:47:18] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-29 18:47:18]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-09-29 18:47:21]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65161 chars)
+[2026-09-29 18:47:21]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-09-29 18:47:21] [ID] Found 28 item(s) on page.
+[2026-09-29 18:47:21] [ID] No new items.
+[2026-09-29 18:47:21] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-09-29 18:47:22] [IL] Found 50 item(s) on page.
+[2026-09-29 18:47:22] [IL] 1 new item(s):
+[2026-09-29 18:47:22]   NEW: September 29, 2026ATTORNEY GENERAL RAOUL OBTAINS 22-YEAR PRISON SENTENCE FOR MACOUPIN COUNTY MAN WHO POSSESSED CHILD SEXUAL ABUSE MATERIAL | 2026-09-29 10:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-22-year-prison-sentence-for-macoupin-county-man-who-possessed-child-sexual-abuse-material
+[2026-09-29 18:47:22] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-09-29 18:47:22] [IN] Found 34 item(s) on page.
+[2026-09-29 18:47:22] [IN] No new items.
+[2026-09-29 18:47:22] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-09-29 18:47:23] [IA] Found 10 item(s) on page.
+[2026-09-29 18:47:23] [IA] 2 new item(s):
+[2026-09-29 18:47:23]   NEW: Attorney General Brenna Bird Urges Congress to Fully Fund Supreme Court Security | September 29, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-urges-congress-to-fully-fund-supreme-court-security/
+[2026-09-29 18:47:23]   NEW: Attorney General Brenna Bird Joins President Trump in Oval Office for Announcement of Largest Steel Plant in American History to be Built in Iowa | September 28, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-joins-president-trump-in-oval-office-for-announcement-of-largest-steel/
+[2026-09-29 18:47:23] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-29 18:47:23]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-09-29 18:47:26]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-09-29 18:47:26]   Playwright: page loaded but no links matched — check selectors
+[2026-09-29 18:47:26]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-09-29 18:47:26]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-29 18:47:47]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-29 18:48:07]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-09-29 18:48:07] [KS] No items returned (fetch failed or empty page).
+[2026-09-29 18:48:07] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-09-29 18:48:09] [KY] Found 26 item(s) on page.
+[2026-09-29 18:48:09] [KY] No new items.
+[2026-09-29 18:48:09] [LA] Fetching https://ag.louisiana.gov/News
+[2026-09-29 18:48:09] [LA] Found 20 item(s) on page.
+[2026-09-29 18:48:09] [LA] 1 new item(s):
+[2026-09-29 18:48:09]   NEW: AG Liz Murrill’s Office Arrests Co-Conspirators on Several Crimes Against Children | 9/29/2026 | https://ag.louisiana.gov/Article/636
+[2026-09-29 18:48:09] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-09-29 18:48:10] [ME] Found 15 item(s) on page.
+[2026-09-29 18:48:10] [ME] No new items.
+[2026-09-29 18:48:10] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-09-29 18:48:11] [MD] Found 50 item(s) on page.
+[2026-09-29 18:48:11] [MD] No new items.
+[2026-09-29 18:48:11] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-29 18:48:11]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-09-29 18:48:14]   Playwright loaded page: 'News and Announcements | Mass.gov' (178960 chars)
+[2026-09-29 18:48:14]   Playwright found 15 item(s) with configured selector
+[2026-09-29 18:48:14] [MA] Found 15 item(s) on page.
+[2026-09-29 18:48:14] [MA] 1 new item(s):
+[2026-09-29 18:48:14]   NEW: AG Campbell Secures $525,000 Settlement With Republic Services For Failing To Honor Waste Disposal Contract With Lawrence | 9/29/2026 | https://www.mass.gov/news/ag-campbell-secures-525000-settlement-with-republic-services-for-failing-to-honor-waste-disposal-contract-with-lawrence
+[2026-09-29 18:48:14] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-09-29 18:48:14]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-09-29 18:48:18]   Playwright loaded page: 'Attorney General: Press Releases' (378484 chars)
+[2026-09-29 18:48:18]   Playwright found 10 item(s) with configured selector
+[2026-09-29 18:48:18] [MI] Found 10 item(s) on page.
+[2026-09-29 18:48:18] [MI] 1 new item(s):
+[2026-09-29 18:48:18]   NEW: Attorney General Nessel Celebrates Victory in CFPB Funding Lawsuit |  | https://www.michigan.gov/ag/news/press-releases/2026/09/29/attorney-general-nessel-celebrates-victory-in-cfpb-funding-lawsuit
+[2026-09-29 18:48:18] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-09-29 18:48:19] [MN] Found 50 item(s) on page.
+[2026-09-29 18:48:19] [MN] No new items.
+[2026-09-29 18:48:19] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-09-29 18:48:19] [MS] Found 1 item(s) on page.
+[2026-09-29 18:48:19] [MS] 1 new item(s):
+[2026-09-29 18:48:19]   NEW: Statement on the Officer-Involved Shooting Trial in Hinds County (September 28, 2026) |  | https://attorneygenerallynnfitch.com/2026/09/28/statement-on-the-officer-involved-shooting-trial-in-hinds-county-september-28-2026/
+[2026-09-29 18:48:19] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-09-29 18:48:19] [MO] Found 50 item(s) on page.
+[2026-09-29 18:48:19] [MO] No new items.
+[2026-09-29 18:48:19] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-09-29 18:48:20] [MT] Found 10 item(s) on page.
+[2026-09-29 18:48:20] [MT] 1 new item(s):
+[2026-09-29 18:48:20]   NEW: Attorney General Knudsen leads 25-state coalition against unconstitutional waiting-period law |  | https://dojmt.gov/attorney-general-knudsen-leads-25-state-coalition-against-unconstitutional-waiting-period-law/
+[2026-09-29 18:48:20] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-09-29 18:48:20] [NE] Found 10 item(s) on page.
+[2026-09-29 18:48:20] [NE] No new items.
+[2026-09-29 18:48:20] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-09-29 18:48:21] [NV] Found 50 item(s) on page.
+[2026-09-29 18:48:21] [NV] No new items.
+[2026-09-29 18:48:21] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-09-29 18:48:21]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-09-29 18:48:23]   Playwright loaded page: 'Access Denied' (314 chars)
+[2026-09-29 18:48:23]   Playwright: page loaded but no links matched — check selectors
+[2026-09-29 18:48:23]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-09-29 18:48:24]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-29 18:48:44]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-29 18:49:04]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-09-29 18:49:04] [NH] No items returned (fetch failed or empty page).
+[2026-09-29 18:49:04] [NJ] Fetching https://www.njoag.gov/news/
+[2026-09-29 18:49:06] [NJ] Found 5 item(s) on page.
+[2026-09-29 18:49:06] [NJ] 4 new item(s):
+[2026-09-29 18:49:06]   NEW: State Grand Jury Declines to Criminally Charge Law Enforcement Officer in Connection with September 5, 2025, Fatal Police-Involved Shooting in Jersey City, N.J. |  | https://www.njoag.gov/state-grand-jury-declines-to-criminally-charge-law-enforcement-officer-in-connection-with-september-5-2025-fatal-police-involved-shooting-in-jersey-city-n-j/
+[2026-09-29 18:49:06]   NEW: AG Davenport Co-Leads Bipartisan Call for Congress to Fully Fund Supreme Court Security Amid Rising Threats |  | https://www.njoag.gov/ag-davenport-co-leads-bipartisan-call-for-congress-to-fully-fund-supreme-court-security-amid-rising-threats/
+[2026-09-29 18:49:06]   NEW: Attorney General Davenport Announces Expansion of the ARRIVE Together Program |  | https://www.njoag.gov/attorney-general-davenport-announces-expansion-of-the-arrive-together-program/
+[2026-09-29 18:49:06]   NEW: Luxury Car Rental Company Owner Sentenced to Four Years in Prison for Insurance Fraud Scheme Involving Staged Crash |  | https://www.njoag.gov/luxury-car-rental-company-owner-sentenced-to-four-years-in-prison-for-insurance-fraud-scheme-involving-staged-crash/
+[2026-09-29 18:49:06] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-09-29 18:49:08] [NM] Found 14 item(s) on page.
+[2026-09-29 18:49:08] [NM] No new items.
+[2026-09-29 18:49:08] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-09-29 18:49:08] [NY] Found 25 item(s) on page.
+[2026-09-29 18:49:08] [NY] 3 new item(s):
+[2026-09-29 18:49:08]   NEW: Attorney General James Sues Festival Promoters for Scamming Ticket Buyers |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-festival-promoters-scamming-ticket-buyers
+[2026-09-29 18:49:08]   NEW: Attorney General James Announces Arrest of Queens Dentist Who Stole Over $300,000 from Medicaid |  | https://ag.ny.gov/press-release/2026/attorney-general-james-announces-arrest-queens-dentist-who-stole-over-300000
+[2026-09-29 18:49:08]   NEW: Attorney General James Stops New York City Landlord Who Ignored Rent Stabilization Laws |  | https://ag.ny.gov/press-release/2026/attorney-general-james-stops-new-york-city-landlord-who-ignored-rent
+[2026-09-29 18:49:08] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-09-29 18:49:12] [NC] No items returned (fetch failed or empty page).
+[2026-09-29 18:49:12] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-09-29 18:49:12] [ND] Found 10 item(s) on page.
+[2026-09-29 18:49:12] [ND] No new items.
+[2026-09-29 18:49:12] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-09-29 18:49:12] [OH] Found 10 item(s) on page.
+[2026-09-29 18:49:12] [OH] 1 new item(s):
+[2026-09-29 18:49:12]   NEW: AG Wilson Forms Working Group to Study Reporting on Sexual Assault Evidence Kits | 9/29/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/September-2026/AG-Wilson-Forms-Working-Group-to-Study-Reporting-o
+[2026-09-29 18:49:12] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-29 18:49:12]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-09-29 18:49:16]   Playwright loaded page: 'News Releases' (866490 chars)
+[2026-09-29 18:49:16]   Playwright found 20 item(s) with configured selector
+[2026-09-29 18:49:16] [OK] Found 20 item(s) on page.
+[2026-09-29 18:49:16] [OK] 1 new item(s):
+[2026-09-29 18:49:16]   NEW: Drummond wins major ruling against NextEra in Winter Storm Uri case |  | https://oklahoma.gov/oag/news/newsroom/2026/september/drummond-wins-major-ruling-against-nextera-in-winter-storm-uri-case.html
+[2026-09-29 18:49:16] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-09-29 18:49:17] [OR] Found 10 item(s) on page.
+[2026-09-29 18:49:17] [OR] No new items.
+[2026-09-29 18:49:17] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-09-29 18:49:17] [PA] Found 12 item(s) on page.
+[2026-09-29 18:49:17] [PA] 1 new item(s):
+[2026-09-29 18:49:17]   NEW: CrimeSEP 29, 2026Attorney General Sunday: Pa. Businesses with ‘Skill Games’ Devices not Removed by Oct. 14 Risk Law Enforcement ActionHARRISBURG — Attorney General Dave Sunday is offering guidance for Pennsylvania businesses with “skill games” terminals, advising those business owners to take compliance steps by October 14 or…Read more | 2026-09-29T09:25:18-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-pa-businesses-with-skill-games-devices-not-removed-by-oct-14-risk-law-enforcement-action/
+[2026-09-29 18:49:17] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-09-29 18:49:18] [RI] Found 10 item(s) on page.
+[2026-09-29 18:49:18] [RI] 1 new item(s):
+[2026-09-29 18:49:18]   NEW: Attorney General Neronha requires changes to strategic plan for Roger Williams and Fatima hospitals | Fri, 25 Sep 2026 20:47:25 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-requires-changes-strategic-plan-roger-williams-and-fatima
+[2026-09-29 18:49:18] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-09-29 18:49:18]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-09-29 18:49:21]   Playwright loaded page: 'News - South Carolina Attorney General' (110507 chars)
+[2026-09-29 18:49:21]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-09-29 18:49:21] [SC] Found 9 item(s) on page.
+[2026-09-29 18:49:21] [SC] 1 new item(s):
+[2026-09-29 18:49:21]   NEW: Attorney General Alan Wilson urges consumers to claim compensation for inflated generic drug pricesRead More | Sep 29, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-urges-consumers-to-claim-compensation-for-inflated-generic-drug-prices/
+[2026-09-29 18:49:21] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-09-29 18:49:21]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=9
+[2026-09-29 18:49:24]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-09-29 18:49:24]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-09-29 18:49:24] [SD] Found 1 item(s) on page.
+[2026-09-29 18:49:24] [SD] No new items.
+[2026-09-29 18:49:24] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-09-29 18:49:25] [TN] Found 50 item(s) on page.
+[2026-09-29 18:49:25] [TN] 1 new item(s):
+[2026-09-29 18:49:25]   NEW: Attorney General Skrmetti Urges Congress to Fully Fund Supreme Court Security |  | https://www.tn.gov/attorneygeneral/news/2026/9/29/pr26-40.html
+[2026-09-29 18:49:25] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-09-29 18:49:25] [TX] Found 50 item(s) on page.
+[2026-09-29 18:49:25] [TX] 1 new item(s):
+[2026-09-29 18:49:25]   NEW: Attor­ney Gen­er­al Ken Pax­ton and Plum Enter into Land­mark Agree­ment to Ensure No Dan­ger­ous Lev­els of Heavy Met­als in Baby Food |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-and-plum-enter-landmark-agreement-ensure-no-dangerous-levels-heavy
+[2026-09-29 18:49:25] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-09-29 18:49:25]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-09-29 18:49:28]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298809 chars)
+[2026-09-29 18:49:28]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-09-29 18:49:28] [UT] Found 50 item(s) on page.
+[2026-09-29 18:49:28] [UT] No new items.
+[2026-09-29 18:49:28] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-09-29 18:49:29] [VT] Found 50 item(s) on page.
+[2026-09-29 18:49:29] [VT] No new items.
+[2026-09-29 18:49:29] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-09-29 18:49:30] [VA] Found 50 item(s) on page.
+[2026-09-29 18:49:30] [VA] No new items.
+[2026-09-29 18:49:30] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-09-29 18:49:30] [WA] Found 15 item(s) on page.
+[2026-09-29 18:49:30] [WA] 2 new item(s):
+[2026-09-29 18:49:30]   NEW: Appellate ruling allows WA environmental lawsuit to proceed against mining companies | Tue, 29 Sep 2026 17:23:54 +0000 | https://www.atg.wa.gov/news/news-releases/appellate-ruling-allows-wa-environmental-lawsuit-proceed-against-mining
+[2026-09-29 18:49:30]   NEW: Puget Sound Physicians to refund WA patients via $410K settlement | Tue, 29 Sep 2026 15:57:43 +0000 | https://www.atg.wa.gov/news/news-releases/puget-sound-physicians-refund-wa-patients-410k-settlement
+[2026-09-29 18:49:30] [WV] Fetching https://ago.wv.gov/news
+[2026-09-29 18:49:30]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-09-29 18:49:33]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55237 chars)
+[2026-09-29 18:49:33]   Playwright found 30 item(s) with configured selector
+[2026-09-29 18:49:33] [WV] Found 30 item(s) on page.
+[2026-09-29 18:49:33] [WV] No new items.
+[2026-09-29 18:49:33] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-29 18:49:33]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-09-29 18:49:37]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1573644 chars)
+[2026-09-29 18:49:37]   Playwright found 50 item(s) with configured selector
+[2026-09-29 18:49:37] [WI] Found 50 item(s) on page.
+[2026-09-29 18:49:37] [WI] No new items.
+[2026-09-29 18:49:37] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-09-29 18:49:37] [WY] Found 2 item(s) on page.
+[2026-09-29 18:49:37] [WY] No new items.
+[2026-09-29 18:49:37] States with fetch errors: KS, NH, NC
+[2026-09-29 18:49:37] Sending email: 35 new item(s) across 23 state(s).
+[2026-09-29 18:49:38] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-14c63acab86sm1003486c88.9 - gsmtp')
+[2026-09-29 18:49:38] Done.
