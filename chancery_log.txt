@@ -11335,3 +11335,14 @@ Call log:
 [2026-09-29 14:11:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401470
 [2026-09-29 14:11:45] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-93c81425bf8sm399009985a.28 - gsmtp')
 [2026-09-29 14:11:45] Done.
+[2026-09-29 19:31:30] Checking for new DE court opinions...
+[2026-09-29 19:31:30] Using Playwright to fetch opinions page...
+[2026-09-29 19:31:42] Playwright found 27 opinion(s).
+[2026-09-29 19:31:42] Found 27 opinions on page.
+[2026-09-29 19:31:42] 2 new opinion(s)!
+[2026-09-29 19:31:42]   NEW: [09/28/2026] [Supreme Court(Superior Court)] Curtis v. State | 266, 2026 | LeGrowJ.
+[2026-09-29 19:31:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401430
+[2026-09-29 19:31:42]   NEW: [09/28/2026] [Supreme Court(Superior Court)] Wilson v. State | 436, 2025 | SeitzC.J.
+[2026-09-29 19:31:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401420
+[2026-09-29 19:31:42] ERROR sending email: Connection unexpectedly closed
+[2026-09-29 19:31:42] Done.
