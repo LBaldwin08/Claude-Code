@@ -11346,3 +11346,12 @@ Call log:
 [2026-09-29 19:31:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401420
 [2026-09-29 19:31:42] ERROR sending email: Connection unexpectedly closed
 [2026-09-29 19:31:42] Done.
+[2026-09-29 23:22:02] Checking for new DE court opinions...
+[2026-09-29 23:22:02] Using Playwright to fetch opinions page...
+[2026-09-29 23:22:13] Playwright found 27 opinion(s).
+[2026-09-29 23:22:13] Found 27 opinions on page.
+[2026-09-29 23:22:13] 1 new opinion(s)!
+[2026-09-29 23:22:13]   NEW: [09/28/2026] [Court of Chancery] Cleveland-Cliffs Burns Harbor LLC, et al. v. Boomerang Tube, LLC, et al. | 2022-0378-LWW | WillV.C.
+[2026-09-29 23:22:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401490
+[2026-09-29 23:22:13] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-93c9f4b912bsm83184685a.20 - gsmtp')
+[2026-09-29 23:22:13] Done.
