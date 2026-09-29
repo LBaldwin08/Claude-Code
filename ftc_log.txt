@@ -1465,3 +1465,11 @@
 [2026-09-28 20:13:19]        https://www.ftc.gov/news-events/news/press-releases/2026/09/ftc-states-win-protections-lower-pesticide-prices-american-farmers-antitrust-case-against-corteva
 [2026-09-28 20:13:20] ERROR sending email: Connection unexpectedly closed
 [2026-09-28 20:13:20] Done.
+[2026-09-29 18:49:48] Checking for new FTC press releases...
+[2026-09-29 18:49:48] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-09-29 18:50:01] Playwright found 0 press release link(s).
+[2026-09-29 18:50:01] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-09-29 18:50:02] requests found 20 press release link(s).
+[2026-09-29 18:50:02] Found 20 press release(s) on page.
+[2026-09-29 18:50:02] No new press releases.
+[2026-09-29 18:50:02] Done.
