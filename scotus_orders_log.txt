@@ -1141,3 +1141,15 @@
 [2026-09-29 19:05:08]        https://www.supremecourt.gov/orders/courtorders/092926zr_f20h.pdf
 [2026-09-29 19:05:09] ERROR sending email: Connection unexpectedly closed
 [2026-09-29 19:05:09] Done.
+[2026-09-30 18:46:14] Checking for new Supreme Court orders...
+[2026-09-30 18:46:14] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-09-30 18:46:17] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/25
+[2026-09-30 18:46:19] Playwright found 122 order(s).
+[2026-09-30 18:46:19] Found 122 order(s) on page.
+[2026-09-30 18:46:19] 2 new order(s)!
+[2026-09-30 18:46:19]   NEW: [2026-09-29] Miscellaneous Order
+[2026-09-30 18:46:19]        https://www.supremecourt.gov/orders/courtorders/092926zr4_2dp3.pdf
+[2026-09-30 18:46:19]   NEW: [2026-09-29] Miscellaneous Order
+[2026-09-30 18:46:19]        https://www.supremecourt.gov/orders/courtorders/092926zr3_e29f.pdf
+[2026-09-30 18:46:20] ERROR sending email: Connection unexpectedly closed
+[2026-09-30 18:46:20] Done.
