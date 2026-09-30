@@ -11380,3 +11380,22 @@ Call log:
 [2026-09-30 15:32:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401520
 [2026-09-30 15:32:17] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials af79cd13be357-93ca82cc202sm143553185a.28 - gsmtp')
 [2026-09-30 15:32:17] Done.
+[2026-09-30 20:28:42] Checking for new DE court opinions...
+[2026-09-30 20:28:42] Using Playwright to fetch opinions page...
+[2026-09-30 20:28:54] Playwright found 27 opinion(s).
+[2026-09-30 20:28:54] Found 27 opinions on page.
+[2026-09-30 20:28:54] 6 new opinion(s)!
+[2026-09-30 20:28:54]   NEW: [09/30/2026] [Court of Chancery] Vera Bradley Holdings, LLC v. Project Aster Acquisition, LLC | C.A. No. 2025-0974-PAF | FioravantiV.C.
+[2026-09-30 20:28:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401530
+[2026-09-30 20:28:54]   NEW: [09/30/2026] [Superior Court] Bradford v. American Finance, LLC | K25A-05-001 RLG | Green-StreettJ.
+[2026-09-30 20:28:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401560
+[2026-09-30 20:28:54]   NEW: [09/30/2026] [Superior Court] Russell v. Harris, et al. | N26C-01-066 CLS | ScottJ.
+[2026-09-30 20:28:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401580
+[2026-09-30 20:28:54]   NEW: [09/29/2026] [Superior Court] Lingo v. Gordon et al. | S24C-08-028 CAK | KarsnitzR.J.
+[2026-09-30 20:28:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401570
+[2026-09-30 20:28:54]   NEW: [09/29/2026] [Supreme Court(Superior Court)] Holmes v. State | 246, 2026 | LeGrowJ.
+[2026-09-30 20:28:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401480
+[2026-09-30 20:28:54]   NEW: [09/28/2026] [Supreme Court(Family Court)] Spencer, Blake vs. Vernon Archer | 384, 2026 | LeGrowJ.
+[2026-09-30 20:28:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401450
+[2026-09-30 20:28:54] ERROR sending email: Connection unexpectedly closed
+[2026-09-30 20:28:54] Done.
