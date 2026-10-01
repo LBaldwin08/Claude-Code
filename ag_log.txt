@@ -34536,3 +34536,233 @@ Call log:
 [2026-09-30 18:38:27] Sending email: 31 new item(s) across 18 state(s).
 [2026-09-30 18:38:27] ERROR sending email: Connection unexpectedly closed
 [2026-09-30 18:38:27] Done.
+[2026-10-01 18:58:10] Checking for new AG press releases...
+[2026-10-01 18:58:10] Checking 50 state(s).
+[2026-10-01 18:58:10] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-01 18:58:10]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-01 18:58:13]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (242013 chars)
+[2026-10-01 18:58:14]   Playwright found 27 item(s) with configured selector
+[2026-10-01 18:58:14] [AL] Found 27 item(s) on page.
+[2026-10-01 18:58:14] [AL] No new items.
+[2026-10-01 18:58:14] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-01 18:58:14] [AK] Found 50 item(s) on page.
+[2026-10-01 18:58:14] [AK] No new items.
+[2026-10-01 18:58:14] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-01 18:58:14] [AZ] Found 10 item(s) on page.
+[2026-10-01 18:58:14] [AZ] No new items.
+[2026-10-01 18:58:14] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-01 18:58:15] [AR] Found 50 item(s) on page.
+[2026-10-01 18:58:15] [AR] No new items.
+[2026-10-01 18:58:15] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-01 18:58:16] [CA] Found 10 item(s) on page.
+[2026-10-01 18:58:16] [CA] 5 new item(s):
+[2026-10-01 18:58:16]   NEW: As Part of Ongoing Investigation, Attorney General Bonta Serves Investigative Subpoena on OpenAI | Thu, 01 Oct 2026 05:49:52 +0000 | https://oag.ca.gov/news/press-releases/part-ongoing-investigation-attorney-general-bonta-serves-investigative-subpoena
+[2026-10-01 18:58:16]   NEW: Trump is Making Pollution Great Again: Attorney General Bonta Files Lawsuit Challenging EPA’s Rescission of Power Plant Emissions Rules | Thu, 01 Oct 2026 02:25:35 +0000 | https://oag.ca.gov/news/press-releases/trump-making-pollution-great-again-attorney-general-bonta-files-lawsuit
+[2026-10-01 18:58:16]   NEW: Attorney General Bonta, City Attorneys of San Francisco, San Diego, and Los Angeles, Labor Commissioner, and Private Plaintiffs Reach Landmark $272.5 Million Settlement Securing Monetary Relief for Misclassified Lyft Drivers | Thu, 01 Oct 2026 03:47:00 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-city-attorneys-san-francisco-san-diego-and-los-angeles
+[2026-10-01 18:58:16]   NEW: Attorney General Bonta Takes Trump to Court over Latest Attempt to Weaponize Federal Funding | Thu, 01 Oct 2026 00:35:46 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-takes-trump-court-over-latest-attempt-weaponize-federal
+[2026-10-01 18:58:16]   NEW: Attorney General Bonta Celebrates Signing of COMPETE Act into Law: An Important, Additional Tool for Antitrust Enforcement | Wed, 30 Sep 2026 17:46:22 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-celebrates-signing-compete-act-law-important-additional
+[2026-10-01 18:58:16] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-01 18:58:16] [CO] Found 50 item(s) on page.
+[2026-10-01 18:58:16] [CO] No new items.
+[2026-10-01 18:58:16] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-01 18:58:17] [CT] Found 33 item(s) on page.
+[2026-10-01 18:58:17] [CT] 3 new item(s):
+[2026-10-01 18:58:17]   NEW: Attorney General Tong Challenges EPA Rollback of Power Plant Pollution Limits | 10/1/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-challenges-epa-rollback-of-power-plant-pollution-limits
+[2026-10-01 18:58:17]   NEW: Attorney General Tong Seeks Court Approval for $400 Million Settlement With Sandoz Over Conspiracy to Inflate Prices and Limit Competition | 10/1/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/settlement-with-sandoz-over-conspiracy-to-inflate-prices-and-limit-competition
+[2026-10-01 18:58:17]   NEW: Attorney General Tong Sues to Revoke Pension for Kosta Diamantis | 9/30/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-to-revoke-pension-for-kosta-diamantis
+[2026-10-01 18:58:17] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-01 18:58:18] [DE] Found 300 item(s) on page.
+[2026-10-01 18:58:18] [DE] No new items.
+[2026-10-01 18:58:18] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-01 18:58:18] [FL] Found 20 item(s) on page.
+[2026-10-01 18:58:18] [FL] 1 new item(s):
+[2026-10-01 18:58:18]   NEW: Attorney General James Uthmeier Files Lawsuit Against Pfizer and its CEO Dr. Albert Bourla | 2026-10-01T15:41:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-lawsuit-against-pfizer-and-its-ceo-dr-albert
+[2026-10-01 18:58:18] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-01 18:58:18] [GA] Found 11 item(s) on page.
+[2026-10-01 18:58:18] [GA] No new items.
+[2026-10-01 18:58:18] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-01 18:58:19] [HI] Found 26 item(s) on page.
+[2026-10-01 18:58:19] [HI] No new items.
+[2026-10-01 18:58:19] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-01 18:58:19]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-01 18:58:22]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65239 chars)
+[2026-10-01 18:58:22]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-01 18:58:22] [ID] Found 28 item(s) on page.
+[2026-10-01 18:58:22] [ID] No new items.
+[2026-10-01 18:58:22] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-01 18:58:24] [IL] Found 50 item(s) on page.
+[2026-10-01 18:58:24] [IL] 1 new item(s):
+[2026-10-01 18:58:24]   NEW: October 01, 2026ATTORNEY GENERAL RAOUL CHALLENGES EPA ROLLBACK OF GREENHOUSE GAS POLLUTION LIMITS FOR POWER PLANTS | 2026-10-01 1:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-challenges-epa-rollback-of-greenhouse-gas-pollution-limits-for-power-plants
+[2026-10-01 18:58:24] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-01 18:58:24] [IN] Found 34 item(s) on page.
+[2026-10-01 18:58:24] [IN] No new items.
+[2026-10-01 18:58:24] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-01 18:58:24] [IA] Found 10 item(s) on page.
+[2026-10-01 18:58:24] [IA] No new items.
+[2026-10-01 18:58:24] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-01 18:58:24]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-01 18:58:28]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-10-01 18:58:28]   Playwright: page loaded but no links matched — check selectors
+[2026-10-01 18:58:28]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-01 18:58:28]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-01 18:58:48]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-01 18:59:09]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-01 18:59:09] [KS] No items returned (fetch failed or empty page).
+[2026-10-01 18:59:09] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-01 18:59:10] [KY] Found 26 item(s) on page.
+[2026-10-01 18:59:10] [KY] No new items.
+[2026-10-01 18:59:10] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-01 18:59:11] [LA] Found 20 item(s) on page.
+[2026-10-01 18:59:11] [LA] 1 new item(s):
+[2026-10-01 18:59:11]   NEW: AG Liz Murrill’s Office Arrests Lafayette Man on Charges of Child Sexual Abuse Material and Sexual Abuse of an Animal | 10/1/2026 | https://ag.louisiana.gov/Article/638
+[2026-10-01 18:59:11] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-01 18:59:11] [ME] Found 15 item(s) on page.
+[2026-10-01 18:59:11] [ME] No new items.
+[2026-10-01 18:59:11] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-01 18:59:12] [MD] Found 50 item(s) on page.
+[2026-10-01 18:59:12] [MD] No new items.
+[2026-10-01 18:59:12] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-01 18:59:12]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-01 18:59:16]   Playwright loaded page: 'News and Announcements | Mass.gov' (179388 chars)
+[2026-10-01 18:59:16]   Playwright found 15 item(s) with configured selector
+[2026-10-01 18:59:16] [MA] Found 15 item(s) on page.
+[2026-10-01 18:59:16] [MA] No new items.
+[2026-10-01 18:59:16] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-01 18:59:16]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-01 18:59:20]   Playwright loaded page: 'Attorney General: Press Releases' (378508 chars)
+[2026-10-01 18:59:20]   Playwright found 10 item(s) with configured selector
+[2026-10-01 18:59:20] [MI] Found 10 item(s) on page.
+[2026-10-01 18:59:20] [MI] 1 new item(s):
+[2026-10-01 18:59:20]   NEW: Attorney General Nessel Challenges EPA Rollback of Power Plant Pollution Limits |  | https://www.michigan.gov/ag/news/press-releases/2026/10/01/attorney-general-nessel-challenges-epa-rollback-of-power-plant-pollution-limits
+[2026-10-01 18:59:20] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-01 18:59:20] [MN] Found 50 item(s) on page.
+[2026-10-01 18:59:20] [MN] No new items.
+[2026-10-01 18:59:20] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-01 18:59:21] [MS] Found 1 item(s) on page.
+[2026-10-01 18:59:21] [MS] No new items.
+[2026-10-01 18:59:21] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-01 18:59:21] [MO] Found 50 item(s) on page.
+[2026-10-01 18:59:21] [MO] 2 new item(s):
+[2026-10-01 18:59:21]   NEW: Attorney General Hanaway Secures Additional Guilty Plea in Medicaid Fraud Scheme For Services Billed While in Jail |  | https://ago.mo.gov/attorney-general-hanaway-secures-additional-guilty-plea-in-medicaid-fraud-scheme-for-services-billed-while-in-jail/
+[2026-10-01 18:59:21]   NEW: Attorney General Hanaway Partners with Law Enforcement Agencies to Announce Cold Case Playing Card Initiative |  | https://ago.mo.gov/attorney-general-hanaway-partners-with-law-enforcement-agencies-to-announce-cold-case-playing-card-initiative/
+[2026-10-01 18:59:21] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-01 18:59:21] [MT] Found 10 item(s) on page.
+[2026-10-01 18:59:21] [MT] No new items.
+[2026-10-01 18:59:21] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-01 18:59:21] [NE] Found 10 item(s) on page.
+[2026-10-01 18:59:21] [NE] No new items.
+[2026-10-01 18:59:21] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-01 18:59:22] [NV] Found 50 item(s) on page.
+[2026-10-01 18:59:22] [NV] No new items.
+[2026-10-01 18:59:22] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-01 18:59:22]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-01 18:59:25]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-01 18:59:25]   Playwright: page loaded but no links matched — check selectors
+[2026-10-01 18:59:25]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-10-01 18:59:25]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-01 18:59:45]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-01 19:00:05]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-01 19:00:05] [NH] No items returned (fetch failed or empty page).
+[2026-10-01 19:00:05] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-01 19:00:07] [NJ] Found 5 item(s) on page.
+[2026-10-01 19:00:07] [NJ] 1 new item(s):
+[2026-10-01 19:00:07]   NEW: AG Davenport Challenges EPA’s Rollback of Power Plant Pollution Limits |  | https://www.njoag.gov/ag-davenport-challenges-epas-rollback-of-power-plant-pollution-limits/
+[2026-10-01 19:00:07] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-01 19:00:09] [NM] Found 14 item(s) on page.
+[2026-10-01 19:00:09] [NM] No new items.
+[2026-10-01 19:00:09] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-01 19:00:09] [NY] Found 25 item(s) on page.
+[2026-10-01 19:00:09] [NY] 5 new item(s):
+[2026-10-01 19:00:09]   NEW: Attorney General James Challenges EPA Rollback of Power Plant Pollution Limits |  | https://ag.ny.gov/press-release/2026/attorney-general-james-challenges-epa-rollback-power-plant-pollution-limits
+[2026-10-01 19:00:09]   NEW: Attorney General James Secures $400 Million From Sandoz for Illegal Scheme to Inflate Drug Prices |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-400-million-sandoz-illegal-scheme-inflate-drug
+[2026-10-01 19:00:09]   NEW: Attorney General James Sues Trump Administration to Protect Housing Counseling for New Yorkers |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-trump-administration-protect-housing-counseling-0
+[2026-10-01 19:00:09]   NEW: Attorney General James’ Office of Special Investigation Releases Report on Death of Ali Ali |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-releases-report-death-ali
+[2026-10-01 19:00:09]   NEW: Attorney General James Releases Footage from Investigation into Death of a Minor in Dutchess County |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-footage-investigation-death-minor-dutchess
+[2026-10-01 19:00:09] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-01 19:00:13] [NC] No items returned (fetch failed or empty page).
+[2026-10-01 19:00:13] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-01 19:00:13] [ND] Found 10 item(s) on page.
+[2026-10-01 19:00:13] [ND] No new items.
+[2026-10-01 19:00:13] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-01 19:00:14] [OH] Found 10 item(s) on page.
+[2026-10-01 19:00:14] [OH] No new items.
+[2026-10-01 19:00:14] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-01 19:00:14]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-01 19:00:17]   Playwright loaded page: 'News Releases' (866509 chars)
+[2026-10-01 19:00:17]   Playwright found 20 item(s) with configured selector
+[2026-10-01 19:00:17] [OK] Found 20 item(s) on page.
+[2026-10-01 19:00:17] [OK] 1 new item(s):
+[2026-10-01 19:00:17]   NEW: New round of opioid abatement grants targets Oklahoma schools |  | https://oklahoma.gov/oag/news/newsroom/2026/october/new-round-of-opioid-abatement-grants-targets-oklahoma-schools.html
+[2026-10-01 19:00:17] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-01 19:00:18] [OR] Found 10 item(s) on page.
+[2026-10-01 19:00:18] [OR] 1 new item(s):
+[2026-10-01 19:00:18]   NEW: Attorney General Rayfield Sues to Restore Limits on Power Plant Pollution |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-sues-to-restore-limits-on-power-plant-pollution/
+[2026-10-01 19:00:18] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-01 19:00:19] [PA] Found 12 item(s) on page.
+[2026-10-01 19:00:19] [PA] 3 new item(s):
+[2026-10-01 19:00:19]   NEW: CrimeOCT 1, 2026AG Sunday Announces Charges Against 11 Philadelphia Business Owners who Defrauded Pa.’s WIC Program of More than $1 MillionHARRISBURG — Attorney General Dave Sunday announced charges against 11 Philadelphia-area business owners who were involved in a fraud scheme related to the Commonwealth’s WIC program, which supports…Read more | 2026-10-01T12:44:25-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-announces-charges-against-11-philadelphia-business-owners-who-defrauded-pa-s-wic-program-of-more-than-1-million/
+[2026-10-01 19:00:19]   NEW: Press ReleaseOCT 1, 2026Pa. Supreme Court Rules that Act 40 is Permissible; AG Sunday’s Mass Transit Prosecutor will Continue Work to Protect SEPTA Staff and RidersHARRISBURG — Attorney General Dave Sunday announced that the Supreme Court of Pennsylvania has ruled in favor of the Office of Attorney General regarding Act 40, which put…Read more | 2026-10-01T10:41:27-04:00 | https://www.attorneygeneral.gov/taking-action/pa-supreme-court-rules-that-act-40-is-permissible-ag-sundays-mass-transit-prosecutor-will-continue-work-to-protect-septa-staff-and-riders/
+[2026-10-01 19:00:19]   NEW: Press ReleaseOCT 1, 2026AG Sunday Reacts to Pa. Senate, House Actions, Highlighting Efforts to Protect PennsylvaniansHARRISBURG – Attorney General Dave Sunday offered his reaction to recent legislative action in the Pennsylvania Senate and House of Representatives on a series of bills aimed at…Read more | 2026-10-01T10:17:55-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-reacts-to-pa-senate-house-actions-highlighting-efforts-to-protect-pennsylvanians/
+[2026-10-01 19:00:19] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-01 19:00:20] [RI] Found 10 item(s) on page.
+[2026-10-01 19:00:20] [RI] No new items.
+[2026-10-01 19:00:20] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-01 19:00:20]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-01 19:00:23]   Playwright loaded page: 'News - South Carolina Attorney General' (110461 chars)
+[2026-10-01 19:00:23]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-01 19:00:23] [SC] Found 9 item(s) on page.
+[2026-10-01 19:00:23] [SC] 1 new item(s):
+[2026-10-01 19:00:23]   NEW: Attorney General Alan Wilson declares victory over challenge to South Carolina election integrity lawRead More | Oct 01, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-declares-victory-over-challenge-to-south-carolina-election-integrity-law/
+[2026-10-01 19:00:23] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-01 19:00:23]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-01 19:00:26]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-10-01 19:00:26]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-10-01 19:00:26] [SD] Found 1 item(s) on page.
+[2026-10-01 19:00:26] [SD] No new items.
+[2026-10-01 19:00:26] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-01 19:00:26] [TN] Found 50 item(s) on page.
+[2026-10-01 19:00:26] [TN] No new items.
+[2026-10-01 19:00:26] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-01 19:00:27] [TX] Found 50 item(s) on page.
+[2026-10-01 19:00:27] [TX] 1 new item(s):
+[2026-10-01 19:00:27]   NEW: Attor­ney Gen­er­al Pax­ton Secures $7.5Mil­lion Set­tle­ment from Tris Phar­ma for Mis­rep­re­sent­ing the Effi­ca­cy ofADHDDrug for Kids |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-paxton-secures-75-million-settlement-tris-pharma-misrepresenting-efficacy-adhd-drug
+[2026-10-01 19:00:27] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-01 19:00:27]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-01 19:00:30]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298719 chars)
+[2026-10-01 19:00:30]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-01 19:00:30] [UT] Found 50 item(s) on page.
+[2026-10-01 19:00:30] [UT] No new items.
+[2026-10-01 19:00:30] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-01 19:00:30] [VT] Found 50 item(s) on page.
+[2026-10-01 19:00:30] [VT] No new items.
+[2026-10-01 19:00:30] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-01 19:00:31] [VA] Found 50 item(s) on page.
+[2026-10-01 19:00:31] [VA] No new items.
+[2026-10-01 19:00:31] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-01 19:00:32] [WA] Found 15 item(s) on page.
+[2026-10-01 19:00:32] [WA] 1 new item(s):
+[2026-10-01 19:00:32]   NEW: Washington challenges EPA rollback of power plant pollution limits | Thu, 01 Oct 2026 16:22:32 +0000 | https://www.atg.wa.gov/news/news-releases/washington-challenges-epa-rollback-power-plant-pollution-limits
+[2026-10-01 19:00:32] [WV] Fetching https://ago.wv.gov/news
+[2026-10-01 19:00:32]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-01 19:00:35]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55237 chars)
+[2026-10-01 19:00:35]   Playwright found 30 item(s) with configured selector
+[2026-10-01 19:00:35] [WV] Found 30 item(s) on page.
+[2026-10-01 19:00:35] [WV] No new items.
+[2026-10-01 19:00:35] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-01 19:00:35]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-01 19:01:05]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-10-01 19:01:05]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-10-01 19:01:21]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f3cd383f4a0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-10-01 19:01:56]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f3cd277fcb0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-10-01 19:02:32]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7f3cd27e1b20>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-10-01 19:02:32] [WI] No items returned (fetch failed or empty page).
+[2026-10-01 19:02:32] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-01 19:02:32] [WY] Found 2 item(s) on page.
+[2026-10-01 19:02:32] [WY] No new items.
+[2026-10-01 19:02:32] States with fetch errors: KS, NH, NC, WI
+[2026-10-01 19:02:32] Sending email: 28 new item(s) across 15 state(s).
+[2026-10-01 19:02:33] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34f14f97a5fsm540947eec.15 - gsmtp')
+[2026-10-01 19:02:33] Done.
