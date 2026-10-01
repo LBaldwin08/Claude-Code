@@ -11423,3 +11423,16 @@ Call log:
 [2026-10-01 13:40:57]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401600
 [2026-10-01 13:40:57] ERROR sending email: Connection unexpectedly closed
 [2026-10-01 13:40:57] Done.
+[2026-10-01 19:12:31] Checking for new DE court opinions...
+[2026-10-01 19:12:31] Using Playwright to fetch opinions page...
+[2026-10-01 19:12:42] Playwright found 27 opinion(s).
+[2026-10-01 19:12:42] Found 27 opinions on page.
+[2026-10-01 19:12:42] 3 new opinion(s)!
+[2026-10-01 19:12:42]   NEW: [10/01/2026] [Court of Chancery] Lawrence E. Pinczower (aka Eliyahu (Larry) Pinczower v. Hava Nation Corp. | C.A. No. 2025-1011-DH | Hume, IVM.
+[2026-10-01 19:12:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401680
+[2026-10-01 19:12:42]   NEW: [10/01/2026] [Supreme Court(Superior Court)] Natalie Ayers v. Travelers Casualty Insurance Company | 411, 2025 | GriffithsJ.
+[2026-10-01 19:12:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401670
+[2026-10-01 19:12:42]   NEW: [10/01/2026] [Supreme Court(Superior Court)] Womack v. State | 94, 2026 | GriffithsJ.
+[2026-10-01 19:12:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401610
+[2026-10-01 19:12:43] ERROR sending email: Connection unexpectedly closed
+[2026-10-01 19:12:43] Done.
