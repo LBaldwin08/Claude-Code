@@ -11414,3 +11414,12 @@ Call log:
 [2026-10-01 06:17:49] Found 27 opinions on page.
 [2026-10-01 06:17:49] No new opinions.
 [2026-10-01 06:17:49] Done.
+[2026-10-01 13:40:46] Checking for new DE court opinions...
+[2026-10-01 13:40:46] Using Playwright to fetch opinions page...
+[2026-10-01 13:40:57] Playwright found 27 opinion(s).
+[2026-10-01 13:40:57] Found 27 opinions on page.
+[2026-10-01 13:40:57] 1 new opinion(s)!
+[2026-10-01 13:40:57]   NEW: [09/30/2026] [Court of Chancery] ACON Igloo Holdings, LLC v. Dometic Corporation | 2022-1057-LWW | WillV.C.
+[2026-10-01 13:40:57]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401600
+[2026-10-01 13:40:57] ERROR sending email: Connection unexpectedly closed
+[2026-10-01 13:40:57] Done.
