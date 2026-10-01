@@ -1153,3 +1153,10 @@
 [2026-09-30 18:46:19]        https://www.supremecourt.gov/orders/courtorders/092926zr3_e29f.pdf
 [2026-09-30 18:46:20] ERROR sending email: Connection unexpectedly closed
 [2026-09-30 18:46:20] Done.
+[2026-10-01 19:12:53] Checking for new Supreme Court orders...
+[2026-10-01 19:12:53] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-10-01 19:12:57] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/26
+[2026-10-01 19:13:09] Playwright found 0 order(s).
+[2026-10-01 19:13:09] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-10-01 19:13:10] requests found 0 order(s).
+[2026-10-01 19:13:10] No items returned (fetch failed or empty page). Skipping.
