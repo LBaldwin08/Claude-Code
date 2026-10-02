@@ -1489,3 +1489,16 @@
 [2026-10-01 19:00:45] Found 20 press release(s) on page.
 [2026-10-01 19:00:45] No new press releases.
 [2026-10-01 19:00:45] Done.
+[2026-10-02 18:39:12] Checking for new FTC press releases...
+[2026-10-02 18:39:12] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-10-02 18:39:26] Playwright found 0 press release link(s).
+[2026-10-02 18:39:26] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-10-02 18:39:27] requests found 20 press release link(s).
+[2026-10-02 18:39:27] Found 20 press release(s) on page.
+[2026-10-02 18:39:27] 2 new press release(s)!
+[2026-10-02 18:39:27]   NEW: [2026-10-02T12:00:00Z] FTC Secures Settlement that Protects Small Businesses from Illegal Price Discrimination
+[2026-10-02 18:39:27]        https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-secures-settlement-protects-small-businesses-illegal-price-discrimination
+[2026-10-02 18:39:27]   NEW: [2026-10-02T12:00:00Z] FTC, States Sue Lens.com for Misrepresenting the Price of Contact Lenses in Search Ads and on Its Website
+[2026-10-02 18:39:27]        https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-states-sue-lenscom-misrepresenting-price-contact-lenses-search-ads-its-website
+[2026-10-02 18:39:27] ERROR sending email: Connection unexpectedly closed
+[2026-10-02 18:39:27] Done.
