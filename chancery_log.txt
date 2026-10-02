@@ -11465,3 +11465,12 @@ Call log:
 [2026-10-02 08:46:43] Found 27 opinions on page.
 [2026-10-02 08:46:43] No new opinions.
 [2026-10-02 08:46:43] Done.
+[2026-10-02 15:16:17] Checking for new DE court opinions...
+[2026-10-02 15:16:17] Using Playwright to fetch opinions page...
+[2026-10-02 15:16:30] Playwright found 27 opinion(s).
+[2026-10-02 15:16:30] Found 27 opinions on page.
+[2026-10-02 15:16:30] 1 new opinion(s)!
+[2026-10-02 15:16:30]   NEW: [10/01/2026] [Supreme Court(Court of Chancery)] Gemini Insurance Company v. Bausch & Lomb Americas, Inc. | 127, 2026 | ZurnJ.
+[2026-10-02 15:16:30]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401760
+[2026-10-02 15:16:30] ERROR sending email: Connection unexpectedly closed
+[2026-10-02 15:16:30] Done.
