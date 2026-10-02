@@ -11453,3 +11453,9 @@ Call log:
 [2026-10-01 23:18:53]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401710
 [2026-10-01 23:18:54] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34f150248b4sm1378648eec.30 - gsmtp')
 [2026-10-01 23:18:54] Done.
+[2026-10-02 02:23:59] Checking for new DE court opinions...
+[2026-10-02 02:23:59] Using Playwright to fetch opinions page...
+[2026-10-02 02:24:10] Playwright found 27 opinion(s).
+[2026-10-02 02:24:10] Found 27 opinions on page.
+[2026-10-02 02:24:10] No new opinions.
+[2026-10-02 02:24:10] Done.
