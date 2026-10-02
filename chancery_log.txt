@@ -11487,3 +11487,9 @@ Call log:
 [2026-10-02 20:02:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401620
 [2026-10-02 20:02:45] ERROR sending email: Connection unexpectedly closed
 [2026-10-02 20:02:45] Done.
+[2026-10-02 23:55:02] Checking for new DE court opinions...
+[2026-10-02 23:55:02] Using Playwright to fetch opinions page...
+[2026-10-02 23:55:13] Playwright found 27 opinion(s).
+[2026-10-02 23:55:13] Found 27 opinions on page.
+[2026-10-02 23:55:13] No new opinions.
+[2026-10-02 23:55:13] Done.
