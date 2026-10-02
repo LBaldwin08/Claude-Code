@@ -34766,3 +34766,257 @@ Call log:
 [2026-10-01 19:02:32] Sending email: 28 new item(s) across 15 state(s).
 [2026-10-01 19:02:33] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 5a478bee46e88-34f14f97a5fsm540947eec.15 - gsmtp')
 [2026-10-01 19:02:33] Done.
+[2026-10-02 18:35:24] Checking for new AG press releases...
+[2026-10-02 18:35:24] Checking 50 state(s).
+[2026-10-02 18:35:24] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-02 18:35:24]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-02 18:35:28]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (242257 chars)
+[2026-10-02 18:35:28]   Playwright found 27 item(s) with configured selector
+[2026-10-02 18:35:28] [AL] Found 27 item(s) on page.
+[2026-10-02 18:35:28] [AL] 3 new item(s):
+[2026-10-02 18:35:28]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-court-of-criminal-appeals-upholds-murder-conviction-in-mobile-county-2/
+[2026-10-02 18:35:28]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-court-of-criminal-appeals-upholds-murder-and-robbery-in-the-first-degree-convictions-in-mobile-county/
+[2026-10-02 18:35:28]   NEW: Read More >> |  | https://www.alabamaag.gov/alabama-louisiana-and-arkansas-sue-new-york-california-and-massachusetts-in-the-u-s-supreme-court-over-abortion-shield-laws/
+[2026-10-02 18:35:28] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-02 18:35:28] [AK] Found 50 item(s) on page.
+[2026-10-02 18:35:28] [AK] 1 new item(s):
+[2026-10-02 18:35:28]   NEW: Office of Special Prosecutions Completes Review of an Officer Involved Shooting |  | https://law.alaska.gov/releases/2026/100126-OSP.html
+[2026-10-02 18:35:28] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-02 18:35:28] [AZ] Found 10 item(s) on page.
+[2026-10-02 18:35:28] [AZ] 1 new item(s):
+[2026-10-02 18:35:28]   NEW: Attorney General Mayes Sues Pharmacy Benefit Managers Express Scripts and Optum for Contributing to Arizona’s Opioid Crisis |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-pharmacy-benefit-managers-express-scripts-and-optum
+[2026-10-02 18:35:28] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-02 18:35:29] [AR] Found 50 item(s) on page.
+[2026-10-02 18:35:29] [AR] No new items.
+[2026-10-02 18:35:29] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-02 18:35:29] [CA] Found 10 item(s) on page.
+[2026-10-02 18:35:29] [CA] 1 new item(s):
+[2026-10-02 18:35:29]   NEW: Attorney General Bonta Files Lawsuit Challenging Trump Administration’s Rollback of Fuel Economy Standards | Fri, 02 Oct 2026 00:23:29 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-challenging-trump-administration%E2%80%99s-rollback
+[2026-10-02 18:35:29] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-02 18:35:30] [CO] Found 50 item(s) on page.
+[2026-10-02 18:35:30] [CO] No new items.
+[2026-10-02 18:35:30] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-02 18:35:31] [CT] Found 33 item(s) on page.
+[2026-10-02 18:35:31] [CT] 1 new item(s):
+[2026-10-02 18:35:31]   NEW: Attorney General Tong Challenges Trump Rollback of Fuel Economy Standards | 10/2/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-challenges-trump-rollback-of-fuel-economy-standards
+[2026-10-02 18:35:31] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-02 18:35:31] [DE] Found 300 item(s) on page.
+[2026-10-02 18:35:31] [DE] 2 new item(s):
+[2026-10-02 18:35:31]   NEW: A.I. duPont Charitable Trust, Nemours Foundation, and DOJ Launch Historic Agreement to Advance Childhood Health | Fri, 02 Oct 2026 06:00:27 +0000 | https://news.delaware.gov/2026/10/02/a-i-dupont-charitable-trust-nemours-foundation-and-doj-launch-historic-agreement-to-advance-childhood-health/
+[2026-10-02 18:35:31]   NEW: AG Jennings, coalition issue statement on US DOJ attack on federal judges | Thu, 01 Oct 2026 12:17:37 +0000 | https://news.delaware.gov/2026/10/01/ag-jennings-coalition-issue-statement-on-us-doj-attack-on-federal-judges/
+[2026-10-02 18:35:31] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-02 18:35:32] [FL] Found 20 item(s) on page.
+[2026-10-02 18:35:32] [FL] No new items.
+[2026-10-02 18:35:32] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-02 18:35:32] [GA] Found 11 item(s) on page.
+[2026-10-02 18:35:32] [GA] No new items.
+[2026-10-02 18:35:32] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-02 18:35:32] [HI] Found 26 item(s) on page.
+[2026-10-02 18:35:32] [HI] No new items.
+[2026-10-02 18:35:32] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-02 18:35:32]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-02 18:35:36]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65206 chars)
+[2026-10-02 18:35:36]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-02 18:35:36] [ID] Found 28 item(s) on page.
+[2026-10-02 18:35:36] [ID] No new items.
+[2026-10-02 18:35:36] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-02 18:35:37] [IL] Found 50 item(s) on page.
+[2026-10-02 18:35:37] [IL] 7 new item(s):
+[2026-10-02 18:35:37]   NEW: October 02, 2026ATTORNEY GENERAL RAOUL CHARGES ST. CLAIR COUNTY MAN FOR PRODUCING CHILD SEXUAL ABUSE MATERIAL | 2026-10-02 11:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-st-clair-county-man-for-producing-child-sexual-abuse-material
+[2026-10-02 18:35:37]   NEW: October 02, 2026ATTORNEY GENERAL RAOUL FILES LAWSUIT CHALLENGING TRUMP ADMINISTRATION’S ROLLBACK OF FUEL ECONOMY STANDARDS | 2026-10-02 11:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-lawsuit-challenging-trump-administrations-rollback-of-fuel-economy-standards
+[2026-10-02 18:35:37]   NEW: October 02, 2026ATTORNEY GENERAL RAOUL: SUBURBAN CHICAGO COUPLE PLEAD GUILTY, SENTENCED IN MEDICAID FRAUD CASE | 2026-10-02 11:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-suburban-chicago-couple-plead-guilty-sentenced-in-medicaid-fraud-case
+[2026-10-02 18:35:37]   NEW: October 02, 2026ATTORNEY GENERAL RAOUL CHARGES THREE PEOPLE FOR SELLING FENTANYL IN COOK, DUPAGE COUNTIES | 2026-10-02 11:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-three-people-for-selling-fentanyl-in-cook-dupage-counties
+[2026-10-02 18:35:37]   NEW: October 01, 2026ATTORNEY GENERAL RAOUL, CITY OF CHICAGO ASK COURT TO HALT PULLMAN PLANT OPERATIONS UNTIL EXCESSIVE ODORS, ENVIRONMENTAL LAW VIOLATIONS ARE ADDRESSED | 2026-10-02 11:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-city-of-chicago-ask-court-to-halt-pullman-plant-operations-until-excessive-odors-environmental-law-violations-are-addressed
+[2026-10-02 18:35:37]   NEW: October 01, 2026ATTORNEY GENERAL RAOUL ISSUES JOINT STATEMENT WITH FELLOW ATTORNEYS GENERAL CONDEMNING DOJ ATTACK ON MINNESOTA FEDERAL JUDGES | 2026-10-02 11:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-issues-joint-statement-with-fellow-attorneys-general-condemning-doj-attack-on-minnesota-federal-judges
+[2026-10-02 18:35:37]   NEW: October 01, 2026ATTORNEY GENERAL RAOUL SEEKS COURT APPROVAL FOR $400 MILLION NATIONWIDE SETTLEMENT WITH SANDOZ OVER CONSPIRACY TO RAISE PRICES AND LIMIT COMPETITION | 2026-10-02 11:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-seeks-court-approval-for-400-million-nationwide-settlement-with-sandoz-over-conspiracy-to-raise-prices-and-limit-competition
+[2026-10-02 18:35:37] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-02 18:35:38] [IN] Found 34 item(s) on page.
+[2026-10-02 18:35:38] [IN] No new items.
+[2026-10-02 18:35:38] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-02 18:35:38] [IA] Found 10 item(s) on page.
+[2026-10-02 18:35:38] [IA] 1 new item(s):
+[2026-10-02 18:35:38]   NEW: Attorney General Brenna Bird Seeks Court Approval for $400 Million Settlement with Sandoz for Overcharging for Generic Drugs and Limiting Competition | October 2, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-seeks-court-approval-for-400-million-settlement-with-sandoz-for-overch/
+[2026-10-02 18:35:38] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-02 18:35:38]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-02 18:35:41]   Playwright loaded page: 'Access Denied' (339 chars)
+[2026-10-02 18:35:41]   Playwright: page loaded but no links matched — check selectors
+[2026-10-02 18:35:41]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-02 18:35:42]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-02 18:36:02]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-02 18:36:22]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-02 18:36:22] [KS] No items returned (fetch failed or empty page).
+[2026-10-02 18:36:22] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-02 18:36:24] [KY] Found 26 item(s) on page.
+[2026-10-02 18:36:24] [KY] No new items.
+[2026-10-02 18:36:24] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-02 18:36:24] [LA] Found 20 item(s) on page.
+[2026-10-02 18:36:24] [LA] 1 new item(s):
+[2026-10-02 18:36:24]   NEW: AG Liz Murrill’s Office Arrests Gonzales Man on Child Sexual Abuse Material Charges | 10/2/2026 | https://ag.louisiana.gov/Article/639
+[2026-10-02 18:36:24] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-02 18:36:24] [ME] Found 15 item(s) on page.
+[2026-10-02 18:36:24] [ME] No new items.
+[2026-10-02 18:36:24] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-02 18:36:25] [MD] Found 50 item(s) on page.
+[2026-10-02 18:36:25] [MD] No new items.
+[2026-10-02 18:36:25] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-02 18:36:25]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-02 18:36:28]   Playwright loaded page: 'News and Announcements | Mass.gov' (179270 chars)
+[2026-10-02 18:36:28]   Playwright found 15 item(s) with configured selector
+[2026-10-02 18:36:28] [MA] Found 15 item(s) on page.
+[2026-10-02 18:36:28] [MA] 1 new item(s):
+[2026-10-02 18:36:28]   NEW: AG Campbell Opposes EPA Efforts To Roll Back Power Plant Pollution Limits | 10/01/2026 | https://www.mass.gov/news/ag-campbell-opposes-epa-efforts-to-roll-back-power-plant-pollution-limits
+[2026-10-02 18:36:28] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-02 18:36:28]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-02 18:36:31]   Playwright loaded page: 'Attorney General: Press Releases' (378270 chars)
+[2026-10-02 18:36:31]   Playwright found 10 item(s) with configured selector
+[2026-10-02 18:36:31] [MI] Found 10 item(s) on page.
+[2026-10-02 18:36:31] [MI] 3 new item(s):
+[2026-10-02 18:36:31]   NEW: Court Rules Marijuana Business, Bliss Corporate, Inc., Illegally Violated Protected Wetlands in Iosco County |  | https://www.michigan.gov/ag/news/press-releases/2026/10/02/court-rules-marijuana-business-violated-wetlands-in-iosco-county
+[2026-10-02 18:36:31]   NEW: Attorney General Nessel Takes Trump to Court over Latest Attempt to Weaponize Federal Funding |  | https://www.michigan.gov/ag/news/press-releases/2026/10/02/attorney-general-nessel-takes-trump-to-court-over-latest-attempt-to-weaponize-federal-funding
+[2026-10-02 18:36:31]   NEW: Corrections Officer Arraigned on Criminal Sexual Conduct Charges in Lenawee County |  | https://www.michigan.gov/ag/news/press-releases/2026/10/01/corrections-officer-arraigned-on-criminal-sexual-conduct-charges-in-lenawee-county
+[2026-10-02 18:36:31] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-02 18:36:32] [MN] Found 50 item(s) on page.
+[2026-10-02 18:36:32] [MN] No new items.
+[2026-10-02 18:36:32] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-02 18:36:32] [MS] Found 1 item(s) on page.
+[2026-10-02 18:36:32] [MS] No new items.
+[2026-10-02 18:36:32] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-02 18:36:32] [MO] Found 50 item(s) on page.
+[2026-10-02 18:36:32] [MO] 1 new item(s):
+[2026-10-02 18:36:32]   NEW: Attorney General Hanaway Halts Contractor Fraud Against Elderly |  | https://ago.mo.gov/attorney-general-hanaway-halts-contractor-fraud-against-elderly/
+[2026-10-02 18:36:32] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-02 18:36:32] [MT] Found 10 item(s) on page.
+[2026-10-02 18:36:32] [MT] No new items.
+[2026-10-02 18:36:32] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-02 18:36:33] [NE] Found 10 item(s) on page.
+[2026-10-02 18:36:33] [NE] 1 new item(s):
+[2026-10-02 18:36:33]   NEW: Nebraska, FTC Secure Pesticide Price Protections in Corteva Antitrust Case | Fri, 02 Oct 2026 13:55:19 +0000 | https://ago.nebraska.gov/nebraska-ftc-secure-pesticide-price-protections-corteva-antitrust-case
+[2026-10-02 18:36:33] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-02 18:36:33] [NV] Found 50 item(s) on page.
+[2026-10-02 18:36:33] [NV] No new items.
+[2026-10-02 18:36:33] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-02 18:36:33]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-02 18:36:36]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-02 18:36:36]   Playwright: page loaded but no links matched — check selectors
+[2026-10-02 18:36:36]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-10-02 18:36:36]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-02 18:36:56]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-02 18:37:16]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-02 18:37:16] [NH] No items returned (fetch failed or empty page).
+[2026-10-02 18:37:16] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-02 18:37:18] [NJ] Found 5 item(s) on page.
+[2026-10-02 18:37:18] [NJ] 2 new item(s):
+[2026-10-02 18:37:18]   NEW: AG Davenport Joins Lawsuit Challenging Trump Administration’s Rollback of Fuel Economy Standards |  | https://www.njoag.gov/ag-davenport-joins-lawsuit-challenging-trump-administrations-rollback-of-fuel-economy-standards/
+[2026-10-02 18:37:18]   NEW: Attorney General Davenport Statement on DOJ Attack on Minnesota Federal Judges |  | https://www.njoag.gov/attorney-general-davenport-statement-on-doj-attack-on-minnesota-federal-judges/
+[2026-10-02 18:37:18] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-02 18:37:19] [NM] Found 14 item(s) on page.
+[2026-10-02 18:37:19] [NM] 2 new item(s):
+[2026-10-02 18:37:19]   NEW: Attorney General Raúl Torrez, AG Bonta and Coalition Challenge Trump Administration’s Rollback of Fuel Economy Standards |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-ag-bonta-and-coalition-challenge-trump-administrations-rollback-of-fuel-economy-standards/
+[2026-10-02 18:37:19]   NEW: Attorney General Raúl Torrez and Representative Linda Serrato Unveil Legislation to Rein in Frontier AI Ahead of 2027 Legislative Session |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-and-representative-linda-serrato-unveil-legislation-to-rein-in-frontier-ai-ahead-of-2027-legislative-session/
+[2026-10-02 18:37:19] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-02 18:37:19] [NY] Found 25 item(s) on page.
+[2026-10-02 18:37:19] [NY] 3 new item(s):
+[2026-10-02 18:37:19]   NEW: Attorney General James Challenges Federal Rollback of Fuel Economy Standards |  | https://ag.ny.gov/press-release/2026/attorney-general-james-challenges-federal-rollback-fuel-economy-standards
+[2026-10-02 18:37:19]   NEW: Attorney General James Releases Statement on DOJ Attack on Minnesota Federal Judges |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-statement-doj-attack-minnesota-federal-judges
+[2026-10-02 18:37:19]   NEW: Attorney General James Releases Statement on Appointment as Special Prosecutor |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-statement-appointment-special-prosecutor
+[2026-10-02 18:37:19] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-02 18:37:24] [NC] Found 10 item(s) on page.
+[2026-10-02 18:37:24] [NC] 7 new item(s):
+[2026-10-02 18:37:24]   NEW: Meta Pays More Than $45 Million in First Payment to NC from Attorney General Jackson’s Landmark Settlement |  | https://ncdoj.gov/meta-pays-more-than-45-million-in-first-payment-to-nc-from-attorney-general-jacksons-landmark-settlement/
+[2026-10-02 18:37:24]   NEW: Attorney General Jeff Jackson Reaches $98,000 Medicaid Fraud Settlement Over Fake Nurse |  | https://ncdoj.gov/attorney-general-jeff-jackson-reaches-98000-medicaid-fraud-settlement-over-fake-nurse/
+[2026-10-02 18:37:24]   NEW: North Carolina’s Food Banks Have Received All of the 3M Eggs After Attorney General Jackson’s Antitrust Enforcement Action |  | https://ncdoj.gov/north-carolinas-food-banks-have-received-all-of-the-3m-eggs-after-attorney-general-jacksons-antitrust-enforcement-action/
+[2026-10-02 18:37:24]   NEW: Attorney General Jeff Jackson Pushes Congress to Establish Federal Regulations for Artificial Intelligence |  | https://ncdoj.gov/attorney-general-jeff-jackson-pushes-congress-to-establish-federal-regulations-for-artificial-intelligence/
+[2026-10-02 18:37:24]   NEW: Attorney General Jeff Jackson Urges Eligible North Carolinians to Claim Compensation for Certain Generic Drug Purchases |  | https://ncdoj.gov/attorney-general-jeff-jackson-urges-eligible-north-carolinians-to-claim-compensation-for-certain-generic-drug-purchases/
+[2026-10-02 18:37:24]   NEW: Attorney General Jeff Jackson Reaches $2.2 Million Settlement with Labcorp Over 2019 Data Breach |  | https://ncdoj.gov/attorney-general-jeff-jackson-reaches-2-2-million-settlement-with-labcorp-over-2019-data-breach/
+[2026-10-02 18:37:24]   NEW: Attorney General Jeff Jackson Secures Convictions in Murder, Attempted Murder, and Sex Offense Cases Across North Carolina |  | https://ncdoj.gov/attorney-general-jeff-jackson-secures-convictions-in-murder-attempted-murder-and-sex-offense-cases-across-north-carolina/
+[2026-10-02 18:37:24] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-02 18:37:24] [ND] Found 10 item(s) on page.
+[2026-10-02 18:37:24] [ND] No new items.
+[2026-10-02 18:37:24] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-02 18:37:25] [OH] Found 10 item(s) on page.
+[2026-10-02 18:37:25] [OH] 1 new item(s):
+[2026-10-02 18:37:25]   NEW: AG Wilson Sues Southwestern Ohio Contractor Accused of Incomplete Home Improvements | 10/2/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/October-2026/AG-Wilson-Sues-Southwestern-Ohio-Contractor-Accuse
+[2026-10-02 18:37:25] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-02 18:37:25]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-02 18:37:28]   Playwright loaded page: 'News Releases' (836960 chars)
+[2026-10-02 18:37:29]   Playwright: page loaded but no links matched — check selectors
+[2026-10-02 18:37:29]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-10-02 18:37:29] [OK] No items returned (fetch failed or empty page).
+[2026-10-02 18:37:29] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-02 18:37:30] [OR] Found 10 item(s) on page.
+[2026-10-02 18:37:30] [OR] 3 new item(s):
+[2026-10-02 18:37:30]   NEW: Attorney General Rayfield Takes Action to Stop Trump Administration from Gutting Fuel Economy Standards |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-takes-action-to-stop-trump-from-gutting-fuel-economy-standards/
+[2026-10-02 18:37:30]   NEW: Attorney General Rayfield Holds Drug Company Accountable for Driving Up Costs of Medications |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-holds-drug-company-accountable-for-driving-up-medication-costs/
+[2026-10-02 18:37:30]   NEW: Attorney General Rayfield Moves to Block DuPont from Shielding Its Assets Over “Forever Chemical” Cleanup Costs |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-moves-to-block-dupont-from-shielding-assets-over-chemical-cleanup-costs/
+[2026-10-02 18:37:30] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-02 18:37:31] [PA] Found 12 item(s) on page.
+[2026-10-02 18:37:31] [PA] 2 new item(s):
+[2026-10-02 18:37:31]   NEW: CrimeOCT 2, 2026VERDICT: Leader of Philadelphia-Based Human Trafficking Ring Guilty of All ChargesHARRISBURG – Attorney General Dave Sunday announced that the leader of a Philadelphia-based human trafficking ring was convicted this week of all charges, including felony human trafficking and…Read more | 2026-10-02T12:05:15-04:00 | https://www.attorneygeneral.gov/taking-action/verdict-leader-of-philadelphia-based-human-trafficking-ring-guilty-of-all-charges/
+[2026-10-02 18:37:31]   NEW: Press ReleaseOCT 2, 2026AG Sunday Seeks Court Approval for $400M Settlement with Generic Drug Manufacturer Sandoz Which Could Bring Nearly $15 Million to PennsylvaniaSettlement Regards Sandoz Inflating Drug Prices and Limiting Competition HARRISBURG – Attorney General Dave Sunday announced that Pennsylvania is part of a national coalition agreeing to a $400…Read more | 2026-10-02T10:51:59-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-seeks-court-approval-for-400m-settlement-with-generic-drug-manufacturer-sandoz-which-could-bring-nearly-15-million-to-pennsylvania/
+[2026-10-02 18:37:31] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-02 18:37:31] [RI] Found 10 item(s) on page.
+[2026-10-02 18:37:31] [RI] No new items.
+[2026-10-02 18:37:31] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-02 18:37:31]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-02 18:37:34]   Playwright loaded page: 'News - South Carolina Attorney General' (110461 chars)
+[2026-10-02 18:37:34]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-02 18:37:34] [SC] Found 9 item(s) on page.
+[2026-10-02 18:37:34] [SC] No new items.
+[2026-10-02 18:37:34] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-02 18:37:34]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-02 18:37:38]   Playwright loaded page: 'South Dakota Attorney General' (36633 chars)
+[2026-10-02 18:37:38]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-10-02 18:37:38] [SD] Found 1 item(s) on page.
+[2026-10-02 18:37:38] [SD] No new items.
+[2026-10-02 18:37:38] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-02 18:37:38]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-10-02 18:37:58] [TN] Found 50 item(s) on page.
+[2026-10-02 18:37:58] [TN] 1 new item(s):
+[2026-10-02 18:37:58]   NEW: Tennessee Wins Lawsuit Defending Human Smuggling Ban |  | https://www.tn.gov/attorneygeneral/news/2026/10/2/pr26-41.html
+[2026-10-02 18:37:58] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-02 18:37:59] [TX] Found 50 item(s) on page.
+[2026-10-02 18:37:59] [TX] No new items.
+[2026-10-02 18:37:59] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-02 18:37:59]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-02 18:38:02]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298763 chars)
+[2026-10-02 18:38:02]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-02 18:38:02] [UT] Found 50 item(s) on page.
+[2026-10-02 18:38:02] [UT] No new items.
+[2026-10-02 18:38:02] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-02 18:38:02] [VT] Found 50 item(s) on page.
+[2026-10-02 18:38:02] [VT] 5 new item(s):
+[2026-10-02 18:38:02]   NEW: Attorney General Clark Releases 'Know Your Rights' Guide for Vermonters Engaging in Protest | DateOctober 2, 2026 | https://ago.vermont.gov/blog/2026/10/02/attorney-general-clark-releases-know-your-rights-guide-vermonters-engaging-protest
+[2026-10-02 18:38:02]   NEW: New Hampshire Resident Sentenced for Accessory Aiding in Commission of Attempted Assault and Robbery | DateOctober 2, 2026 | https://ago.vermont.gov/blog/2026/10/02/new-hampshire-resident-sentenced-accessory-aiding-commission-attempted-assault-and-robbery
+[2026-10-02 18:38:02]   NEW: Attorney General Clark Seeks Court Approval for $358,000 Settlement with Sandoz Over Conspiracy to Inflate Prices and Limit Competition | DateOctober 1, 2026 | https://ago.vermont.gov/blog/2026/10/01/attorney-general-clark-seeks-court-approval-358000-settlement-sandoz-over-conspiracy-inflate-prices
+[2026-10-02 18:38:02]   NEW: Attorney General Clark Challenges Environmental Protection Agency Rollback of Power Plant Pollution Limits | DateOctober 1, 2026 | https://ago.vermont.gov/blog/2026/10/01/attorney-general-clark-challenges-environmental-protection-agency-rollback-power-plant-pollution
+[2026-10-02 18:38:02]   NEW: Attorney General Clark Joins Multistate Fraudulent Transfer Lawsuit Against DuPont, Corteva, and Newly Created Vylor | DateOctober 1, 2026 | https://ago.vermont.gov/blog/2026/10/01/attorney-general-clark-joins-multistate-fraudulent-transfer-lawsuit-against-dupont-corteva-and-newly
+[2026-10-02 18:38:02] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-02 18:38:03] [VA] Found 50 item(s) on page.
+[2026-10-02 18:38:03] [VA] No new items.
+[2026-10-02 18:38:03] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-02 18:38:03] [WA] Found 15 item(s) on page.
+[2026-10-02 18:38:03] [WA] 3 new item(s):
+[2026-10-02 18:38:03]   NEW: AG’s office establishes permanent Sexual Assault Investigations Support Team as federal grant ends | Fri, 02 Oct 2026 15:46:36 +0000 | https://www.atg.wa.gov/news/news-releases/ag-s-office-establishes-permanent-sexual-assault-investigations-support-team
+[2026-10-02 18:38:03]   NEW: WA joins coalition challenging federal fuel efficiency rollback | Fri, 02 Oct 2026 15:15:42 +0000 | https://www.atg.wa.gov/news/news-releases/wa-joins-coalition-challenging-federal-fuel-efficiency-rollback
+[2026-10-02 18:38:03]   NEW: AG Brown joins bipartisan suit over corporate liability for PFAS pollution | Thu, 01 Oct 2026 21:39:43 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-joins-bipartisan-suit-over-corporate-liability-pfas-pollution
+[2026-10-02 18:38:03] [WV] Fetching https://ago.wv.gov/news
+[2026-10-02 18:38:03]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-02 18:38:06]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55237 chars)
+[2026-10-02 18:38:06]   Playwright found 30 item(s) with configured selector
+[2026-10-02 18:38:06] [WV] Found 30 item(s) on page.
+[2026-10-02 18:38:06] [WV] No new items.
+[2026-10-02 18:38:06] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-02 18:38:06]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-02 18:38:10]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1576431 chars)
+[2026-10-02 18:38:11]   Playwright found 50 item(s) with configured selector
+[2026-10-02 18:38:11] [WI] Found 50 item(s) on page.
+[2026-10-02 18:38:11] [WI] 2 new item(s):
+[2026-10-02 18:38:11]   NEW: Wisconsin Department of Justice Is Working To Protect Fair Elections |  | https://www.wisdoj.gov/PressReleases/press-release-protecting-elections.pdf
+[2026-10-02 18:38:11]   NEW: Wisconsin Department of Justice Challenges EPA Decision to Strip Power Plant Pollution Limits and Endanger Wisconsinites |  | https://www.wisdoj.gov/PressReleases/press-release-power-plant-limits.pdf
+[2026-10-02 18:38:11] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-02 18:38:12] [WY] Found 2 item(s) on page.
+[2026-10-02 18:38:12] [WY] No new items.
+[2026-10-02 18:38:12] States with fetch errors: KS, NH, OK
+[2026-10-02 18:38:12] Sending email: 55 new item(s) across 24 state(s).
+[2026-10-02 18:38:12] ERROR sending email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials a92af1059eb24-14f43fb3417sm8437439c88.1 - gsmtp')
+[2026-10-02 18:38:12] Done.
