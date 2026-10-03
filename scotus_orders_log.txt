@@ -1167,3 +1167,10 @@
 [2026-10-02 18:54:53] Playwright failed or unavailable; trying plain HTTP as fallback.
 [2026-10-02 18:54:54] requests found 0 order(s).
 [2026-10-02 18:54:54] No items returned (fetch failed or empty page). Skipping.
+[2026-10-03 17:43:33] Checking for new Supreme Court orders...
+[2026-10-03 17:43:33] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-10-03 17:43:37] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/26
+[2026-10-03 17:43:49] Playwright found 0 order(s).
+[2026-10-03 17:43:49] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-10-03 17:43:49] requests found 0 order(s).
+[2026-10-03 17:43:49] No items returned (fetch failed or empty page). Skipping.
