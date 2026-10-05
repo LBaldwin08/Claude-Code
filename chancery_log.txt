@@ -11571,3 +11571,20 @@ Call log:
 [2026-10-05 09:23:18] Found 27 opinions on page.
 [2026-10-05 09:23:18] No new opinions.
 [2026-10-05 09:23:18] Done.
+[2026-10-05 18:41:27] Checking for new DE court opinions...
+[2026-10-05 18:41:27] Using Playwright to fetch opinions page...
+[2026-10-05 18:41:40] Playwright found 27 opinion(s).
+[2026-10-05 18:41:40] Found 27 opinions on page.
+[2026-10-05 18:41:40] 5 new opinion(s)!
+[2026-10-05 18:41:40]   NEW: [10/05/2026] [Court of Chancery] Alejandro Mendoza v. Distributed Creation, Inc. | C.A. No. 2026-0580-CDW | WrightM.
+[2026-10-05 18:41:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401810
+[2026-10-05 18:41:40]   NEW: [10/05/2026] [Court of Chancery] Gwendolyn Colston v. The Greens at Wyoming Homeowner Association, Inc., Sean Marcus, The Greens at Wyoming, LLC, Albert Salame III, and Kamil Salame | C.A. No. 2024-0063-CDW | WrightM.
+[2026-10-05 18:41:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401800
+[2026-10-05 18:41:40]   NEW: [10/05/2026] [Supreme Court(Superior Court)] Cornice Ventures I LLC and Cornice Ventures II LLC v. Joshua Silberstein | 29, 2026 | TraynorJ.
+[2026-10-05 18:41:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401830
+[2026-10-05 18:41:40]   NEW: [10/05/2026] [Supreme Court(Superior Court)] Craig Peed v. Essential Staffing, Inc. IAB | 81, 2026 | SeitzC.J.
+[2026-10-05 18:41:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401850
+[2026-10-05 18:41:40]   NEW: [10/01/2026] [Superior Court] Shareholder Representative Services LLC v. Teleflex Incorporated | N26C-04-294 SKR CCLD | RennieJ.
+[2026-10-05 18:41:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401790
+[2026-10-05 18:41:40] ERROR sending email: Connection unexpectedly closed
+[2026-10-05 18:41:40] Done.
