@@ -11609,3 +11609,12 @@ Call log:
 [2026-10-06 07:06:18] Found 27 opinions on page.
 [2026-10-06 07:06:18] No new opinions.
 [2026-10-06 07:06:18] Done.
+[2026-10-06 14:19:56] Checking for new DE court opinions...
+[2026-10-06 14:19:56] Using Playwright to fetch opinions page...
+[2026-10-06 14:20:07] Playwright found 27 opinion(s).
+[2026-10-06 14:20:07] Found 27 opinions on page.
+[2026-10-06 14:20:07] 1 new opinion(s)!
+[2026-10-06 14:20:07]   NEW: [10/06/2026] [Supreme Court(Superior Court)] Thompson v. State | 135, 2026 | SeitzC.J.
+[2026-10-06 14:20:07]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401900
+[2026-10-06 14:20:08] ERROR sending email: Connection unexpectedly closed
+[2026-10-06 14:20:08] Done.
