@@ -1531,3 +1531,14 @@
 [2026-10-05 21:18:34]        https://www.ftc.gov/news-events/news/press-releases/2026/10/premier-martial-arts-franchisor-its-former-franchise-sales-organization-settle-ftc-charges-companies
 [2026-10-05 21:18:34] ERROR sending email: Connection unexpectedly closed
 [2026-10-05 21:18:34] Done.
+[2026-10-06 19:00:30] Checking for new FTC press releases...
+[2026-10-06 19:00:30] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-10-06 19:00:43] Playwright found 0 press release link(s).
+[2026-10-06 19:00:43] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-10-06 19:00:44] requests found 20 press release link(s).
+[2026-10-06 19:00:44] Found 20 press release(s) on page.
+[2026-10-06 19:00:44] 1 new press release(s)!
+[2026-10-06 19:00:44]   NEW: [2026-10-06T12:00:00Z] FTC Issues Redress Payments to Consumers Impacted by GOAT’s Deceptive Shipping, Refund Policies
+[2026-10-06 19:00:44]        https://www.ftc.gov/news-events/news/press-releases/2026/10/ftc-issues-redress-payments-consumers-impacted-goats-deceptive-shipping-refund-policies
+[2026-10-06 19:00:44] ERROR sending email: Connection unexpectedly closed
+[2026-10-06 19:00:44] Done.
