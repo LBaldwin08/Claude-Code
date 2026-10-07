@@ -11650,3 +11650,12 @@ Call log:
 [2026-10-07 10:47:45] Found 27 opinions on page.
 [2026-10-07 10:47:45] No new opinions.
 [2026-10-07 10:47:45] Done.
+[2026-10-07 17:38:20] Checking for new DE court opinions...
+[2026-10-07 17:38:20] Using Playwright to fetch opinions page...
+[2026-10-07 17:38:32] Playwright found 27 opinion(s).
+[2026-10-07 17:38:32] Found 27 opinions on page.
+[2026-10-07 17:38:32] 1 new opinion(s)!
+[2026-10-07 17:38:32]   NEW: [10/06/2026] [Supreme Court(Superior Court)] Reese v. State | 202, 2026 | TraynorJ.
+[2026-10-07 17:38:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401910
+[2026-10-07 17:38:32] ERROR sending email: Connection unexpectedly closed
+[2026-10-07 17:38:32] Done.
