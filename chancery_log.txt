@@ -11692,3 +11692,16 @@ Call log:
 [2026-10-08 16:43:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401970
 [2026-10-08 16:43:44] ERROR sending email: Connection unexpectedly closed
 [2026-10-08 16:43:44] Done.
+[2026-10-08 21:44:47] Checking for new DE court opinions...
+[2026-10-08 21:44:47] Using Playwright to fetch opinions page...
+[2026-10-08 21:44:58] Playwright found 27 opinion(s).
+[2026-10-08 21:44:58] Found 27 opinions on page.
+[2026-10-08 21:44:58] 3 new opinion(s)!
+[2026-10-08 21:44:58]   NEW: [10/08/2026] [Superior Court] Longshot Holdings, Inc. v. Quaker Chemical Corporation | N22C-04-129 MAA CCLD | AdamsJ.
+[2026-10-08 21:44:58]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402000
+[2026-10-08 21:44:58]   NEW: [10/08/2026] [Supreme Court(Court of Chancery)] Conroe WM LLC v. HREF Senior Worthington LLC | 89, 2026 | GriffithsJ.
+[2026-10-08 21:44:58]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401990
+[2026-10-08 21:44:58]   NEW: [10/08/2026] [Supreme Court(Court of Chancery)] Ryan Lane, et al. vs. ATG Capital Opportunities Fund LP | 417, 2026 | LeGrowJ.
+[2026-10-08 21:44:58]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=401980
+[2026-10-08 21:44:58] ERROR sending email: Connection unexpectedly closed
+[2026-10-08 21:44:58] Done.
