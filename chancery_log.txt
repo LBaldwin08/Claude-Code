@@ -11728,3 +11728,12 @@ Call log:
 [2026-10-09 15:27:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402020
 [2026-10-09 15:27:07] ERROR sending email: Connection unexpectedly closed
 [2026-10-09 15:27:07] Done.
+[2026-10-09 20:13:31] Checking for new DE court opinions...
+[2026-10-09 20:13:31] Using Playwright to fetch opinions page...
+[2026-10-09 20:13:42] Playwright found 27 opinion(s).
+[2026-10-09 20:13:42] Found 27 opinions on page.
+[2026-10-09 20:13:42] 1 new opinion(s)!
+[2026-10-09 20:13:42]   NEW: [10/09/2026] [Supreme Court(Superior Court)] Thompkins v. State | 423, 2025 | ZurnJ.
+[2026-10-09 20:13:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402040
+[2026-10-09 20:13:43] ERROR sending email: Connection unexpectedly closed
+[2026-10-09 20:13:43] Done.
