@@ -36377,3 +36377,217 @@ Call log:
 [2026-10-09 18:58:05] Sending email: 30 new item(s) across 22 state(s).
 [2026-10-09 18:58:06] ERROR sending email: Connection unexpectedly closed
 [2026-10-09 18:58:06] Done.
+[2026-10-10 17:55:59] Checking for new AG press releases...
+[2026-10-10 17:55:59] Checking 50 state(s).
+[2026-10-10 17:55:59] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-10 17:55:59]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-10 17:56:03]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (241147 chars)
+[2026-10-10 17:56:03]   Playwright found 27 item(s) with configured selector
+[2026-10-10 17:56:03] [AL] Found 27 item(s) on page.
+[2026-10-10 17:56:03] [AL] No new items.
+[2026-10-10 17:56:03] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-10 17:56:03] [AK] Found 50 item(s) on page.
+[2026-10-10 17:56:03] [AK] 1 new item(s):
+[2026-10-10 17:56:03]   NEW: Acting Alaska Attorney General Cori Mills Seeks Court Approval for Settlements with Ascend, Citron and Mayne Over Conspiracy to Inflate Prices and Limit Competition |  | https://law.alaska.gov/releases/2026/100926-GenericDrug.html
+[2026-10-10 17:56:03] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-10 17:56:03] [AZ] Found 10 item(s) on page.
+[2026-10-10 17:56:03] [AZ] 1 new item(s):
+[2026-10-10 17:56:03]   NEW: Attorney General Mayes Announces Six-Year Prison Sentence in Pima County Organized Retail Theft Case |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-six-year-prison-sentence-pima-county-organized
+[2026-10-10 17:56:03] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-10 17:56:04] [AR] Found 50 item(s) on page.
+[2026-10-10 17:56:04] [AR] No new items.
+[2026-10-10 17:56:04] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-10 17:56:05] [CA] Found 10 item(s) on page.
+[2026-10-10 17:56:05] [CA] 1 new item(s):
+[2026-10-10 17:56:05]   NEW: Attorney General Bonta Rebukes Trump Administration’s Revised Attempt to Loosen National Clean Water Protections | Fri, 09 Oct 2026 19:49:56 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-rebukes-trump-administration%E2%80%99s-revised-attempt-loosen
+[2026-10-10 17:56:05] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-10 17:56:05] [CO] Found 50 item(s) on page.
+[2026-10-10 17:56:05] [CO] No new items.
+[2026-10-10 17:56:05] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-10 17:56:06] [CT] Found 33 item(s) on page.
+[2026-10-10 17:56:06] [CT] No new items.
+[2026-10-10 17:56:06] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-10 17:56:07] [DE] Found 300 item(s) on page.
+[2026-10-10 17:56:07] [DE] No new items.
+[2026-10-10 17:56:07] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-10 17:56:07] [FL] Found 20 item(s) on page.
+[2026-10-10 17:56:07] [FL] No new items.
+[2026-10-10 17:56:07] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-10 17:56:07] [GA] Found 11 item(s) on page.
+[2026-10-10 17:56:07] [GA] No new items.
+[2026-10-10 17:56:07] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-10 17:56:07] [HI] Found 26 item(s) on page.
+[2026-10-10 17:56:07] [HI] No new items.
+[2026-10-10 17:56:07] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-10 17:56:07]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-10 17:56:11]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65422 chars)
+[2026-10-10 17:56:11]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-10 17:56:11] [ID] Found 28 item(s) on page.
+[2026-10-10 17:56:11] [ID] No new items.
+[2026-10-10 17:56:11] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-10 17:56:12] [IL] Found 50 item(s) on page.
+[2026-10-10 17:56:12] [IL] 2 new item(s):
+[2026-10-10 17:56:12]   NEW: October 09, 2026ATTORNEY GENERAL RAOUL OBTAINS GUILTY PLEA FROM FORMER U.S. POSTAL SERVICE WORKER WHO STOLE PERSONAL CHECKS | 2026-10-09 4:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-guilty-plea-from-former-us-postal-service-worker-who-stole-personal-checks
+[2026-10-10 17:56:12]   NEW: October 09, 2026ATTORNEY GENERAL RAOUL ANNOUNCES $1.9 MILLION SETTLEMENT WITH EQUINOX OVER USE OF NON-COMPETITION CLAUSES | 2026-10-09 4:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-19-million-settlement-with-equinox-over-use-of-non-competition-clauses
+[2026-10-10 17:56:12] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-10 17:56:12] [IN] Found 34 item(s) on page.
+[2026-10-10 17:56:12] [IN] No new items.
+[2026-10-10 17:56:12] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-10 17:56:13] [IA] Found 10 item(s) on page.
+[2026-10-10 17:56:13] [IA] No new items.
+[2026-10-10 17:56:13] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-10 17:56:13]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-10 17:56:16]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-10-10 17:56:16]   Playwright: page loaded but no links matched — check selectors
+[2026-10-10 17:56:16]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-10 17:56:16]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-10 17:56:37]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-10 17:56:57]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-10 17:56:57] [KS] No items returned (fetch failed or empty page).
+[2026-10-10 17:56:57] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-10 17:56:59] [KY] Found 26 item(s) on page.
+[2026-10-10 17:56:59] [KY] No new items.
+[2026-10-10 17:56:59] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-10 17:57:00] [LA] Found 20 item(s) on page.
+[2026-10-10 17:57:00] [LA] No new items.
+[2026-10-10 17:57:00] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-10 17:57:00] [ME] Found 17 item(s) on page.
+[2026-10-10 17:57:00] [ME] No new items.
+[2026-10-10 17:57:00] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-10 17:57:01] [MD] Found 50 item(s) on page.
+[2026-10-10 17:57:01] [MD] No new items.
+[2026-10-10 17:57:01] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-10 17:57:01]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-10 17:57:04]   Playwright loaded page: 'News and Announcements | Mass.gov' (179444 chars)
+[2026-10-10 17:57:04]   Playwright found 15 item(s) with configured selector
+[2026-10-10 17:57:04] [MA] Found 15 item(s) on page.
+[2026-10-10 17:57:04] [MA] No new items.
+[2026-10-10 17:57:04] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-10 17:57:04]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-10 17:57:08]   Playwright loaded page: 'Attorney General: Press Releases' (376531 chars)
+[2026-10-10 17:57:08]   Playwright found 10 item(s) with configured selector
+[2026-10-10 17:57:08] [MI] Found 10 item(s) on page.
+[2026-10-10 17:57:08] [MI] 1 new item(s):
+[2026-10-10 17:57:08]   NEW: Attorney General Nessel Celebrates Two Attorneys Honored with Courage and Heart Award |  | https://www.michigan.gov/ag/news/press-releases/2026/10/09/attorney-general-nessel-celebrates-two-attorneys-honored-with-courage-and-heart-award
+[2026-10-10 17:57:08] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-10 17:57:08] [MN] Found 50 item(s) on page.
+[2026-10-10 17:57:08] [MN] No new items.
+[2026-10-10 17:57:08] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-10 17:57:09] [MS] Found 1 item(s) on page.
+[2026-10-10 17:57:09] [MS] No new items.
+[2026-10-10 17:57:09] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-10 17:57:09] [MO] Found 50 item(s) on page.
+[2026-10-10 17:57:09] [MO] No new items.
+[2026-10-10 17:57:09] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-10 17:57:09] [MT] Found 10 item(s) on page.
+[2026-10-10 17:57:09] [MT] 1 new item(s):
+[2026-10-10 17:57:09]   NEW: Attorney General Knudsen asks SCOTUS to hear case over discriminatory DEI training |  | https://dojmt.gov/attorney-general-knudsen-asks-scotus-to-hear-case-over-discriminatory-dei-training/
+[2026-10-10 17:57:09] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-10 17:57:09] [NE] Found 10 item(s) on page.
+[2026-10-10 17:57:09] [NE] No new items.
+[2026-10-10 17:57:09] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-10 17:57:10] [NV] Found 50 item(s) on page.
+[2026-10-10 17:57:10] [NV] No new items.
+[2026-10-10 17:57:10] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-10 17:57:10]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-10 17:57:13]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-10 17:57:13]   Playwright: page loaded but no links matched — check selectors
+[2026-10-10 17:57:13]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-10-10 17:57:13]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-10 17:57:33]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-10 17:57:54]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-10 17:57:54] [NH] No items returned (fetch failed or empty page).
+[2026-10-10 17:57:54] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-10 17:57:55] [NJ] Found 5 item(s) on page.
+[2026-10-10 17:57:55] [NJ] No new items.
+[2026-10-10 17:57:55] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-10 17:57:57] [NM] Found 14 item(s) on page.
+[2026-10-10 17:57:57] [NM] No new items.
+[2026-10-10 17:57:57] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-10 17:57:57] [NY] Found 25 item(s) on page.
+[2026-10-10 17:57:57] [NY] 1 new item(s):
+[2026-10-10 17:57:57]   NEW: Attorney General James Releases Statement on ICE-Involved Shooting in Marble Hill |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-statement-ice-involved-shooting-marble-hill
+[2026-10-10 17:57:57] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-10 17:58:00] [NC] No items returned (fetch failed or empty page).
+[2026-10-10 17:58:00] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-10 17:58:01] [ND] Found 10 item(s) on page.
+[2026-10-10 17:58:01] [ND] No new items.
+[2026-10-10 17:58:01] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-10 17:58:01] [OH] Found 10 item(s) on page.
+[2026-10-10 17:58:01] [OH] No new items.
+[2026-10-10 17:58:01] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-10 17:58:01]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-10 17:58:04]   Playwright loaded page: 'News Releases' (866539 chars)
+[2026-10-10 17:58:04]   Playwright found 20 item(s) with configured selector
+[2026-10-10 17:58:04] [OK] Found 20 item(s) on page.
+[2026-10-10 17:58:04] [OK] 1 new item(s):
+[2026-10-10 17:58:04]   NEW: Drummond asks DEQ to revise proposed rules, continues fight against Inola aluminum smelter |  | https://oklahoma.gov/oag/news/newsroom/2026/october/drummond-asks-deq-to-revise-proposed-rules-continues-fight-against-inola-aluminum-smelter.html
+[2026-10-10 17:58:04] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-10 17:58:05] [OR] Found 10 item(s) on page.
+[2026-10-10 17:58:05] [OR] No new items.
+[2026-10-10 17:58:05] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-10 17:58:06] [PA] Found 12 item(s) on page.
+[2026-10-10 17:58:06] [PA] No new items.
+[2026-10-10 17:58:06] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-10 17:58:06] [RI] Found 10 item(s) on page.
+[2026-10-10 17:58:06] [RI] No new items.
+[2026-10-10 17:58:06] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-10 17:58:06]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-10 17:58:09]   Playwright loaded page: 'News - South Carolina Attorney General' (110384 chars)
+[2026-10-10 17:58:09]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-10 17:58:09] [SC] Found 9 item(s) on page.
+[2026-10-10 17:58:09] [SC] No new items.
+[2026-10-10 17:58:09] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-10 17:58:09]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-10 17:58:12]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-10-10 17:58:13]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-10-10 17:58:13] [SD] Found 1 item(s) on page.
+[2026-10-10 17:58:13] [SD] No new items.
+[2026-10-10 17:58:13] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-10 17:58:13]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-10-10 17:58:33] [TN] Found 50 item(s) on page.
+[2026-10-10 17:58:33] [TN] No new items.
+[2026-10-10 17:58:33] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-10 17:58:35] [TX] Found 50 item(s) on page.
+[2026-10-10 17:58:35] [TX] No new items.
+[2026-10-10 17:58:35] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-10 17:58:35]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-10 17:58:38]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298274 chars)
+[2026-10-10 17:58:38]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-10 17:58:38] [UT] Found 50 item(s) on page.
+[2026-10-10 17:58:38] [UT] No new items.
+[2026-10-10 17:58:38] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-10 17:58:39] [VT] Found 50 item(s) on page.
+[2026-10-10 17:58:39] [VT] No new items.
+[2026-10-10 17:58:39] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-10 17:58:40] [VA] Found 50 item(s) on page.
+[2026-10-10 17:58:40] [VA] 1 new item(s):
+[2026-10-10 17:58:40]   NEW: Attorney General Jay Jones Celebrates Virginia TRIAD Chapters |  | https://www.oag.state.va.us/media-center/news-releases/3137-attorney-general-jay-jones-celebrates-virginia-triad-chapters
+[2026-10-10 17:58:40] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-10 17:58:40] [WA] Found 15 item(s) on page.
+[2026-10-10 17:58:40] [WA] No new items.
+[2026-10-10 17:58:40] [WV] Fetching https://ago.wv.gov/news
+[2026-10-10 17:58:40]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-10 17:58:43]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55302 chars)
+[2026-10-10 17:58:43]   Playwright found 30 item(s) with configured selector
+[2026-10-10 17:58:43] [WV] Found 30 item(s) on page.
+[2026-10-10 17:58:43] [WV] 1 new item(s):
+[2026-10-10 17:58:43]   NEW: Full Story | 2026-10-09T12:00:00Z | https://ago.wv.gov/article/lawsuit-abuse-doesnt-stop-state-line-neither-will-we
+[2026-10-10 17:58:43] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-10 17:58:43]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-10 17:59:14]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-10-10 17:59:14]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-10-10 17:59:29]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fc9137067b0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-10-10 18:00:04]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fc913706540>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-10-10 18:00:39]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7fc911d2b080>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-10-10 18:00:39] [WI] No items returned (fetch failed or empty page).
+[2026-10-10 18:00:39] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-10 18:00:40] [WY] Found 2 item(s) on page.
+[2026-10-10 18:00:40] [WY] No new items.
+[2026-10-10 18:00:40] States with fetch errors: KS, NH, NC, WI
+[2026-10-10 18:00:40] Sending email: 11 new item(s) across 10 state(s).
+[2026-10-10 18:00:40] ERROR sending email: Connection unexpectedly closed
+[2026-10-10 18:00:40] Done.
