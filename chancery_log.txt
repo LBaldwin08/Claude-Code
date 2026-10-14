@@ -11891,3 +11891,12 @@ Call log:
 [2026-10-14 18:46:43] Found 27 opinions on page.
 [2026-10-14 18:46:43] No new opinions.
 [2026-10-14 18:46:43] Done.
+[2026-10-14 22:00:31] Checking for new DE court opinions...
+[2026-10-14 22:00:31] Using Playwright to fetch opinions page...
+[2026-10-14 22:00:42] Playwright found 27 opinion(s).
+[2026-10-14 22:00:42] Found 27 opinions on page.
+[2026-10-14 22:00:42] 1 new opinion(s)!
+[2026-10-14 22:00:42]   NEW: [10/14/2026] [Superior Court] Jones v. UIAB et al. | K26A-03-002 RLG | Green-StreettJ.
+[2026-10-14 22:00:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402150
+[2026-10-14 22:00:44] ERROR sending email: Connection unexpectedly closed
+[2026-10-14 22:00:44] Done.
