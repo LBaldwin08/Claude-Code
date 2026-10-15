@@ -11929,3 +11929,14 @@ Call log:
 [2026-10-15 14:37:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402170
 [2026-10-15 14:37:29] ERROR sending email: Connection unexpectedly closed
 [2026-10-15 14:37:29] Done.
+[2026-10-15 18:50:30] Checking for new DE court opinions...
+[2026-10-15 18:50:30] Using Playwright to fetch opinions page...
+[2026-10-15 18:50:41] Playwright found 27 opinion(s).
+[2026-10-15 18:50:41] Found 27 opinions on page.
+[2026-10-15 18:50:41] 2 new opinion(s)!
+[2026-10-15 18:50:41]   NEW: [10/14/2026] [Supreme Court(Superior Court)] Brundge v. State | 188, 2026 | LeGrowJ.
+[2026-10-15 18:50:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402140
+[2026-10-15 18:50:41]   NEW: [10/14/2026] [Supreme Court(Superior Court)] Henry v. State | 352, 2026 | GriffithsJ.
+[2026-10-15 18:50:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402130
+[2026-10-15 18:50:42] ERROR sending email: Connection unexpectedly closed
+[2026-10-15 18:50:42] Done.
