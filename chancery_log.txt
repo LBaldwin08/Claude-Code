@@ -11918,3 +11918,14 @@ Call log:
 [2026-10-15 09:40:00] Found 27 opinions on page.
 [2026-10-15 09:40:00] No new opinions.
 [2026-10-15 09:40:00] Done.
+[2026-10-15 14:37:17] Checking for new DE court opinions...
+[2026-10-15 14:37:17] Using Playwright to fetch opinions page...
+[2026-10-15 14:37:29] Playwright found 27 opinion(s).
+[2026-10-15 14:37:29] Found 27 opinions on page.
+[2026-10-15 14:37:29] 2 new opinion(s)!
+[2026-10-15 14:37:29]   NEW: [10/15/2026] [Court of Chancery] Techno-X USA Inc. v. Spartan Forge LLC et al. | C.A. No. 2024-1313-LWW | WillV.C.
+[2026-10-15 14:37:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402160
+[2026-10-15 14:37:29]   NEW: [10/15/2026] [Supreme Court(Court of Chancery)] In Re Priority Responsible Funding LLC | 147, 2026 | GriffithsJ.
+[2026-10-15 14:37:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402170
+[2026-10-15 14:37:29] ERROR sending email: Connection unexpectedly closed
+[2026-10-15 14:37:29] Done.
