@@ -11940,3 +11940,14 @@ Call log:
 [2026-10-15 18:50:41]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402130
 [2026-10-15 18:50:42] ERROR sending email: Connection unexpectedly closed
 [2026-10-15 18:50:42] Done.
+[2026-10-15 21:54:17] Checking for new DE court opinions...
+[2026-10-15 21:54:17] Using Playwright to fetch opinions page...
+[2026-10-15 21:54:28] Playwright found 27 opinion(s).
+[2026-10-15 21:54:28] Found 27 opinions on page.
+[2026-10-15 21:54:28] 2 new opinion(s)!
+[2026-10-15 21:54:28]   NEW: [10/15/2026] [Court of Chancery] Shareholder Representative Services, LLC v. Alexion Pharmaceuticals Inc. | C.A. No. 2020-1069-MTZ | ZurnM.
+[2026-10-15 21:54:28]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402190
+[2026-10-15 21:54:28]   NEW: [10/15/2026] [Supreme Court(Court of Chancery)] Ana Maria Turner v. Lam Research Corporation | 149, 2026 | ZurnJ.
+[2026-10-15 21:54:28]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402180
+[2026-10-15 21:54:28] ERROR sending email: Connection unexpectedly closed
+[2026-10-15 21:54:28] Done.
