@@ -37450,3 +37450,245 @@ Call log:
 [2026-10-14 18:09:41] Sending email: 25 new item(s) across 17 state(s).
 [2026-10-14 18:09:42] ERROR sending email: Connection unexpectedly closed
 [2026-10-14 18:09:42] Done.
+[2026-10-15 17:50:20] Checking for new AG press releases...
+[2026-10-15 17:50:20] Checking 50 state(s).
+[2026-10-15 17:50:20] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-15 17:50:20]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-15 17:50:24]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (241307 chars)
+[2026-10-15 17:50:24]   Playwright found 27 item(s) with configured selector
+[2026-10-15 17:50:24] [AL] Found 27 item(s) on page.
+[2026-10-15 17:50:24] [AL] No new items.
+[2026-10-15 17:50:24] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-15 17:50:24] [AK] Found 50 item(s) on page.
+[2026-10-15 17:50:24] [AK] 1 new item(s):
+[2026-10-15 17:50:24]   NEW: Jury Convicts Kodiak Corrections Officer of Sexual Assault in the Third Degree |  | https://law.alaska.gov/releases/2026/101426-Fangonilo.html
+[2026-10-15 17:50:24] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-15 17:50:25] [AZ] Found 10 item(s) on page.
+[2026-10-15 17:50:25] [AZ] 2 new item(s):
+[2026-10-15 17:50:25]   NEW: Attorney General Mayes Leads Coalition of Attorneys General Urging Congress to Pass Epstein Files Transparency Act II |  | https://www.azag.gov/press-release/attorney-general-mayes-leads-coalition-attorneys-general-urging-congress-pass-epstein
+[2026-10-15 17:50:25]   NEW: Attorney General Mayes Announces Lawsuit against OpenAI for Deceiving Arizonans about the Safety of ChatGPT |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-lawsuit-against-openai-deceiving-arizonans-about
+[2026-10-15 17:50:25] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-15 17:50:26] [AR] Found 50 item(s) on page.
+[2026-10-15 17:50:26] [AR] 1 new item(s):
+[2026-10-15 17:50:26]   NEW: Wednesday, October 14, 2026Attorney General Griffin Sues OpenAI for Misleading Arkansans over Safety of ChatGPTRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-sues-openai-for-misleading-arkansans-over-safety-of-chatgpt/
+[2026-10-15 17:50:26] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-15 17:50:26] [CA] Found 10 item(s) on page.
+[2026-10-15 17:50:26] [CA] 3 new item(s):
+[2026-10-15 17:50:26]   NEW: 100 Lawsuits, 21 Months: Attorney General Bonta Sues ICE over Civil Immigration Arrests at California Courthouses | Thu, 15 Oct 2026 14:13:44 +0000 | https://oag.ca.gov/news/press-releases/100-lawsuits-21-months-attorney-general-bonta-sues-ice-over-civil-immigration
+[2026-10-15 17:50:26]   NEW: Attorney General Bonta Critiques Trump Administration’s Proposal to Relax Decommissioning Timeline Regulations at Nuclear Facilities | Tue, 13 Oct 2026 18:33:02 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-critiques-trump-administration%E2%80%99s-proposal-relax
+[2026-10-15 17:50:26]   NEW: Attorney General Bonta Sues to Block Closure of San Francisco National Archives | Wed, 14 Oct 2026 14:43:59 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-block-closure-san-francisco-national-archives
+[2026-10-15 17:50:26] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-15 17:50:26] [CO] Found 50 item(s) on page.
+[2026-10-15 17:50:26] [CO] No new items.
+[2026-10-15 17:50:26] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-15 17:50:27] [CT] Found 33 item(s) on page.
+[2026-10-15 17:50:27] [CT] 1 new item(s):
+[2026-10-15 17:50:27]   NEW: Attorney General Tong Statement Regarding Eversource Appeal of PURA Storm Cost Decision that Rejected Over $300 Million in Unjustified Carrying Costs | 10/15/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-statement-regarding-eversource-appeal-of-pura-storm-cost-decision
+[2026-10-15 17:50:27] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-15 17:50:28] [DE] Found 300 item(s) on page.
+[2026-10-15 17:50:28] [DE] 1 new item(s):
+[2026-10-15 17:50:28]   NEW: AG Jennings seeks consumer protections in Character.AI bankruptcy | Thu, 15 Oct 2026 05:56:30 +0000 | https://news.delaware.gov/2026/10/15/ag-jennings-seeks-consumer-protections-in-character-ai-bankruptcy/
+[2026-10-15 17:50:28] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-15 17:50:29] [FL] Found 20 item(s) on page.
+[2026-10-15 17:50:29] [FL] 2 new item(s):
+[2026-10-15 17:50:29]   NEW: Attorney General James Uthmeier Files Lawsuit Against Discord for Deceiving Florida Families and Exposing Children to Predators | 2026-10-15T15:32:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-files-lawsuit-against-discord-deceiving-florida
+[2026-10-15 17:50:29]   NEW: Attorney General James Uthmeier Secures Convictions, Decades in Prison for Child Predators | 2026-10-14T20:47:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-secures-convictions-decades-prison-child-predators
+[2026-10-15 17:50:29] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-15 17:50:29] [GA] Found 11 item(s) on page.
+[2026-10-15 17:50:29] [GA] 1 new item(s):
+[2026-10-15 17:50:29]   NEW: Carr Secures Major Victory in Defense of Georgia’s Social Media LawOctober 15, 2026 |  | https://law.georgia.gov/press-releases/2026-10-15/carr-secures-major-victory-defense-georgias-social-media-law
+[2026-10-15 17:50:29] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-15 17:50:29] [HI] Found 26 item(s) on page.
+[2026-10-15 17:50:29] [HI] No new items.
+[2026-10-15 17:50:29] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-15 17:50:29]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-15 17:50:33]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65949 chars)
+[2026-10-15 17:50:33]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-15 17:50:33] [ID] Found 28 item(s) on page.
+[2026-10-15 17:50:33] [ID] 1 new item(s):
+[2026-10-15 17:50:33]   NEW: Oct 142026AG Labrador Announces Lawsuit Against OpenAI for Deceiving Idaho Parents About the Safety of ChatGPT | Oct 142026 | https://www.ag.idaho.gov/newsroom/ag-labrador-announces-lawsuit-against-openai-for-deceiving-idaho-parents-about-the-safety-of-chatgpt/
+[2026-10-15 17:50:33] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-15 17:50:34] [IL] Found 50 item(s) on page.
+[2026-10-15 17:50:34] [IL] 4 new item(s):
+[2026-10-15 17:50:34]   NEW: October 14, 2026ATTORNEY GENERAL RAOUL SUCCESSFULLY HALTS PULLMAN PLANT OPERATIONS OVER EXCESSIVE ODORS AND ENVIRONMENTAL LAW VIOLATIONS | 2026-10-14 5:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-successfully-halts-pullman-plant-operations-over-excessive-odors-and-environmental-law-violations
+[2026-10-15 17:50:34]   NEW: October 14, 2026ATTORNEY GENERAL RAOUL OBTAINS 3-YEAR PRISON SENTENCE IN CASE AGAINST SUBURBAN CHICAGO WOMAN FOR STEALING FROM STATE TREASURER FRERICHS’ UNCLAIMED PROPERTY PROGRAM | 2026-10-14 5:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-obtains-3-year-prison-sentence-in-case-against-suburban-chicago-woman-for-stealing-from-state-treasurer-frerichs-unclaimed-property-program
+[2026-10-15 17:50:34]   NEW: October 14, 2026ATTORNEY GENERAL RAOUL TAKES ACTION TO SUPPORT INTERNET FOR SCHOOLS AND LIBRARIES AS FCC CONSIDERS CUTS | 2026-10-14 5:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-takes-action-to-support-internet-for-schools-and-libraries-as-fcc-considers-cuts
+[2026-10-15 17:50:34]   NEW: October 14, 2026ATTORNEY GENERAL RAOUL SEEKS CONSUMER PROTECTIONS IN CHARACTER.AI BANKRUPTCY | 2026-10-14 5:45 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-seeks-consumer-protections-in-characterai-bankruptcy
+[2026-10-15 17:50:34] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-15 17:50:35] [IN] Found 34 item(s) on page.
+[2026-10-15 17:50:35] [IN] No new items.
+[2026-10-15 17:50:35] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-15 17:50:35] [IA] Found 10 item(s) on page.
+[2026-10-15 17:50:35] [IA] 2 new item(s):
+[2026-10-15 17:50:35]   NEW: Attorney General Brenna Bird Warns Iowans about Medicare Scams as Open Enrollment Begins | October 15, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-warns-iowans-about-medicare-scams-as-open-enrollment-begins/
+[2026-10-15 17:50:35]   NEW: Attorney General Brenna Bird Announces Lawsuit against OpenAI for Deceiving Iowa Parents and Iowans about the Safety of ChatGPT | October 14, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-lawsuit-against-openai-for-deceiving-iowa-parents-and-iowans/
+[2026-10-15 17:50:35] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-15 17:50:35]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-15 17:50:38]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-10-15 17:50:38]   Playwright: page loaded but no links matched — check selectors
+[2026-10-15 17:50:38]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-15 17:50:39]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-15 17:50:59]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-15 17:51:20]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-15 17:51:20] [KS] No items returned (fetch failed or empty page).
+[2026-10-15 17:51:20] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-15 17:51:21] [KY] Found 26 item(s) on page.
+[2026-10-15 17:51:21] [KY] No new items.
+[2026-10-15 17:51:21] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-15 17:51:22] [LA] Found 20 item(s) on page.
+[2026-10-15 17:51:22] [LA] No new items.
+[2026-10-15 17:51:22] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-15 17:51:22] [ME] Found 17 item(s) on page.
+[2026-10-15 17:51:22] [ME] No new items.
+[2026-10-15 17:51:22] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-15 17:52:22]   Attempt 1/3 failed for https://oag.maryland.gov/News/Pages/press-release-archive.aspx: HTTPSConnectionPool(host='oag.maryland.gov', port=443): Read timed out. (read timeout=60)
+[2026-10-15 17:52:44] [MD] Found 50 item(s) on page.
+[2026-10-15 17:52:44] [MD] No new items.
+[2026-10-15 17:52:44] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-15 17:52:44]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-15 17:52:47]   Playwright loaded page: 'News and Announcements | Mass.gov' (179618 chars)
+[2026-10-15 17:52:47]   Playwright found 15 item(s) with configured selector
+[2026-10-15 17:52:47] [MA] Found 15 item(s) on page.
+[2026-10-15 17:52:47] [MA] 1 new item(s):
+[2026-10-15 17:52:47]   NEW: AG Campbell Seeks Consumer Protections In Character.AI Bankruptcy | 10/14/2026 | https://www.mass.gov/news/ag-campbell-seeks-consumer-protections-in-characterai-bankruptcy
+[2026-10-15 17:52:47] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-15 17:52:47]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-15 17:52:50]   Playwright loaded page: 'Attorney General: Press Releases' (376495 chars)
+[2026-10-15 17:52:50]   Playwright found 10 item(s) with configured selector
+[2026-10-15 17:52:50] [MI] Found 10 item(s) on page.
+[2026-10-15 17:52:50] [MI] 2 new item(s):
+[2026-10-15 17:52:50]   NEW: Attorney General Nessel Seeks Consumer Protections in Character.AI Bankruptcy |  | https://www.michigan.gov/ag/news/press-releases/2026/10/15/attorney-general-nessel-seeks-consumer-protections-in-character-ai-bankruptcy
+[2026-10-15 17:52:50]   NEW: AG Nessel Sues HailgateA2 LLC, Owner over Concert and UM Football Ticket and Memorabilia Sales |  | https://www.michigan.gov/ag/news/press-releases/2026/10/15/ag-nessel-sues-hailgatea2-llc-owner-over-concert-and-um-football-ticket-and-memorabilia-sales
+[2026-10-15 17:52:50] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-15 17:52:51] [MN] Found 50 item(s) on page.
+[2026-10-15 17:52:51] [MN] No new items.
+[2026-10-15 17:52:51] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-15 17:52:51] [MS] Found 1 item(s) on page.
+[2026-10-15 17:52:51] [MS] 1 new item(s):
+[2026-10-15 17:52:51]   NEW: AG Fitch and MS Coalition Against Domestic Violence Announce New Partnership (October 15, 2026) |  | https://attorneygenerallynnfitch.com/2026/10/15/ag-fitch-and-ms-coalition-against-domestic-violence-announce-new-partnership-october-15-2026/
+[2026-10-15 17:52:51] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-15 17:52:51] [MO] Found 50 item(s) on page.
+[2026-10-15 17:52:51] [MO] 3 new item(s):
+[2026-10-15 17:52:51]   NEW: Attorney General Hanaway Successfully Defends Missouri’s Sex Offender Registry Laws |  | https://ago.mo.gov/attorney-general-hanaway-successfully-defends-missouris-sex-offender-registry-laws/
+[2026-10-15 17:52:51]   NEW: Attorney General Hanaway Launches Investigation into TikTok’s Impact on Missouri Children |  | https://ago.mo.gov/attorney-general-hanaway-launches-investigation-into-tiktoks-impact-on-missouri-children/
+[2026-10-15 17:52:51]   NEW: Attorney General Hanaway Announces Conviction in Taney County Officer Shooting Case |  | https://ago.mo.gov/attorney-general-hanaway-announces-conviction-in-taney-county-officer-shooting-case/
+[2026-10-15 17:52:51] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-15 17:52:51] [MT] Found 10 item(s) on page.
+[2026-10-15 17:52:51] [MT] 1 new item(s):
+[2026-10-15 17:52:51]   NEW: Attorney General Knudsen files lawsuit against OpenAI for endangering children and teens |  | https://dojmt.gov/attorney-general-knudsen-files-lawsuit-against-openai-for-endangering-children-and-teens/
+[2026-10-15 17:52:51] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-15 17:52:52] [NE] Found 10 item(s) on page.
+[2026-10-15 17:52:52] [NE] 1 new item(s):
+[2026-10-15 17:52:52]   NEW: Attorney General Hilgers Announces Lawsuit against OpenAI for Deceiving Nebraskans about the Safety of ChatGPT | Wed, 14 Oct 2026 18:31:04 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-announces-lawsuit-against-openai-deceiving-nebraskans-about-safety
+[2026-10-15 17:52:52] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-15 17:52:52] [NV] Found 50 item(s) on page.
+[2026-10-15 17:52:52] [NV] No new items.
+[2026-10-15 17:52:52] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-15 17:52:52]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-15 17:52:55]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-15 17:52:55]   Playwright: page loaded but no links matched — check selectors
+[2026-10-15 17:52:55]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-10-15 17:52:55]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-15 17:53:15]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-15 17:53:35]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-15 17:53:35] [NH] No items returned (fetch failed or empty page).
+[2026-10-15 17:53:35] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-15 17:53:37] [NJ] Found 5 item(s) on page.
+[2026-10-15 17:53:37] [NJ] 1 new item(s):
+[2026-10-15 17:53:37]   NEW: UPDATE: AG’s Office Releases Radio Transmissions and Police Body-Worn Camera Footage from Ongoing Investigation of Civilian Death During June 2, 2026, Police Encounter in Atlantic City |  | https://www.njoag.gov/update-ags-office-releases-radio-transmissions-and-police-body-worn-camera-footage-from-ongoing-investigation-of-civilian-death-during-june-2-2026-police-encounter-in-atlantic-city/
+[2026-10-15 17:53:37] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-15 17:53:38] [NM] Found 13 item(s) on page.
+[2026-10-15 17:53:38] [NM] No new items.
+[2026-10-15 17:53:38] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-15 17:53:39] [NY] Found 25 item(s) on page.
+[2026-10-15 17:53:39] [NY] 1 new item(s):
+[2026-10-15 17:53:39]   NEW: Attorney General James’ Office of Special Investigation Releases Report on Death of Christopher Ferguson |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-releases-report-death-8
+[2026-10-15 17:53:39] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-15 17:53:43] [NC] No items returned (fetch failed or empty page).
+[2026-10-15 17:53:43] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-15 17:53:43] [ND] Found 10 item(s) on page.
+[2026-10-15 17:53:43] [ND] No new items.
+[2026-10-15 17:53:43] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-15 17:53:44] [OH] Found 10 item(s) on page.
+[2026-10-15 17:53:44] [OH] 2 new item(s):
+[2026-10-15 17:53:44]   NEW: AG Wilson Announces Nearly $300,000 Grant for Peace Officer Training | 10/15/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/October-2026/AG-Wilson-Announces-Nearly-$300-000-Grant-for-Peac
+[2026-10-15 17:53:44]   NEW: Statement From AG Wilson on EdChoice Ruling | 10/15/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/October-2026/Statement-From-AG-Wilson-on-EdChoice-Ruling
+[2026-10-15 17:53:44] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-15 17:53:44]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-15 17:53:47]   Playwright loaded page: 'News Releases' (836960 chars)
+[2026-10-15 17:53:47]   Playwright: page loaded but no links matched — check selectors
+[2026-10-15 17:53:47]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-10-15 17:53:48] [OK] No items returned (fetch failed or empty page).
+[2026-10-15 17:53:48] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-15 17:53:49] [OR] Found 10 item(s) on page.
+[2026-10-15 17:53:49] [OR] 1 new item(s):
+[2026-10-15 17:53:49]   NEW: Attorney General Rayfield Takes Action to Protect Kids and Consumers in Character.AI Bankruptcy |  | https://www.doj.state.or.us/media-home/news-media-releases/attorney-general-rayfield-takes-action-to-protect-kids-and-consumers-in-character-ai-bankruptcy/
+[2026-10-15 17:53:49] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-15 17:53:50] [PA] Found 12 item(s) on page.
+[2026-10-15 17:53:50] [PA] 1 new item(s):
+[2026-10-15 17:53:50]   NEW: Technology & PrivacyOCT 15, 2026AG Sunday Takes Action to Ensure Sensitive Consumer Information is Protected in Character.AI Bankruptcy, Potential SaleHARRISBURG – Attorney General Dave Sunday announced that Pennsylvania is joining a coalition of state attorneys general in filing a notice in the bankruptcy proceedings of Character Technologies,…Read more | 2026-10-15T12:30:53-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-takes-action-to-ensure-sensitive-consumer-information-is-protected-in-character-ai-bankruptcy-potential-sale/
+[2026-10-15 17:53:50] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-15 17:53:50] [RI] Found 10 item(s) on page.
+[2026-10-15 17:53:50] [RI] 1 new item(s):
+[2026-10-15 17:53:50]   NEW: Seven charged with crimes related to Medicaid fraud of more than $1 million | Wed, 14 Oct 2026 16:08:06 +0000 | https://riag.ri.gov/press-releases/seven-charged-crimes-related-medicaid-fraud-more-1-million
+[2026-10-15 17:53:50] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-15 17:53:50]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-15 17:53:54]   Playwright loaded page: 'News - South Carolina Attorney General' (110360 chars)
+[2026-10-15 17:53:54]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-15 17:53:54] [SC] Found 9 item(s) on page.
+[2026-10-15 17:53:54] [SC] No new items.
+[2026-10-15 17:53:54] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-15 17:53:54]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-15 17:53:57]   Playwright loaded page: 'South Dakota Attorney General' (36353 chars)
+[2026-10-15 17:53:57]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-10-15 17:53:57] [SD] Found 1 item(s) on page.
+[2026-10-15 17:53:57] [SD] No new items.
+[2026-10-15 17:53:57] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-15 17:53:57]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-10-15 17:54:18] [TN] Found 50 item(s) on page.
+[2026-10-15 17:54:18] [TN] No new items.
+[2026-10-15 17:54:18] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-15 17:54:18] [TX] Found 50 item(s) on page.
+[2026-10-15 17:54:18] [TX] 2 new item(s):
+[2026-10-15 17:54:18]   NEW: Attor­ney Gen­er­al Ken Pax­ton Secures $773Mil­lion in Opi­oid Set­tle­ment with Albert­sons for Its Role in the Opi­oid Epidemic |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-773-million-opioid-settlement-albertsons-its-role-opioid
+[2026-10-15 17:54:18]   NEW: Attor­ney Gen­er­al Ken Pax­ton Sends Let­ters to Data Cen­ter Devel­op­ments Across Texas to Ensure Report­ing of Water Use and Com­pli­ance with Texas Law |  | https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-sends-letters-data-center-developments-across-texas-ensure-reporting
+[2026-10-15 17:54:18] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-15 17:54:18]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-15 17:54:21]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298322 chars)
+[2026-10-15 17:54:22]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-15 17:54:22] [UT] Found 50 item(s) on page.
+[2026-10-15 17:54:22] [UT] No new items.
+[2026-10-15 17:54:22] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-15 17:54:22] [VT] Found 50 item(s) on page.
+[2026-10-15 17:54:22] [VT] 1 new item(s):
+[2026-10-15 17:54:22]   NEW: Attorney General Clark Seeks Consumer Protections in Character.AI Bankruptcy | DateOctober 14, 2026 | https://ago.vermont.gov/blog/2026/10/14/attorney-general-clark-seeks-consumer-protections-characterai-bankruptcy
+[2026-10-15 17:54:22] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-15 17:54:23] [VA] Found 50 item(s) on page.
+[2026-10-15 17:54:23] [VA] 2 new item(s):
+[2026-10-15 17:54:23]   NEW: Attorney General Jones Puts Character.AI on Notice with Bankruptcy Court Filing |  | https://www.oag.state.va.us/media-center/news-releases/3140-attorney-general-jones-puts-character-ai-on-notice-with-bankruptcy-court-filing
+[2026-10-15 17:54:23]   NEW: MEDIA CLIPS: Attorney General Jones Announces Voter Protection Section |  | https://www.oag.state.va.us/media-center/news-releases/3139-media-clips-attorney-general-jones-announces-voter-protection-section
+[2026-10-15 17:54:23] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-15 17:54:23] [WA] Found 15 item(s) on page.
+[2026-10-15 17:54:23] [WA] 2 new item(s):
+[2026-10-15 17:54:23]   NEW: Washington settles generic drug cases with Ascend Laboratories, Citron Pharma, and Mayne Pharma | Wed, 14 Oct 2026 20:53:14 +0000 | https://www.atg.wa.gov/news/news-releases/washington-settles-generic-drug-cases-ascend-laboratories-citron-pharma-and
+[2026-10-15 17:54:23]   NEW: AG Brown seeks consumer protections in Character.AI bankruptcy | Wed, 14 Oct 2026 18:49:28 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-seeks-consumer-protections-characterai-bankruptcy
+[2026-10-15 17:54:23] [WV] Fetching https://ago.wv.gov/news
+[2026-10-15 17:54:23]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-15 17:54:26]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55545 chars)
+[2026-10-15 17:54:26]   Playwright found 30 item(s) with configured selector
+[2026-10-15 17:54:26] [WV] Found 30 item(s) on page.
+[2026-10-15 17:54:26] [WV] 1 new item(s):
+[2026-10-15 17:54:26]   NEW: Full Story | 2026-10-14T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-announces-lawsuit-against-openai-deceiving-west-virginians-about
+[2026-10-15 17:54:26] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-15 17:54:26]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-15 17:54:31]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1580187 chars)
+[2026-10-15 17:54:31]   Playwright found 50 item(s) with configured selector
+[2026-10-15 17:54:31] [WI] Found 50 item(s) on page.
+[2026-10-15 17:54:31] [WI] No new items.
+[2026-10-15 17:54:31] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-15 17:54:31] [WY] Found 2 item(s) on page.
+[2026-10-15 17:54:31] [WY] No new items.
+[2026-10-15 17:54:31] States with fetch errors: KS, NH, NC, OK
+[2026-10-15 17:54:31] Sending email: 43 new item(s) across 28 state(s).
+[2026-10-15 17:54:31] ERROR sending email: Connection unexpectedly closed
+[2026-10-15 17:54:31] Done.
