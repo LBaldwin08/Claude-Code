@@ -12059,3 +12059,12 @@ Call log:
 [2026-10-18 04:53:44] Found 27 opinions on page.
 [2026-10-18 04:53:44] No new opinions.
 [2026-10-18 04:53:44] Done.
+[2026-10-18 09:17:35] Checking for new DE court opinions...
+[2026-10-18 09:17:35] Using Playwright to fetch opinions page...
+[2026-10-18 09:17:46] Playwright found 27 opinion(s).
+[2026-10-18 09:17:46] Found 27 opinions on page.
+[2026-10-18 09:17:46] 1 new opinion(s)!
+[2026-10-18 09:17:46]   NEW: [10/15/2026] [Superior Court] State v. Broomer | 1504010863A | ParkerC.
+[2026-10-18 09:17:46]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402280
+[2026-10-18 09:17:46] ERROR sending email: Connection unexpectedly closed
+[2026-10-18 09:17:46] Done.
