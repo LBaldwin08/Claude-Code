@@ -38588,3 +38588,226 @@ Call log:
 [2026-10-19 19:33:35] Sending email: 21 new item(s) across 16 state(s).
 [2026-10-19 19:33:35] ERROR sending email: Connection unexpectedly closed
 [2026-10-19 19:33:35] Done.
+[2026-10-20 18:03:32] Checking for new AG press releases...
+[2026-10-20 18:03:32] Checking 50 state(s).
+[2026-10-20 18:03:32] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-20 18:03:32]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-20 18:03:36]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (241373 chars)
+[2026-10-20 18:03:36]   Playwright found 27 item(s) with configured selector
+[2026-10-20 18:03:36] [AL] Found 27 item(s) on page.
+[2026-10-20 18:03:36] [AL] No new items.
+[2026-10-20 18:03:36] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-20 18:03:36] [AK] Found 50 item(s) on page.
+[2026-10-20 18:03:36] [AK] No new items.
+[2026-10-20 18:03:36] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-20 18:03:36] [AZ] Found 10 item(s) on page.
+[2026-10-20 18:03:36] [AZ] No new items.
+[2026-10-20 18:03:36] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-20 18:03:37] [AR] Found 50 item(s) on page.
+[2026-10-20 18:03:37] [AR] No new items.
+[2026-10-20 18:03:37] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-20 18:03:38] [CA] Found 10 item(s) on page.
+[2026-10-20 18:03:38] [CA] 2 new item(s):
+[2026-10-20 18:03:38]   NEW: Attorney General Bonta Announces Two Arrests, Seizure of Firearms and Narcotics in Tulare County | Tue, 20 Oct 2026 15:44:49 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-announces-two-arrests-seizure-firearms-and-narcotics
+[2026-10-20 18:03:38]   NEW: Attorney General Bonta Supports Litigation Challenging Unlawful Immigration Arrests | Mon, 19 Oct 2026 17:32:03 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-supports-litigation-challenging-unlawful-immigration
+[2026-10-20 18:03:38] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-20 18:03:38] [CO] Found 50 item(s) on page.
+[2026-10-20 18:03:38] [CO] No new items.
+[2026-10-20 18:03:38] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-20 18:03:39] [CT] Found 33 item(s) on page.
+[2026-10-20 18:03:39] [CT] 1 new item(s):
+[2026-10-20 18:03:39]   NEW: Attorney General Tong Supports Litigation Challenging Unlawful Immigration Arrests | 10/20/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-supports-litigation-challenging-unlawful-immigration-arrests
+[2026-10-20 18:03:39] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-20 18:03:40] [DE] Found 300 item(s) on page.
+[2026-10-20 18:03:40] [DE] No new items.
+[2026-10-20 18:03:40] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-20 18:03:40] [FL] Found 20 item(s) on page.
+[2026-10-20 18:03:40] [FL] No new items.
+[2026-10-20 18:03:40] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-20 18:03:40] [GA] Found 11 item(s) on page.
+[2026-10-20 18:03:40] [GA] No new items.
+[2026-10-20 18:03:40] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-20 18:03:41] [HI] Found 26 item(s) on page.
+[2026-10-20 18:03:41] [HI] No new items.
+[2026-10-20 18:03:41] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-20 18:03:41]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-20 18:03:44]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66239 chars)
+[2026-10-20 18:03:44]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-20 18:03:44] [ID] Found 28 item(s) on page.
+[2026-10-20 18:03:44] [ID] 1 new item(s):
+[2026-10-20 18:03:44]   NEW: Oct 202026AG Labrador Announces over $400 Million in Settlements in Generic Drug Conspiracies to Inflate Prices, Limit Competition; Urges Idahoans to File for Compensation | Oct 202026 | https://www.ag.idaho.gov/newsroom/ag-labrador-announces-over-400-million-in-settlements-in-generic-drug-conspiracies-to-inflate-prices-limit-competition-urges-idahoans-to-file-for-compensation/
+[2026-10-20 18:03:44] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-20 18:03:46] [IL] Found 50 item(s) on page.
+[2026-10-20 18:03:46] [IL] 4 new item(s):
+[2026-10-20 18:03:46]   NEW: October 20, 2026ATTORNEY GENERAL RAOUL FILES BRIEF OPPOSING UNLAWFUL IMMIGRATION ARRESTS | 2026-10-20 10:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-brief-opposing-unlawful-immigration-arrests
+[2026-10-20 18:03:46]   NEW: October 20, 2026ATTORNEY GENERAL RAOUL ANNOUNCES 38-YEAR PRISON SENTENCE FOR MACOUPIN COUNTY MAN WHO POSSESSED, DISSEMINATED CHILD SEXUAL ABUSE MATERIAL | 2026-10-20 10:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-38-year-prison-sentence-for-macoupin-county-man-who-possessed-disseminated-child-sexual-abuse-material
+[2026-10-20 18:03:46]   NEW: October 19, 2026ATTORNEY GENERAL RAOUL ANNOUNCES ADAMS COUNTY WOMAN’S 55-YEAR PRISON SENTENCE FOR SEXUAL ASSAULT AND MANUFACTURING, DISSEMINATING, CHILD SEXUAL ABUSE MATERIAL | 2026-10-20 10:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-adams-county-womans-55-year-prison-sentence-for-sexual-assault-and-manufacturing-disseminating-child-sexual-abuse-material
+[2026-10-20 18:03:46]   NEW: October 19, 2026ATTORNEY GENERAL RAOUL ANNOUNCES 20-YEAR PRISON SENTENCE FOR CUMBERLAND COUNTY MAN WHO PRODUCED, POSSESSED CHILD SEXUAL ABUSE MATERIAL | 2026-10-20 10:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-20-year-prison-sentence-for-cumberland-county-man-who-produced-possessed-child-sexual-abuse-material
+[2026-10-20 18:03:46] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-20 18:03:46] [IN] Found 34 item(s) on page.
+[2026-10-20 18:03:46] [IN] No new items.
+[2026-10-20 18:03:46] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-20 18:03:47] [IA] Found 10 item(s) on page.
+[2026-10-20 18:03:47] [IA] 1 new item(s):
+[2026-10-20 18:03:47]   NEW: Attorney General Brenna Bird Announces Prairie Meadows Grant Award to Cold Case Unit | October 19, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-prairie-meadows-grant-award-to-cold-case-unit/
+[2026-10-20 18:03:47] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-20 18:03:47]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-20 18:03:50]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-10-20 18:03:50]   Playwright: page loaded but no links matched — check selectors
+[2026-10-20 18:03:50]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-20 18:03:50]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-20 18:04:11]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-20 18:04:31]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-20 18:04:31] [KS] No items returned (fetch failed or empty page).
+[2026-10-20 18:04:31] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-20 18:04:33] [KY] Found 26 item(s) on page.
+[2026-10-20 18:04:33] [KY] No new items.
+[2026-10-20 18:04:33] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-20 18:04:34] [LA] Found 20 item(s) on page.
+[2026-10-20 18:04:34] [LA] No new items.
+[2026-10-20 18:04:34] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-20 18:04:34] [ME] Found 17 item(s) on page.
+[2026-10-20 18:04:34] [ME] No new items.
+[2026-10-20 18:04:34] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-20 18:04:35] [MD] Found 50 item(s) on page.
+[2026-10-20 18:04:35] [MD] No new items.
+[2026-10-20 18:04:35] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-20 18:04:35]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-20 18:04:38]   Playwright loaded page: 'News and Announcements | Mass.gov' (179759 chars)
+[2026-10-20 18:04:38]   Playwright found 15 item(s) with configured selector
+[2026-10-20 18:04:38] [MA] Found 15 item(s) on page.
+[2026-10-20 18:04:38] [MA] 1 new item(s):
+[2026-10-20 18:04:38]   NEW: AG Campbell Secures $1 Million Recovery From Transformative Healthcare For Allegedly Submitting False Claims To MassHealth And Failing To Safeguard Sensitive Patient Information | 10/19/2026 | https://www.mass.gov/news/ag-campbell-secures-1-million-recovery-from-transformative-healthcare-for-allegedly-submitting-false-claims-to-masshealth-and-failing-to-safeguard-sensitive-patient-information
+[2026-10-20 18:04:38] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-20 18:04:38]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-20 18:04:41]   Playwright loaded page: 'Attorney General: Press Releases' (376577 chars)
+[2026-10-20 18:04:41]   Playwright found 10 item(s) with configured selector
+[2026-10-20 18:04:41] [MI] Found 10 item(s) on page.
+[2026-10-20 18:04:41] [MI] No new items.
+[2026-10-20 18:04:41] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-20 18:04:42] [MN] Found 50 item(s) on page.
+[2026-10-20 18:04:42] [MN] No new items.
+[2026-10-20 18:04:42] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-20 18:04:42] [MS] Found 1 item(s) on page.
+[2026-10-20 18:04:42] [MS] No new items.
+[2026-10-20 18:04:42] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-20 18:04:42] [MO] Found 50 item(s) on page.
+[2026-10-20 18:04:42] [MO] No new items.
+[2026-10-20 18:04:42] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-20 18:04:43] [MT] Found 10 item(s) on page.
+[2026-10-20 18:04:43] [MT] No new items.
+[2026-10-20 18:04:43] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-20 18:04:43] [NE] Found 10 item(s) on page.
+[2026-10-20 18:04:43] [NE] 1 new item(s):
+[2026-10-20 18:04:43]   NEW: Assistant Attorney General Mary Marcum Receives 2026 Emerging Leader Award | Mon, 19 Oct 2026 21:07:11 +0000 | https://ago.nebraska.gov/assistant-attorney-general-mary-marcum-receives-2026-emerging-leader-award
+[2026-10-20 18:04:43] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-20 18:04:44] [NV] Found 50 item(s) on page.
+[2026-10-20 18:04:44] [NV] No new items.
+[2026-10-20 18:04:44] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-20 18:04:44]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-20 18:04:47]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-20 18:04:47]   Playwright: page loaded but no links matched — check selectors
+[2026-10-20 18:04:47]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-10-20 18:04:47]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-20 18:05:07]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-20 18:05:27]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-20 18:05:27] [NH] No items returned (fetch failed or empty page).
+[2026-10-20 18:05:27] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-20 18:05:29] [NJ] Found 5 item(s) on page.
+[2026-10-20 18:05:29] [NJ] 2 new item(s):
+[2026-10-20 18:05:29]   NEW: Man Sentenced to Seven Years in Prison for Possession and Distribution of Images of Child Sexual Abuse |  | https://www.njoag.gov/man-sentenced-to-seven-years-in-prison-for-possession-and-distribution-of-images-of-child-sexual-abuse/
+[2026-10-20 18:05:29]   NEW: Attorney General Davenport Announces Safeguards to Protect the Right to Vote During the 2026 General Election |  | https://www.njoag.gov/attorney-general-davenport-announces-safeguards-to-protect-the-right-to-vote-during-the-2026-general-election/
+[2026-10-20 18:05:29] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-20 18:05:30] [NM] Found 13 item(s) on page.
+[2026-10-20 18:05:30] [NM] No new items.
+[2026-10-20 18:05:30] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-20 18:05:31] [NY] Found 25 item(s) on page.
+[2026-10-20 18:05:31] [NY] 2 new item(s):
+[2026-10-20 18:05:31]   NEW: La Fiscal General James Logra Reembolsos Para los Clientes de T-Mobile a Quienes se les Aumentaron las Tarifas Injustamente |  | https://ag.ny.gov/press-release/2026/la-fiscal-general-james-logra-reembolsos-para-los-clientes-de-t-mobile-quienes
+[2026-10-20 18:05:31]   NEW: Attorney General James Secures Reimbursements for T-Mobile Customers Whose Rates Were Unjustly Raised |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-reimbursements-t-mobile-customers-whose-rates
+[2026-10-20 18:05:31] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-20 18:05:33]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-20 18:05:56]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-20 18:06:20]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-20 18:06:20] [NC] No items returned (fetch failed or empty page).
+[2026-10-20 18:06:20] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-20 18:06:20] [ND] Found 10 item(s) on page.
+[2026-10-20 18:06:20] [ND] No new items.
+[2026-10-20 18:06:20] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-20 18:06:21] [OH] Found 10 item(s) on page.
+[2026-10-20 18:06:21] [OH] No new items.
+[2026-10-20 18:06:21] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-20 18:06:21]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-20 18:06:24]   Playwright loaded page: 'News Releases' (836556 chars)
+[2026-10-20 18:06:24]   Playwright: page loaded but no links matched — check selectors
+[2026-10-20 18:06:24]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-10-20 18:06:25] [OK] No items returned (fetch failed or empty page).
+[2026-10-20 18:06:25] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-20 18:06:27] [OR] Found 10 item(s) on page.
+[2026-10-20 18:06:27] [OR] No new items.
+[2026-10-20 18:06:27] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-20 18:06:28] [PA] Found 12 item(s) on page.
+[2026-10-20 18:06:28] [PA] 2 new item(s):
+[2026-10-20 18:06:28]   NEW: CrimeOCT 20, 2026Eastern Pa. Man Charged with Indecent Assault, Possession of CSAM; Posed as Child Online to Solicit Money for Lewd ImagesHARRISBURG — Attorney General Dave Sunday announced charges against a Northampton man for indecent assault and possession of numerous videos and photos depicting child sexual abuse material (CSAM).…Read more | 2026-10-20T09:40:14-04:00 | https://www.attorneygeneral.gov/taking-action/eastern-pa-man-charged-with-indecent-assault-possession-of-csam-posed-as-child-online-to-solicit-money-for-lewd-images/
+[2026-10-20 18:06:28]   NEW: Press ReleaseOCT 20, 2026AG Sunday’s Antitrust Team Acts to Prevent Sale of Playground Manufacturer that Would Increase Costs for Taxpayer-Funded School and Park ProjectsHARRISBURG — Attorney General Dave Sunday announced that Pennsylvania has joined the Federal Trade Commission and a coalition of states opposing a proposed acquisition involving two major playground…Read more | 2026-10-20T08:37:24-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-antitrust-team-acts-to-prevent-sale-of-playground-manufacturer-that-would-increase-costs-for-taxpayer-funded-school-and-park-projects/
+[2026-10-20 18:06:28] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-20 18:06:28] [RI] Found 10 item(s) on page.
+[2026-10-20 18:06:28] [RI] No new items.
+[2026-10-20 18:06:28] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-20 18:06:28]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-20 18:06:31]   Playwright loaded page: 'News - South Carolina Attorney General' (110394 chars)
+[2026-10-20 18:06:32]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-20 18:06:32] [SC] Found 9 item(s) on page.
+[2026-10-20 18:06:32] [SC] 1 new item(s):
+[2026-10-20 18:06:32]   NEW: Greenwood man arrested on two Child Sexual Abuse Material* chargesRead More | Oct 19, 2026 | https://www.scag.gov/about-the-office/news/greenwood-man-arrested-on-two-child-sexual-abuse-material-charges-1-1/
+[2026-10-20 18:06:32] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-20 18:06:32]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-20 18:06:35]   Playwright loaded page: 'South Dakota Attorney General' (37496 chars)
+[2026-10-20 18:06:35]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-10-20 18:06:35] [SD] Found 1 item(s) on page.
+[2026-10-20 18:06:35] [SD] No new items.
+[2026-10-20 18:06:35] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-20 18:06:35]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: 403 Client Error: Forbidden for url: https://www.tn.gov/attorneygeneral/news.html
+[2026-10-20 18:06:55]   Attempt 2/3 failed for https://www.tn.gov/attorneygeneral/news.html: 403 Client Error: Forbidden for url: https://www.tn.gov/attorneygeneral/news.html
+[2026-10-20 18:07:15]   Attempt 3/3 failed for https://www.tn.gov/attorneygeneral/news.html: 403 Client Error: Forbidden for url: https://www.tn.gov/attorneygeneral/news.html
+[2026-10-20 18:07:15] [TN] No items returned (fetch failed or empty page).
+[2026-10-20 18:07:15] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-20 18:07:16] [TX] Found 50 item(s) on page.
+[2026-10-20 18:07:16] [TX] No new items.
+[2026-10-20 18:07:16] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-20 18:07:16]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-20 18:07:19]   Playwright loaded page: 'Press Releases - Utah Attorney General' (297901 chars)
+[2026-10-20 18:07:19]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-20 18:07:19] [UT] Found 50 item(s) on page.
+[2026-10-20 18:07:19] [UT] No new items.
+[2026-10-20 18:07:19] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-20 18:07:20] [VT] Found 50 item(s) on page.
+[2026-10-20 18:07:20] [VT] No new items.
+[2026-10-20 18:07:20] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-20 18:07:21] [VA] Found 50 item(s) on page.
+[2026-10-20 18:07:21] [VA] 1 new item(s):
+[2026-10-20 18:07:21]   NEW: VIDEO: Attorney General Jay Jones Releases Statement on NextEra Energy and Dominion Energy Merger Following His Filing of Testimony in Opposition to the Transaction |  | https://www.oag.state.va.us/media-center/news-releases/3141-video-attorney-general-jay-jones-releases-statement-on-nextera-energy-and-dominion-energy-merger-following-his-filing-of-testimony-in-opposition-to-the-transaction
+[2026-10-20 18:07:21] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-20 18:07:21] [WA] Found 15 item(s) on page.
+[2026-10-20 18:07:21] [WA] 1 new item(s):
+[2026-10-20 18:07:21]   NEW: WA, bipartisan coalition oppose merger that would drive up playground costs | Mon, 19 Oct 2026 19:42:26 +0000 | https://www.atg.wa.gov/news/news-releases/wa-bipartisan-coalition-oppose-merger-would-drive-playground-costs
+[2026-10-20 18:07:21] [WV] Fetching https://ago.wv.gov/news
+[2026-10-20 18:07:21]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-20 18:07:24]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55545 chars)
+[2026-10-20 18:07:24]   Playwright found 30 item(s) with configured selector
+[2026-10-20 18:07:24] [WV] Found 30 item(s) on page.
+[2026-10-20 18:07:24] [WV] No new items.
+[2026-10-20 18:07:24] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-20 18:07:24]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-20 18:07:29]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1584774 chars)
+[2026-10-20 18:07:29]   Playwright found 50 item(s) with configured selector
+[2026-10-20 18:07:29] [WI] Found 50 item(s) on page.
+[2026-10-20 18:07:29] [WI] 1 new item(s):
+[2026-10-20 18:07:29]   NEW: Wisconsin Department of Justice Joins Coalition and FTC in Filing Complaint to Block Merger of Major Playground Equipment Manufacturers |  | https://www.wisdoj.gov/PressReleases/press-release-playpower.pdf
+[2026-10-20 18:07:29] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-20 18:07:29] [WY] Found 2 item(s) on page.
+[2026-10-20 18:07:29] [WY] No new items.
+[2026-10-20 18:07:29] States with fetch errors: KS, NH, NC, OK, TN
+[2026-10-20 18:07:29] Sending email: 21 new item(s) across 14 state(s).
+[2026-10-20 18:07:30] ERROR sending email: Connection unexpectedly closed
+[2026-10-20 18:07:30] Done.
