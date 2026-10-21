@@ -12201,3 +12201,20 @@ Call log:
 [2026-10-21 16:01:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402340
 [2026-10-21 16:01:22] ERROR sending email: Connection unexpectedly closed
 [2026-10-21 16:01:22] Done.
+[2026-10-21 20:16:15] Checking for new DE court opinions...
+[2026-10-21 20:16:15] Using Playwright to fetch opinions page...
+[2026-10-21 20:16:26] Playwright found 27 opinion(s).
+[2026-10-21 20:16:26] Found 27 opinions on page.
+[2026-10-21 20:16:26] 5 new opinion(s)!
+[2026-10-21 20:16:26]   NEW: [10/21/2026] [Court of Chancery] Vale Ventures IA LLC v. Gray Jay Management Investments, LLC, | C.A. No. 2022-1100-NAC | CookV.C.
+[2026-10-21 20:16:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402390
+[2026-10-21 20:16:26]   NEW: [10/21/2026] [Superior Court] DeMartino v. McCromick | N26C-03-126 DJB | BrennanJ.
+[2026-10-21 20:16:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402380
+[2026-10-21 20:16:26]   NEW: [10/20/2026] [Superior Court] H & R Hospitality of DE v. Selective Insurance Co. | N26C-06-155 SSA | AugusthyJ.
+[2026-10-21 20:16:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402370
+[2026-10-21 20:16:26]   NEW: [10/19/2026] [Superior Court] Botanical Beverages et al. v. A&R Distribution, LLC | N26C-05-282 SSA | AugusthyJ.
+[2026-10-21 20:16:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402360
+[2026-10-21 20:16:26]   NEW: [10/15/2026] [Court of Chancery] Patrick Flannery v. London Stock Exchange Group, PLC, Refinitiv US LLC, Latitude Merger Sub Inc, & MayStreet Inc | 2025-0547-MAA | AdamsJ.
+[2026-10-21 20:16:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402350
+[2026-10-21 20:16:26] ERROR sending email: Connection unexpectedly closed
+[2026-10-21 20:16:26] Done.
