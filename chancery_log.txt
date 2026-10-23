@@ -12294,3 +12294,20 @@ Call log:
 [2026-10-23 15:19:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402470
 [2026-10-23 15:19:40] ERROR sending email: Connection unexpectedly closed
 [2026-10-23 15:19:40] Done.
+[2026-10-23 19:25:24] Checking for new DE court opinions...
+[2026-10-23 19:25:24] Using Playwright to fetch opinions page...
+[2026-10-23 19:25:35] Playwright found 27 opinion(s).
+[2026-10-23 19:25:35] Found 27 opinions on page.
+[2026-10-23 19:25:35] 5 new opinion(s)!
+[2026-10-23 19:25:35]   NEW: [10/23/2026] [Court of Chancery] Sjunde AP-Fonden v. Activision Blizzard, Inc., et al. | C.A. No. 2022-1001-KSJM | McCormick,C.
+[2026-10-23 19:25:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402500
+[2026-10-23 19:25:35]   NEW: [10/23/2026] [Supreme Court(Court of Chancery)] Terra Taylor, in her official capacity as Commissioner of the Delaware Department of Correction vs. Waunye Calm, Brandon Gatewood, Isaiah Harber, Jyai | 393, 2026 | TraynorJ.
+[2026-10-23 19:25:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402510
+[2026-10-23 19:25:35]   NEW: [10/22/2026] [Supreme Court(Family Court)] Everly, Thomas vs. Ella Everly | 336, 2026 | GriffithsJ.
+[2026-10-23 19:25:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402440
+[2026-10-23 19:25:35]   NEW: [10/22/2026] [Supreme Court(Superior Court)] IMO the Petition of Anibal Melendez Garcia for a Writ of Mandamus | 242, 2026 | GriffithsJ.
+[2026-10-23 19:25:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402410
+[2026-10-23 19:25:35]   NEW: [10/22/2026] [Supreme Court(Superior Court)] Saavedra v. State | 36, 2026 | TraynorJ.
+[2026-10-23 19:25:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402450
+[2026-10-23 19:25:35] ERROR sending email: Connection unexpectedly closed
+[2026-10-23 19:25:35] Done.
