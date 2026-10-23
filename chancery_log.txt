@@ -12283,3 +12283,14 @@ Call log:
 [2026-10-23 10:21:03] Found 27 opinions on page.
 [2026-10-23 10:21:03] No new opinions.
 [2026-10-23 10:21:03] Done.
+[2026-10-23 15:19:27] Checking for new DE court opinions...
+[2026-10-23 15:19:27] Using Playwright to fetch opinions page...
+[2026-10-23 15:19:40] Playwright found 27 opinion(s).
+[2026-10-23 15:19:40] Found 27 opinions on page.
+[2026-10-23 15:19:40] 2 new opinion(s)!
+[2026-10-23 15:19:40]   NEW: [10/23/2026] [Court of Chancery] David Dinkevich v. Deutsche Telekom AG, et al. | C.A. 2021-0479-PAF | WrightM.
+[2026-10-23 15:19:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402480
+[2026-10-23 15:19:40]   NEW: [10/23/2026] [Supreme Court(Court of Chancery)] Verisk Analytics, Inc. and Lenny Merger Sub, Inc. v. ExactLogix, Inc. d/b/a Acculynx.com, et al. | 369, 2026 | SeitzC.J.
+[2026-10-23 15:19:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402470
+[2026-10-23 15:19:40] ERROR sending email: Connection unexpectedly closed
+[2026-10-23 15:19:40] Done.
