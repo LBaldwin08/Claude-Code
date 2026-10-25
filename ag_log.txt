@@ -39740,3 +39740,205 @@ Call log:
 [2026-10-24 16:52:42] Sending email: 20 new item(s) across 11 state(s).
 [2026-10-24 16:52:42] ERROR sending email: Connection unexpectedly closed
 [2026-10-24 16:52:42] Done.
+[2026-10-25 17:09:28] Checking for new AG press releases...
+[2026-10-25 17:09:28] Checking 50 state(s).
+[2026-10-25 17:09:28] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-25 17:09:28]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-25 17:09:31]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (241625 chars)
+[2026-10-25 17:09:31]   Playwright found 27 item(s) with configured selector
+[2026-10-25 17:09:31] [AL] Found 27 item(s) on page.
+[2026-10-25 17:09:31] [AL] No new items.
+[2026-10-25 17:09:31] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-25 17:09:32] [AK] Found 50 item(s) on page.
+[2026-10-25 17:09:32] [AK] No new items.
+[2026-10-25 17:09:32] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-25 17:09:32] [AZ] Found 10 item(s) on page.
+[2026-10-25 17:09:32] [AZ] No new items.
+[2026-10-25 17:09:32] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-25 17:09:33] [AR] Found 50 item(s) on page.
+[2026-10-25 17:09:33] [AR] No new items.
+[2026-10-25 17:09:33] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-25 17:09:33] [CA] Found 10 item(s) on page.
+[2026-10-25 17:09:33] [CA] No new items.
+[2026-10-25 17:09:33] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-25 17:09:33] [CO] Found 50 item(s) on page.
+[2026-10-25 17:09:33] [CO] No new items.
+[2026-10-25 17:09:33] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-25 17:09:34] [CT] Found 33 item(s) on page.
+[2026-10-25 17:09:34] [CT] No new items.
+[2026-10-25 17:09:34] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-25 17:09:35] [DE] Found 300 item(s) on page.
+[2026-10-25 17:09:35] [DE] No new items.
+[2026-10-25 17:09:35] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-25 17:09:35] [FL] Found 20 item(s) on page.
+[2026-10-25 17:09:35] [FL] No new items.
+[2026-10-25 17:09:35] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-25 17:09:35] [GA] Found 11 item(s) on page.
+[2026-10-25 17:09:35] [GA] No new items.
+[2026-10-25 17:09:35] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-25 17:09:35] [HI] Found 26 item(s) on page.
+[2026-10-25 17:09:35] [HI] No new items.
+[2026-10-25 17:09:35] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-25 17:09:35]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-25 17:09:39]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66117 chars)
+[2026-10-25 17:09:39]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-25 17:09:39] [ID] Found 28 item(s) on page.
+[2026-10-25 17:09:39] [ID] No new items.
+[2026-10-25 17:09:39] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-25 17:09:39] [IL] Found 50 item(s) on page.
+[2026-10-25 17:09:39] [IL] No new items.
+[2026-10-25 17:09:39] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-25 17:09:40] [IN] Found 34 item(s) on page.
+[2026-10-25 17:09:40] [IN] No new items.
+[2026-10-25 17:09:40] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-25 17:09:40] [IA] Found 10 item(s) on page.
+[2026-10-25 17:09:40] [IA] No new items.
+[2026-10-25 17:09:40] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-25 17:09:40]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-25 17:09:43]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-10-25 17:09:43]   Playwright: page loaded but no links matched — check selectors
+[2026-10-25 17:09:43]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-25 17:09:43]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-25 17:10:03]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-25 17:10:24]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-25 17:10:24] [KS] No items returned (fetch failed or empty page).
+[2026-10-25 17:10:24] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-25 17:10:27] [KY] Found 26 item(s) on page.
+[2026-10-25 17:10:27] [KY] No new items.
+[2026-10-25 17:10:27] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-25 17:10:27] [LA] Found 20 item(s) on page.
+[2026-10-25 17:10:27] [LA] No new items.
+[2026-10-25 17:10:27] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-25 17:10:28] [ME] Found 17 item(s) on page.
+[2026-10-25 17:10:28] [ME] No new items.
+[2026-10-25 17:10:28] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-25 17:10:28] [MD] Found 50 item(s) on page.
+[2026-10-25 17:10:28] [MD] No new items.
+[2026-10-25 17:10:28] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-25 17:10:28]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-25 17:10:31]   Playwright loaded page: 'News and Announcements | Mass.gov' (179715 chars)
+[2026-10-25 17:10:31]   Playwright found 15 item(s) with configured selector
+[2026-10-25 17:10:31] [MA] Found 15 item(s) on page.
+[2026-10-25 17:10:31] [MA] No new items.
+[2026-10-25 17:10:31] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-25 17:10:31]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-25 17:10:35]   Playwright loaded page: 'Attorney General: Press Releases' (376787 chars)
+[2026-10-25 17:10:36]   Playwright found 10 item(s) with configured selector
+[2026-10-25 17:10:36] [MI] Found 10 item(s) on page.
+[2026-10-25 17:10:36] [MI] No new items.
+[2026-10-25 17:10:36] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-25 17:10:36] [MN] Found 50 item(s) on page.
+[2026-10-25 17:10:36] [MN] No new items.
+[2026-10-25 17:10:36] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-25 17:10:36] [MS] Found 1 item(s) on page.
+[2026-10-25 17:10:36] [MS] No new items.
+[2026-10-25 17:10:36] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-25 17:10:36] [MO] Found 50 item(s) on page.
+[2026-10-25 17:10:36] [MO] No new items.
+[2026-10-25 17:10:36] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-25 17:10:36] [MT] Found 10 item(s) on page.
+[2026-10-25 17:10:36] [MT] No new items.
+[2026-10-25 17:10:36] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-25 17:10:36] [NE] Found 10 item(s) on page.
+[2026-10-25 17:10:36] [NE] No new items.
+[2026-10-25 17:10:36] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-25 17:10:37] [NV] Found 50 item(s) on page.
+[2026-10-25 17:10:37] [NV] No new items.
+[2026-10-25 17:10:37] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-25 17:10:37]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-25 17:10:40]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-25 17:10:40]   Playwright: page loaded but no links matched — check selectors
+[2026-10-25 17:10:40]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-10-25 17:10:40]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-25 17:11:00]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-25 17:11:21]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-25 17:11:21] [NH] No items returned (fetch failed or empty page).
+[2026-10-25 17:11:21] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-25 17:11:22] [NJ] Found 5 item(s) on page.
+[2026-10-25 17:11:22] [NJ] No new items.
+[2026-10-25 17:11:22] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-25 17:11:24] [NM] Found 14 item(s) on page.
+[2026-10-25 17:11:24] [NM] No new items.
+[2026-10-25 17:11:24] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-25 17:11:24] [NY] Found 25 item(s) on page.
+[2026-10-25 17:11:24] [NY] No new items.
+[2026-10-25 17:11:24] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-25 17:11:26]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-25 17:11:46]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-25 17:12:09]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-25 17:12:09] [NC] No items returned (fetch failed or empty page).
+[2026-10-25 17:12:09] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-25 17:12:09] [ND] Found 10 item(s) on page.
+[2026-10-25 17:12:09] [ND] No new items.
+[2026-10-25 17:12:09] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-25 17:12:09] [OH] Found 10 item(s) on page.
+[2026-10-25 17:12:09] [OH] No new items.
+[2026-10-25 17:12:09] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-25 17:12:09]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-25 17:12:12]   Playwright loaded page: 'News Releases' (849336 chars)
+[2026-10-25 17:12:13]   Playwright: page loaded but no links matched — check selectors
+[2026-10-25 17:12:13]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-10-25 17:12:13] [OK] No items returned (fetch failed or empty page).
+[2026-10-25 17:12:13] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-25 17:12:25] [OR] Found 10 item(s) on page.
+[2026-10-25 17:12:25] [OR] No new items.
+[2026-10-25 17:12:25] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-25 17:12:26] [PA] Found 12 item(s) on page.
+[2026-10-25 17:12:26] [PA] No new items.
+[2026-10-25 17:12:26] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-25 17:12:26] [RI] Found 10 item(s) on page.
+[2026-10-25 17:12:26] [RI] No new items.
+[2026-10-25 17:12:26] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-25 17:12:26]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-25 17:12:29]   Playwright loaded page: 'News - South Carolina Attorney General' (110885 chars)
+[2026-10-25 17:12:29]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-25 17:12:29] [SC] Found 9 item(s) on page.
+[2026-10-25 17:12:29] [SC] No new items.
+[2026-10-25 17:12:29] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-25 17:12:29]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-25 17:12:32]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-10-25 17:12:32]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-10-25 17:12:32] [SD] Found 1 item(s) on page.
+[2026-10-25 17:12:32] [SD] No new items.
+[2026-10-25 17:12:32] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-25 17:12:32]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-10-25 17:12:52] [TN] Found 50 item(s) on page.
+[2026-10-25 17:12:52] [TN] No new items.
+[2026-10-25 17:12:52] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-25 17:12:53] [TX] Found 50 item(s) on page.
+[2026-10-25 17:12:53] [TX] No new items.
+[2026-10-25 17:12:53] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-25 17:12:53]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-25 17:12:55]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298116 chars)
+[2026-10-25 17:12:56]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-25 17:12:56] [UT] Found 50 item(s) on page.
+[2026-10-25 17:12:56] [UT] No new items.
+[2026-10-25 17:12:56] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-25 17:12:56] [VT] Found 50 item(s) on page.
+[2026-10-25 17:12:56] [VT] No new items.
+[2026-10-25 17:12:56] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-25 17:12:57] [VA] Found 50 item(s) on page.
+[2026-10-25 17:12:57] [VA] No new items.
+[2026-10-25 17:12:57] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-25 17:12:58] [WA] Found 15 item(s) on page.
+[2026-10-25 17:12:58] [WA] No new items.
+[2026-10-25 17:12:58] [WV] Fetching https://ago.wv.gov/news
+[2026-10-25 17:12:58]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-25 17:13:00]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55507 chars)
+[2026-10-25 17:13:00]   Playwright found 30 item(s) with configured selector
+[2026-10-25 17:13:00] [WV] Found 30 item(s) on page.
+[2026-10-25 17:13:00] [WV] No new items.
+[2026-10-25 17:13:00] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-25 17:13:00]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-25 17:13:04]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1588246 chars)
+[2026-10-25 17:13:04]   Playwright found 50 item(s) with configured selector
+[2026-10-25 17:13:04] [WI] Found 50 item(s) on page.
+[2026-10-25 17:13:04] [WI] 1 new item(s):
+[2026-10-25 17:13:04]   NEW: Trump Administration Backs Down; Drops Appeal of Court Loss Blocking Its Illegal Weaponization of Public Service Loan Forgiveness Program |  | https://www.wisdoj.gov/PressReleases/press-release-pslf-appeal-dropped.pdf
+[2026-10-25 17:13:04] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-25 17:13:04] [WY] Found 2 item(s) on page.
+[2026-10-25 17:13:04] [WY] No new items.
+[2026-10-25 17:13:04] States with fetch errors: KS, NH, NC, OK
+[2026-10-25 17:13:04] Sending email: 1 new item(s) across 1 state(s).
+[2026-10-25 17:13:05] ERROR sending email: Connection unexpectedly closed
+[2026-10-25 17:13:05] Done.
