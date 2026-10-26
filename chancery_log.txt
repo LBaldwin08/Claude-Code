@@ -12418,3 +12418,22 @@ Call log:
 [2026-10-26 12:06:30] Found 27 opinions on page.
 [2026-10-26 12:06:30] No new opinions.
 [2026-10-26 12:06:30] Done.
+[2026-10-26 18:46:14] Checking for new DE court opinions...
+[2026-10-26 18:46:14] Using Playwright to fetch opinions page...
+[2026-10-26 18:46:26] Playwright found 27 opinion(s).
+[2026-10-26 18:46:26] Found 27 opinions on page.
+[2026-10-26 18:46:26] 6 new opinion(s)!
+[2026-10-26 18:46:26]   NEW: [10/26/2026] [Court of Chancery] In Re: Rancho Verde | C.A. No. 2026-0412-TJF | FoxM.
+[2026-10-26 18:46:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402600
+[2026-10-26 18:46:26]   NEW: [10/26/2026] [Superior Court] State v. Watson | 2107011685 | Green-StreettJ.
+[2026-10-26 18:46:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402590
+[2026-10-26 18:46:26]   NEW: [10/26/2026] [Supreme Court(Court of Chancery)] GI DI Rushmore Parent LP v. Donald E. Stoops, Jr. | 251, 2026 | TraynorJ.
+[2026-10-26 18:46:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402580
+[2026-10-26 18:46:26]   NEW: [10/26/2026] [Supreme Court(Superior Court)] Drayton v. State | 396, 2025 | GriffithsJ.
+[2026-10-26 18:46:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402550
+[2026-10-26 18:46:26]   NEW: [10/26/2026] [Supreme Court(Superior Court)] Fletcher v. State | 383, 2025 | GriffithsJ.
+[2026-10-26 18:46:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402560
+[2026-10-26 18:46:26]   NEW: [10/23/2026] [Supreme Court(Superior Court)] Neal v. State | 116, 2026 | LeGrowJ.
+[2026-10-26 18:46:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402490
+[2026-10-26 18:46:26] ERROR sending email: Connection unexpectedly closed
+[2026-10-26 18:46:26] Done.
