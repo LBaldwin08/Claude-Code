@@ -39942,3 +39942,278 @@ Call log:
 [2026-10-25 17:13:04] Sending email: 1 new item(s) across 1 state(s).
 [2026-10-25 17:13:05] ERROR sending email: Connection unexpectedly closed
 [2026-10-25 17:13:05] Done.
+[2026-10-26 19:28:25] Checking for new AG press releases...
+[2026-10-26 19:28:25] Checking 50 state(s).
+[2026-10-26 19:28:25] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-26 19:28:25]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-26 19:28:29]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (241625 chars)
+[2026-10-26 19:28:29]   Playwright found 27 item(s) with configured selector
+[2026-10-26 19:28:29] [AL] Found 27 item(s) on page.
+[2026-10-26 19:28:29] [AL] No new items.
+[2026-10-26 19:28:29] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-26 19:28:29] [AK] Found 50 item(s) on page.
+[2026-10-26 19:28:29] [AK] 4 new item(s):
+[2026-10-26 19:28:29]   NEW: Zarrius Hildabrand Sentenced to 59 years to Serve for the Domestic Violence Murder of his Wife, Saria Hildabrand |  | https://law.alaska.gov/releases/2026/102326-Hildabrand.html
+[2026-10-26 19:28:29]   NEW: Christopher Sture Convicted of Murder in the Second Degree for Abusive Head Trauma of a Two-Year-Old |  | https://law.alaska.gov/releases/2026/102326-Sture.html
+[2026-10-26 19:28:29]   NEW: Andrew West James Sentenced to Serve Fifty-Six Years for Sexual Abuse of Minors |  | https://law.alaska.gov/releases/2026/102326-James.html
+[2026-10-26 19:28:29]   NEW: Abbott Pays Over $384 Million to Settle False Claims Act Allegations Related to Powder Infant Formula and Nutritional Therapy Products |  | https://law.alaska.gov/releases/2026/102226-Abbott.html
+[2026-10-26 19:28:29] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-26 19:28:29] [AZ] Found 10 item(s) on page.
+[2026-10-26 19:28:29] [AZ] 1 new item(s):
+[2026-10-26 19:28:29]   NEW: Attorney General Mayes, FTC Sue Dollar General Corporation for Charging Consumers More than Advertised for Many Products |  | https://www.azag.gov/press-release/attorney-general-mayes-ftc-sue-dollar-general-corporation-charging-consumers-more
+[2026-10-26 19:28:29] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-26 19:28:30] [AR] Found 50 item(s) on page.
+[2026-10-26 19:28:30] [AR] 1 new item(s):
+[2026-10-26 19:28:30]   NEW: Monday, October 26, 2026Attorney General Griffin Launches One Pill Can Kill Initiative at the University of Arkansas for Medical SciencesRead More > |  | https://arkansasag.gov/news-release/attorney-general-griffin-launches-one-pill-can-kill-initiative-at-the-university-of-arkansas-for-medical-sciences/
+[2026-10-26 19:28:30] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-26 19:28:30] [CA] Found 10 item(s) on page.
+[2026-10-26 19:28:30] [CA] No new items.
+[2026-10-26 19:28:30] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-26 19:28:30] [CO] Found 50 item(s) on page.
+[2026-10-26 19:28:30] [CO] No new items.
+[2026-10-26 19:28:30] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-26 19:28:35] [CT] Found 33 item(s) on page.
+[2026-10-26 19:28:35] [CT] 1 new item(s):
+[2026-10-26 19:28:35]   NEW: Connecticut Joins FTC and States in Suing Dollar General for Charging Consumers More Than Advertised | 10/26/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/connecticut-joins-ftc-and-states-in-suing-dollar-general-for-charging-consumers-more-than-advertised
+[2026-10-26 19:28:35] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-26 19:28:36] [DE] Found 300 item(s) on page.
+[2026-10-26 19:28:36] [DE] No new items.
+[2026-10-26 19:28:36] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-26 19:28:36] [FL] Found 20 item(s) on page.
+[2026-10-26 19:28:36] [FL] No new items.
+[2026-10-26 19:28:36] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-26 19:28:36] [GA] Found 11 item(s) on page.
+[2026-10-26 19:28:36] [GA] No new items.
+[2026-10-26 19:28:36] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-26 19:28:37] [HI] Found 26 item(s) on page.
+[2026-10-26 19:28:37] [HI] No new items.
+[2026-10-26 19:28:37] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-26 19:28:37]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-26 19:28:40]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66209 chars)
+[2026-10-26 19:28:40]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-26 19:28:40] [ID] Found 28 item(s) on page.
+[2026-10-26 19:28:40] [ID] 1 new item(s):
+[2026-10-26 19:28:40]   NEW: Oct 262026AG Labrador Demands Data Protections for Idahoans in Chatbot Corporate Bankruptcy | Oct 262026 | https://www.ag.idaho.gov/newsroom/ag-labrador-demands-data-protections-for-idahoans-in-chatbot-corporate-bankruptcy/
+[2026-10-26 19:28:40] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-26 19:28:41] [IL] Found 50 item(s) on page.
+[2026-10-26 19:28:41] [IL] 1 new item(s):
+[2026-10-26 19:28:41]   NEW: October 26, 2026ATTORNEY GENERAL RAOUL FILES LAWSUIT AGAINST DOLLAR GENERAL FOR CHARGING CONSUMERS MORE THAN ADVERTISED PRICE FOR MANY PRODUCTS | 2026-10-26 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-lawsuit-against-dollar-general-for-charging-consumers-more-than-advertised-price-for-many-products
+[2026-10-26 19:28:41] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-26 19:28:41] [IN] Found 34 item(s) on page.
+[2026-10-26 19:28:41] [IN] No new items.
+[2026-10-26 19:28:41] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-26 19:28:41] [IA] Found 10 item(s) on page.
+[2026-10-26 19:28:41] [IA] 2 new item(s):
+[2026-10-26 19:28:41]   NEW: Attorney General Brenna Bird joins FTC and 19 States in Suing Dollar General for Charging More than Advertised Prices | October 26, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-joins-ftc-and-19-states-in-suing-dollar-general-for-charging-more-than/
+[2026-10-26 19:28:41]   NEW: Public Notice: Attorney General Brenna Bird Schedules Medicaid Fraud Elimination Task Force Meeting | October 26, 2026 | https://www.iowaattorneygeneral.gov/newsroom/public-notice-attorney-general-brenna-bird-schedules-medicaid-fraud-elimination-task-force-meeting/
+[2026-10-26 19:28:41] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-26 19:28:41]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-26 19:28:44]   Playwright loaded page: 'Access Denied' (337 chars)
+[2026-10-26 19:28:44]   Playwright: page loaded but no links matched — check selectors
+[2026-10-26 19:28:44]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-26 19:28:44]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-26 19:29:05]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-26 19:29:25]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-26 19:29:25] [KS] No items returned (fetch failed or empty page).
+[2026-10-26 19:29:25] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-26 19:29:27] [KY] Found 26 item(s) on page.
+[2026-10-26 19:29:27] [KY] No new items.
+[2026-10-26 19:29:27] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-26 19:29:27] [LA] Found 20 item(s) on page.
+[2026-10-26 19:29:27] [LA] No new items.
+[2026-10-26 19:29:27] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-26 19:29:27] [ME] Found 17 item(s) on page.
+[2026-10-26 19:29:27] [ME] No new items.
+[2026-10-26 19:29:27] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-26 19:29:28] [MD] Found 50 item(s) on page.
+[2026-10-26 19:29:28] [MD] No new items.
+[2026-10-26 19:29:28] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-26 19:29:28]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-26 19:29:31]   Playwright loaded page: 'News and Announcements | Mass.gov' (179719 chars)
+[2026-10-26 19:29:31]   Playwright found 15 item(s) with configured selector
+[2026-10-26 19:29:31] [MA] Found 15 item(s) on page.
+[2026-10-26 19:29:31] [MA] No new items.
+[2026-10-26 19:29:31] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-26 19:29:31]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-26 19:29:34]   Playwright loaded page: 'Attorney General: Press Releases' (343094 chars)
+[2026-10-26 19:29:34]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-26 19:29:34] [MI] Found 50 item(s) on page.
+[2026-10-26 19:29:34] [MI] 50 new item(s):
+[2026-10-26 19:29:34]   NEW: Michigan Department of Attorney General |  | https://www.michigan.gov/ag
+[2026-10-26 19:29:34]   NEW: Contact Directory |  | https://www.michigan.gov/ag/ag-contact-directory
+[2026-10-26 19:29:34]   NEW: Go to File a Complaint |  | https://www.michigan.gov/ag/complaints
+[2026-10-26 19:29:34]   NEW: Complaint Directory |  | https://www.michigan.gov/consumerprotection/complaints/complaint-directory-custom-search
+[2026-10-26 19:29:34]   NEW: Go to About |  | https://www.michigan.gov/ag/about
+[2026-10-26 19:29:34]   NEW: Attorney General Dana Nessel Bio |  | https://www.michigan.gov/ag/team-listing-page/attorney-general-dana-nessel
+[2026-10-26 19:29:34]   NEW: Bureaus & Divisions |  | https://www.michigan.gov/ag/about/bureaus-and-divisions
+[2026-10-26 19:29:34]   NEW: Contract Opportunities |  | https://www.michigan.gov/ag/about/contract-opportunities
+[2026-10-26 19:29:34]   NEW: Frequently Asked Questions |  | https://www.michigan.gov/ag/attorney-general-frequently-asked-questions
+[2026-10-26 19:29:34]   NEW: Lobbyable Public Officials |  | https://www.michigan.gov/ag/resources/lobbyable-public-officials
+[2026-10-26 19:29:34]   NEW: Org Chart |  | https://www.michigan.gov/ag/-/media/Project/Websites/AG/contact-directory/DAG-Org-Chart-Jul-6-2026.pdf?rev=46b8f69f8fd746f2994b6cd8e94ff277&hash=03BB04C40C7AA90751D0288AF4F788BC
+[2026-10-26 19:29:34]   NEW: Go to Careers |  | https://www.michigan.gov/ag/about/careers
+[2026-10-26 19:29:34]   NEW: New Hire Forms |  | https://www.michigan.gov/ag/about/careers/onboarding
+[2026-10-26 19:29:34]   NEW: Severance Pay Reports |  | https://www.michigan.gov/ag/resources/severance-pay-reports/severance-pay-report-fye-september-2025
+[2026-10-26 19:29:34]   NEW: Go to News & Outreach |  | https://www.michigan.gov/ag/news
+[2026-10-26 19:29:34]   NEW: Opinions |  | https://www.michigan.gov/ag/news/opinions
+[2026-10-26 19:29:34]   NEW: Opinions Policy |  | https://www.michigan.gov/ag/news/opinions-policy
+[2026-10-26 19:29:34]   NEW: Search Attorney General Opinions |  | https://www.michigan.gov/archivesofmichigan/collections/michigan-attorney-general
+[2026-10-26 19:29:34]   NEW: Federal Actions Tracker |  | https://www.michigan.gov/ag/news/federal-actions-tracker
+[2026-10-26 19:29:34]   NEW: Podcast: Pantsuits and Lawsuits |  | https://www.michigan.gov/ag/news/podcast-pantsuits-and-lawsuits
+[2026-10-26 19:29:34]   NEW: Go to Initiatives |  | https://www.michigan.gov/ag/initiatives
+[2026-10-26 19:29:34]   NEW: Address Confidentiality Program |  | https://www.michigan.gov/ag/initiatives/address-confidentiality-program
+[2026-10-26 19:29:34]   NEW: Catholic Church Clergy Abuse |  | https://www.michigan.gov/ag/initiatives/catholic-church-clergy-abuse
+[2026-10-26 19:29:34]   NEW: Child Support |  | https://www.michigan.gov/ag/initiatives/child-support
+[2026-10-26 19:29:34]   NEW: Hate Crimes and Domestic Terrorism Unit |  | https://www.michigan.gov/ag/initiatives/hate-crimes-domestic-terrorism-unit
+[2026-10-26 19:29:34]   NEW: Missing or Murdered Indigenous People |  | https://www.michigan.gov/ag/initiatives/mmip
+[2026-10-26 19:29:34]   NEW: MSU Investigation |  | https://www.michigan.gov/ag/initiatives/msu
+[2026-10-26 19:29:34]   NEW: Native Boarding School Investigation |  | https://www.michigan.gov/ag/initiatives/native-boarding-school-investigation
+[2026-10-26 19:29:34]   NEW: Organized Retail Crime |  | https://www.michigan.gov/ag/initiatives/organized-retail-crime
+[2026-10-26 19:29:34]   NEW: Payroll Fraud |  | https://www.michigan.gov/ag/initiatives/payroll-fraud
+[2026-10-26 19:29:34]   NEW: Restorative Practices |  | https://www.michigan.gov/ag/initiatives/restorative-practices
+[2026-10-26 19:29:34]   NEW: Sentinel Project |  | https://www.michigan.gov/ag/initiatives/sentinel-project
+[2026-10-26 19:29:34]   NEW: Utilities |  | https://www.michigan.gov/ag/initiatives/utilities
+[2026-10-26 19:29:34]   NEW: Go to Conviction Integrity Unit |  | https://www.michigan.gov/ag/initiatives/conviction-integrity
+[2026-10-26 19:29:34]   NEW: CIU Frequently Asked Questions |  | https://www.michigan.gov/ag/initiatives/conviction-integrity/ciu-faq-landing-page/faq-categories-folder/ciu-frequently-asked-questions
+[2026-10-26 19:29:34]   NEW: Go to Crime Victim Rights |  | https://www.michigan.gov/ag/initiatives/crime-victim-rights
+[2026-10-26 19:29:34]   NEW: Extreme Risk Protection Order (ERPO) |  | https://www.michigan.gov/ag/initiatives/crime-victim-rights/extreme-risk-protection-order
+[2026-10-26 19:29:34]   NEW: Felony Charges In District Court |  | https://www.michigan.gov/ag/initiatives/crime-victim-rights/felony
+[2026-10-26 19:29:34]   NEW: Misdemeanor Charges In District Court |  | https://www.michigan.gov/ag/initiatives/crime-victim-rights/misdemeanor
+[2026-10-26 19:29:34]   NEW: Go to Elder Abuse |  | https://www.michigan.gov/ag/initiatives/elder-abuse
+[2026-10-26 19:29:34]   NEW: Elder Abuse Task Force |  | https://www.michigan.gov/ag/initiatives/elder-abuse/elder-abuse-task-force
+[2026-10-26 19:29:34]   NEW: Elder Abuse Task Force Trainings |  | https://www.michigan.gov/ag/initiatives/elder-abuse/trainings
+[2026-10-26 19:29:34]   NEW: EATF Members |  | https://www.michigan.gov/ag/initiatives/elder-abuse/eatf-members
+[2026-10-26 19:29:34]   NEW: Go to Expungement Assistance |  | https://www.michigan.gov/ag/initiatives/expungement-assistance
+[2026-10-26 19:29:34]   NEW: Upcoming Expungement Fairs |  | https://www.michigan.gov/ag/initiatives/expungement-assistance/upcoming-expungement-fairs
+[2026-10-26 19:29:34]   NEW: Expungement Frequently Asked Questions |  | https://www.michigan.gov/ag/initiatives/expungement-assistance/questions
+[2026-10-26 19:29:34]   NEW: Expungement Glossary of Terms |  | https://www.michigan.gov/ag/initiatives/expungement-assistance/expungement-glossary-of-terms
+[2026-10-26 19:29:34]   NEW: Go to Human Trafficking |  | https://www.michigan.gov/ag/initiatives/human-trafficking
+[2026-10-26 19:29:34]   NEW: Identify Human Trafficking |  | https://www.michigan.gov/ag/initiatives/human-trafficking/warning-signs
+[2026-10-26 19:29:34]   NEW: Michigan Human Trafficking Laws |  | https://www.michigan.gov/ag/initiatives/human-trafficking/mi-human-trafficking-laws
+[2026-10-26 19:29:34] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-26 19:29:34] [MN] Found 50 item(s) on page.
+[2026-10-26 19:29:34] [MN] No new items.
+[2026-10-26 19:29:34] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-26 19:29:35] [MS] Found 1 item(s) on page.
+[2026-10-26 19:29:35] [MS] 1 new item(s):
+[2026-10-26 19:29:35]   NEW: AG Fitch Announces Sentencing in $538k Healthcare Fraud Scheme (October 26, 2026) |  | https://attorneygenerallynnfitch.com/2026/10/26/ag-fitch-announces-sentencing-in-538k-healthcare-fraud-scheme-october-26-2026/
+[2026-10-26 19:29:35] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-26 19:29:35] [MO] Found 50 item(s) on page.
+[2026-10-26 19:29:35] [MO] No new items.
+[2026-10-26 19:29:35] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-26 19:29:35] [MT] Found 10 item(s) on page.
+[2026-10-26 19:29:35] [MT] No new items.
+[2026-10-26 19:29:35] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-26 19:29:35] [NE] Found 10 item(s) on page.
+[2026-10-26 19:29:35] [NE] 1 new item(s):
+[2026-10-26 19:29:35]   NEW: Nebraska Joins FTC and 19 States in Suing Dollar General for Charging Consumers More than Advertised for Many Products | Mon, 26 Oct 2026 18:33:09 +0000 | https://ago.nebraska.gov/news/nebraska-joins-ftc-and-19-states-suing-dollar-general-charging-consumers-more-advertised-many
+[2026-10-26 19:29:35] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-26 19:29:36] [NV] Found 50 item(s) on page.
+[2026-10-26 19:29:36] [NV] No new items.
+[2026-10-26 19:29:36] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-26 19:29:36]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-26 19:29:39]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-26 19:29:39]   Playwright: page loaded but no links matched — check selectors
+[2026-10-26 19:29:39]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-10-26 19:29:39]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-26 19:29:59]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-26 19:30:19]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-26 19:30:19] [NH] No items returned (fetch failed or empty page).
+[2026-10-26 19:30:19] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-26 19:30:21] [NJ] Found 5 item(s) on page.
+[2026-10-26 19:30:21] [NJ] No new items.
+[2026-10-26 19:30:21] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-26 19:30:22] [NM] Found 14 item(s) on page.
+[2026-10-26 19:30:22] [NM] No new items.
+[2026-10-26 19:30:22] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-26 19:30:22] [NY] Found 25 item(s) on page.
+[2026-10-26 19:30:22] [NY] No new items.
+[2026-10-26 19:30:22] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-26 19:30:27]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-26 19:30:49]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-26 19:31:12]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-26 19:31:12] [NC] No items returned (fetch failed or empty page).
+[2026-10-26 19:31:12] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-26 19:31:13] [ND] Found 10 item(s) on page.
+[2026-10-26 19:31:13] [ND] No new items.
+[2026-10-26 19:31:13] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-26 19:31:13] [OH] Found 10 item(s) on page.
+[2026-10-26 19:31:13] [OH] 1 new item(s):
+[2026-10-26 19:31:13]   NEW: Ohio Joins FTC, 19 Other States in Suing Dollar General Over Ongoing Deceptive Pricing Practices | 10/26/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/October-2026/Ohio-Joins-FTC-19-Other-States-in-Suing-Dollar-Gen
+[2026-10-26 19:31:13] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-26 19:31:13]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-26 19:31:16]   Playwright loaded page: 'News Releases' (849336 chars)
+[2026-10-26 19:31:16]   Playwright: page loaded but no links matched — check selectors
+[2026-10-26 19:31:16]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-10-26 19:31:16] [OK] No items returned (fetch failed or empty page).
+[2026-10-26 19:31:16] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-26 19:31:28] [OR] Found 10 item(s) on page.
+[2026-10-26 19:31:28] [OR] No new items.
+[2026-10-26 19:31:28] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-26 19:31:29] [PA] Found 12 item(s) on page.
+[2026-10-26 19:31:29] [PA] 1 new item(s):
+[2026-10-26 19:31:29]   NEW: CrimeOCT 26, 2026AG Sunday’s Insurance Fraud Section Charges Father, Son in Lehigh Valley-Based ‘Chop Shop’ Scheme Involving Stolen VehiclesHARRISBURG — Attorney General Dave Sunday announced the takedown of a Lehigh County-based “chop shop” scheme, with charges against a father and son who engaged in illegal titling…Read more | 2026-10-26T09:49:19-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-insurance-fraud-section-charges-father-son-in-lehigh-valley-based-chop-shop-scheme-involving-stolen-vehicles/
+[2026-10-26 19:31:29] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-26 19:31:30] [RI] Found 10 item(s) on page.
+[2026-10-26 19:31:30] [RI] 5 new item(s):
+[2026-10-26 19:31:30]   NEW: Jury convicts Central Falls man for domestic sexual assault | Fri, 23 Oct 2026 17:00:52 +0000 | https://riag.ri.gov/press-releases/jury-convicts-central-falls-man-domestic-sexual-assault
+[2026-10-26 19:31:30]   NEW: Burrillville postal worker charged with stealing firearms, drug trafficking | Fri, 23 Oct 2026 13:09:26 +0000 | https://riag.ri.gov/press-releases/burrillville-postal-worker-charged-stealing-firearms-drug-trafficking
+[2026-10-26 19:31:30]   NEW: Attorney General Neronha sues Meta for fraudulent advertisements | Thu, 22 Oct 2026 15:47:46 +0000 | https://riag.ri.gov/press-releases/attorney-general-neronha-sues-meta-fraudulent-advertisements
+[2026-10-26 19:31:30]   NEW: Seven individuals charged with crimes related to Medicaid fraud of $2 million | Thu, 22 Oct 2026 15:30:29 +0000 | https://riag.ri.gov/press-releases/seven-individuals-charged-crimes-related-medicaid-fraud-2-million
+[2026-10-26 19:31:30]   NEW: Consumer Alert: Attorney General Neronha warns Rhode Islanders about “junk” health plans ahead of open enrollment | Tue, 20 Oct 2026 14:24:08 +0000 | https://riag.ri.gov/press-releases/consumer-alert-attorney-general-neronha-warns-rhode-islanders-about-junk-health-0
+[2026-10-26 19:31:30] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-26 19:31:30]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-26 19:31:33]   Playwright loaded page: 'News - South Carolina Attorney General' (110816 chars)
+[2026-10-26 19:31:33]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-26 19:31:33] [SC] Found 9 item(s) on page.
+[2026-10-26 19:31:33] [SC] 1 new item(s):
+[2026-10-26 19:31:33]   NEW: North Charleston man arrested on producing Child Sexual Abuse Material* chargesRead More | Oct 26, 2026 | https://www.scag.gov/about-the-office/news/north-charleston-man-arrested-on-producing-child-sexual-abuse-materialstar-charges/
+[2026-10-26 19:31:33] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-26 19:31:33]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-26 19:31:35]   Playwright loaded page: 'South Dakota Attorney General' (38218 chars)
+[2026-10-26 19:31:35]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-10-26 19:31:35] [SD] Found 1 item(s) on page.
+[2026-10-26 19:31:35] [SD] No new items.
+[2026-10-26 19:31:35] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-26 19:31:36]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-10-26 19:31:56] [TN] Found 50 item(s) on page.
+[2026-10-26 19:31:56] [TN] No new items.
+[2026-10-26 19:31:56] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-26 19:31:56] [TX] Found 50 item(s) on page.
+[2026-10-26 19:31:56] [TX] No new items.
+[2026-10-26 19:31:56] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-26 19:31:56]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-26 19:31:59]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298116 chars)
+[2026-10-26 19:31:59]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-26 19:31:59] [UT] Found 50 item(s) on page.
+[2026-10-26 19:31:59] [UT] No new items.
+[2026-10-26 19:31:59] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-26 19:31:59] [VT] Found 50 item(s) on page.
+[2026-10-26 19:31:59] [VT] 2 new item(s):
+[2026-10-26 19:31:59]   NEW: Attorney General Clark Joins Coalition Opposing DOJ’s Frivolous Challenge to California Elections | DateOctober 21, 2026 | https://ago.vermont.gov/blog/2026/10/21/attorney-general-clark-joins-coalition-opposing-dojs-frivolous-challenge-california-elections
+[2026-10-26 19:31:59]   NEW: Attorney General Clark Supports Litigation Challenging Unlawful Immigration Arrests | DateOctober 19, 2026 | https://ago.vermont.gov/blog/2026/10/19/attorney-general-clark-supports-litigation-challenging-unlawful-immigration-arrests
+[2026-10-26 19:31:59] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-26 19:32:00] [VA] Found 50 item(s) on page.
+[2026-10-26 19:32:00] [VA] No new items.
+[2026-10-26 19:32:00] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-26 19:32:00] [WA] Found 15 item(s) on page.
+[2026-10-26 19:32:00] [WA] No new items.
+[2026-10-26 19:32:00] [WV] Fetching https://ago.wv.gov/news
+[2026-10-26 19:32:00]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-26 19:32:03]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55507 chars)
+[2026-10-26 19:32:03]   Playwright found 30 item(s) with configured selector
+[2026-10-26 19:32:03] [WV] Found 30 item(s) on page.
+[2026-10-26 19:32:03] [WV] No new items.
+[2026-10-26 19:32:03] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-26 19:32:03]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-26 19:32:06]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1589371 chars)
+[2026-10-26 19:32:07]   Playwright found 50 item(s) with configured selector
+[2026-10-26 19:32:07] [WI] Found 50 item(s) on page.
+[2026-10-26 19:32:07] [WI] 1 new item(s):
+[2026-10-26 19:32:07]   NEW: Wisconsin Department of Justice Sues Dollar General for Alleged Deceptive Pricing Practices |  | https://www.wisdoj.gov/PressReleases/press-release-dollar-general.pdf
+[2026-10-26 19:32:07] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-26 19:32:07] [WY] Found 2 item(s) on page.
+[2026-10-26 19:32:07] [WY] No new items.
+[2026-10-26 19:32:07] States with fetch errors: KS, NH, NC, OK
+[2026-10-26 19:32:07] Sending email: 74 new item(s) across 16 state(s).
+[2026-10-26 19:32:07] ERROR sending email: Connection unexpectedly closed
+[2026-10-26 19:32:07] Done.
