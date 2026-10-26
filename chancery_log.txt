@@ -12400,3 +12400,9 @@ Call log:
 [2026-10-25 22:43:28] Found 27 opinions on page.
 [2026-10-25 22:43:28] No new opinions.
 [2026-10-25 22:43:28] Done.
+[2026-10-26 00:56:49] Checking for new DE court opinions...
+[2026-10-26 00:56:49] Using Playwright to fetch opinions page...
+[2026-10-26 00:57:00] Playwright found 27 opinion(s).
+[2026-10-26 00:57:00] Found 27 opinions on page.
+[2026-10-26 00:57:00] No new opinions.
+[2026-10-26 00:57:00] Done.
