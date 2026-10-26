@@ -12437,3 +12437,14 @@ Call log:
 [2026-10-26 18:46:26]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402490
 [2026-10-26 18:46:26] ERROR sending email: Connection unexpectedly closed
 [2026-10-26 18:46:26] Done.
+[2026-10-26 22:59:20] Checking for new DE court opinions...
+[2026-10-26 22:59:20] Using Playwright to fetch opinions page...
+[2026-10-26 22:59:32] Playwright found 27 opinion(s).
+[2026-10-26 22:59:32] Found 27 opinions on page.
+[2026-10-26 22:59:32] 2 new opinion(s)!
+[2026-10-26 22:59:32]   NEW: [10/23/2026] [Superior Court] State v. Mayfield | 1504011040A | ParkerC.
+[2026-10-26 22:59:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402630
+[2026-10-26 22:59:32]   NEW: [10/20/2026] [Justice Of The Peace Court] HOA ZHANG VS HUA SU | JP13-26-006394 | Three Judge PanelJ.
+[2026-10-26 22:59:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402610
+[2026-10-26 22:59:33] ERROR sending email: Connection unexpectedly closed
+[2026-10-26 22:59:33] Done.
