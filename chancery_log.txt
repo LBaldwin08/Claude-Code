@@ -12466,3 +12466,28 @@ Call log:
 [2026-10-27 13:27:42] Found 27 opinions on page.
 [2026-10-27 13:27:42] No new opinions.
 [2026-10-27 13:27:42] Done.
+[2026-10-27 22:49:24] Checking for new DE court opinions...
+[2026-10-27 22:49:24] Using Playwright to fetch opinions page...
+[2026-10-27 22:49:36] Playwright found 27 opinion(s).
+[2026-10-27 22:49:36] Found 27 opinions on page.
+[2026-10-27 22:49:36] 9 new opinion(s)!
+[2026-10-27 22:49:36]   NEW: [10/27/2026] [Court of Chancery] Minnie Sarwal v. Nephrosant, Inc. | C.A. No. 2026-0756-LM | MitchellM.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402680
+[2026-10-27 22:49:36]   NEW: [10/27/2026] [Court of Chancery] Wayne Barrow v. Faith Evans et al. | 2025-0760-KSJM | McCormick,C.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402690
+[2026-10-27 22:49:36]   NEW: [10/27/2026] [Superior Court] Davenport Investments, LLC v. Toro Real Estate Partners, LLC | N25C-01-330 MAA CCLD | AdamsJ.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402640
+[2026-10-27 22:49:36]   NEW: [10/27/2026] [Superior Court] Haupt v. State of Delaware | S26A-09-001 CAK | KarsnitzR.J.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402670
+[2026-10-27 22:49:36]   NEW: [10/27/2026] [Superior Court] Rickman v. Delaware Department of Justice | S26M-02-001 MHC | ConnerJ.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402660
+[2026-10-27 22:49:36]   NEW: [10/27/2026] [Superior Court] Vasconcelos, et al. v. Turner, et al. | N26C-07-031 SSA | AugusthyJ.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402700
+[2026-10-27 22:49:36]   NEW: [10/26/2026] [Superior Court] US WorldMeds Partners, LLC v. Supernus Pharms., Inc. | N25C-07-121 KMM CCLD | MillerJ.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402650
+[2026-10-27 22:49:36]   NEW: [10/26/2026] [Supreme Court(Court of Chancery)] Teresa D. Robinson v. Jone Posey, et al. | 61, 2026 | TraynorJ.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402570
+[2026-10-27 22:49:36]   NEW: [10/26/2026] [Supreme Court(Superior Court)] Phillips v. State | 307, 2026 | LeGrowJ.
+[2026-10-27 22:49:36]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402540
+[2026-10-27 22:49:36] ERROR sending email: Connection unexpectedly closed
+[2026-10-27 22:49:36] Done.
