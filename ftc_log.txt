@@ -1705,3 +1705,11 @@
 [2026-10-26 19:31:09] Attempt 2/3 failed: 404 Client Error: Not Found for url: https://www.ftc.gov/news-events/news/press-releases
 [2026-10-26 19:31:29] Attempt 3/3 failed: 404 Client Error: Not Found for url: https://www.ftc.gov/news-events/news/press-releases
 [2026-10-26 19:31:29] No items returned (fetch failed or empty page). Skipping.
+[2026-10-27 18:52:22] Checking for new FTC press releases...
+[2026-10-27 18:52:22] Using Playwright to fetch https://www.ftc.gov/news-events/news/press-releases
+[2026-10-27 18:52:35] Playwright found 0 press release link(s).
+[2026-10-27 18:52:35] Playwright failed or unavailable; trying plain HTTP as fallback.
+[2026-10-27 18:52:35] Attempt 1/3 failed: 404 Client Error: Not Found for url: https://www.ftc.gov/news-events/news/press-releases
+[2026-10-27 18:52:55] Attempt 2/3 failed: 404 Client Error: Not Found for url: https://www.ftc.gov/news-events/news/press-releases
+[2026-10-27 18:53:15] Attempt 3/3 failed: 404 Client Error: Not Found for url: https://www.ftc.gov/news-events/news/press-releases
+[2026-10-27 18:53:15] No items returned (fetch failed or empty page). Skipping.
