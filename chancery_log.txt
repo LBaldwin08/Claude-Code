@@ -12460,3 +12460,9 @@ Call log:
 [2026-10-27 07:12:07] Found 27 opinions on page.
 [2026-10-27 07:12:07] No new opinions.
 [2026-10-27 07:12:07] Done.
+[2026-10-27 13:27:31] Checking for new DE court opinions...
+[2026-10-27 13:27:31] Using Playwright to fetch opinions page...
+[2026-10-27 13:27:42] Playwright found 27 opinion(s).
+[2026-10-27 13:27:42] Found 27 opinions on page.
+[2026-10-27 13:27:42] No new opinions.
+[2026-10-27 13:27:42] Done.
