@@ -12514,3 +12514,18 @@ Call log:
 [2026-10-28 15:17:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402720
 [2026-10-28 15:17:10] ERROR sending email: Connection unexpectedly closed
 [2026-10-28 15:17:10] Done.
+[2026-10-28 20:25:54] Checking for new DE court opinions...
+[2026-10-28 20:25:54] Using Playwright to fetch opinions page...
+[2026-10-28 20:26:06] Playwright found 27 opinion(s).
+[2026-10-28 20:26:06] Found 27 opinions on page.
+[2026-10-28 20:26:06] 4 new opinion(s)!
+[2026-10-28 20:26:06]   NEW: [10/28/2026] [Court of Chancery] In re R1 RCM Inc. Merger Litigation | C.A. No. 2025-1067 | LasterV.C.
+[2026-10-28 20:26:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402730
+[2026-10-28 20:26:06]   NEW: [10/28/2026] [Superior Court] Fedelta Partners, LLC v. Aware360 Ltd., et al. | N25C-03-253 PAW CCLD | WinstonJ.
+[2026-10-28 20:26:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402750
+[2026-10-28 20:26:06]   NEW: [10/28/2026] [Superior Court] Invitae Corporation v. Natera, Inc. | N25C-10-310 PAW CCLD | WinstonJ.
+[2026-10-28 20:26:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402740
+[2026-10-28 20:26:06]   NEW: [10/28/2026] [Superior Court] State v. Robinson | 2204009131 | Green-StreettJ.
+[2026-10-28 20:26:06]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402760
+[2026-10-28 20:26:07] ERROR sending email: Connection unexpectedly closed
+[2026-10-28 20:26:07] Done.
