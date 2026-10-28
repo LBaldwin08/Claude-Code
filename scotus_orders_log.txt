@@ -1368,3 +1368,13 @@
 [2026-10-27 19:10:28] Found 10 order(s) on page.
 [2026-10-27 19:10:28] No new orders.
 [2026-10-27 19:10:28] Done.
+[2026-10-28 19:15:49] Checking for new Supreme Court orders...
+[2026-10-28 19:15:49] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-10-28 19:15:52] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/26
+[2026-10-28 19:15:54] Playwright found 11 order(s).
+[2026-10-28 19:15:54] Found 11 order(s) on page.
+[2026-10-28 19:15:54] 1 new order(s)!
+[2026-10-28 19:15:54]   NEW: [2026-10-27] Miscellaneous Order
+[2026-10-28 19:15:54]        https://www.supremecourt.gov/orders/courtorders/102726zr_o759.pdf
+[2026-10-28 19:15:55] ERROR sending email: Connection unexpectedly closed
+[2026-10-28 19:15:55] Done.
