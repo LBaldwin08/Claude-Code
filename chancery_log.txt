@@ -12567,3 +12567,12 @@ Call log:
 [2026-10-29 19:07:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402780
 [2026-10-29 19:07:29] ERROR sending email: Connection unexpectedly closed
 [2026-10-29 19:07:29] Done.
+[2026-10-29 23:28:21] Checking for new DE court opinions...
+[2026-10-29 23:28:21] Using Playwright to fetch opinions page...
+[2026-10-29 23:28:32] Playwright found 27 opinion(s).
+[2026-10-29 23:28:32] Found 27 opinions on page.
+[2026-10-29 23:28:32] 1 new opinion(s)!
+[2026-10-29 23:28:32]   NEW: [10/28/2026] [Justice Of The Peace Court] SEVERN MANAGEMENT VS SHAWNTASIA TRIPP | JP17-26-002992 | Three Judge PanelJ.
+[2026-10-29 23:28:32]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402830
+[2026-10-29 23:28:33] ERROR sending email: Connection unexpectedly closed
+[2026-10-29 23:28:33] Done.
