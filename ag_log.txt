@@ -40684,3 +40684,259 @@ Call log:
 [2026-10-28 19:02:49] Sending email: 28 new item(s) across 20 state(s).
 [2026-10-28 19:02:49] ERROR sending email: Connection unexpectedly closed
 [2026-10-28 19:02:49] Done.
+[2026-10-29 19:05:01] Checking for new AG press releases...
+[2026-10-29 19:05:01] Checking 50 state(s).
+[2026-10-29 19:05:01] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-29 19:05:01]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-29 19:05:04]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (243218 chars)
+[2026-10-29 19:05:05]   Playwright found 27 item(s) with configured selector
+[2026-10-29 19:05:05] [AL] Found 27 item(s) on page.
+[2026-10-29 19:05:05] [AL] No new items.
+[2026-10-29 19:05:05] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-29 19:05:05] [AK] Found 50 item(s) on page.
+[2026-10-29 19:05:05] [AK] No new items.
+[2026-10-29 19:05:05] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-29 19:05:05] [AZ] Found 10 item(s) on page.
+[2026-10-29 19:05:05] [AZ] No new items.
+[2026-10-29 19:05:05] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-29 19:05:06] [AR] Found 50 item(s) on page.
+[2026-10-29 19:05:06] [AR] No new items.
+[2026-10-29 19:05:06] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-29 19:05:07] [CA] Found 10 item(s) on page.
+[2026-10-29 19:05:07] [CA] 5 new item(s):
+[2026-10-29 19:05:07]   NEW: Attorney General Bonta Supports State Laws Ensuring Minors Receive Protection and Medical Care | Thu, 29 Oct 2026 18:26:11 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-supports-state-laws-ensuring-minors-receive-protection
+[2026-10-29 19:05:07]   NEW: Attorney General Bonta Secures Major Victory Blocking Implementation of Unlawful Medicaid Work Requirements for Medically Frail Individuals | Thu, 29 Oct 2026 17:57:12 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-major-victory-blocking-implementation-unlawful
+[2026-10-29 19:05:07]   NEW: Attorney General Bonta Secures District Court Victory Denying Trump Administration’s TRO, Building on Earlier Appellate Win to Protect California Elections | Thu, 29 Oct 2026 01:15:41 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-district-court-victory-denying-trump
+[2026-10-29 19:05:07]   NEW: Attorney General Bonta: States Must Have the Ability to Protect Residents from Assault Rifles Commonly Used in Mass Shootings | Wed, 28 Oct 2026 19:50:22 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-states-must-have-ability-protect-residents-assault-rifles
+[2026-10-29 19:05:07]   NEW: Attorney General Bonta Issues Statement on the Passing of Dolores Huerta | Wed, 28 Oct 2026 20:06:36 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-issues-statement-passing-dolores-huerta
+[2026-10-29 19:05:07] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-29 19:05:07] [CO] Found 50 item(s) on page.
+[2026-10-29 19:05:07] [CO] No new items.
+[2026-10-29 19:05:07] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-29 19:05:08] [CT] Found 33 item(s) on page.
+[2026-10-29 19:05:08] [CT] 1 new item(s):
+[2026-10-29 19:05:08]   NEW: Attorney General Tong Announces GM to Pay $220m For Selling Drivers' Private Data | 10/29/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-announces-settlement-with-gm
+[2026-10-29 19:05:08] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-29 19:05:09] [DE] Found 300 item(s) on page.
+[2026-10-29 19:05:09] [DE] 1 new item(s):
+[2026-10-29 19:05:09]   NEW: AG Jennings announces $220 million settlement with General Motors for selling sensitive driver data | Thu, 29 Oct 2026 10:56:02 +0000 | https://news.delaware.gov/2026/10/29/ag-jennings-announces-220-million-settlement-with-general-motors-for-selling-sensitive-driver-data/
+[2026-10-29 19:05:09] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-29 19:05:09] [FL] Found 20 item(s) on page.
+[2026-10-29 19:05:09] [FL] No new items.
+[2026-10-29 19:05:09] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-29 19:05:09] [GA] Found 11 item(s) on page.
+[2026-10-29 19:05:09] [GA] No new items.
+[2026-10-29 19:05:09] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-29 19:05:09] [HI] Found 26 item(s) on page.
+[2026-10-29 19:05:09] [HI] No new items.
+[2026-10-29 19:05:09] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-29 19:05:09]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-29 19:05:13]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65691 chars)
+[2026-10-29 19:05:13]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-29 19:05:13] [ID] Found 28 item(s) on page.
+[2026-10-29 19:05:13] [ID] No new items.
+[2026-10-29 19:05:13] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-29 19:05:14] [IL] Found 50 item(s) on page.
+[2026-10-29 19:05:14] [IL] 5 new item(s):
+[2026-10-29 19:05:14]   NEW: October 29, 2026ATTORNEY GENERAL RAOUL FILES LAWSUIT AGAINST TOAST INC. OVER HIDDEN AND UNAUTHORIZED FEES, DECEPTIVE SUBSCRIPTION PRACTICES AND OTHER UNLAWFUL CONDUCT | 2026-10-29 1:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-files-lawsuit-against-toast-inc-over-hidden-and-unauthorized-fees-deceptive-subscription-practices-and-other-unlawful-conduct
+[2026-10-29 19:05:14]   NEW: October 29, 2026ATTORNEY GENERAL RAOUL ANNOUNCES $220 MILLION GENERAL MOTORS SETTLEMENT FOR SHARING DRIVERS’ PRIVATE DATA | 2026-10-29 1:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-220-million-general-motors-settlement-for-sharing-drivers-private-data
+[2026-10-29 19:05:14]   NEW: October 28, 2026ATTORNEY GENERAL RAOUL SUPPORTS CONSTITUTIONALITY OF ASSAULT WEAPONS RESTRICTIONS BEFORE U.S. SUPREME COURT | 2026-10-29 1:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-supports-constitutionality-of-assault-weapons-restrictions-before-us-supreme-court
+[2026-10-29 19:05:14]   NEW: October 28, 2026ATTORNEY GENERAL RAOUL CHARGES COOK COUNTY MAN WITH THEFT AND FRAUD OVER SWEEPSTAKES SCAM TARGETING SENIORS | 2026-10-29 1:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-cook-county-man-with-theft-and-fraud-over-sweepstakes-scam-targeting-seniors
+[2026-10-29 19:05:14]   NEW: October 28, 2026ATTORNEY GENERAL RAOUL ANNOUNCES COOK COUNTY MAN PLEADS GUILTY TO MEDICAID FRAUD; ORDERED TO PAY $9,000 IN RESTITUTION | 2026-10-29 1:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-cook-county-man-pleads-guilty-to-medicaid-fraud-ordered-to-pay-9-000-in-restitution
+[2026-10-29 19:05:14] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-29 19:05:14] [IN] Found 34 item(s) on page.
+[2026-10-29 19:05:14] [IN] No new items.
+[2026-10-29 19:05:14] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-29 19:05:16] [IA] Found 10 item(s) on page.
+[2026-10-29 19:05:16] [IA] 2 new item(s):
+[2026-10-29 19:05:16]   NEW: Attorney General Bird Sues Toast for Deceptive and Fraudulent Practices that Hurt Iowa Small Businesses | October 29, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-bird-sues-toast-for-deceptive-and-fraudulent-practices-that-hurt-iowa-small-busines/
+[2026-10-29 19:05:16]   NEW: Attorney General Brenna Bird Praises Second Arrest in Black Hawk County Cold Case | October 29, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-praises-second-arrest-in-black-hawk-county-cold-case/
+[2026-10-29 19:05:16] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-29 19:05:16]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-29 19:05:18]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-10-29 19:05:18]   Playwright: page loaded but no links matched — check selectors
+[2026-10-29 19:05:18]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-29 19:05:19]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-29 19:05:39]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-29 19:06:00]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-29 19:06:00] [KS] No items returned (fetch failed or empty page).
+[2026-10-29 19:06:00] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-29 19:06:01] [KY] Found 27 item(s) on page.
+[2026-10-29 19:06:01] [KY] No new items.
+[2026-10-29 19:06:01] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-29 19:06:16]   Attempt 1/3 failed for https://ag.louisiana.gov/News: HTTPSConnectionPool(host='ag.louisiana.gov', port=443): Max retries exceeded with url: /News (Caused by ConnectTimeoutError(<HTTPSConnection(host='ag.louisiana.gov', port=443) at 0x704613731850>, 'Connection to ag.louisiana.gov timed out. (connect timeout=15)'))
+[2026-10-29 19:06:51]   Attempt 2/3 failed for https://ag.louisiana.gov/News: HTTPSConnectionPool(host='ag.louisiana.gov', port=443): Max retries exceeded with url: /News (Caused by ConnectTimeoutError(<HTTPSConnection(host='ag.louisiana.gov', port=443) at 0x7046137015e0>, 'Connection to ag.louisiana.gov timed out. (connect timeout=15)'))
+[2026-10-29 19:07:27]   Attempt 3/3 failed for https://ag.louisiana.gov/News: HTTPSConnectionPool(host='ag.louisiana.gov', port=443): Max retries exceeded with url: /News (Caused by ConnectTimeoutError(<HTTPSConnection(host='ag.louisiana.gov', port=443) at 0x704613700b30>, 'Connection to ag.louisiana.gov timed out. (connect timeout=15)'))
+[2026-10-29 19:07:27] [LA] No items returned (fetch failed or empty page).
+[2026-10-29 19:07:27] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-29 19:07:27] [ME] Found 18 item(s) on page.
+[2026-10-29 19:07:27] [ME] 1 new item(s):
+[2026-10-29 19:07:27]   NEW: Attorney General Aaron M. Frey, Coalition Sue Trump Administration for Enabling Fraud and Corruption | 10/29/2026 | https://www.maine.gov/ag/news-and-library/press-releases/attorney-general-aaron-m-frey-coalition-sue-trump-administration
+[2026-10-29 19:07:27] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-29 19:07:27] [MD] Found 50 item(s) on page.
+[2026-10-29 19:07:27] [MD] No new items.
+[2026-10-29 19:07:27] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-29 19:07:27]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-29 19:07:31]   Playwright loaded page: 'News and Announcements | Mass.gov' (179409 chars)
+[2026-10-29 19:07:31]   Playwright found 15 item(s) with configured selector
+[2026-10-29 19:07:31] [MA] Found 15 item(s) on page.
+[2026-10-29 19:07:31] [MA] 1 new item(s):
+[2026-10-29 19:07:31]   NEW: AG Campbell Secures $5.7 Million For Massachusetts In Settlement With General Motors Over Alleged Data Privacy Violations | 10/29/2026 | https://www.mass.gov/news/ag-campbell-secures-57-million-for-massachusetts-in-settlement-with-general-motors-over-alleged-data-privacy-violations
+[2026-10-29 19:07:31] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-29 19:07:31]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-29 19:07:33]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-29 19:07:33]   Playwright: page loaded but no links matched — check selectors
+[2026-10-29 19:07:33]   [MI] Playwright fetch failed, falling back to regular scrape
+[2026-10-29 19:07:33]   Attempt 1/3 failed for https://www.michigan.gov/ag/news/press-releases: 403 Client Error: Forbidden for url: https://www.michigan.gov/ag/news/press-releases
+[2026-10-29 19:07:54]   Attempt 2/3 failed for https://www.michigan.gov/ag/news/press-releases: 403 Client Error: Forbidden for url: https://www.michigan.gov/ag/news/press-releases
+[2026-10-29 19:08:14]   Attempt 3/3 failed for https://www.michigan.gov/ag/news/press-releases: 403 Client Error: Forbidden for url: https://www.michigan.gov/ag/news/press-releases
+[2026-10-29 19:08:14] [MI] No items returned (fetch failed or empty page).
+[2026-10-29 19:08:14] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-29 19:08:29]   Attempt 1/3 failed for https://www.ag.state.mn.us/Office/Communications.asp: HTTPSConnectionPool(host='www.ag.state.mn.us', port=443): Max retries exceeded with url: /Office/Communications.asp (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ag.state.mn.us', port=443) at 0x70461308b140>, 'Connection to www.ag.state.mn.us timed out. (connect timeout=15)'))
+[2026-10-29 19:09:04]   Attempt 2/3 failed for https://www.ag.state.mn.us/Office/Communications.asp: HTTPSConnectionPool(host='www.ag.state.mn.us', port=443): Max retries exceeded with url: /Office/Communications.asp (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ag.state.mn.us', port=443) at 0x7046157a01a0>, 'Connection to www.ag.state.mn.us timed out. (connect timeout=15)'))
+[2026-10-29 19:09:39]   Attempt 3/3 failed for https://www.ag.state.mn.us/Office/Communications.asp: HTTPSConnectionPool(host='www.ag.state.mn.us', port=443): Max retries exceeded with url: /Office/Communications.asp (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ag.state.mn.us', port=443) at 0x7046157a29c0>, 'Connection to www.ag.state.mn.us timed out. (connect timeout=15)'))
+[2026-10-29 19:09:39] [MN] No items returned (fetch failed or empty page).
+[2026-10-29 19:09:39] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-29 19:09:39] [MS] Found 1 item(s) on page.
+[2026-10-29 19:09:39] [MS] 1 new item(s):
+[2026-10-29 19:09:39]   NEW: AG Fitch Announces $220 Million Settlement with GM (October 29, 2026) |  | https://attorneygenerallynnfitch.com/2026/10/29/ag-fitch-announces-220-million-settlement-with-gm-october-29-2026/
+[2026-10-29 19:09:39] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-29 19:09:41] [MO] Found 50 item(s) on page.
+[2026-10-29 19:09:41] [MO] 1 new item(s):
+[2026-10-29 19:09:41]   NEW: Attorney General Hanaway Secures $6.9 Million in Forgiveness for Thousands of Missourians Misled by Snap Finance |  | https://ago.mo.gov/attorney-general-hanaway-secures-6-9-million-in-forgiveness-for-thousands-of-missourians-misled-by-snap-finance/
+[2026-10-29 19:09:41] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-29 19:09:42] [MT] Found 10 item(s) on page.
+[2026-10-29 19:09:42] [MT] 1 new item(s):
+[2026-10-29 19:09:42]   NEW: Billings woman sentenced to Montana Women’s Prison for Medicaid Fraud |  | https://dojmt.gov/billings-woman-sentenced-to-montana-womens-prison-for-medicaid-fraud/
+[2026-10-29 19:09:42] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-29 19:09:42] [NE] Found 10 item(s) on page.
+[2026-10-29 19:09:42] [NE] 1 new item(s):
+[2026-10-29 19:09:42]   NEW: Nebraska, FTC, and Partnering States Sue Toast Inc. over Hidden and Unauthorized Fees and Other Unlawful Conduct | Thu, 29 Oct 2026 17:01:04 +0000 | https://ago.nebraska.gov/news/nebraska-ftc-and-partnering-states-sue-toast-inc-over-hidden-and-unauthorized-fees-and-other
+[2026-10-29 19:09:42] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-29 19:09:43] [NV] Found 50 item(s) on page.
+[2026-10-29 19:09:43] [NV] No new items.
+[2026-10-29 19:09:43] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-29 19:09:43]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-29 19:09:46]   Playwright loaded page: 'Press Releases | New Hampshire Department of Justice' (91912 chars)
+[2026-10-29 19:09:46]   Playwright found 10 item(s) with configured selector
+[2026-10-29 19:09:46] [NH] Found 10 item(s) on page.
+[2026-10-29 19:09:46] [NH] 3 new item(s):
+[2026-10-29 19:09:46]   NEW: Autopsy Results from Suspicious Deaths on October 27, 2026, in Manchester, New Hampshire |  | https://www.doj.nh.gov/news-and-media/autopsy-results-suspicious-deaths-october-27-2026-manchester-new-hampshire
+[2026-10-29 19:09:46]   NEW: Statement on Appeal of Win Win Win, LLC: Supreme Court Upholds State’s Decision to Revoke Casino Licenses |  | https://www.doj.nh.gov/news-and-media/statement-appeal-win-win-win-llc-supreme-court-upholds-states-decision-revoke-casino
+[2026-10-29 19:09:46]   NEW: Update on Investigation into Suspicious Deaths in Manchester, New Hampshire |  | https://www.doj.nh.gov/news-and-media/update-investigation-suspicious-deaths-manchester-new-hampshire
+[2026-10-29 19:09:46] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-29 19:09:48] [NJ] Found 5 item(s) on page.
+[2026-10-29 19:09:48] [NJ] 4 new item(s):
+[2026-10-29 19:09:48]   NEW: New Jersey to Receive $8.9 Million from Multistate Settlement Resolving Allegations that General Motors Illegally Sold Consumers’ Private Data |  | https://www.njoag.gov/new-jersey-to-receive-8-9-million-from-multistate-settlement-resolving-allegations-that-general-motors-illegally-sold-consumers-private-data/
+[2026-10-29 19:09:48]   NEW: Two Men and Pool Maintenance Company Charged with Risking Widespread Injury and Damage |  | https://www.njoag.gov/two-men-and-pool-maintenance-company-charged-with-risking-widespread-injury-and-damage/
+[2026-10-29 19:09:48]   NEW: AG’s Office Investigating Fatal Police-Involved Shooting in Moonachie, N.J. |  | https://www.njoag.gov/ags-office-investigating-fatal-police-involved-shooting-in-moonachie-n-j/
+[2026-10-29 19:09:48]   NEW: AG Davenport Co-Leads States in Defense of Assault Weapons Restrictions Before the U.S. Supreme Court |  | https://www.njoag.gov/ag-davenport-co-leads-states-in-defense-of-assault-weapons-restrictions-before-the-u-s-supreme-court/
+[2026-10-29 19:09:48] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-29 19:09:49] [NM] Found 14 item(s) on page.
+[2026-10-29 19:09:49] [NM] 2 new item(s):
+[2026-10-29 19:09:49]   NEW: MEDIA ALERT: Attorney General Raúl Torrez Alerts New Mexicans to Lookout for Flood Price Gouging and Fraud |  | https://nmdoj.gov/press-release/media-alert-attorney-general-raul-torrez-alerts-new-mexicans-to-lookout-for-flood-price-gouging-and-fraud/
+[2026-10-29 19:09:49]   NEW: MEDIA ALERT: New Mexico Department of Justice Announces Maximum Sentence for Defendant in Undercover “Game Over” Operation |  | https://nmdoj.gov/press-release/media-alert-new-mexico-department-of-justice-announces-maximum-sentence-for-defendant-in-undercover-game-over-operation/
+[2026-10-29 19:09:49] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-29 19:09:49] [NY] Found 25 item(s) on page.
+[2026-10-29 19:09:49] [NY] 1 new item(s):
+[2026-10-29 19:09:49]   NEW: Attorney General James Shares Tips to Help Protect New Yorkers from E-Bike Battery Fires |  | https://ag.ny.gov/press-release/2026/attorney-general-james-shares-tips-help-protect-new-yorkers-e-bike-battery-fires
+[2026-10-29 19:09:49] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-29 19:09:52]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-29 19:10:12]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-29 19:10:34]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-29 19:10:34] [NC] No items returned (fetch failed or empty page).
+[2026-10-29 19:10:34] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-29 19:10:34] [ND] Found 10 item(s) on page.
+[2026-10-29 19:10:34] [ND] No new items.
+[2026-10-29 19:10:34] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-29 19:10:49]   Attempt 1/3 failed for https://www.ohioattorneygeneral.gov/Media/News-Releases: HTTPSConnectionPool(host='www.ohioattorneygeneral.gov', port=443): Max retries exceeded with url: /Media/News-Releases (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ohioattorneygeneral.gov', port=443) at 0x704613578200>, 'Connection to www.ohioattorneygeneral.gov timed out. (connect timeout=15)'))
+[2026-10-29 19:11:24]   Attempt 2/3 failed for https://www.ohioattorneygeneral.gov/Media/News-Releases: HTTPSConnectionPool(host='www.ohioattorneygeneral.gov', port=443): Max retries exceeded with url: /Media/News-Releases (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ohioattorneygeneral.gov', port=443) at 0x704615726fc0>, 'Connection to www.ohioattorneygeneral.gov timed out. (connect timeout=15)'))
+[2026-10-29 19:11:59]   Attempt 3/3 failed for https://www.ohioattorneygeneral.gov/Media/News-Releases: HTTPSConnectionPool(host='www.ohioattorneygeneral.gov', port=443): Max retries exceeded with url: /Media/News-Releases (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.ohioattorneygeneral.gov', port=443) at 0x704614c3fb60>, 'Connection to www.ohioattorneygeneral.gov timed out. (connect timeout=15)'))
+[2026-10-29 19:11:59] [OH] No items returned (fetch failed or empty page).
+[2026-10-29 19:11:59] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-29 19:11:59]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-29 19:12:03]   Playwright loaded page: 'News Releases' (849284 chars)
+[2026-10-29 19:12:03]   Playwright: page loaded but no links matched — check selectors
+[2026-10-29 19:12:03]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-10-29 19:12:03] [OK] No items returned (fetch failed or empty page).
+[2026-10-29 19:12:03] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-29 19:12:04] [OR] Found 10 item(s) on page.
+[2026-10-29 19:12:04] [OR] 1 new item(s):
+[2026-10-29 19:12:04]   NEW: Attorney General Rayfield Leads States in $220M Settlement With GM Over Sale of Drivers’ Private Data |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-leads-states-in-220m-settlement-w-gm-over-drivers-private-data/
+[2026-10-29 19:12:04] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-29 19:12:04]   Attempt 1/3 failed for https://www.attorneygeneral.gov/taking-action/: 403 Client Error: Forbidden for url: https://www.attorneygeneral.gov/blocked/
+[2026-10-29 19:12:24]   Attempt 2/3 failed for https://www.attorneygeneral.gov/taking-action/: 403 Client Error: Forbidden for url: https://www.attorneygeneral.gov/blocked/
+[2026-10-29 19:12:44]   Attempt 3/3 failed for https://www.attorneygeneral.gov/taking-action/: 403 Client Error: Forbidden for url: https://www.attorneygeneral.gov/blocked/
+[2026-10-29 19:12:44] [PA] No items returned (fetch failed or empty page).
+[2026-10-29 19:12:44] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-29 19:12:44]   Attempt 1/3 failed for https://riag.ri.gov/press-releases.xml: 403 Client Error: Forbidden for url: https://riag.ri.gov/press-releases.xml
+[2026-10-29 19:13:04]   Attempt 2/3 failed for https://riag.ri.gov/press-releases.xml: 403 Client Error: Forbidden for url: https://riag.ri.gov/press-releases.xml
+[2026-10-29 19:13:25]   Attempt 3/3 failed for https://riag.ri.gov/press-releases.xml: 403 Client Error: Forbidden for url: https://riag.ri.gov/press-releases.xml
+[2026-10-29 19:13:25]   [RI] RSS fetch failed, falling back to HTML scrape
+[2026-10-29 19:13:25]   Attempt 1/3 failed for https://riag.ri.gov/press-releases: 403 Client Error: Forbidden for url: https://riag.ri.gov/press-releases
+[2026-10-29 19:13:45]   Attempt 2/3 failed for https://riag.ri.gov/press-releases: 403 Client Error: Forbidden for url: https://riag.ri.gov/press-releases
+[2026-10-29 19:14:05]   Attempt 3/3 failed for https://riag.ri.gov/press-releases: 403 Client Error: Forbidden for url: https://riag.ri.gov/press-releases
+[2026-10-29 19:14:05] [RI] No items returned (fetch failed or empty page).
+[2026-10-29 19:14:05] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-29 19:14:05]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-29 19:14:08]   Playwright loaded page: 'News - South Carolina Attorney General' (110816 chars)
+[2026-10-29 19:14:08]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-29 19:14:08] [SC] Found 9 item(s) on page.
+[2026-10-29 19:14:08] [SC] No new items.
+[2026-10-29 19:14:08] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-29 19:14:08]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-29 19:14:38]   Playwright error for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10", waiting until "domcontentloaded"
+
+[2026-10-29 19:14:38]   [SD] Playwright fetch failed, falling back to regular scrape
+[2026-10-29 19:15:39]   Attempt 1/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-10-29 19:16:59]   Attempt 2/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-10-29 19:18:19]   Attempt 3/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-10-29 19:18:19] [SD] No items returned (fetch failed or empty page).
+[2026-10-29 19:18:19] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-29 19:18:19]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-10-29 19:18:39] [TN] Found 50 item(s) on page.
+[2026-10-29 19:18:39] [TN] No new items.
+[2026-10-29 19:18:39] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-29 19:18:40] [TX] Found 50 item(s) on page.
+[2026-10-29 19:18:40] [TX] 1 new item(s):
+[2026-10-29 19:18:40]   NEW: The Office of the Attor­ney Gen­er­al Sues Har­ris Coun­ty Clerk for Run­ning Racial­ly Dis­crim­i­na­to­ry Vot­er Sup­pres­sion Scheme That Could Harm the Integri­ty of Texas Elections |  | https://www.texasattorneygeneral.gov/news/releases/office-attorney-general-sues-harris-county-clerk-running-racially-discriminatory-voter-suppression
+[2026-10-29 19:18:40] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-29 19:18:40]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-29 19:18:43]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298164 chars)
+[2026-10-29 19:18:43]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-29 19:18:43] [UT] Found 50 item(s) on page.
+[2026-10-29 19:18:43] [UT] No new items.
+[2026-10-29 19:18:43] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-29 19:18:43] [VT] Found 50 item(s) on page.
+[2026-10-29 19:18:43] [VT] 1 new item(s):
+[2026-10-29 19:18:43]   NEW: New Hampshire Resident Sentenced for Medicaid Fraud | DateOctober 27, 2026 | https://ago.vermont.gov/blog/2026/10/27/new-hampshire-resident-sentenced-medicaid-fraud
+[2026-10-29 19:18:43] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-29 19:18:44] [VA] Found 50 item(s) on page.
+[2026-10-29 19:18:44] [VA] 1 new item(s):
+[2026-10-29 19:18:44]   NEW: Attorney General Jones Secures $6.5 Million for the Commonwealth in General Motors Data Privacy Settlement |  | https://www.oag.state.va.us/media-center/news-releases/3145-attorney-general-jones-secures-6-5-million-for-the-commonwealth-in-general-motors-data-privacy-settlement
+[2026-10-29 19:18:44] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-29 19:18:44] [WA] Found 15 item(s) on page.
+[2026-10-29 19:18:44] [WA] 1 new item(s):
+[2026-10-29 19:18:44]   NEW: GM to pay $220M for sharing drivers’ private data in case co-led by Washington | Thu, 29 Oct 2026 16:27:10 +0000 | https://www.atg.wa.gov/news/news-releases/gm-pay-220m-sharing-drivers-private-data-case-co-led-washington
+[2026-10-29 19:18:44] [WV] Fetching https://ago.wv.gov/news
+[2026-10-29 19:18:44]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-29 19:18:47]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55437 chars)
+[2026-10-29 19:18:47]   Playwright found 30 item(s) with configured selector
+[2026-10-29 19:18:47] [WV] Found 30 item(s) on page.
+[2026-10-29 19:18:47] [WV] 1 new item(s):
+[2026-10-29 19:18:47]   NEW: Full Story | 2026-10-29T12:00:00Z | https://ago.wv.gov/article/attorney-general-mccuskey-sues-tiktok-putting-west-virginia-kids-risk
+[2026-10-29 19:18:47] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-29 19:18:47]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-29 19:18:51]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1590549 chars)
+[2026-10-29 19:18:51]   Playwright found 50 item(s) with configured selector
+[2026-10-29 19:18:51] [WI] Found 50 item(s) on page.
+[2026-10-29 19:18:51] [WI] No new items.
+[2026-10-29 19:18:51] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-29 19:18:52] [WY] Found 2 item(s) on page.
+[2026-10-29 19:18:52] [WY] No new items.
+[2026-10-29 19:18:52] States with fetch errors: KS, LA, MI, MN, NC, OH, OK, PA, RI, SD
+[2026-10-29 19:18:52] Sending email: 36 new item(s) across 21 state(s).
+[2026-10-29 19:18:52] ERROR sending email: Connection unexpectedly closed
+[2026-10-29 19:18:52] Done.
