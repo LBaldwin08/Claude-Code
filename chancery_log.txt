@@ -12550,3 +12550,20 @@ Call log:
 [2026-10-29 13:28:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402770
 [2026-10-29 13:28:35] ERROR sending email: Connection unexpectedly closed
 [2026-10-29 13:28:35] Done.
+[2026-10-29 19:07:17] Checking for new DE court opinions...
+[2026-10-29 19:07:17] Using Playwright to fetch opinions page...
+[2026-10-29 19:07:29] Playwright found 27 opinion(s).
+[2026-10-29 19:07:29] Found 27 opinions on page.
+[2026-10-29 19:07:29] 5 new opinion(s)!
+[2026-10-29 19:07:29]   NEW: [10/29/2026] [Court of Chancery] Kyle Robertson v. Cerebral Inc. | C.A. No. 2026-0429-DH | Hume, IVM.
+[2026-10-29 19:07:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402800
+[2026-10-29 19:07:29]   NEW: [10/29/2026] [Superior Court] Bachman v. Murphy | S26C-02-037 MHC | ConnerJ.
+[2026-10-29 19:07:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402810
+[2026-10-29 19:07:29]   NEW: [10/29/2026] [Superior Court] Wheeler v. Slowe-Freeman, et al. | N25C-08-119 CEB | ButlerR.J.
+[2026-10-29 19:07:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402820
+[2026-10-29 19:07:29]   NEW: [10/28/2026] [Court of Chancery] Keith Jones v. SBC Medical Group Holdings, Inc. | C.A. No. 2026-0193-PAF | FioravantiV.C.
+[2026-10-29 19:07:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402790
+[2026-10-29 19:07:29]   NEW: [10/28/2026] [Superior Court] Blake v. Bayhealth Medical Center, Inc. | N24C-11-146 FJJ | JonesJ.
+[2026-10-29 19:07:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402780
+[2026-10-29 19:07:29] ERROR sending email: Connection unexpectedly closed
+[2026-10-29 19:07:29] Done.
