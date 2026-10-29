@@ -12541,3 +12541,12 @@ Call log:
 [2026-10-29 06:09:03] Found 27 opinions on page.
 [2026-10-29 06:09:03] No new opinions.
 [2026-10-29 06:09:03] Done.
+[2026-10-29 13:28:24] Checking for new DE court opinions...
+[2026-10-29 13:28:24] Using Playwright to fetch opinions page...
+[2026-10-29 13:28:35] Playwright found 27 opinion(s).
+[2026-10-29 13:28:35] Found 27 opinions on page.
+[2026-10-29 13:28:35] 1 new opinion(s)!
+[2026-10-29 13:28:35]   NEW: [10/29/2026] [Court of Chancery] Mudrick Capital Management L.P. et al. v. QuarterNorth Energy Inc. | 2024-0106-LWW | WillV.C.
+[2026-10-29 13:28:35]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402770
+[2026-10-29 13:28:35] ERROR sending email: Connection unexpectedly closed
+[2026-10-29 13:28:35] Done.
