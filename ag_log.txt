@@ -40940,3 +40940,255 @@ Call log:
 [2026-10-29 19:18:52] Sending email: 36 new item(s) across 21 state(s).
 [2026-10-29 19:18:52] ERROR sending email: Connection unexpectedly closed
 [2026-10-29 19:18:52] Done.
+[2026-10-30 18:42:40] Checking for new AG press releases...
+[2026-10-30 18:42:40] Checking 50 state(s).
+[2026-10-30 18:42:40] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-10-30 18:42:40]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-10-30 18:42:44]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (243218 chars)
+[2026-10-30 18:42:44]   Playwright found 27 item(s) with configured selector
+[2026-10-30 18:42:44] [AL] Found 27 item(s) on page.
+[2026-10-30 18:42:44] [AL] No new items.
+[2026-10-30 18:42:44] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-10-30 18:42:44] [AK] Found 50 item(s) on page.
+[2026-10-30 18:42:44] [AK] 2 new item(s):
+[2026-10-30 18:42:44]   NEW: Acting Attorney General Cori Mills Announces that GM Will Pay Alaska $2.5 Million for Selling Driversâ Private Data |  | https://law.alaska.gov/releases/2026/102926-GM.html
+[2026-10-30 18:42:44]   NEW: John Vinette Sentenced to Serve 60 Years for Sexual Abuse of a Minor |  | https://law.alaska.gov/releases/2026/102826-Vinette.html
+[2026-10-30 18:42:44] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-10-30 18:42:44] [AZ] Found 10 item(s) on page.
+[2026-10-30 18:42:44] [AZ] 2 new item(s):
+[2026-10-30 18:42:44]   NEW: Attorney General Mayes Announces Settlement with GM, Company to Pay $220 Million for Sharing Drivers' Private Data |  | https://www.azag.gov/press-release/attorney-general-mayes-announces-settlement-gm-company-pay-220-million-sharing
+[2026-10-30 18:42:44]   NEW: Attorney General Mayes Secures Major Victory Blocking Implementation of Unlawful Medicaid Work Requirements for Medically Frail Individuals |  | https://www.azag.gov/press-release/attorney-general-mayes-secures-major-victory-blocking-implementation-unlawful
+[2026-10-30 18:42:44] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-10-30 18:42:45] [AR] Found 50 item(s) on page.
+[2026-10-30 18:42:45] [AR] No new items.
+[2026-10-30 18:42:45] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-10-30 18:42:46] [CA] Found 10 item(s) on page.
+[2026-10-30 18:42:46] [CA] 5 new item(s):
+[2026-10-30 18:42:46]   NEW: Attorney General Bonta Files Felony Charges Against Former Lassen Superior Court Executive Officer | Thu, 29 Oct 2026 18:34:36 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-felony-charges-against-former-lassen-superior-court
+[2026-10-30 18:42:46]   NEW: Attorney General Bonta Joins Amicus Brief Supporting State's Right to Seek Accountability for Fraud Among Private Businesses | Thu, 29 Oct 2026 22:26:45 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-joins-amicus-brief-supporting-states-right-seek
+[2026-10-30 18:42:46]   NEW: Privacy Rights Can’t Be Left in the Rearview: Attorney General Bonta Secures $1.8 Million Settlement with Lyft | Thu, 29 Oct 2026 18:37:38 +0000 | https://oag.ca.gov/news/press-releases/privacy-rights-can%E2%80%99t-be-left-rearview-attorney-general-bonta-secures-18-million
+[2026-10-30 18:42:46]   NEW: Attorney General Bonta Defends State Gambling Laws Against Kalshi | Thu, 29 Oct 2026 18:30:42 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-defends-state-gambling-laws-against-kalshi
+[2026-10-30 18:42:46]   NEW: Attorney General Bonta Sues Trump Administration to Defend State Law Prohibiting the Sale of Non-Reusable Propane Cylinders | Thu, 29 Oct 2026 16:59:06 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-sues-trump-administration-defend-state-law-prohibiting
+[2026-10-30 18:42:46] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-10-30 18:42:46] [CO] Found 50 item(s) on page.
+[2026-10-30 18:42:46] [CO] No new items.
+[2026-10-30 18:42:46] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-10-30 18:42:47] [CT] Found 33 item(s) on page.
+[2026-10-30 18:42:47] [CT] 2 new item(s):
+[2026-10-30 18:42:47]   NEW: Attorney General Tong Joins Coalition Defending Authority to Enforce Fraud Law Against President Trump | 10/30/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-joins-coalition-defending-authority-to-enforce-fraud-law
+[2026-10-30 18:42:47]   NEW: Attorney General Tong Announces Major Victory Blocking Implementation of Unlawful Medicaid Work Requirements | 10/29/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/major-victory-blocking-implementation-of-unlawful-medicaid-work-requirements
+[2026-10-30 18:42:47] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-10-30 18:42:48] [DE] Found 300 item(s) on page.
+[2026-10-30 18:42:48] [DE] 1 new item(s):
+[2026-10-30 18:42:48]   NEW: Ahead of Election Day, AG Jennings, Gov. Meyer, Commissioner Albence remind voters of their rights | Fri, 30 Oct 2026 07:35:19 +0000 | https://news.delaware.gov/2026/10/30/ahead-of-election-day-ag-jennings-gov-meyer-commissioner-albence-remind-voters-of-their-rights/
+[2026-10-30 18:42:48] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-10-30 18:42:48] [FL] Found 20 item(s) on page.
+[2026-10-30 18:42:48] [FL] 1 new item(s):
+[2026-10-30 18:42:48]   NEW: Attorney General James Uthmeier Announces 281 Arrests in Undercover Operation Targeting Child Predators and Human Trafficking | 2026-10-30T14:14:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-announces-281-arrests-undercover-operation-targeting
+[2026-10-30 18:42:48] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-10-30 18:42:49] [GA] Found 11 item(s) on page.
+[2026-10-30 18:42:49] [GA] No new items.
+[2026-10-30 18:42:49] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-10-30 18:42:49] [HI] Found 26 item(s) on page.
+[2026-10-30 18:42:49] [HI] No new items.
+[2026-10-30 18:42:49] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-30 18:42:49]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-10-30 18:42:52]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (65709 chars)
+[2026-10-30 18:42:52]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-10-30 18:42:52] [ID] Found 28 item(s) on page.
+[2026-10-30 18:42:52] [ID] No new items.
+[2026-10-30 18:42:52] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-10-30 18:42:53] [IL] Found 50 item(s) on page.
+[2026-10-30 18:42:53] [IL] 1 new item(s):
+[2026-10-30 18:42:53]   NEW: October 30, 2026ATTORNEY GENERAL RAOUL REMINDS FAMILIES TO CHECK OFFENDER REGISTRY TO ENSURE A SAFE HALLOWEEN | 2026-10-30 10:15 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-reminds-families-to-check-offender-registry-to-ensure-a-safe-halloween
+[2026-10-30 18:42:53] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-10-30 18:42:54] [IN] Found 34 item(s) on page.
+[2026-10-30 18:42:54] [IN] No new items.
+[2026-10-30 18:42:54] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-10-30 18:42:54] [IA] Found 10 item(s) on page.
+[2026-10-30 18:42:54] [IA] 1 new item(s):
+[2026-10-30 18:42:54]   NEW: Attorney General Brenna Bird Announces over $750K Opioid Grant for Billion Pill Pledge in Eight More Iowa Hospitals | October 30, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-over-750k-opioid-grant-for-billion-pill-pledge-in-eight-more/
+[2026-10-30 18:42:54] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-30 18:42:54]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-10-30 18:42:57]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-10-30 18:42:57]   Playwright: page loaded but no links matched — check selectors
+[2026-10-30 18:42:57]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-10-30 18:42:58]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-30 18:43:18]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-30 18:43:38]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-10-30 18:43:38] [KS] No items returned (fetch failed or empty page).
+[2026-10-30 18:43:38] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-10-30 18:43:40] [KY] Found 27 item(s) on page.
+[2026-10-30 18:43:40] [KY] No new items.
+[2026-10-30 18:43:40] [LA] Fetching https://ag.louisiana.gov/News
+[2026-10-30 18:43:41] [LA] Found 20 item(s) on page.
+[2026-10-30 18:43:41] [LA] 2 new item(s):
+[2026-10-30 18:43:41]   NEW: AG Liz Murrill’s Office Arrests Harvey Man for Possession of a Child Sex Doll and Child Sexual Abuse Material | 10/29/2026 | https://ag.louisiana.gov/Article/655
+[2026-10-30 18:43:41]   NEW: Karen’s Latest Complaint: An Arrest Warrant from AG Liz Murrill’s Office for Medicaid Fraud | 10/29/2026 | https://ag.louisiana.gov/Article/654
+[2026-10-30 18:43:41] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-10-30 18:43:42] [ME] Found 19 item(s) on page.
+[2026-10-30 18:43:42] [ME] 1 new item(s):
+[2026-10-30 18:43:42]   NEW: GM to Pay $220M for Sharing Drivers’ Private Data in Case Joined by Attorney General Aaron M. Frey | 10/29/2026 | https://www.maine.gov/ag/news-and-library/press-releases/gm-pay-220m-sharing-drivers-private-data-case-joined-attorney
+[2026-10-30 18:43:42] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-10-30 18:43:42] [MD] Found 50 item(s) on page.
+[2026-10-30 18:43:42] [MD] No new items.
+[2026-10-30 18:43:42] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-30 18:43:42]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-10-30 18:43:45]   Playwright loaded page: 'News and Announcements | Mass.gov' (179345 chars)
+[2026-10-30 18:43:45]   Playwright found 15 item(s) with configured selector
+[2026-10-30 18:43:45] [MA] Found 15 item(s) on page.
+[2026-10-30 18:43:45] [MA] 1 new item(s):
+[2026-10-30 18:43:45]   NEW: AG Campbell Celebrates Major Victory Blocking Implementation Of Unlawful Medicaid Work Requirements For Medically Frail Individuals | 10/29/2026 | https://www.mass.gov/news/ag-campbell-celebrates-major-victory-blocking-implementation-of-unlawful-medicaid-work-requirements-for-medically-frail-individuals
+[2026-10-30 18:43:45] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-10-30 18:43:45]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-10-30 18:43:48]   Playwright loaded page: 'Attorney General: Press Releases' (376588 chars)
+[2026-10-30 18:43:48]   Playwright found 10 item(s) with configured selector
+[2026-10-30 18:43:48] [MI] Found 10 item(s) on page.
+[2026-10-30 18:43:48] [MI] 4 new item(s):
+[2026-10-30 18:43:48]   NEW: Court Enters Judgment Against Lenawee County Well Driller Over Violations of Consumer Protection Act and Public Health Code |  | https://www.michigan.gov/ag/news/press-releases/2026/10/30/court-enters-judgment-against-lenawee-county-well-driller
+[2026-10-30 18:43:48]   NEW: AG Nessel Challenges MPSC Approval of DTE’s Google Data Center Contracts |  | https://www.michigan.gov/ag/news/press-releases/2026/10/30/ag-nessel-challenges-mpsc-approval-of-dtes-google-data-center-contracts
+[2026-10-30 18:43:48]   NEW: AG Nessel Challenges Trump Administration’s FinCEN Exemptions Under the Corporate Transparency Act |  | https://www.michigan.gov/ag/news/press-releases/2026/10/29/ag-nessel-challenges-trump-administrations-fincen-exemptions-under-the-corporate-transparency-act
+[2026-10-30 18:43:48]   NEW: AG Nessel, Coalition Reach $220 Million Settlement with General Motors for Sharing Drivers’ Private Data |  | https://www.michigan.gov/ag/news/press-releases/2026/10/29/nessel-coalition-reach-220-million-settlement-with-gm
+[2026-10-30 18:43:48] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-10-30 18:43:49] [MN] Found 50 item(s) on page.
+[2026-10-30 18:43:49] [MN] No new items.
+[2026-10-30 18:43:49] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-10-30 18:43:49] [MS] Found 1 item(s) on page.
+[2026-10-30 18:43:49] [MS] No new items.
+[2026-10-30 18:43:49] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-10-30 18:43:49] [MO] Found 50 item(s) on page.
+[2026-10-30 18:43:49] [MO] 2 new item(s):
+[2026-10-30 18:43:49]   NEW: Attorney General Hanaway Leads 22 States Supporting Rule Excluding Illegal Immigrants from Congressional Apportionment |  | https://ago.mo.gov/attorney-general-hanaway-leads-22-states-supporting-rule-excluding-illegal-immigrants-from-congressional-apportionment/
+[2026-10-30 18:43:49]   NEW: Attorney General Hanaway Announces Complete Victory Defending Charter School Statute |  | https://ago.mo.gov/attorney-general-hanaway-announces-complete-victory-defending-charter-school-statute/
+[2026-10-30 18:43:49] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-10-30 18:43:50] [MT] Found 10 item(s) on page.
+[2026-10-30 18:43:50] [MT] No new items.
+[2026-10-30 18:43:50] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-10-30 18:43:50] [NE] Found 10 item(s) on page.
+[2026-10-30 18:43:50] [NE] 1 new item(s):
+[2026-10-30 18:43:50]   NEW: Attorney General’s Office Receives Lincoln Police Investigation into Contract Allegations | Fri, 30 Oct 2026 13:00:23 +0000 | https://ago.nebraska.gov/news/attorney-generals-office-receives-lincoln-police-investigation-contract-allegations
+[2026-10-30 18:43:50] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-10-30 18:43:51] [NV] Found 50 item(s) on page.
+[2026-10-30 18:43:51] [NV] No new items.
+[2026-10-30 18:43:51] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-10-30 18:43:51]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-10-30 18:43:53]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-10-30 18:43:53]   Playwright: page loaded but no links matched — check selectors
+[2026-10-30 18:43:53]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-10-30 18:43:53]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-30 18:44:13]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-30 18:44:33]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-10-30 18:44:33] [NH] No items returned (fetch failed or empty page).
+[2026-10-30 18:44:33] [NJ] Fetching https://www.njoag.gov/news/
+[2026-10-30 18:44:35] [NJ] Found 5 item(s) on page.
+[2026-10-30 18:44:35] [NJ] 2 new item(s):
+[2026-10-30 18:44:35]   NEW: AG’s Office Provides Update on Investigation of Fatal Police-Involved Shooting in Moonachie, N.J. |  | https://www.njoag.gov/ags-office-provides-update-on-investigation-of-fatal-police-involved-shooting-in-moonachie-n-j/
+[2026-10-30 18:44:35]   NEW: Attorney General Davenport Celebrates Major Victory Blocking Unlawful Implementation of Medicaid Work Requirements for Medically Frail Individuals |  | https://www.njoag.gov/attorney-general-davenport-celebrates-major-victory-blocking-unlawful-implementation-of-medicaid-work-requirements-for-medically-frail-individuals/
+[2026-10-30 18:44:35] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-10-30 18:44:37] [NM] Found 14 item(s) on page.
+[2026-10-30 18:44:37] [NM] No new items.
+[2026-10-30 18:44:37] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-10-30 18:44:37] [NY] Found 25 item(s) on page.
+[2026-10-30 18:44:37] [NY] 3 new item(s):
+[2026-10-30 18:44:37]   NEW: Attorney General James Secures $220 Million from General Motors for Selling Drivers’ Private Data |  | https://ag.ny.gov/press-release/2026/attorney-general-james-secures-220-million-general-motors-selling-drivers
+[2026-10-30 18:44:37]   NEW: Attorney General James Protects Medicaid Coverage for Vulnerable New Yorkers |  | https://ag.ny.gov/press-release/2026/attorney-general-james-protects-medicaid-coverage-vulnerable-new-yorkers
+[2026-10-30 18:44:37]   NEW: Attorney General James Releases Footage from Investigation into Death of Haley Rodriguez |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-footage-investigation-death-haley-rodriguez
+[2026-10-30 18:44:37] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-10-30 18:44:40]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-30 18:45:00]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-30 18:45:20]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-10-30 18:45:20] [NC] No items returned (fetch failed or empty page).
+[2026-10-30 18:45:20] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-10-30 18:45:21] [ND] Found 10 item(s) on page.
+[2026-10-30 18:45:21] [ND] No new items.
+[2026-10-30 18:45:21] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-10-30 18:45:21] [OH] Found 10 item(s) on page.
+[2026-10-30 18:45:21] [OH] 3 new item(s):
+[2026-10-30 18:45:21]   NEW: 12 Men Arrested in Northeast Ohio Sex Sting | 10/30/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/October-2026/12-Men-Arrested-in-Northeast-Ohio-Sex-Sting
+[2026-10-30 18:45:21]   NEW: AG’s Office Clears Way for Restoration of Historic Cemetery in Miami County | 10/29/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/October-2026/AG-s-Office-Clears-Way-for-Restoration-of-Historic
+[2026-10-30 18:45:21]   NEW: Ohio to Get $8 Million From General Motors for Sharing Data on Drivers | 10/29/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/October-2026/Ohio-to-Get-$8-Million-From-General-Motors-for-Sha
+[2026-10-30 18:45:21] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-30 18:45:21]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-10-30 18:45:24]   Playwright loaded page: 'News Releases' (849284 chars)
+[2026-10-30 18:45:25]   Playwright: page loaded but no links matched — check selectors
+[2026-10-30 18:45:25]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-10-30 18:45:25] [OK] No items returned (fetch failed or empty page).
+[2026-10-30 18:45:25] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-10-30 18:45:26] [OR] Found 10 item(s) on page.
+[2026-10-30 18:45:26] [OR] 2 new item(s):
+[2026-10-30 18:45:26]   NEW: AG Rayfield Leads 17-State Coalition: No One is Above Fraud Laws… Not Even Trump |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-leads-17-states-in-trump-fraud-case-to-protect-oregons-fraud-laws/
+[2026-10-30 18:45:26]   NEW: AG Rayfield: Judge Blocks Trump Administration’s Attempt to Make Seriously Ill Oregonians Jump Through Additional Hoops to Keep Medicaid |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-blocks-trumps-attempt-to-target-seriously-ill-oregonians/
+[2026-10-30 18:45:26] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-10-30 18:45:27] [PA] Found 12 item(s) on page.
+[2026-10-30 18:45:27] [PA] 3 new item(s):
+[2026-10-30 18:45:27]   NEW: CrimeOCT 30, 2026AG Sunday’s Narcotics Team, Partners Charge Store Owner, Employees with Selling Illegal THC, Marijuana Products at Northcentral Pa. StoresHARRISBURG — Attorney General Dave Sunday, along with law enforcement partners, announced felony drug-dealing charges regarding over-the-counter sales of illegal THC/marijuana products in northcentral Pennsylvania. Majid Syed, 45,…Read more | 2026-10-30T11:38:46-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-narcotics-team-partners-charge-store-owner-employees-with-selling-illegal-thc-marijuana-products-at-northcentral-pa-stores/
+[2026-10-30 18:45:27]   NEW: OCT 29, 2026AG Sunday Warns Pennsylvanians of Scams Involving Crypto/Bitcoin ATMs During National Cryptocurrency MonthOffice of Attorney General teaming with business partners on STOP sign awareness campaign at Pa. ATMs  HARRISBURG — During National Cryptocurrency Month this October, Attorney General Dave Sunday…Read more | 2026-10-29T14:36:16-04:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-warns-pennsylvanians-of-scams-involving-crypto-bitcoin-atms-during-national-cryptocurrency-month/
+[2026-10-30 18:45:27]   NEW: Press ReleaseOCT 29, 2026Attorney General Sunday Secures $220 Million National Settlement over Allegations that General Motors Shared Drivers’ Private DataPennsylvania to receive nearly $9 million in the settlement HARRISBURG – Attorney General Dave Sunday joined a coalition of 36 attorneys general in reaching a $220 million settlement…Read more | 2026-10-29T13:46:15-04:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-secures-220-million-national-settlement-over-allegations-that-general-motors-shared-drivers-private-data/
+[2026-10-30 18:45:27] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-10-30 18:45:27] [RI] Found 10 item(s) on page.
+[2026-10-30 18:45:27] [RI] No new items.
+[2026-10-30 18:45:27] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-10-30 18:45:27]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-10-30 18:45:31]   Playwright loaded page: 'News - South Carolina Attorney General' (110697 chars)
+[2026-10-30 18:45:31]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-10-30 18:45:31] [SC] Found 9 item(s) on page.
+[2026-10-30 18:45:31] [SC] 1 new item(s):
+[2026-10-30 18:45:31]   NEW: Attorney General Alan Wilson applauds upcoming FCC vote on prison cellphone jamming rulesRead More | Oct 30, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-applauds-upcoming-fcc-vote-on-prison-cellphone-jamming-rules/
+[2026-10-30 18:45:31] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-10-30 18:45:31]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10
+[2026-10-30 18:46:01]   Playwright error for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10", waiting until "domcontentloaded"
+
+[2026-10-30 18:46:01]   [SD] Playwright fetch failed, falling back to regular scrape
+[2026-10-30 18:47:02]   Attempt 1/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-10-30 18:48:22]   Attempt 2/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-10-30 18:49:42]   Attempt 3/3 failed for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=10: HTTPSConnectionPool(host='atg.sd.gov', port=443): Read timed out. (read timeout=60)
+[2026-10-30 18:49:42] [SD] No items returned (fetch failed or empty page).
+[2026-10-30 18:49:42] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-10-30 18:49:42]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-10-30 18:50:03] [TN] Found 50 item(s) on page.
+[2026-10-30 18:50:03] [TN] No new items.
+[2026-10-30 18:50:03] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-10-30 18:50:03] [TX] Found 50 item(s) on page.
+[2026-10-30 18:50:03] [TX] No new items.
+[2026-10-30 18:50:03] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-10-30 18:50:03]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-10-30 18:50:06]   Playwright loaded page: 'Press Releases - Utah Attorney General' (298167 chars)
+[2026-10-30 18:50:06]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-10-30 18:50:06] [UT] Found 50 item(s) on page.
+[2026-10-30 18:50:06] [UT] No new items.
+[2026-10-30 18:50:06] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-10-30 18:50:06] [VT] Found 50 item(s) on page.
+[2026-10-30 18:50:06] [VT] 3 new item(s):
+[2026-10-30 18:50:06]   NEW: Attorney General Clark Celebrates Major Victory Blocking Implementation of Unlawful Medicaid Work Requirements for Medically Frail Individuals | DateOctober 29, 2026 | https://ago.vermont.gov/blog/2026/10/29/attorney-general-clark-celebrates-major-victory-blocking-implementation-unlawful-medicaid-work
+[2026-10-30 18:50:06]   NEW: Attorney General Clark Announces $4.5M Settlement With General Motors for Sharing Drivers' Private Data | DateOctober 29, 2026 | https://ago.vermont.gov/blog/2026/10/29/attorney-general-clark-announces-45m-settlement-general-motors-sharing-drivers-private-data
+[2026-10-30 18:50:06]   NEW: Attorney General Clark Joins Coalition of Attorneys General Defending Assault Weapons Restrictions Before the U.S. Supreme Court | DateOctober 28, 2026 | https://ago.vermont.gov/blog/2026/10/28/attorney-general-clark-joins-coalition-attorneys-general-defending-assault-weapons-restrictions-us
+[2026-10-30 18:50:06] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-10-30 18:50:07] [VA] Found 50 item(s) on page.
+[2026-10-30 18:50:07] [VA] 1 new item(s):
+[2026-10-30 18:50:07]   NEW: Attorney General Jones Celebrates Major Victory Blocking Implementation of Unlawful Medicaid Work Requirements for Medically Vulnerable Individuals |  | https://www.oag.state.va.us/media-center/news-releases/3146-attorney-general-jones-celebrates-major-victory-blocking-implementation-of-unlawful-medicaid-work-requirements-for-medically-vulnerable-individuals
+[2026-10-30 18:50:07] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-10-30 18:50:08] [WA] Found 15 item(s) on page.
+[2026-10-30 18:50:08] [WA] 1 new item(s):
+[2026-10-30 18:50:08]   NEW: Win for Washington as judge blocks unlawful federal implementation of Medicaid work requirements | Thu, 29 Oct 2026 21:51:15 +0000 | https://www.atg.wa.gov/news/news-releases/win-washington-judge-blocks-unlawful-federal-implementation-medicaid-work
+[2026-10-30 18:50:08] [WV] Fetching https://ago.wv.gov/news
+[2026-10-30 18:50:08]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-10-30 18:50:10]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55437 chars)
+[2026-10-30 18:50:10]   Playwright found 30 item(s) with configured selector
+[2026-10-30 18:50:10] [WV] Found 30 item(s) on page.
+[2026-10-30 18:50:10] [WV] No new items.
+[2026-10-30 18:50:10] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-30 18:50:10]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-10-30 18:50:15]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1591676 chars)
+[2026-10-30 18:50:15]   Playwright found 50 item(s) with configured selector
+[2026-10-30 18:50:15] [WI] Found 50 item(s) on page.
+[2026-10-30 18:50:15] [WI] 1 new item(s):
+[2026-10-30 18:50:15]   NEW: GM to Pay $220 Million for Sharing Drivers’ Private Data in Case Joined by Wisconsin DOJ |  | https://www.wisdoj.gov/PressReleases/press-release-general-motors.pdf
+[2026-10-30 18:50:15] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-10-30 18:50:15] [WY] Found 2 item(s) on page.
+[2026-10-30 18:50:15] [WY] No new items.
+[2026-10-30 18:50:15] States with fetch errors: KS, NH, NC, OK, SD
+[2026-10-30 18:50:15] Sending email: 46 new item(s) across 24 state(s).
+[2026-10-30 18:50:15] ERROR sending email: Connection unexpectedly closed
+[2026-10-30 18:50:15] Done.
