@@ -12588,3 +12588,12 @@ Call log:
 [2026-10-30 09:28:01] Found 27 opinions on page.
 [2026-10-30 09:28:01] No new opinions.
 [2026-10-30 09:28:01] Done.
+[2026-10-30 16:08:34] Checking for new DE court opinions...
+[2026-10-30 16:08:34] Using Playwright to fetch opinions page...
+[2026-10-30 16:08:46] Playwright found 27 opinion(s).
+[2026-10-30 16:08:46] Found 27 opinions on page.
+[2026-10-30 16:08:46] 1 new opinion(s)!
+[2026-10-30 16:08:46]   NEW: [10/30/2026] [Superior Court] The Estate of Ewell E. Long v. Wells Fargo Bank, N.A., et al. | N25C-03-078 PAW CCLD | WinstonJ.
+[2026-10-30 16:08:46]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402840
+[2026-10-30 16:08:46] ERROR sending email: Connection unexpectedly closed
+[2026-10-30 16:08:46] Done.
