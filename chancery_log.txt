@@ -12706,3 +12706,14 @@ Call log:
 [2026-11-02 17:18:42]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402850
 [2026-11-02 17:18:43] ERROR sending email: Connection unexpectedly closed
 [2026-11-02 17:18:43] Done.
+[2026-11-02 23:58:17] Checking for new DE court opinions...
+[2026-11-02 23:58:17] Using Playwright to fetch opinions page...
+[2026-11-02 23:58:28] Playwright found 27 opinion(s).
+[2026-11-02 23:58:28] Found 27 opinions on page.
+[2026-11-02 23:58:28] 2 new opinion(s)!
+[2026-11-02 23:58:28]   NEW: [11/02/2026] [Court of Chancery] Jordan Darga v. Hycroft Mining Holding Corporation, et al., | C.A. No. 2023-0612-LWW | WillV.C.
+[2026-11-02 23:58:28]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403010
+[2026-11-02 23:58:28]   NEW: [11/02/2026] [Superior Court] Manna Academy v. Spud Cleaning and Rest | N25A-02-007 SSA | AugusthyJ.
+[2026-11-02 23:58:28]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402990
+[2026-11-02 23:58:29] ERROR sending email: Connection unexpectedly closed
+[2026-11-02 23:58:29] Done.
