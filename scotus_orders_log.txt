@@ -1406,3 +1406,10 @@
 [2026-11-01 18:43:06] Found 11 order(s) on page.
 [2026-11-01 18:43:06] No new orders.
 [2026-11-01 18:43:06] Done.
+[2026-11-02 22:33:43] Checking for new Supreme Court orders...
+[2026-11-02 22:33:43] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-11-02 22:33:46] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/26
+[2026-11-02 22:33:48] Playwright found 11 order(s).
+[2026-11-02 22:33:48] Found 11 order(s) on page.
+[2026-11-02 22:33:48] No new orders.
+[2026-11-02 22:33:48] Done.
