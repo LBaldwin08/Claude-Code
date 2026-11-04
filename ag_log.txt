@@ -42071,3 +42071,220 @@ Call log:
 [2026-11-03 20:19:55] Sending email: 8 new item(s) across 6 state(s).
 [2026-11-03 20:19:55] ERROR sending email: Connection unexpectedly closed
 [2026-11-03 20:19:55] Done.
+[2026-11-04 20:36:14] Checking for new AG press releases...
+[2026-11-04 20:36:14] Checking 50 state(s).
+[2026-11-04 20:36:14] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-11-04 20:36:14]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-11-04 20:36:18]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (243217 chars)
+[2026-11-04 20:36:18]   Playwright found 27 item(s) with configured selector
+[2026-11-04 20:36:18] [AL] Found 27 item(s) on page.
+[2026-11-04 20:36:18] [AL] No new items.
+[2026-11-04 20:36:18] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-11-04 20:36:18] [AK] Found 50 item(s) on page.
+[2026-11-04 20:36:18] [AK] No new items.
+[2026-11-04 20:36:18] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-11-04 20:36:18] [AZ] Found 10 item(s) on page.
+[2026-11-04 20:36:18] [AZ] No new items.
+[2026-11-04 20:36:18] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-11-04 20:36:19] [AR] Found 50 item(s) on page.
+[2026-11-04 20:36:19] [AR] No new items.
+[2026-11-04 20:36:19] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-11-04 20:36:19] [CA] Found 10 item(s) on page.
+[2026-11-04 20:36:19] [CA] 2 new item(s):
+[2026-11-04 20:36:19]   NEW: Attorney General Bonta Reaffirms Support for Federal Legislation to Protect Kids Online | Wed, 04 Nov 2026 16:10:07 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-reaffirms-support-federal-legislation-protect-kids-online
+[2026-11-04 20:36:19]   NEW: California Department of Justice Releases Report on Officer-Involved Shooting of Jesus Guzman Jr. | Tue, 03 Nov 2026 17:01:49 +0000 | https://oag.ca.gov/news/press-releases/california-department-justice-releases-report-officer-involved-shooting-jesus
+[2026-11-04 20:36:19] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-11-04 20:36:20] [CO] Found 50 item(s) on page.
+[2026-11-04 20:36:20] [CO] No new items.
+[2026-11-04 20:36:20] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-11-04 20:36:21] [CT] Found 33 item(s) on page.
+[2026-11-04 20:36:21] [CT] 1 new item(s):
+[2026-11-04 20:36:21]   NEW: Attorney General Tong Leads Bipartisan Effort Urging Congress to Pass Kids Online Safety Act | 11/4/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-leads-bipartisan-effort-urging-congress-to-pass-kids-online-safety-act
+[2026-11-04 20:36:21] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-11-04 20:36:21] [DE] Found 300 item(s) on page.
+[2026-11-04 20:36:21] [DE] No new items.
+[2026-11-04 20:36:21] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-11-04 20:36:22] [FL] Found 20 item(s) on page.
+[2026-11-04 20:36:22] [FL] No new items.
+[2026-11-04 20:36:22] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-11-04 20:36:22] [GA] Found 11 item(s) on page.
+[2026-11-04 20:36:22] [GA] No new items.
+[2026-11-04 20:36:22] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-11-04 20:36:22] [HI] Found 26 item(s) on page.
+[2026-11-04 20:36:22] [HI] No new items.
+[2026-11-04 20:36:22] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-04 20:36:22]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-04 20:36:25]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (66024 chars)
+[2026-11-04 20:36:25]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-11-04 20:36:25] [ID] Found 28 item(s) on page.
+[2026-11-04 20:36:25] [ID] No new items.
+[2026-11-04 20:36:25] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-11-04 20:36:26] [IL] Found 50 item(s) on page.
+[2026-11-04 20:36:26] [IL] 1 new item(s):
+[2026-11-04 20:36:26]   NEW: November 04, 2026ATTORNEY GENERAL RAOUL OPPOSES TRUMP ADMINISTRATION’S THREATS TO ACCURATE 2030 CENSUS | 2026-11-04 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-opposes-trump-administrations-threats-to-accurate-2030-census11.4.26
+[2026-11-04 20:36:26] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-11-04 20:36:27] [IN] Found 34 item(s) on page.
+[2026-11-04 20:36:27] [IN] No new items.
+[2026-11-04 20:36:27] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-11-04 20:36:27] [IA] Found 10 item(s) on page.
+[2026-11-04 20:36:27] [IA] No new items.
+[2026-11-04 20:36:27] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-04 20:36:27]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-04 20:36:30]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-11-04 20:36:30]   Playwright: page loaded but no links matched — check selectors
+[2026-11-04 20:36:30]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-11-04 20:36:31]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-04 20:36:51]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-04 20:37:11]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-04 20:37:11] [KS] No items returned (fetch failed or empty page).
+[2026-11-04 20:37:11] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-11-04 20:37:14] [KY] Found 27 item(s) on page.
+[2026-11-04 20:37:14] [KY] No new items.
+[2026-11-04 20:37:14] [LA] Fetching https://ag.louisiana.gov/News
+[2026-11-04 20:37:14] [LA] Found 20 item(s) on page.
+[2026-11-04 20:37:14] [LA] No new items.
+[2026-11-04 20:37:14] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-11-04 20:37:15] [ME] Found 19 item(s) on page.
+[2026-11-04 20:37:15] [ME] No new items.
+[2026-11-04 20:37:15] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-11-04 20:37:16] [MD] Found 50 item(s) on page.
+[2026-11-04 20:37:16] [MD] No new items.
+[2026-11-04 20:37:16] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-04 20:37:16]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-04 20:37:19]   Playwright loaded page: 'News and Announcements | Mass.gov' (179345 chars)
+[2026-11-04 20:37:19]   Playwright found 15 item(s) with configured selector
+[2026-11-04 20:37:19] [MA] Found 15 item(s) on page.
+[2026-11-04 20:37:19] [MA] No new items.
+[2026-11-04 20:37:19] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-11-04 20:37:19]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-11-04 20:37:23]   Playwright loaded page: 'Attorney General: Press Releases' (376882 chars)
+[2026-11-04 20:37:23]   Playwright found 10 item(s) with configured selector
+[2026-11-04 20:37:23] [MI] Found 10 item(s) on page.
+[2026-11-04 20:37:23] [MI] No new items.
+[2026-11-04 20:37:23] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-11-04 20:37:23] [MN] Found 50 item(s) on page.
+[2026-11-04 20:37:23] [MN] No new items.
+[2026-11-04 20:37:23] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-11-04 20:37:24] [MS] Found 1 item(s) on page.
+[2026-11-04 20:37:24] [MS] No new items.
+[2026-11-04 20:37:24] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-11-04 20:37:24] [MO] Found 50 item(s) on page.
+[2026-11-04 20:37:24] [MO] 1 new item(s):
+[2026-11-04 20:37:24]   NEW: Attorney General Hanaway Secures Two Major Property Tax Victories for Missourians |  | https://ago.mo.gov/attorney-general-hanaway-secures-two-major-property-tax-victories-for-missourians/
+[2026-11-04 20:37:24] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-11-04 20:37:24] [MT] Found 10 item(s) on page.
+[2026-11-04 20:37:24] [MT] No new items.
+[2026-11-04 20:37:24] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-11-04 20:37:24] [NE] Found 10 item(s) on page.
+[2026-11-04 20:37:24] [NE] No new items.
+[2026-11-04 20:37:24] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-11-04 20:37:25] [NV] Found 50 item(s) on page.
+[2026-11-04 20:37:25] [NV] No new items.
+[2026-11-04 20:37:25] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-11-04 20:37:25]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-11-04 20:37:28]   Playwright loaded page: 'Press Releases | New Hampshire Department of Justice' (91754 chars)
+[2026-11-04 20:37:28]   Playwright found 10 item(s) with configured selector
+[2026-11-04 20:37:28] [NH] Found 10 item(s) on page.
+[2026-11-04 20:37:28] [NH] 3 new item(s):
+[2026-11-04 20:37:28]   NEW: Attorney General Formella, Bipartisan Coalition Urge Congress to Pass Kids Online Safety Act |  | https://www.doj.nh.gov/news-and-media/attorney-general-formella-bipartisan-coalition-urge-congress-pass-kids-online-safety
+[2026-11-04 20:37:28]   NEW: Autopsy on Human Remains Discovered in Bow, New Hampshire |  | https://www.doj.nh.gov/news-and-media/autopsy-human-remains-discovered-bow-new-hampshire
+[2026-11-04 20:37:28]   NEW: Jason Taylor Sentenced for Financially Exploiting Family Members |  | https://www.doj.nh.gov/news-and-media/jason-taylor-sentenced-financially-exploiting-family-members
+[2026-11-04 20:37:28] [NJ] Fetching https://www.njoag.gov/news/
+[2026-11-04 20:37:30] [NJ] Found 5 item(s) on page.
+[2026-11-04 20:37:30] [NJ] No new items.
+[2026-11-04 20:37:30] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-11-04 20:37:32] [NM] Found 14 item(s) on page.
+[2026-11-04 20:37:32] [NM] No new items.
+[2026-11-04 20:37:32] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-11-04 20:37:32] [NY] Found 25 item(s) on page.
+[2026-11-04 20:37:32] [NY] 2 new item(s):
+[2026-11-04 20:37:32]   NEW: Attorney General James Appoints Veteran Prosecutor as Outside Counsel in Cornell University Investigation |  | https://ag.ny.gov/press-release/2026/attorney-general-james-appoints-veteran-prosecutor-outside-counsel-cornell
+[2026-11-04 20:37:32]   NEW: Attorney General James Warns Student Loan Borrowers About the Risks of Loan Consolidation |  | https://ag.ny.gov/press-release/2026/attorney-general-james-warns-student-loan-borrowers-about-risks-loan
+[2026-11-04 20:37:32] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-11-04 20:37:35]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-04 20:37:57]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-04 20:38:20]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-04 20:38:20] [NC] No items returned (fetch failed or empty page).
+[2026-11-04 20:38:20] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-11-04 20:38:21] [ND] Found 10 item(s) on page.
+[2026-11-04 20:38:21] [ND] No new items.
+[2026-11-04 20:38:21] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-11-04 20:38:21] [OH] Found 10 item(s) on page.
+[2026-11-04 20:38:21] [OH] 1 new item(s):
+[2026-11-04 20:38:21]   NEW: Statement From AG Wilson on Election of John Kulewicz | 11/4/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/November-2026/Statement-From-AG-Wilson-on-Election-of-John-Kulew
+[2026-11-04 20:38:21] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-04 20:38:21]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-04 20:38:24]   Playwright loaded page: 'News Releases' (849284 chars)
+[2026-11-04 20:38:24]   Playwright: page loaded but no links matched — check selectors
+[2026-11-04 20:38:24]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-11-04 20:38:25] [OK] No items returned (fetch failed or empty page).
+[2026-11-04 20:38:25] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-11-04 20:38:26] [OR] Found 10 item(s) on page.
+[2026-11-04 20:38:26] [OR] 1 new item(s):
+[2026-11-04 20:38:26]   NEW: AG Rayfield: Oregon’s Vote-by-Mail Held Strong Despite Federal Interference Attempts |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-oregons-vote-by-mail-held-strong-despite-federal-interference-attempts/
+[2026-11-04 20:38:26] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-11-04 20:38:26] [PA] Found 12 item(s) on page.
+[2026-11-04 20:38:26] [PA] 2 new item(s):
+[2026-11-04 20:38:26]   NEW: CrimeNOV 4, 2026AG Sunday’s Child Predator Section Secures State Prison Sentence for Allegheny County Man who Tried to Meet ‘Child’ for Sexual AbuseHARRISBURG — Attorney General Dave Sunday announced that an Allegheny County man will serve up to 25½ years in state prison for soliciting sexual contact with who he…Read more | 2026-11-04T12:31:10-05:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-child-predator-section-secures-state-prison-sentence-for-allegheny-county-man-who-tried-to-meet-child-for-sexual-abuse/
+[2026-11-04 20:38:26]   NEW: Press ReleaseNOV 4, 2026Attorney General Sunday Joins Bipartisan Effort Urging Congress to Pass Kids Online Safety ActHARRISBURG – Attorney General Dave Sunday joined a bipartisan coalition of 45 attorneys general urging Congress to pass the Senate version of the Kids Online Safety Act (KOSA),…Read more | 2026-11-04T11:05:17-05:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-joins-bipartisan-effort-urging-congress-to-pass-kids-online-safety-act/
+[2026-11-04 20:38:26] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-11-04 20:38:26] [RI] Found 10 item(s) on page.
+[2026-11-04 20:38:26] [RI] No new items.
+[2026-11-04 20:38:26] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-11-04 20:38:26]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-11-04 20:38:30]   Playwright loaded page: 'News - South Carolina Attorney General' (110507 chars)
+[2026-11-04 20:38:30]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-11-04 20:38:30] [SC] Found 9 item(s) on page.
+[2026-11-04 20:38:30] [SC] 1 new item(s):
+[2026-11-04 20:38:30]   NEW: North Charleston man arrested on Child Sexual Abuse Material* possession chargeRead More | Nov 03, 2026 | https://www.scag.gov/about-the-office/news/north-charleston-man-arrested-on-child-sexual-abuse-materialstar-possession-charge/
+[2026-11-04 20:38:30] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-11-04 20:38:30]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=11
+[2026-11-04 20:38:33]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-11-04 20:38:33]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-11-04 20:38:33] [SD] Found 1 item(s) on page.
+[2026-11-04 20:38:33] [SD] No new items.
+[2026-11-04 20:38:33] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-11-04 20:38:33]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-11-04 20:38:53] [TN] Found 50 item(s) on page.
+[2026-11-04 20:38:53] [TN] No new items.
+[2026-11-04 20:38:53] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-11-04 20:38:54] [TX] Found 50 item(s) on page.
+[2026-11-04 20:38:54] [TX] No new items.
+[2026-11-04 20:38:54] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-11-04 20:38:54]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-11-04 20:38:57]   Playwright loaded page: 'Press Releases - Utah Attorney General' (300697 chars)
+[2026-11-04 20:38:57]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-11-04 20:38:57] [UT] Found 50 item(s) on page.
+[2026-11-04 20:38:57] [UT] No new items.
+[2026-11-04 20:38:57] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-11-04 20:38:57] [VT] Found 50 item(s) on page.
+[2026-11-04 20:38:57] [VT] 1 new item(s):
+[2026-11-04 20:38:57]   NEW: Attorney General Clark Joins Bipartisan Effort Urging Congress to Pass Kids Online Safety Act | DateNovember 4, 2026 | https://ago.vermont.gov/blog/2026/11/04/attorney-general-clark-joins-bipartisan-effort-urging-congress-pass-kids-online-safety-act
+[2026-11-04 20:38:57] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-11-04 20:38:58] [VA] Found 50 item(s) on page.
+[2026-11-04 20:38:58] [VA] 2 new item(s):
+[2026-11-04 20:38:58]   NEW: Attorney General Jones Fights Against Proposed Unlawful Changes to 2030 Census |  | https://www.oag.state.va.us/media-center/news-releases/3150-attorney-general-jones-fights-against-proposed-unlawful-changes-to-2030-census
+[2026-11-04 20:38:58]   NEW: Attorney General Jones Statement on Virginia’s 2026 Election Results |  | https://www.oag.state.va.us/media-center/news-releases/3149-attorney-general-jones-statement-on-virginias-2026-election-results
+[2026-11-04 20:38:58] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-11-04 20:38:58] [WA] Found 15 item(s) on page.
+[2026-11-04 20:38:58] [WA] No new items.
+[2026-11-04 20:38:58] [WV] Fetching https://ago.wv.gov/news
+[2026-11-04 20:38:58]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-11-04 20:39:01]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55437 chars)
+[2026-11-04 20:39:01]   Playwright found 30 item(s) with configured selector
+[2026-11-04 20:39:01] [WV] Found 30 item(s) on page.
+[2026-11-04 20:39:01] [WV] No new items.
+[2026-11-04 20:39:01] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-04 20:39:01]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-04 20:39:05]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1593286 chars)
+[2026-11-04 20:39:05]   Playwright found 50 item(s) with configured selector
+[2026-11-04 20:39:05] [WI] Found 50 item(s) on page.
+[2026-11-04 20:39:05] [WI] 1 new item(s):
+[2026-11-04 20:39:05]   NEW: Milwaukee Man Sentenced to 20 Years in Prison for Stalking, Threats to Prosecutor and Witness |  | https://www.wisdoj.gov/PressReleases/press-release-lonny-mayer.pdf
+[2026-11-04 20:39:05] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-11-04 20:39:06] [WY] Found 2 item(s) on page.
+[2026-11-04 20:39:06] [WY] No new items.
+[2026-11-04 20:39:06] States with fetch errors: KS, NC, OK
+[2026-11-04 20:39:06] Sending email: 19 new item(s) across 13 state(s).
+[2026-11-04 20:39:06] ERROR sending email: Connection unexpectedly closed
+[2026-11-04 20:39:06] Done.
