@@ -12747,3 +12747,14 @@ Call log:
 [2026-11-04 07:10:24] Found 27 opinions on page.
 [2026-11-04 07:10:24] No new opinions.
 [2026-11-04 07:10:24] Done.
+[2026-11-04 15:38:02] Checking for new DE court opinions...
+[2026-11-04 15:38:02] Using Playwright to fetch opinions page...
+[2026-11-04 15:38:13] Playwright found 27 opinion(s).
+[2026-11-04 15:38:13] Found 27 opinions on page.
+[2026-11-04 15:38:13] 2 new opinion(s)!
+[2026-11-04 15:38:13]   NEW: [11/04/2026] [Supreme Court(Superior Court)] Lewis v. State | 26, 2026 | GriffithsJ.
+[2026-11-04 15:38:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403020
+[2026-11-04 15:38:13]   NEW: [11/03/2026] [Court of Chancery] In re Cloudflare, Inc. Stockholder Litigation | C.A. No. 2026-0772-JTL | Laster,V.C.
+[2026-11-04 15:38:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403030
+[2026-11-04 15:38:14] ERROR sending email: Connection unexpectedly closed
+[2026-11-04 15:38:14] Done.
