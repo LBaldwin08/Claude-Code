@@ -12758,3 +12758,20 @@ Call log:
 [2026-11-04 15:38:13]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403030
 [2026-11-04 15:38:14] ERROR sending email: Connection unexpectedly closed
 [2026-11-04 15:38:14] Done.
+[2026-11-04 21:40:43] Checking for new DE court opinions...
+[2026-11-04 21:40:43] Using Playwright to fetch opinions page...
+[2026-11-04 21:40:54] Playwright found 27 opinion(s).
+[2026-11-04 21:40:54] Found 27 opinions on page.
+[2026-11-04 21:40:54] 5 new opinion(s)!
+[2026-11-04 21:40:54]   NEW: [11/04/2026] [Superior Court] MOTLEY V. BAYHEALTH MEDICAL CENTER, INC, ET AL. | K26C-08-009 JJC | ClarkR.J.
+[2026-11-04 21:40:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403050
+[2026-11-04 21:40:54]   NEW: [11/02/2026] [Supreme Court(Court of Chancery)] Miller, Micheal, et al. vs. Mary Miller Paschal, et al. | 86, 2026 | LeGrowJ.
+[2026-11-04 21:40:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402960
+[2026-11-04 21:40:54]   NEW: [11/02/2026] [Supreme Court(Superior Court)] Logan v. State | 241, 2026 | LeGrowJ.
+[2026-11-04 21:40:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402970
+[2026-11-04 21:40:54]   NEW: [11/02/2026] [Supreme Court(Superior Court)] Roten v. State | 80, 2026 | TraynorJ.
+[2026-11-04 21:40:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403000
+[2026-11-04 21:40:54]   NEW: [11/02/2026] [Supreme Court(Superior Court)] Watson v. State | 158, 2026 | LeGrowJ.
+[2026-11-04 21:40:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402940
+[2026-11-04 21:40:54] ERROR sending email: Connection unexpectedly closed
+[2026-11-04 21:40:54] Done.
