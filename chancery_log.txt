@@ -12790,3 +12790,14 @@ Call log:
 [2026-11-05 08:59:02] Found 27 opinions on page.
 [2026-11-05 08:59:02] No new opinions.
 [2026-11-05 08:59:02] Done.
+[2026-11-05 17:11:32] Checking for new DE court opinions...
+[2026-11-05 17:11:32] Using Playwright to fetch opinions page...
+[2026-11-05 17:11:44] Playwright found 27 opinion(s).
+[2026-11-05 17:11:44] Found 27 opinions on page.
+[2026-11-05 17:11:44] 2 new opinion(s)!
+[2026-11-05 17:11:44]   NEW: [11/05/2026] [Superior Court] Charles B. Sanders v. Centurion of Delaware, LLC | N24C-06-145 KMM | MillerJ.
+[2026-11-05 17:11:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403070
+[2026-11-05 17:11:44]   NEW: [11/05/2026] [Supreme Court(Superior Court)] Miller v. State | 63, 2026 | SeitzC.J.
+[2026-11-05 17:11:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403080
+[2026-11-05 17:11:44] ERROR sending email: Connection unexpectedly closed
+[2026-11-05 17:11:44] Done.
