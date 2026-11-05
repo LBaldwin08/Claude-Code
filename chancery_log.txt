@@ -12775,3 +12775,12 @@ Call log:
 [2026-11-04 21:40:54]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=402940
 [2026-11-04 21:40:54] ERROR sending email: Connection unexpectedly closed
 [2026-11-04 21:40:54] Done.
+[2026-11-05 01:56:57] Checking for new DE court opinions...
+[2026-11-05 01:56:57] Using Playwright to fetch opinions page...
+[2026-11-05 01:57:10] Playwright found 27 opinion(s).
+[2026-11-05 01:57:10] Found 27 opinions on page.
+[2026-11-05 01:57:10] 1 new opinion(s)!
+[2026-11-05 01:57:10]   NEW: [11/04/2026] [Superior Court] Bryan Park Education LLC v. Masters Academy International, LLC and Cognita Limited | N26C-01-107 KMM CCLC | MillerJ.
+[2026-11-05 01:57:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403060
+[2026-11-05 01:57:10] ERROR sending email: Connection unexpectedly closed
+[2026-11-05 01:57:10] Done.
