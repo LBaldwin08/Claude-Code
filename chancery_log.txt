@@ -12801,3 +12801,16 @@ Call log:
 [2026-11-05 17:11:44]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403080
 [2026-11-05 17:11:44] ERROR sending email: Connection unexpectedly closed
 [2026-11-05 17:11:44] Done.
+[2026-11-05 22:44:36] Checking for new DE court opinions...
+[2026-11-05 22:44:36] Using Playwright to fetch opinions page...
+[2026-11-05 22:44:39] Playwright found 25 opinion(s).
+[2026-11-05 22:44:39] Found 25 opinions on page.
+[2026-11-05 22:44:39] 3 new opinion(s)!
+[2026-11-05 22:44:39]   NEW: [11/05/2026] [Court of Chancery] In re WideOpenWest, Inc. Stockholders' Litigation | C.A. No. 2026-0801-VCC | CookV.C.
+[2026-11-05 22:44:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403120
+[2026-11-05 22:44:39]   NEW: [11/05/2026] [Court of Chancery] Invictus Special Situations Master I, L.P. v. Invictus Global Management, LLC, et al., | C.A. No. 2023-1099-NAC | CookV.C.
+[2026-11-05 22:44:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403110
+[2026-11-05 22:44:39]   NEW: [11/05/2026] [Court of Chancery] Melissa Brandao v. HerdDogg Inc | C.A. No. 2026-0824-TJF | FoxM.
+[2026-11-05 22:44:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403130
+[2026-11-05 22:44:39] ERROR sending email: Connection unexpectedly closed
+[2026-11-05 22:44:40] Done.
