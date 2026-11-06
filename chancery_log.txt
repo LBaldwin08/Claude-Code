@@ -12826,3 +12826,22 @@ Call log:
 [2026-11-06 11:17:04] Found 25 opinions on page.
 [2026-11-06 11:17:04] No new opinions.
 [2026-11-06 11:17:04] Done.
+[2026-11-06 23:22:13] Checking for new DE court opinions...
+[2026-11-06 23:22:13] Using Playwright to fetch opinions page...
+[2026-11-06 23:22:17] Playwright found 25 opinion(s).
+[2026-11-06 23:22:17] Found 25 opinions on page.
+[2026-11-06 23:22:17] 6 new opinion(s)!
+[2026-11-06 23:22:17]   NEW: [11/06/2026] [Court of Chancery] Melissa Brandao v. HerdDogg Inc | C.A. No. 2026-0824-TJF | FoxM.
+[2026-11-06 23:22:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403180
+[2026-11-06 23:22:17]   NEW: [11/06/2026] [Superior Court] Mulberry Knoll Associates, LLC and J.G. Townsend, Jr. & Co. v. Sussex County Council | S26A-07-002 MHC | ConnerJ.
+[2026-11-06 23:22:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403140
+[2026-11-06 23:22:17]   NEW: [11/06/2026] [Supreme Court(Court of Chancery)] 826 Capital Holdings, LLC v. Zama Capital Master Fund, LP | 235, 2026 | SeitzC.J.
+[2026-11-06 23:22:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403170
+[2026-11-06 23:22:17]   NEW: [11/06/2026] [Supreme Court(Superior Court)] Massey v. State | 43, 2026 | TraynorJ.
+[2026-11-06 23:22:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403160
+[2026-11-06 23:22:17]   NEW: [11/05/2026] [Supreme Court(Superior Court)] Lindenberger v. State | 335, 2026 | GriffithsJ.
+[2026-11-06 23:22:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403090
+[2026-11-06 23:22:17]   NEW: [11/05/2026] [Supreme Court(Superior Court)] Reed v. State | 362, 2026 | GriffithsJ.
+[2026-11-06 23:22:17]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403100
+[2026-11-06 23:22:18] ERROR sending email: Connection unexpectedly closed
+[2026-11-06 23:22:18] Done.
