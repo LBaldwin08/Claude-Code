@@ -12820,3 +12820,9 @@ Call log:
 [2026-11-06 03:03:07] Found 25 opinions on page.
 [2026-11-06 03:03:07] No new opinions.
 [2026-11-06 03:03:07] Done.
+[2026-11-06 11:16:56] Checking for new DE court opinions...
+[2026-11-06 11:16:56] Using Playwright to fetch opinions page...
+[2026-11-06 11:17:04] Playwright found 25 opinion(s).
+[2026-11-06 11:17:04] Found 25 opinions on page.
+[2026-11-06 11:17:04] No new opinions.
+[2026-11-06 11:17:04] Done.
