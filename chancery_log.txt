@@ -12911,3 +12911,16 @@ Call log:
 [2026-11-09 08:19:16] Found 25 opinions on page.
 [2026-11-09 08:19:16] No new opinions.
 [2026-11-09 08:19:16] Done.
+[2026-11-09 19:00:36] Checking for new DE court opinions...
+[2026-11-09 19:00:36] Using Playwright to fetch opinions page...
+[2026-11-09 19:00:39] Playwright found 25 opinion(s).
+[2026-11-09 19:00:39] Found 25 opinions on page.
+[2026-11-09 19:00:39] 3 new opinion(s)!
+[2026-11-09 19:00:39]   NEW: [11/09/2026] [Court of Chancery] Nikita Bernstein v. MyJoVE Corporation | 2026-0301-DH (LWW) | WillV.C.
+[2026-11-09 19:00:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403210
+[2026-11-09 19:00:39]   NEW: [11/09/2026] [Court of Chancery] Stephen M. Esposito, et al. v. Drivers History Information Sales LLC, et al. | 2026-0579-DG(LWW) | WillV.C.
+[2026-11-09 19:00:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403200
+[2026-11-09 19:00:39]   NEW: [11/06/2026] [Supreme Court(Superior Court)] Silva, Wanda vs. Delaware Department of Labor | 374, 2026 | GriffithsJ.
+[2026-11-09 19:00:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403190
+[2026-11-09 19:00:40] ERROR sending email: Connection unexpectedly closed
+[2026-11-09 19:00:40] Done.
