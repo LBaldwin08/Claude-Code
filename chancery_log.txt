@@ -12924,3 +12924,16 @@ Call log:
 [2026-11-09 19:00:39]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403190
 [2026-11-09 19:00:40] ERROR sending email: Connection unexpectedly closed
 [2026-11-09 19:00:40] Done.
+[2026-11-10 01:55:18] Checking for new DE court opinions...
+[2026-11-10 01:55:18] Using Playwright to fetch opinions page...
+[2026-11-10 01:55:21] Playwright found 25 opinion(s).
+[2026-11-10 01:55:21] Found 25 opinions on page.
+[2026-11-10 01:55:21] 3 new opinion(s)!
+[2026-11-10 01:55:21]   NEW: [11/09/2026] [Superior Court] Edwards v. Integon Indemnity Corporation | N25C-06-114 SSA | AugusthyJ.
+[2026-11-10 01:55:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403260
+[2026-11-10 01:55:21]   NEW: [11/09/2026] [Superior Court] Matthews v. Amazon Fulfillment Center | N24C-05-002 MAH | HortonJ.
+[2026-11-10 01:55:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403270
+[2026-11-10 01:55:21]   NEW: [11/06/2026] [Supreme Court(Court of Chancery)] IN RE Cloudflare, Inc. Stockholders Litigation | 468, 2026 | GriffithsJ.
+[2026-11-10 01:55:21]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403250
+[2026-11-10 01:55:22] ERROR sending email: Connection unexpectedly closed
+[2026-11-10 01:55:22] Done.
