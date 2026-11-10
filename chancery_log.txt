@@ -12958,3 +12958,14 @@ Call log:
 [2026-11-10 17:11:23]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403220
 [2026-11-10 17:11:23] ERROR sending email: Connection unexpectedly closed
 [2026-11-10 17:11:23] Done.
+[2026-11-10 22:27:23] Checking for new DE court opinions...
+[2026-11-10 22:27:23] Using Playwright to fetch opinions page...
+[2026-11-10 22:27:29] Playwright found 25 opinion(s).
+[2026-11-10 22:27:29] Found 25 opinions on page.
+[2026-11-10 22:27:29] 2 new opinion(s)!
+[2026-11-10 22:27:29]   NEW: [11/10/2026] [Court of Chancery] Hugh Edmundson v. Theorem Technology, Inc. | C.A. No. 2026-0647-CDW (NAC) | CookV.C.
+[2026-11-10 22:27:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403300
+[2026-11-10 22:27:29]   NEW: [11/05/2026] [Justice Of The Peace Court] ADAMAX V3 LLC VS ALAN SCOTT AND BROOK COCHRAN | JP13-26-006765 | Three Judge PanelJ.
+[2026-11-10 22:27:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403310
+[2026-11-10 22:27:29] ERROR sending email: Connection unexpectedly closed
+[2026-11-10 22:27:29] Done.
