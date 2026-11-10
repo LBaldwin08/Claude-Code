@@ -43381,3 +43381,235 @@ Call log:
 [2026-11-09 23:08:29] Sending email: 21 new item(s) across 14 state(s).
 [2026-11-09 23:08:30] ERROR sending email: Connection unexpectedly closed
 [2026-11-09 23:08:30] Done.
+[2026-11-10 20:31:40] Checking for new AG press releases...
+[2026-11-10 20:31:40] Checking 50 state(s).
+[2026-11-10 20:31:40] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-11-10 20:31:40]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-11-10 20:31:43]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (244107 chars)
+[2026-11-10 20:31:43]   Playwright found 27 item(s) with configured selector
+[2026-11-10 20:31:43] [AL] Found 27 item(s) on page.
+[2026-11-10 20:31:43] [AL] 2 new item(s):
+[2026-11-10 20:31:43]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-co-leads-brief-urging-u-s-supreme-court-to-uphold-state-anti-dei-laws-for-public-universities/
+[2026-11-10 20:31:43]   NEW: Read More >> |  | https://www.alabamaag.gov/attorney-general-marshall-announces-court-of-criminal-appeals-upholds-capital-murder-conviction-in-houston-county/
+[2026-11-10 20:31:43] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-11-10 20:31:43] [AK] Found 50 item(s) on page.
+[2026-11-10 20:31:43] [AK] 2 new item(s):
+[2026-11-10 20:31:43]   NEW: Acting Attorney General Cori Mills Pushes Federal Government to Improve the Robocall Mitigation Database in Effort to Combat Illegal Robocalls |  | https://law.alaska.gov/releases/2026/111026-Robocalls.html
+[2026-11-10 20:31:43]   NEW: William John Sorenson Convicted of Two Counts of Sexual Abuse of a Minor in the First Degree |  | https://law.alaska.gov/releases/2026/110926-Sorenson.html
+[2026-11-10 20:31:43] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-11-10 20:31:43] [AZ] Found 10 item(s) on page.
+[2026-11-10 20:31:43] [AZ] No new items.
+[2026-11-10 20:31:43] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-11-10 20:31:44] [AR] Found 50 item(s) on page.
+[2026-11-10 20:31:44] [AR] No new items.
+[2026-11-10 20:31:44] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-11-10 20:31:45] [CA] Found 10 item(s) on page.
+[2026-11-10 20:31:45] [CA] 9 new item(s):
+[2026-11-10 20:31:45]   NEW: Attorney General Bonta to Congress: As Unaffordability Surges, States Must Retain the Power to Limit Interest Rates, Protect Consumers from Financial Exploitation | Tue, 10 Nov 2026 16:38:55 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-congress-unaffordability-surges-states-must-retain-power
+[2026-11-10 20:31:45]   NEW: Attorney General Bonta Alerts Businesses: It Remains Illegal to Bribe Public Officials | Tue, 10 Nov 2026 17:32:38 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-alerts-businesses-it-remains-illegal-bribe-public
+[2026-11-10 20:31:45]   NEW: Attorney General Bonta Confronts Trump Administration’s Continued Attempts to Prioritize Industry over Public Health and Safety in the Use of Nuclear Energy Technologies and Radioactive Materials | Tue, 10 Nov 2026 01:05:18 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-confronts-trump-administration%E2%80%99s-continued-attempts
+[2026-11-10 20:31:45]   NEW: Attorney General Bonta Fights Trump Administration Effort to Make Voting Harder for Certain U.S. Citizens Living Abroad | Tue, 10 Nov 2026 16:29:35 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-fights-trump-administration-effort-make-voting-harder
+[2026-11-10 20:31:45]   NEW: The Battle Continues: Attorney General Bonta Pushes Federal Government to  Combat Illegal Robocalls | Tue, 10 Nov 2026 16:11:33 +0000 | https://oag.ca.gov/news/press-releases/battle-continues-attorney-general-bonta-pushes-federal-government-combat-illegal
+[2026-11-10 20:31:45]   NEW: Attorney General Bonta Opposes Trump Administration’s Attempt to Impose Unlawful $100,000 Tax on International Students | Tue, 10 Nov 2026 02:22:56 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-opposes-trump-administration%E2%80%99s-attempt-impose-unlawful
+[2026-11-10 20:31:45]   NEW: Attorney General Bonta Briefs Court on Inhumane Conditions of Confinement at California City Detention Facility | Mon, 09 Nov 2026 21:35:32 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-briefs-court-inhumane-conditions-confinement-california
+[2026-11-10 20:31:45]   NEW: Attorney General Bonta Blocks Trump Administration’s Latest Attempt to Impose Unlawful Immigration Conditions on Public Safety Funding | Mon, 09 Nov 2026 23:20:41 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-blocks-trump-administration%E2%80%99s-latest-attempt-impose
+[2026-11-10 20:31:45]   NEW: Attorney General Bonta Strongly Opposes Trump Administration’s Efforts to Rescind Postal Service NEPA Regulations | Mon, 09 Nov 2026 21:07:52 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-strongly-opposes-trump-administration%E2%80%99s-efforts-rescind
+[2026-11-10 20:31:45] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-11-10 20:31:45] [CO] Found 50 item(s) on page.
+[2026-11-10 20:31:45] [CO] No new items.
+[2026-11-10 20:31:45] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-11-10 20:31:46] [CT] Found 33 item(s) on page.
+[2026-11-10 20:31:46] [CT] No new items.
+[2026-11-10 20:31:46] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-11-10 20:31:47] [DE] Found 300 item(s) on page.
+[2026-11-10 20:31:47] [DE] 1 new item(s):
+[2026-11-10 20:31:47]   NEW: AG Jennings joins $694 million multistate settlement with subprime auto lender Credit Acceptance Corporation | Thu, 17 Sep 2026 12:16:18 +0000 | https://news.delaware.gov/2026/09/17/ag-jennings-joins-694-million-multistate-settlement-with-subprime-auto-lender-credit-acceptance-corporation/
+[2026-11-10 20:31:47] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-11-10 20:31:47] [FL] Found 20 item(s) on page.
+[2026-11-10 20:31:47] [FL] No new items.
+[2026-11-10 20:31:47] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-11-10 20:31:48] [GA] Found 11 item(s) on page.
+[2026-11-10 20:31:48] [GA] No new items.
+[2026-11-10 20:31:48] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-11-10 20:31:48] [HI] Found 26 item(s) on page.
+[2026-11-10 20:31:48] [HI] No new items.
+[2026-11-10 20:31:48] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-10 20:31:48]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-10 20:31:51]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (69087 chars)
+[2026-11-10 20:31:51]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-11-10 20:31:51] [ID] Found 28 item(s) on page.
+[2026-11-10 20:31:51] [ID] 1 new item(s):
+[2026-11-10 20:31:51]   NEW: Nov 102026ICAC RELEASE: AG Labrador’s ICAC Unit Arrests Four in Child Exploitation Cases; Three Others Sentenced to Prison | Nov 102026 | https://www.ag.idaho.gov/newsroom/icac-release-ag-labradors-icac-unit-arrests-four-in-child-exploitation-cases-three-others-sentenced-to-prison/
+[2026-11-10 20:31:51] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-11-10 20:31:52] [IL] Found 50 item(s) on page.
+[2026-11-10 20:31:52] [IL] 2 new item(s):
+[2026-11-10 20:31:52]   NEW: November 10, 2026ATTORNEY GENERAL RAOUL WARNS VETERANS OF BUSINESSES CHARGING ILLEGAL FEES TO PROCESS DISABILITY BENEFITS CLAIMS | 2026-11-10 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-warns-veterans-of-businesses-charging-illegal-fees-to-process-disability-benefits-claims
+[2026-11-10 20:31:52]   NEW: November 10, 2026ATTORNEY GENERAL RAOUL CALLS ON TRUMP ADMINISTRATION TO STOP ITS RAPID AND DRASTIC OVERHAUL OF NUCLEAR ENERGY REGULATION | 2026-11-10 12:00 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-calls-on-trump-administration-to-stop-its-rapid-and-drastic-overhaul-of-nuclear-energy-regulation11.10.26
+[2026-11-10 20:31:52] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-11-10 20:31:53] [IN] Found 34 item(s) on page.
+[2026-11-10 20:31:53] [IN] No new items.
+[2026-11-10 20:31:53] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-11-10 20:31:53] [IA] Found 10 item(s) on page.
+[2026-11-10 20:31:53] [IA] 2 new item(s):
+[2026-11-10 20:31:53]   NEW: Attorney General Brenna Bird Pushes Federal Government to Improve the Robocall Mitigation Database to Combat Illegal Robocalls | November 10, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-pushes-federal-government-to-improve-the-robocall-mitigation-database-t/
+[2026-11-10 20:31:53]   NEW: Iowa Attorney General’s Office Concludes Officers Acted with Legal Justification in Cedar Rapids Shooting | November 10, 2026 | https://www.iowaattorneygeneral.gov/newsroom/iowa-attorney-generals-office-concludes-officers-acted-with-legal-justification-in-cedar-rapids-sho/
+[2026-11-10 20:31:53] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-10 20:31:53]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-10 20:31:56]   Playwright loaded page: 'Access Denied' (337 chars)
+[2026-11-10 20:31:56]   Playwright: page loaded but no links matched — check selectors
+[2026-11-10 20:31:56]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-11-10 20:31:56]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-10 20:32:17]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-10 20:32:37]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-10 20:32:37] [KS] No items returned (fetch failed or empty page).
+[2026-11-10 20:32:37] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-11-10 20:32:38] [KY] Found 27 item(s) on page.
+[2026-11-10 20:32:38] [KY] No new items.
+[2026-11-10 20:32:38] [LA] Fetching https://ag.louisiana.gov/News
+[2026-11-10 20:32:39] [LA] Found 20 item(s) on page.
+[2026-11-10 20:32:39] [LA] No new items.
+[2026-11-10 20:32:39] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-11-10 20:32:39] [ME] Found 20 item(s) on page.
+[2026-11-10 20:32:39] [ME] No new items.
+[2026-11-10 20:32:39] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-11-10 20:32:40] [MD] Found 50 item(s) on page.
+[2026-11-10 20:32:40] [MD] No new items.
+[2026-11-10 20:32:40] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-10 20:32:40]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-10 20:32:43]   Playwright loaded page: 'News and Announcements | Mass.gov' (179309 chars)
+[2026-11-10 20:32:43]   Playwright found 15 item(s) with configured selector
+[2026-11-10 20:32:43] [MA] Found 15 item(s) on page.
+[2026-11-10 20:32:43] [MA] 1 new item(s):
+[2026-11-10 20:32:43]   NEW: AG Campbell Issues 2026 Health Care Cost Trends Report Examining Primary Care Payments | 11/10/2026 | https://www.mass.gov/news/ag-campbell-issues-2026-health-care-cost-trends-report-examining-primary-care-payments
+[2026-11-10 20:32:43] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-11-10 20:32:43]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-11-10 20:32:46]   Playwright loaded page: 'Attorney General: Press Releases' (378741 chars)
+[2026-11-10 20:32:46]   Playwright found 10 item(s) with configured selector
+[2026-11-10 20:32:46] [MI] Found 10 item(s) on page.
+[2026-11-10 20:32:46] [MI] 1 new item(s):
+[2026-11-10 20:32:46]   NEW: Attorney General Nessel Urges Consumers to Do Their Homework Before Going Solar |  | https://www.michigan.gov/ag/news/press-releases/2026/11/10/attorney-general-nessel-urges-consumers-to-do-their-homework-before-going-solar
+[2026-11-10 20:32:46] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-11-10 20:32:46] [MN] Found 50 item(s) on page.
+[2026-11-10 20:32:46] [MN] No new items.
+[2026-11-10 20:32:46] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-11-10 20:32:47] [MS] Found 1 item(s) on page.
+[2026-11-10 20:32:47] [MS] 1 new item(s):
+[2026-11-10 20:32:47]   NEW: AG Fitch Calls on FCC to Improve the Robocall Mitigation Database (November 10, 2026) |  | https://attorneygenerallynnfitch.com/2026/11/10/ag-fitch-calls-on-fcc-to-improve-the-robocall-mitigation-database-november-10-2026/
+[2026-11-10 20:32:47] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-11-10 20:32:47] [MO] Found 50 item(s) on page.
+[2026-11-10 20:32:47] [MO] No new items.
+[2026-11-10 20:32:47] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-11-10 20:32:47] [MT] Found 10 item(s) on page.
+[2026-11-10 20:32:47] [MT] No new items.
+[2026-11-10 20:32:47] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-11-10 20:32:47] [NE] Found 10 item(s) on page.
+[2026-11-10 20:32:47] [NE] No new items.
+[2026-11-10 20:32:47] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-11-10 20:32:48] [NV] Found 50 item(s) on page.
+[2026-11-10 20:32:48] [NV] No new items.
+[2026-11-10 20:32:48] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-11-10 20:32:48]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-11-10 20:32:51]   Playwright loaded page: 'Access Denied' (312 chars)
+[2026-11-10 20:32:51]   Playwright: page loaded but no links matched — check selectors
+[2026-11-10 20:32:51]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-11-10 20:32:51]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-10 20:33:11]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-10 20:33:31]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-10 20:33:31] [NH] No items returned (fetch failed or empty page).
+[2026-11-10 20:33:31] [NJ] Fetching https://www.njoag.gov/news/
+[2026-11-10 20:33:33] [NJ] Found 5 item(s) on page.
+[2026-11-10 20:33:33] [NJ] 1 new item(s):
+[2026-11-10 20:33:33]   NEW: UPDATE: State Grand Jury Declines to Criminally Charge Law Enforcement Officer in Connection with February 20, 2026 Fatal Crash in Woodbridge, N.J. |  | https://www.njoag.gov/update-state-grand-jury-declines-to-criminally-charge-law-enforcement-officer-in-connection-with-february-20-2026-fatal-crash-in-woodbridge-n-j/
+[2026-11-10 20:33:33] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-11-10 20:33:34] [NM] Found 14 item(s) on page.
+[2026-11-10 20:33:34] [NM] No new items.
+[2026-11-10 20:33:34] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-11-10 20:33:34] [NY] Found 25 item(s) on page.
+[2026-11-10 20:33:34] [NY] 2 new item(s):
+[2026-11-10 20:33:34]   NEW: Attorney General James Expands Access to Mental Health and Substance Use Disorder Treatment for Millions of New Yorkers |  | https://ag.ny.gov/press-release/2026/attorney-general-james-expands-access-mental-health-and-substance-use-disorder
+[2026-11-10 20:33:34]   NEW: Attorney General James’ Office of Special Investigation Releases Report on Death of Damon Louther |  | https://ag.ny.gov/press-release/2026/attorney-general-james-office-special-investigation-releases-report-death-damon
+[2026-11-10 20:33:34] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-11-10 20:33:39]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-10 20:34:01]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-10 20:34:24]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-10 20:34:24] [NC] No items returned (fetch failed or empty page).
+[2026-11-10 20:34:24] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-11-10 20:34:24] [ND] Found 10 item(s) on page.
+[2026-11-10 20:34:24] [ND] No new items.
+[2026-11-10 20:34:24] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-11-10 20:34:25] [OH] Found 10 item(s) on page.
+[2026-11-10 20:34:25] [OH] 1 new item(s):
+[2026-11-10 20:34:25]   NEW: Law Enforcement Leaders Urge Legislators to Pass Public-Safety Bills | 11/10/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/November-2026/Law-Enforcement-Leaders-Urge-Legislators-to-Pass-P
+[2026-11-10 20:34:25] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-10 20:34:25]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-10 20:34:28]   Playwright loaded page: 'News Releases' (849284 chars)
+[2026-11-10 20:34:28]   Playwright: page loaded but no links matched — check selectors
+[2026-11-10 20:34:28]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-11-10 20:34:28] [OK] No items returned (fetch failed or empty page).
+[2026-11-10 20:34:28] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-11-10 20:34:29] [OR] Found 10 item(s) on page.
+[2026-11-10 20:34:29] [OR] 2 new item(s):
+[2026-11-10 20:34:29]   NEW: Tired of Robocalls? AG Rayfield Wants the FCC to Cut Scammers Off at the Source |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-pushes-fcc-to-cut-off-robocall-scammers/
+[2026-11-10 20:34:29]   NEW: AG Rayfield Leads Coalition Urging Congress to Reject Giveaway to Predatory Lenders |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-leads-coalition-urging-congress-to-reject-giveaway-to-predatory-lenders/
+[2026-11-10 20:34:29] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-11-10 20:34:30] [PA] Found 12 item(s) on page.
+[2026-11-10 20:34:30] [PA] No new items.
+[2026-11-10 20:34:30] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-11-10 20:34:31] [RI] Found 10 item(s) on page.
+[2026-11-10 20:34:31] [RI] No new items.
+[2026-11-10 20:34:31] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-11-10 20:34:31]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-11-10 20:34:34]   Playwright loaded page: 'News - South Carolina Attorney General' (109480 chars)
+[2026-11-10 20:34:34]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-11-10 20:34:34] [SC] Found 9 item(s) on page.
+[2026-11-10 20:34:34] [SC] No new items.
+[2026-11-10 20:34:34] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-11-10 20:34:34]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=11
+[2026-11-10 20:34:37]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-11-10 20:34:37]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-11-10 20:34:37] [SD] Found 1 item(s) on page.
+[2026-11-10 20:34:37] [SD] No new items.
+[2026-11-10 20:34:37] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-11-10 20:34:37]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: 403 Client Error: Forbidden for url: https://www.tn.gov/attorneygeneral/news.html
+[2026-11-10 20:34:58]   Attempt 2/3 failed for https://www.tn.gov/attorneygeneral/news.html: 403 Client Error: Forbidden for url: https://www.tn.gov/attorneygeneral/news.html
+[2026-11-10 20:35:18]   Attempt 3/3 failed for https://www.tn.gov/attorneygeneral/news.html: 403 Client Error: Forbidden for url: https://www.tn.gov/attorneygeneral/news.html
+[2026-11-10 20:35:18] [TN] No items returned (fetch failed or empty page).
+[2026-11-10 20:35:18] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-11-10 20:35:18] [TX] Found 50 item(s) on page.
+[2026-11-10 20:35:18] [TX] No new items.
+[2026-11-10 20:35:18] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-11-10 20:35:18]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-11-10 20:35:21]   Playwright loaded page: 'Press Releases - Utah Attorney General' (300515 chars)
+[2026-11-10 20:35:21]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-11-10 20:35:21] [UT] Found 50 item(s) on page.
+[2026-11-10 20:35:21] [UT] No new items.
+[2026-11-10 20:35:21] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-11-10 20:35:21] [VT] Found 50 item(s) on page.
+[2026-11-10 20:35:21] [VT] No new items.
+[2026-11-10 20:35:21] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-11-10 20:35:22] [VA] Found 50 item(s) on page.
+[2026-11-10 20:35:22] [VA] No new items.
+[2026-11-10 20:35:22] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-11-10 20:35:22] [WA] Found 15 item(s) on page.
+[2026-11-10 20:35:22] [WA] 2 new item(s):
+[2026-11-10 20:35:22]   NEW: AG Brown calls for additional revisions on permitting reform bill | Tue, 10 Nov 2026 19:49:28 +0000 | https://www.atg.wa.gov/news/news-releases/ag-brown-calls-additional-revisions-permitting-reform-bill
+[2026-11-10 20:35:22]   NEW: Washington sues the state’s two biggest dialysis companies over illegal noncompete requirements | Tue, 10 Nov 2026 16:49:10 +0000 | https://www.atg.wa.gov/news/news-releases/washington-sues-state-s-two-biggest-dialysis-companies-over-illegal-noncompete
+[2026-11-10 20:35:22] [WV] Fetching https://ago.wv.gov/news
+[2026-11-10 20:35:22]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-11-10 20:35:25]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55800 chars)
+[2026-11-10 20:35:25]   Playwright found 30 item(s) with configured selector
+[2026-11-10 20:35:25] [WV] Found 30 item(s) on page.
+[2026-11-10 20:35:25] [WV] No new items.
+[2026-11-10 20:35:25] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-10 20:35:25]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-10 20:35:29]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1595598 chars)
+[2026-11-10 20:35:29]   Playwright found 50 item(s) with configured selector
+[2026-11-10 20:35:29] [WI] Found 50 item(s) on page.
+[2026-11-10 20:35:29] [WI] No new items.
+[2026-11-10 20:35:29] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-11-10 20:35:30] [WY] Found 2 item(s) on page.
+[2026-11-10 20:35:30] [WY] No new items.
+[2026-11-10 20:35:30] States with fetch errors: KS, NH, NC, OK, TN
+[2026-11-10 20:35:30] Sending email: 30 new item(s) across 15 state(s).
+[2026-11-10 20:35:30] ERROR sending email: Connection unexpectedly closed
+[2026-11-10 20:35:30] Done.
