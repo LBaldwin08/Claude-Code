@@ -12943,3 +12943,18 @@ Call log:
 [2026-11-10 09:06:08] Found 25 opinions on page.
 [2026-11-10 09:06:08] No new opinions.
 [2026-11-10 09:06:08] Done.
+[2026-11-10 17:11:20] Checking for new DE court opinions...
+[2026-11-10 17:11:20] Using Playwright to fetch opinions page...
+[2026-11-10 17:11:23] Playwright found 25 opinion(s).
+[2026-11-10 17:11:23] Found 25 opinions on page.
+[2026-11-10 17:11:23] 4 new opinion(s)!
+[2026-11-10 17:11:23]   NEW: [11/10/2026] [Court of Chancery] George Assad v. Carine S. Clark, et al. | C.A. No. 2026-1264-BWD | David, Bonnie W.V.C.
+[2026-11-10 17:11:23]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403290
+[2026-11-10 17:11:23]   NEW: [11/09/2026] [Supreme Court(Family Court)] IMO the Petition of Douglas Graham for a Writ of Mandamus | 402, 2026 | LeGrowJ.
+[2026-11-10 17:11:23]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403240
+[2026-11-10 17:11:23]   NEW: [11/09/2026] [Supreme Court(Family Court)] IMO the Petition of Melissa Guzman for a Writ of Mandamus | 401, 2026 | LeGrowJ.
+[2026-11-10 17:11:23]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403230
+[2026-11-10 17:11:23]   NEW: [11/09/2026] [Supreme Court(Superior Court)] Hogan v. State | 44, 2026 | LeGrowJ.
+[2026-11-10 17:11:23]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403220
+[2026-11-10 17:11:23] ERROR sending email: Connection unexpectedly closed
+[2026-11-10 17:11:23] Done.
