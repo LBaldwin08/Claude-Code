@@ -12969,3 +12969,14 @@ Call log:
 [2026-11-10 22:27:29]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403310
 [2026-11-10 22:27:29] ERROR sending email: Connection unexpectedly closed
 [2026-11-10 22:27:29] Done.
+[2026-11-11 02:04:23] Checking for new DE court opinions...
+[2026-11-11 02:04:23] Using Playwright to fetch opinions page...
+[2026-11-11 02:04:27] Playwright found 25 opinion(s).
+[2026-11-11 02:04:27] Found 25 opinions on page.
+[2026-11-11 02:04:27] 2 new opinion(s)!
+[2026-11-11 02:04:27]   NEW: [11/10/2026] [Superior Court] Lapin v. White Collar Media LLC | K26C-03-004 JJC | ClarkR.J.
+[2026-11-11 02:04:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403330
+[2026-11-11 02:04:27]   NEW: [11/10/2026] [Superior Court] State v. Williams | 2506008056 | AugusthyJ.
+[2026-11-11 02:04:27]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403320
+[2026-11-11 02:04:27] ERROR sending email: Connection unexpectedly closed
+[2026-11-11 02:04:27] Done.
