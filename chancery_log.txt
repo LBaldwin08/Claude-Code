@@ -13013,3 +13013,18 @@ Call log:
 [2026-11-12 14:30:40]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403340
 [2026-11-12 14:30:41] ERROR sending email: Connection unexpectedly closed
 [2026-11-12 14:30:41] Done.
+[2026-11-12 21:41:06] Checking for new DE court opinions...
+[2026-11-12 21:41:06] Using Playwright to fetch opinions page...
+[2026-11-12 21:41:10] Playwright found 25 opinion(s).
+[2026-11-12 21:41:10] Found 25 opinions on page.
+[2026-11-12 21:41:10] 4 new opinion(s)!
+[2026-11-12 21:41:10]   NEW: [11/12/2026] [Court of Chancery] Minnie Sarwal v. Nephrosant, Inc. | C.A. No. 2023-0222-BWD | David, Bonnie W.V.C.
+[2026-11-12 21:41:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403370
+[2026-11-12 21:41:10]   NEW: [11/12/2026] [Court of Chancery] My Carrier, LLC v. Project 44, LLC | 2024-0705-KSJM | McCormick,C.
+[2026-11-12 21:41:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403350
+[2026-11-12 21:41:10]   NEW: [11/12/2026] [Supreme Court(Superior Court)] Martin v. State | 121, 2025 | SeitzC.J.
+[2026-11-12 21:41:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403360
+[2026-11-12 21:41:10]   NEW: [11/10/2026] [Supreme Court(Superior Court)] Barnett II v. State | 377, 2026 | GriffithsJ.
+[2026-11-12 21:41:10]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403280
+[2026-11-12 21:41:10] ERROR sending email: Connection unexpectedly closed
+[2026-11-12 21:41:10] Done.
