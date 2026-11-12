@@ -43827,3 +43827,233 @@ Call log:
 [2026-11-11 20:22:47] Sending email: 8 new item(s) across 8 state(s).
 [2026-11-11 20:22:47] ERROR sending email: Connection unexpectedly closed
 [2026-11-11 20:22:47] Done.
+[2026-11-12 20:59:27] Checking for new AG press releases...
+[2026-11-12 20:59:27] Checking 50 state(s).
+[2026-11-12 20:59:27] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-11-12 20:59:27]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-11-12 20:59:30]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (244107 chars)
+[2026-11-12 20:59:30]   Playwright found 27 item(s) with configured selector
+[2026-11-12 20:59:30] [AL] Found 27 item(s) on page.
+[2026-11-12 20:59:30] [AL] No new items.
+[2026-11-12 20:59:30] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-11-12 20:59:30] [AK] Found 50 item(s) on page.
+[2026-11-12 20:59:30] [AK] 1 new item(s):
+[2026-11-12 20:59:30]   NEW: Superior Court Upholds Division of Elections' Handling of Internal Absentee Ballot Reports |  | https://law.alaska.gov/releases/2026/111126-Elections.html
+[2026-11-12 20:59:30] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-11-12 20:59:31] [AZ] Found 10 item(s) on page.
+[2026-11-12 20:59:31] [AZ] No new items.
+[2026-11-12 20:59:31] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-11-12 20:59:32] [AR] Found 50 item(s) on page.
+[2026-11-12 20:59:32] [AR] No new items.
+[2026-11-12 20:59:32] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-11-12 20:59:32] [CA] Found 10 item(s) on page.
+[2026-11-12 20:59:32] [CA] No new items.
+[2026-11-12 20:59:32] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-11-12 20:59:32] [CO] Found 50 item(s) on page.
+[2026-11-12 20:59:32] [CO] No new items.
+[2026-11-12 20:59:32] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-11-12 20:59:33] [CT] Found 33 item(s) on page.
+[2026-11-12 20:59:33] [CT] 2 new item(s):
+[2026-11-12 20:59:33]   NEW: Attorney General Tong Announces $183.5 Million Multistate Settlement with Rent-to-Own Company Acima Digital | 11/12/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-announces-settlement-with-acima-digital
+[2026-11-12 20:59:33]   NEW: Attorney General Tong Opposes Trump Administration’s Attempt to Impose Unlawful $100,000 Tax on International Students | 11/12/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-opposes-attempt-to-impose-unlawful-tax-on-international-students
+[2026-11-12 20:59:33] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-11-12 20:59:34] [DE] Found 300 item(s) on page.
+[2026-11-12 20:59:34] [DE] 1 new item(s):
+[2026-11-12 20:59:34]   NEW: AG Jennings wins ruling protecting voters’ private information | Thu, 12 Nov 2026 04:11:45 +0000 | https://news.delaware.gov/2026/11/12/ag-jennings-wins-ruling-protecting-voters-private-information/
+[2026-11-12 20:59:34] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-11-12 20:59:34] [FL] Found 20 item(s) on page.
+[2026-11-12 20:59:34] [FL] No new items.
+[2026-11-12 20:59:34] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-11-12 20:59:35] [GA] Found 11 item(s) on page.
+[2026-11-12 20:59:35] [GA] 1 new item(s):
+[2026-11-12 20:59:35]   NEW: CONSUMER ALERT: Carr Warns Georgians About Counterfeit Medicines and Unsafe Online PharmaciesNovember 12, 2026 |  | https://law.georgia.gov/press-releases/2026-11-12/consumer-alert-carr-warns-georgians-about-counterfeit-medicines-and
+[2026-11-12 20:59:35] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-11-12 20:59:35] [HI] Found 26 item(s) on page.
+[2026-11-12 20:59:35] [HI] No new items.
+[2026-11-12 20:59:35] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-12 20:59:35]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-12 20:59:38]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (69056 chars)
+[2026-11-12 20:59:39]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-11-12 20:59:39] [ID] Found 28 item(s) on page.
+[2026-11-12 20:59:39] [ID] 1 new item(s):
+[2026-11-12 20:59:39]   NEW: Nov 122026AG Labrador Pushes Feds to Improve Robocall Mitigation Database in Effort to Combat Illegal Robocalls | Nov 122026 | https://www.ag.idaho.gov/newsroom/ag-labrador-pushes-feds-to-improve-robocall-mitigation-database-in-effort-to-combat-illegal-robocalls/
+[2026-11-12 20:59:39] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-11-12 20:59:40] [IL] Found 50 item(s) on page.
+[2026-11-12 20:59:40] [IL] 2 new item(s):
+[2026-11-12 20:59:40]   NEW: November 12, 2026ATTORNEY GENERAL RAOUL ANNOUNCES SUBURBAN CHICAGO MAN PLEADS GUILTY TO MEDICAID FRAUD, ORDERED TO PAY RESTITUTION | 2026-11-12 10:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-announces-suburban-chicago-man-pleads-guilty-to-medicaid-fraud-ordered-to-pay-restitution
+[2026-11-12 20:59:40]   NEW: November 10, 2026ATTORNEY GENERAL RAOUL PUSHES FEDERAL GOVERNMENT TO IMPROVE ROBOCALL MITIGATION DATABASE IN ONGOING EFFORT TO COMBAT ILLEGAL ROBOCALLS | 2026-11-12 10:30 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-pushes-federal-government-to-improve-robocall-mitigation-database-in-ongoing-effort-to-combat-illegal-robocalls
+[2026-11-12 20:59:40] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-11-12 20:59:41] [IN] Found 34 item(s) on page.
+[2026-11-12 20:59:41] [IN] No new items.
+[2026-11-12 20:59:41] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-11-12 20:59:41] [IA] Found 10 item(s) on page.
+[2026-11-12 20:59:41] [IA] 1 new item(s):
+[2026-11-12 20:59:41]   NEW: Attorney General Brenna Bird Announces Major Victory for Keeping Kids Safe in TikTok Lawsuit | November 12, 2026 | https://www.iowaattorneygeneral.gov/newsroom/attorney-general-brenna-bird-announces-major-victory-for-keeping-kids-safe-in-tiktok-lawsuit/
+[2026-11-12 20:59:41] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-12 20:59:41]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-12 20:59:44]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-11-12 20:59:44]   Playwright: page loaded but no links matched — check selectors
+[2026-11-12 20:59:44]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-11-12 20:59:44]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-12 21:00:05]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-12 21:00:25]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-12 21:00:25] [KS] No items returned (fetch failed or empty page).
+[2026-11-12 21:00:25] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-11-12 21:00:26] [KY] Found 27 item(s) on page.
+[2026-11-12 21:00:26] [KY] No new items.
+[2026-11-12 21:00:26] [LA] Fetching https://ag.louisiana.gov/News
+[2026-11-12 21:00:26] [LA] Found 20 item(s) on page.
+[2026-11-12 21:00:26] [LA] 1 new item(s):
+[2026-11-12 21:00:26]   NEW: AG Liz Murrill Announces 35 Arrests in Multi-Agency Operation Targeting Child Predators on Social Media | 11/12/2026 | https://ag.louisiana.gov/Article/656
+[2026-11-12 21:00:26] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-11-12 21:00:27] [ME] Found 20 item(s) on page.
+[2026-11-12 21:00:27] [ME] No new items.
+[2026-11-12 21:00:27] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-11-12 21:00:28] [MD] Found 50 item(s) on page.
+[2026-11-12 21:00:28] [MD] No new items.
+[2026-11-12 21:00:28] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-12 21:00:28]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-12 21:00:31]   Playwright loaded page: 'News and Announcements | Mass.gov' (179406 chars)
+[2026-11-12 21:00:31]   Playwright found 15 item(s) with configured selector
+[2026-11-12 21:00:31] [MA] Found 15 item(s) on page.
+[2026-11-12 21:00:31] [MA] 1 new item(s):
+[2026-11-12 21:00:31]   NEW: AG Campbell Secures More Than $11 Million In Lease Forgiveness And Restitution For Massachusetts Consumers In Multistate Settlement With Rent-To-Own Finance Company | 11/12/2026 | https://www.mass.gov/news/ag-campbell-secures-more-than-11-million-in-lease-forgiveness-and-restitution-for-massachusetts-consumers-in-multistate-settlement-with-rent-to-own-finance-company
+[2026-11-12 21:00:31] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-11-12 21:00:31]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-11-12 21:00:34]   Playwright loaded page: 'Attorney General: Press Releases' (378838 chars)
+[2026-11-12 21:00:34]   Playwright found 10 item(s) with configured selector
+[2026-11-12 21:00:34] [MI] Found 10 item(s) on page.
+[2026-11-12 21:00:34] [MI] No new items.
+[2026-11-12 21:00:34] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-11-12 21:00:35] [MN] Found 50 item(s) on page.
+[2026-11-12 21:00:35] [MN] No new items.
+[2026-11-12 21:00:35] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-11-12 21:00:35] [MS] Found 1 item(s) on page.
+[2026-11-12 21:00:35] [MS] No new items.
+[2026-11-12 21:00:35] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-11-12 21:00:35] [MO] Found 50 item(s) on page.
+[2026-11-12 21:00:35] [MO] No new items.
+[2026-11-12 21:00:35] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-11-12 21:00:35] [MT] Found 10 item(s) on page.
+[2026-11-12 21:00:35] [MT] No new items.
+[2026-11-12 21:00:35] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-11-12 21:00:36] [NE] Found 10 item(s) on page.
+[2026-11-12 21:00:36] [NE] 1 new item(s):
+[2026-11-12 21:00:36]   NEW: AG Hilgers Joins FTC Lawsuit Against Hims and Hers for Deceptive and Unlawful Privacy Practices | Thu, 12 Nov 2026 16:32:24 +0000 | https://ago.nebraska.gov/ag-hilgers-joins-ftc-lawsuit-against-hims-and-hers-deceptive-and-unlawful-privacy-practices
+[2026-11-12 21:00:36] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-11-12 21:00:36] [NV] Found 50 item(s) on page.
+[2026-11-12 21:00:36] [NV] No new items.
+[2026-11-12 21:00:36] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-11-12 21:00:36]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-11-12 21:00:39]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-11-12 21:00:39]   Playwright: page loaded but no links matched — check selectors
+[2026-11-12 21:00:39]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-11-12 21:00:39]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-12 21:00:59]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-12 21:01:19]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-12 21:01:19] [NH] No items returned (fetch failed or empty page).
+[2026-11-12 21:01:19] [NJ] Fetching https://www.njoag.gov/news/
+[2026-11-12 21:01:21] [NJ] Found 5 item(s) on page.
+[2026-11-12 21:01:21] [NJ] 1 new item(s):
+[2026-11-12 21:01:21]   NEW: Attorney General Davenport Announces $183.5 Million Multistate Settlement with Rent-to-Own Finance Company Acima Digital, LLC |  | https://www.njoag.gov/attorney-general-davenport-announces-183-5-million-multistate-settlement-with-rent-to-own-finance-company-acima-digital-llc/
+[2026-11-12 21:01:21] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-11-12 21:01:22] [NM] Found 13 item(s) on page.
+[2026-11-12 21:01:22] [NM] No new items.
+[2026-11-12 21:01:22] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-11-12 21:01:22] [NY] Found 25 item(s) on page.
+[2026-11-12 21:01:22] [NY] 1 new item(s):
+[2026-11-12 21:01:22]   NEW: Attorney General James Protects New York City Tenants’ Right to Rent Regulation |  | https://ag.ny.gov/press-release/2026/attorney-general-james-protects-new-york-city-tenants-right-rent-regulation
+[2026-11-12 21:01:22] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-11-12 21:01:25]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-12 21:01:47]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-12 21:02:10]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-12 21:02:10] [NC] No items returned (fetch failed or empty page).
+[2026-11-12 21:02:10] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-11-12 21:02:10] [ND] Found 10 item(s) on page.
+[2026-11-12 21:02:10] [ND] No new items.
+[2026-11-12 21:02:10] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-11-12 21:02:11] [OH] Found 10 item(s) on page.
+[2026-11-12 21:02:11] [OH] 3 new item(s):
+[2026-11-12 21:02:11]   NEW: 17 Indicted in Schemes to Defraud Labor Union of Education Benefits | 11/12/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/November-2026/17-Indicted-in-Schemes-to-Defraud-Labor-Union-of-E
+[2026-11-12 21:02:11]   NEW: AG Wilson Announces $183.5 Million Multistate Settlement With Rent-to-Own Company | 11/12/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/November-2026/AG-Wilson-Announces-$183-5-Million-Multistate-Sett
+[2026-11-12 21:02:11]   NEW: Ohio, 16 Other States Join FTC in $63 Million Settlement Over Ongoing Deceptive Pricing at Family Dollar Stores | 11/12/2026 | https://www.ohioattorneygeneral.gov/Media/News-Releases/November-2026/Ohio-16-Other-States-Join-FTC-in-$63-Million-Settl
+[2026-11-12 21:02:11] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-12 21:02:11]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-12 21:02:14]   Playwright loaded page: 'News Releases' (849284 chars)
+[2026-11-12 21:02:14]   Playwright: page loaded but no links matched — check selectors
+[2026-11-12 21:02:14]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-11-12 21:02:14] [OK] No items returned (fetch failed or empty page).
+[2026-11-12 21:02:14] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-11-12 21:02:15] [OR] Found 10 item(s) on page.
+[2026-11-12 21:02:15] [OR] 3 new item(s):
+[2026-11-12 21:02:15]   NEW: Oregon DOJ Secures 27-Year Sentence in North Bend Child Exploitation Case |  | https://www.doj.state.or.us/media-home/news-media-releases/oregon-doj-secures-27-year-sentence-in-north-bend-child-exploitation-case/
+[2026-11-12 21:02:15]   NEW: Attorney General Rayfield Announces $183.5 Million Settlement  with Rent-to-Own Company Acima |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-announces-183-5m-settlement-with-rent-to-own-company-acima/
+[2026-11-12 21:02:15]   NEW: AG Rayfield: Veterans Who Paid for Help with VA Disability  Claims May Be Owed Money |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-veterans-who-paid-for-help-with-va-disability-claims-may-be-owed-money/
+[2026-11-12 21:02:15] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-11-12 21:02:16] [PA] Found 12 item(s) on page.
+[2026-11-12 21:02:16] [PA] 2 new item(s):
+[2026-11-12 21:02:16]   NEW: Press ReleaseNOV 12, 2026Attorney General Sunday Announces $183.5 Million Multistate Settlement with Rent-to-Own Finance Company Acima DigitalPennsylvania to receive more than $1.6 million in restitution and $3.6 million in lease forgiveness for consumers  HARRISBURG – Attorney General Dave Sunday announced a $183.5 million multistate…Read more | 2026-11-12T12:52:24-05:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-announces-183-5-million-multistate-settlement-with-rent-to-own-finance-company-acima-digital/
+[2026-11-12 21:02:16]   NEW: Fraud Protection & Consumer AlertsNOV 12, 2026AG Sunday Advises Pa. Veterans of Trajector’s Bankruptcy Filing; Anyone who Paid for Services Should Consider Filing a ClaimHARRISBURG – Attorney General Dave Sunday is alerting veterans that a Florida-based company who charged veterans to assist with obtaining federal veterans benefits has filed Chapter 11 bankruptcy…Read more | 2026-11-12T09:52:21-05:00 | https://www.attorneygeneral.gov/taking-action/ag-sunday-advises-pa-veterans-of-trajectors-bankruptcy-filing-anyone-who-paid-for-services-should-consider-filing-a-claim/
+[2026-11-12 21:02:16] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-11-12 21:02:17] [RI] Found 10 item(s) on page.
+[2026-11-12 21:02:17] [RI] No new items.
+[2026-11-12 21:02:17] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-11-12 21:02:17]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-11-12 21:02:20]   Playwright loaded page: 'News - South Carolina Attorney General' (109556 chars)
+[2026-11-12 21:02:20]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-11-12 21:02:20] [SC] Found 9 item(s) on page.
+[2026-11-12 21:02:20] [SC] 1 new item(s):
+[2026-11-12 21:02:20]   NEW: Attorney General Alan Wilson announces in-home caregiver charged with stealing from vulnerable adultRead More | Nov 12, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-in-home-caregiver-charged-with-stealing-from-vulnerable-adult/
+[2026-11-12 21:02:20] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-11-12 21:02:20]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=11
+[2026-11-12 21:02:23]   Playwright loaded page: 'South Dakota Attorney General' (36353 chars)
+[2026-11-12 21:02:23]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-11-12 21:02:23] [SD] Found 1 item(s) on page.
+[2026-11-12 21:02:23] [SD] No new items.
+[2026-11-12 21:02:23] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-11-12 21:02:24]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-11-12 21:02:44] [TN] Found 50 item(s) on page.
+[2026-11-12 21:02:44] [TN] 1 new item(s):
+[2026-11-12 21:02:44]   NEW: ennessee Attorney General Announces $183.5 Million Multistate Settlement With Rent-To-Own Finance Company Acima Digital, LLC |  | https://www.tn.gov/attorneygeneral/news/2026/11/12/tennessee-attorney-general-announces--183-5-million-multistate-settlement-with-rent-to-own-finance-company-acima-digital--llc.html
+[2026-11-12 21:02:44] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-11-12 21:02:44] [TX] Found 50 item(s) on page.
+[2026-11-12 21:02:44] [TX] No new items.
+[2026-11-12 21:02:44] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-11-12 21:02:44]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-11-12 21:02:47]   Playwright loaded page: 'Press Releases - Utah Attorney General' (300401 chars)
+[2026-11-12 21:02:48]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-11-12 21:02:48] [UT] Found 50 item(s) on page.
+[2026-11-12 21:02:48] [UT] No new items.
+[2026-11-12 21:02:48] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-11-12 21:02:48] [VT] Found 50 item(s) on page.
+[2026-11-12 21:02:48] [VT] No new items.
+[2026-11-12 21:02:48] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-11-12 21:02:49] [VA] Found 50 item(s) on page.
+[2026-11-12 21:02:49] [VA] No new items.
+[2026-11-12 21:02:49] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-11-12 21:02:49] [WA] Found 15 item(s) on page.
+[2026-11-12 21:02:49] [WA] No new items.
+[2026-11-12 21:02:49] [WV] Fetching https://ago.wv.gov/news
+[2026-11-12 21:02:49]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-11-12 21:02:52]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55800 chars)
+[2026-11-12 21:02:52]   Playwright found 30 item(s) with configured selector
+[2026-11-12 21:02:52] [WV] Found 30 item(s) on page.
+[2026-11-12 21:02:52] [WV] No new items.
+[2026-11-12 21:02:52] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-12 21:02:52]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-12 21:03:22]   Playwright error for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx", waiting until "domcontentloaded"
+
+[2026-11-12 21:03:22]   [WI] Playwright fetch failed, falling back to regular scrape
+[2026-11-12 21:03:38]   Attempt 1/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7665521e3ef0>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-11-12 21:04:14]   Attempt 2/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7665522fab10>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-11-12 21:04:50]   Attempt 3/3 failed for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx: HTTPSConnectionPool(host='www.wisdoj.gov', port=443): Max retries exceeded with url: /Pages/AboutUs/press-releases.aspx (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.wisdoj.gov', port=443) at 0x7665522f9d90>, 'Connection to www.wisdoj.gov timed out. (connect timeout=15)'))
+[2026-11-12 21:04:50] [WI] No items returned (fetch failed or empty page).
+[2026-11-12 21:04:50] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-11-12 21:04:50] [WY] Found 2 item(s) on page.
+[2026-11-12 21:04:50] [WY] No new items.
+[2026-11-12 21:04:50] States with fetch errors: KS, NH, NC, OK, WI
+[2026-11-12 21:04:50] Sending email: 24 new item(s) across 17 state(s).
+[2026-11-12 21:04:50] ERROR sending email: Connection unexpectedly closed
+[2026-11-12 21:04:50] Done.
