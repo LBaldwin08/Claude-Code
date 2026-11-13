@@ -13040,3 +13040,12 @@ Call log:
 [2026-11-13 09:49:44] Found 25 opinions on page.
 [2026-11-13 09:49:44] No new opinions.
 [2026-11-13 09:49:44] Done.
+[2026-11-13 17:27:40] Checking for new DE court opinions...
+[2026-11-13 17:27:40] Using Playwright to fetch opinions page...
+[2026-11-13 17:27:43] Playwright found 25 opinion(s).
+[2026-11-13 17:27:43] Found 25 opinions on page.
+[2026-11-13 17:27:43] 1 new opinion(s)!
+[2026-11-13 17:27:43]   NEW: [11/13/2026] [Court of Chancery] Holmwood Capital Advisors, LLC, and Holmwood Capital, LLC v. HC Government Realty Holdings, L.P., et al. | C.A. No. 2020-0373-BWD | David, Bonnie W.V.C.
+[2026-11-13 17:27:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403380
+[2026-11-13 17:27:44] ERROR sending email: Connection unexpectedly closed
+[2026-11-13 17:27:44] Done.
