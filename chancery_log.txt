@@ -13133,3 +13133,20 @@ Call log:
 [2026-11-16 16:54:09]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403430
 [2026-11-16 16:54:09] ERROR sending email: Connection unexpectedly closed
 [2026-11-16 16:54:09] Done.
+[2026-11-17 00:37:41] Checking for new DE court opinions...
+[2026-11-17 00:37:41] Using Playwright to fetch opinions page...
+[2026-11-17 00:37:47] Playwright found 25 opinion(s).
+[2026-11-17 00:37:47] Found 25 opinions on page.
+[2026-11-17 00:37:47] 5 new opinion(s)!
+[2026-11-17 00:37:47]   NEW: [11/16/2026] [Superior Court] LG Electronics Inc. v. Invention Investment Fund I, L.P., et al | N22C-11-145 SKR | RennieJ.
+[2026-11-17 00:37:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403460
+[2026-11-17 00:37:47]   NEW: [11/16/2026] [Superior Court] State v. Hicks | 2508010938 | ConnerJ.
+[2026-11-17 00:37:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403470
+[2026-11-17 00:37:47]   NEW: [11/16/2026] [Superior Court] State v. Horsey | 2402004666, 2405010706 | ConnerJ.
+[2026-11-17 00:37:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403480
+[2026-11-17 00:37:47]   NEW: [11/16/2026] [Supreme Court(Court of Chancery)] StarTop Investments, LLC vs. NICbyte LLC, et al. and Wishon Row, LLC, et al. | 217, 2026 | TraynorJ.
+[2026-11-17 00:37:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403450
+[2026-11-17 00:37:47]   NEW: [11/10/2026] [Superior Court] State v. Walker | 1007020527 | ParkerC.
+[2026-11-17 00:37:47]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403440
+[2026-11-17 00:37:48] ERROR sending email: Connection unexpectedly closed
+[2026-11-17 00:37:48] Done.
