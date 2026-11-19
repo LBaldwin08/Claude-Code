@@ -13228,3 +13228,24 @@ Call log:
 [2026-11-19 15:04:52]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403640
 [2026-11-19 15:04:52] ERROR sending email: Connection unexpectedly closed
 [2026-11-19 15:04:52] Done.
+[2026-11-19 22:43:35] Checking for new DE court opinions...
+[2026-11-19 22:43:35] Using Playwright to fetch opinions page...
+[2026-11-19 22:43:43] Playwright found 25 opinion(s).
+[2026-11-19 22:43:43] Found 25 opinions on page.
+[2026-11-19 22:43:43] 7 new opinion(s)!
+[2026-11-19 22:43:43]   NEW: [11/19/2026] [Court of Chancery] Rail Engineering Solutions, LLC, et al. v. Romic Group Limited, et al. | C.A. No. 2025-0782 DJB | BrennanJ.
+[2026-11-19 22:43:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403730
+[2026-11-19 22:43:43]   NEW: [11/19/2026] [Superior Court] Romic Group Limited v. Rail Engineering Solutions, LLC v. Coleman | N24C-12-311 DJB | BrennanJ.
+[2026-11-19 22:43:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403720
+[2026-11-19 22:43:43]   NEW: [11/19/2026] [Superior Court] State v. Edelin | 1912028616, 1912028560, 1912029331 | SalomoneC.
+[2026-11-19 22:43:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403710
+[2026-11-19 22:43:43]   NEW: [11/19/2026] [Supreme Court(Court of Chancery)] Raja Venkatesh vs. Prasad Gundumogula | 101, 2026 | LeGrowJ.
+[2026-11-19 22:43:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403690
+[2026-11-19 22:43:43]   NEW: [11/19/2026] [Supreme Court(Superior Court)] Dredden v. State | 406, 2025 | LeGrowJ.
+[2026-11-19 22:43:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403680
+[2026-11-19 22:43:43]   NEW: [11/18/2026] [Supreme Court(Family Court)] Richard Brunson Jr. vs. Katherine Enoch | 193, 2026 | GriffithsJ.
+[2026-11-19 22:43:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403560
+[2026-11-19 22:43:43]   NEW: [11/16/2026] [Court of Common Pleas] Roberta Crawford v. LVNV Funding, LLC | CPU4-26-003369 | DanbergC.J.
+[2026-11-19 22:43:43]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403670
+[2026-11-19 22:43:43] ERROR sending email: Connection unexpectedly closed
+[2026-11-19 22:43:43] Done.
