@@ -13217,3 +13217,14 @@ Call log:
 [2026-11-19 05:35:07] Found 25 opinions on page.
 [2026-11-19 05:35:07] No new opinions.
 [2026-11-19 05:35:07] Done.
+[2026-11-19 15:04:49] Checking for new DE court opinions...
+[2026-11-19 15:04:49] Using Playwright to fetch opinions page...
+[2026-11-19 15:04:52] Playwright found 25 opinion(s).
+[2026-11-19 15:04:52] Found 25 opinions on page.
+[2026-11-19 15:04:52] 2 new opinion(s)!
+[2026-11-19 15:04:52]   NEW: [11/19/2026] [Supreme Court(Court of Chancery)] CHP III, L.P. v. Benjamin F. Cravatt, et al. | 70, 2026 | ZurnJ.
+[2026-11-19 15:04:52]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403630
+[2026-11-19 15:04:52]   NEW: [11/18/2026] [Superior Court] WSFS, F.S.B. v. Wahl, III, et al. | N24J-01079 SPL | LuggJ.
+[2026-11-19 15:04:52]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403640
+[2026-11-19 15:04:52] ERROR sending email: Connection unexpectedly closed
+[2026-11-19 15:04:52] Done.
