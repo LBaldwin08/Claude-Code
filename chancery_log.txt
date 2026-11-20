@@ -13261,3 +13261,26 @@ Call log:
 [2026-11-20 12:26:35] Found 25 opinions on page.
 [2026-11-20 12:26:35] No new opinions.
 [2026-11-20 12:26:35] Done.
+[2026-11-20 20:37:56] Checking for new DE court opinions...
+[2026-11-20 20:37:56] Using Playwright to fetch opinions page...
+[2026-11-20 20:38:01] Playwright found 25 opinion(s).
+[2026-11-20 20:38:01] Found 25 opinions on page.
+[2026-11-20 20:38:01] 8 new opinion(s)!
+[2026-11-20 20:38:01]   NEW: [11/20/2026] [Court of Chancery] Bradley K. Heppner v. Beneficient Company Holdings, L.P., Beneficient Company Group, L.L.C., and Beneficient f/k/a The Beneficient Company Group, L.P. | C.A. No. 2026-0749-DH | Hume, IVM.
+[2026-11-20 20:38:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403740
+[2026-11-20 20:38:01]   NEW: [11/20/2026] [Court of Chancery] Corcept Therapeutics Inc. v. Optime Care, Inc., et al. | C.A. No. 2025-1249-KSJM | McCormick,C.
+[2026-11-20 20:38:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403770
+[2026-11-20 20:38:01]   NEW: [11/20/2026] [Superior Court] State v. Clark | 2305013446 | Green-StreettJ.
+[2026-11-20 20:38:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403760
+[2026-11-20 20:38:01]   NEW: [11/19/2026] [Supreme Court(Court of Common Pleas)] Kostyshyn v. State | 452, 2026 | ZurnJ.
+[2026-11-20 20:38:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403610
+[2026-11-20 20:38:01]   NEW: [11/19/2026] [Supreme Court(Family Court)] Robinson, Jacob Luca Jr. vs. Audrey Robinson | 341,2026 | ZurnJ.
+[2026-11-20 20:38:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403650
+[2026-11-20 20:38:01]   NEW: [11/19/2026] [Supreme Court(Superior Court)] Kostyshyn, Patricia, et al., vs. New Castle County, a political subdivision of the State of Delaware | 399, 2026 | ZurnJ.
+[2026-11-20 20:38:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403620
+[2026-11-20 20:38:01]   NEW: [11/19/2026] [Supreme Court(Superior Court)] Payne v. State | 68, 2025 | TraynorJ.
+[2026-11-20 20:38:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403660
+[2026-11-20 20:38:01]   NEW: [11/19/2026] [Supreme Court(Superior Court)] Shah v. State | 460, 2026 | ZurnJ.
+[2026-11-20 20:38:01]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403700
+[2026-11-20 20:38:01] ERROR sending email: Connection unexpectedly closed
+[2026-11-20 20:38:01] Done.
