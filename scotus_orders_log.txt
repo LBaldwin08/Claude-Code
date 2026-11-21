@@ -1568,3 +1568,10 @@
 [2026-11-20 21:39:19]        https://www.supremecourt.gov/orders/courtorders/111926zr1_2dp3.pdf
 [2026-11-20 21:39:19] ERROR sending email: Connection unexpectedly closed
 [2026-11-20 21:39:19] Done.
+[2026-11-21 20:20:19] Checking for new Supreme Court orders...
+[2026-11-21 20:20:19] Using Playwright to fetch https://www.supremecourt.gov/orders/ordersofthecourt/
+[2026-11-21 20:20:22] Could not detect term URL from index; using computed: https://www.supremecourt.gov/orders/ordersofthecourt/26
+[2026-11-21 20:20:25] Playwright found 21 order(s).
+[2026-11-21 20:20:25] Found 21 order(s) on page.
+[2026-11-21 20:20:25] No new orders.
+[2026-11-21 20:20:25] Done.
