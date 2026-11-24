@@ -13344,3 +13344,20 @@ Call log:
 [2026-11-23 13:28:28] Found 25 opinions on page.
 [2026-11-23 13:28:28] No new opinions.
 [2026-11-23 13:28:28] Done.
+[2026-11-24 01:07:58] Checking for new DE court opinions...
+[2026-11-24 01:07:58] Using Playwright to fetch opinions page...
+[2026-11-24 01:08:03] Playwright found 25 opinion(s).
+[2026-11-24 01:08:03] Found 25 opinions on page.
+[2026-11-24 01:08:03] 5 new opinion(s)!
+[2026-11-24 01:08:03]   NEW: [11/23/2026] [Court of Chancery] Swan Practice Holdings, P.C. v. Young-Jik Lee | C.A. No. 2026-0786-BWD | David, Bonnie W.V.C.
+[2026-11-24 01:08:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403810
+[2026-11-24 01:08:03]   NEW: [11/23/2026] [Superior Court] C3.AI Inc. v. Cummins, Inc. | N23C-11-106 EMD CCLD | DavisP.J.
+[2026-11-24 01:08:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403800
+[2026-11-24 01:08:03]   NEW: [11/23/2026] [Superior Court] Christian Grace LLC v. Jennings, et al. | S26C-06-015 RHR | RobinsonJ.
+[2026-11-24 01:08:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403820
+[2026-11-24 01:08:03]   NEW: [11/23/2026] [Superior Court] Motley v. Bayhealth Medical Center, Inc., et al. | K26C-08-009 JJC | ClarkR.J.
+[2026-11-24 01:08:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403790
+[2026-11-24 01:08:03]   NEW: [11/20/2026] [Supreme Court(Superior Court)] Mumford v. State | 347, 2026 | ZurnJ.
+[2026-11-24 01:08:03]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403750
+[2026-11-24 01:08:04] ERROR sending email: Connection unexpectedly closed
+[2026-11-24 01:08:04] Done.
