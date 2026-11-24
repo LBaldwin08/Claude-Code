@@ -46292,3 +46292,247 @@ Call log:
 [2026-11-22 20:29:38] States with fetch errors: KS, NH, NC, OK, TN
 [2026-11-22 20:29:38] No new press releases found.
 [2026-11-22 20:29:38] Done.
+[2026-11-24 01:06:40] Checking for new AG press releases...
+[2026-11-24 01:06:40] Checking 50 state(s).
+[2026-11-24 01:06:40] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-11-24 01:06:40]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-11-24 01:06:43]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (244086 chars)
+[2026-11-24 01:06:44]   Playwright found 27 item(s) with configured selector
+[2026-11-24 01:06:44] [AL] Found 27 item(s) on page.
+[2026-11-24 01:06:44] [AL] No new items.
+[2026-11-24 01:06:44] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-11-24 01:06:44] [AK] Found 50 item(s) on page.
+[2026-11-24 01:06:44] [AK] No new items.
+[2026-11-24 01:06:44] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-11-24 01:06:44] [AZ] Found 10 item(s) on page.
+[2026-11-24 01:06:44] [AZ] 1 new item(s):
+[2026-11-24 01:06:44]   NEW: Attorney General Mayes Sues to Block Federal Rule that Would Force Families Out of Their Homes |  | https://www.azag.gov/press-release/attorney-general-mayes-sues-block-federal-rule-would-force-families-out-their-homes
+[2026-11-24 01:06:44] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-11-24 01:06:45] [AR] Found 50 item(s) on page.
+[2026-11-24 01:06:45] [AR] No new items.
+[2026-11-24 01:06:45] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-11-24 01:06:45] [CA] Found 10 item(s) on page.
+[2026-11-24 01:06:45] [CA] 5 new item(s):
+[2026-11-24 01:06:45]   NEW: Attorney General Bonta Secures $36 Million Settlement Holding Healthcare Provider Accountable for Failure to Provide Timely Medical Care to Seniors | Mon, 23 Nov 2026 22:53:21 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-36-million-settlement-holding-healthcare-provider
+[2026-11-24 01:06:45]   NEW: Attorney General Bonta Files Amicus Brief in Epic v. Apple, Asks U.S. Supreme Court to Affirm That Apple Cannot Sidestep Court Order | Mon, 23 Nov 2026 20:30:43 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-amicus-brief-epic-v-apple-asks-us-supreme-court
+[2026-11-24 01:06:45]   NEW: Attorney General Bonta Secures Eight-Year Prison Sentence for Organizer of a Diesel Fuel Tax Evasion Scheme | Mon, 23 Nov 2026 20:23:15 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-secures-eight-year-prison-sentence-organizer-diesel-fuel
+[2026-11-24 01:06:45]   NEW: California Department of Justice Investigating Oakland Police Department Officer-Involved Shooting Under AB 1506 | Mon, 23 Nov 2026 17:50:10 +0000 | https://oag.ca.gov/news/press-releases/california-department-justice-investigating-oakland-police-department-officer
+[2026-11-24 01:06:45]   NEW: Attorney General Bonta Files Lawsuit Against Federal Efforts to Strip Housing Support for Mixed-Status Immigrant Households | Sun, 22 Nov 2026 22:09:18 +0000 | https://oag.ca.gov/news/press-releases/attorney-general-bonta-files-lawsuit-against-federal-efforts-strip-housing
+[2026-11-24 01:06:45] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-11-24 01:06:45] [CO] Found 50 item(s) on page.
+[2026-11-24 01:06:45] [CO] No new items.
+[2026-11-24 01:06:45] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-11-24 01:06:46] [CT] Found 33 item(s) on page.
+[2026-11-24 01:06:46] [CT] 1 new item(s):
+[2026-11-24 01:06:46]   NEW: Attorney General Tong Sues to Protect Housing Assistance for Mixed-Status Families | 11/23/2026 | https://portal.ct.gov/ag/press-releases/2026-press-releases/attorney-general-tong-sues-to-protect-housing-assistance-for-mixed-status-families
+[2026-11-24 01:06:46] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-11-24 01:06:46] [DE] Found 300 item(s) on page.
+[2026-11-24 01:06:46] [DE] No new items.
+[2026-11-24 01:06:46] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-11-24 01:06:46] [FL] Found 20 item(s) on page.
+[2026-11-24 01:06:46] [FL] 1 new item(s):
+[2026-11-24 01:06:46]   NEW: Attorney General James Uthmeier and FDACS Commissioner Wilton Simpson Announce Arrests, Charges in Ali Meat Animal Cruelty Crackdown | 2026-11-23T16:18:00Z | https://www.myfloridalegal.com/newsrelease/attorney-general-james-uthmeier-and-fdacs-commissioner-wilton-simpson-announce-arrests
+[2026-11-24 01:06:46] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-11-24 01:06:47] [GA] Found 11 item(s) on page.
+[2026-11-24 01:06:47] [GA] 1 new item(s):
+[2026-11-24 01:06:47]   NEW: Carr: New Crypto Theft Case Results in $151k Returned to Columbia County VictimNovember 23, 2026 |  | https://law.georgia.gov/press-releases/2026-11-23/carr-new-crypto-theft-case-results-151k-returned-columbia-county-victim
+[2026-11-24 01:06:47] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-11-24 01:06:47] [HI] Found 26 item(s) on page.
+[2026-11-24 01:06:47] [HI] No new items.
+[2026-11-24 01:06:47] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-24 01:06:47]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-24 01:06:50]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (69162 chars)
+[2026-11-24 01:06:50]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-11-24 01:06:50] [ID] Found 28 item(s) on page.
+[2026-11-24 01:06:50] [ID] 1 new item(s):
+[2026-11-24 01:06:50]   NEW: Nov 232026AG Labrador Protects Children’s Privacy in Character.AI Bankruptcy | Nov 232026 | https://www.ag.idaho.gov/newsroom/ag-labrador-protects-childrens-privacy-in-character-ai-bankruptcy/
+[2026-11-24 01:06:50] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-11-24 01:06:51] [IL] Found 50 item(s) on page.
+[2026-11-24 01:06:51] [IL] 2 new item(s):
+[2026-11-24 01:06:51]   NEW: November 23, 2026ATTORNEY GENERAL RAOUL SUES TO PROTECT HOUSING ASSISTANCE FOR MIXED-STATUS IMMIGRANT FAMILIES | 2026-11-23 12:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-sues-to-protect-housing-assistance-for-mixed-status-immigrant-families11.23.26
+[2026-11-24 01:06:51]   NEW: November 23, 2026ATTORNEY GENERAL RAOUL CHARGES ST. CLAIR COUNTY MAN WITH DISSEMINATING CHILD SEXUAL ABUSE MATERIAL | 2026-11-23 12:30 PM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-charges-st-clair-county-man-with-disseminating-child-sexual-abuse-material
+[2026-11-24 01:06:51] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-11-24 01:06:52] [IN] Found 34 item(s) on page.
+[2026-11-24 01:06:52] [IN] No new items.
+[2026-11-24 01:06:52] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-11-24 01:06:52] [IA] Found 10 item(s) on page.
+[2026-11-24 01:06:52] [IA] No new items.
+[2026-11-24 01:06:52] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-24 01:06:52]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-24 01:06:55]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-11-24 01:06:55]   Playwright: page loaded but no links matched — check selectors
+[2026-11-24 01:06:55]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-11-24 01:06:55]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-24 01:07:15]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-24 01:07:35]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-24 01:07:35] [KS] No items returned (fetch failed or empty page).
+[2026-11-24 01:07:35] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-11-24 01:07:36] [KY] Found 27 item(s) on page.
+[2026-11-24 01:07:36] [KY] No new items.
+[2026-11-24 01:07:36] [LA] Fetching https://ag.louisiana.gov/News
+[2026-11-24 01:07:37] [LA] Found 20 item(s) on page.
+[2026-11-24 01:07:37] [LA] No new items.
+[2026-11-24 01:07:37] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-11-24 01:07:37] [ME] Found 21 item(s) on page.
+[2026-11-24 01:07:37] [ME] No new items.
+[2026-11-24 01:07:37] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-11-24 01:07:38] [MD] Found 50 item(s) on page.
+[2026-11-24 01:07:38] [MD] No new items.
+[2026-11-24 01:07:38] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-24 01:07:38]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-24 01:07:41]   Playwright loaded page: 'News and Announcements | Mass.gov' (180214 chars)
+[2026-11-24 01:07:41]   Playwright found 15 item(s) with configured selector
+[2026-11-24 01:07:41] [MA] Found 15 item(s) on page.
+[2026-11-24 01:07:41] [MA] 2 new item(s):
+[2026-11-24 01:07:41]   NEW: AG Campbell Sues ICE Over Unlawful Courthouse Arrests | 11/23/2026 | https://www.mass.gov/news/ag-campbell-sues-ice-over-unlawful-courthouse-arrests
+[2026-11-24 01:07:41]   NEW: AG Campbell Sues To Protect Housing Assistance For Mixed-Status Families | 11/23/2026 | https://www.mass.gov/news/ag-campbell-sues-to-protect-housing-assistance-for-mixed-status-families
+[2026-11-24 01:07:41] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-11-24 01:07:41]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-11-24 01:07:44]   Playwright loaded page: 'Attorney General: Press Releases' (376483 chars)
+[2026-11-24 01:07:44]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-11-24 01:07:44] [MI] Found 50 item(s) on page.
+[2026-11-24 01:07:44] [MI] No new items.
+[2026-11-24 01:07:44] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-11-24 01:07:44] [MN] Found 50 item(s) on page.
+[2026-11-24 01:07:44] [MN] No new items.
+[2026-11-24 01:07:44] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-11-24 01:07:45] [MS] Found 1 item(s) on page.
+[2026-11-24 01:07:45] [MS] 1 new item(s):
+[2026-11-24 01:07:45]   NEW: AG Fitch and Scouts Host 5th Annual Scout Out Opioids (November 23, 2026) |  | https://attorneygenerallynnfitch.com/2026/11/23/ag-fitch-and-scouts-host-5th-annual-scout-out-opioids-november-23-2026/
+[2026-11-24 01:07:45] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-11-24 01:07:45] [MO] Found 50 item(s) on page.
+[2026-11-24 01:07:45] [MO] No new items.
+[2026-11-24 01:07:45] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-11-24 01:07:45] [MT] Found 10 item(s) on page.
+[2026-11-24 01:07:45] [MT] 1 new item(s):
+[2026-11-24 01:07:45]   NEW: Attorney General Knudsen leads consumer protection investigation into Meta’s AI assistant Muse over data privacy |  | https://dojmt.gov/attorney-general-knudsen-leads-consumer-protection-investigation-into-metas-ai-assistant-muse-over-data-privacy/
+[2026-11-24 01:07:45] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-11-24 01:07:45] [NE] Found 10 item(s) on page.
+[2026-11-24 01:07:45] [NE] No new items.
+[2026-11-24 01:07:45] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-11-24 01:07:46] [NV] Found 50 item(s) on page.
+[2026-11-24 01:07:46] [NV] No new items.
+[2026-11-24 01:07:46] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-11-24 01:07:46]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-11-24 01:07:49]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-11-24 01:07:49]   Playwright: page loaded but no links matched — check selectors
+[2026-11-24 01:07:49]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-11-24 01:07:49]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-24 01:08:09]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-24 01:08:29]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-24 01:08:29] [NH] No items returned (fetch failed or empty page).
+[2026-11-24 01:08:29] [NJ] Fetching https://www.njoag.gov/news/
+[2026-11-24 01:08:30] [NJ] Found 5 item(s) on page.
+[2026-11-24 01:08:30] [NJ] 3 new item(s):
+[2026-11-24 01:08:30]   NEW: Attorney General Davenport Sues to Protect Housing Assistance for Families With Mixed Immigration Status |  | https://www.njoag.gov/attorney-general-davenport-sues-to-protect-housing-assistance-for-families-with-mixed-immigration-status/
+[2026-11-24 01:08:30]   NEW: AG Davenport, Roxbury Township Ask Court to Stop ICE From Violating a Court Order and Moving Forward With Warehouse Work |  | https://www.njoag.gov/ag-davenport-roxbury-township-ask-court-to-stop-ice-from-violating-a-court-order-and-moving-forward-with-warehouse-work/
+[2026-11-24 01:08:30]   NEW: New Jersey Division of Gaming Enforcement Announces 3rd Quarter 2026 Total Gaming Revenue Results |  | https://www.njoag.gov/new-jersey-division-of-gaming-enforcement-announces-3rd-quarter-2026-total-gaming-revenue-results/
+[2026-11-24 01:08:30] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-11-24 01:08:32] [NM] Found 13 item(s) on page.
+[2026-11-24 01:08:32] [NM] 2 new item(s):
+[2026-11-24 01:08:32]   NEW: Attorney General Raúl Torrez Opens Investigation into Lea County’s Project Rancho Process |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-opens-investigation-into-lea-countys-project-rancho-process/
+[2026-11-24 01:08:32]   NEW: Attorney General Raúl Torrez Files Lawsuit Against Dollar General Over Alleged Overcharging at Checkout |  | https://nmdoj.gov/press-release/attorney-general-raul-torrez-files-lawsuit-against-dollar-general-over-alleged-overcharging-at-checkout/
+[2026-11-24 01:08:32] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-11-24 01:08:32] [NY] Found 25 item(s) on page.
+[2026-11-24 01:08:32] [NY] 4 new item(s):
+[2026-11-24 01:08:32]   NEW: Attorney General James Sues to Stop Trump Administration from Pushing Thousands of U.S. Citizens Out of Their Homes |  | https://ag.ny.gov/press-release/2026/attorney-general-james-sues-stop-trump-administration-pushing-thousands-us
+[2026-11-24 01:08:32]   NEW: Attorney General James and Comptroller DiNapoli Encourage Charities and Nonprofits to Claim Potential Unclaimed Funds |  | https://ag.ny.gov/press-release/2026/attorney-general-james-and-comptroller-dinapoli-encourage-charities-and
+[2026-11-24 01:08:32]   NEW: La Fiscal General James Presenta una Demanda Para Impedir que la Administración Trump Expulse a Miles de Ciudadanos Estadounidenses de sus Hogares |  | https://ag.ny.gov/press-release/2026/la-fiscal-general-james-presenta-una-demanda-para-impedir-que-la-administracion
+[2026-11-24 01:08:32]   NEW: Attorney General James Releases Statement on Court Decision Upholding Protections Against Housing Discrimination |  | https://ag.ny.gov/press-release/2026/attorney-general-james-releases-statement-court-decision-upholding-protections
+[2026-11-24 01:08:32] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-11-24 01:08:34]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-24 01:08:58]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-24 01:09:20]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-24 01:09:20] [NC] No items returned (fetch failed or empty page).
+[2026-11-24 01:09:20] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-11-24 01:09:20] [ND] Found 10 item(s) on page.
+[2026-11-24 01:09:20] [ND] 3 new item(s):
+[2026-11-24 01:09:20]   NEW: The North Dakota Attorney General issued a Summary Opinion to City of Mandan | November 23, 2026November 23, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-a-summary-opinion-to-city-of-mandan-2/
+[2026-11-24 01:09:20]   NEW: The North Dakota Attorney General issued a Summary Opinion to Cass County Commission | November 23, 2026November 23, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-a-summary-opinion-to-cass-county-commission/
+[2026-11-24 01:09:20]   NEW: The North Dakota Attorney General issued a Summary Opinion to City of Mandan | November 23, 2026November 23, 2026 | https://attorneygeneral.nd.gov/the-north-dakota-attorney-general-issued-a-summary-opinion-to-city-of-mandan/
+[2026-11-24 01:09:20] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-11-24 01:09:20] [OH] Found 10 item(s) on page.
+[2026-11-24 01:09:20] [OH] No new items.
+[2026-11-24 01:09:20] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-24 01:09:20]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-24 01:09:23]   Playwright loaded page: 'News Releases' (847422 chars)
+[2026-11-24 01:09:23]   Playwright: page loaded but no links matched — check selectors
+[2026-11-24 01:09:23]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-11-24 01:09:24] [OK] No items returned (fetch failed or empty page).
+[2026-11-24 01:09:24] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-11-24 01:09:24] [OR] Found 10 item(s) on page.
+[2026-11-24 01:09:24] [OR] 3 new item(s):
+[2026-11-24 01:09:24]   NEW: AG Rayfield Challenges Plan to Auction Off Character AI Users’ Private Chats, Including Kids’ Data, to the Highest Bidder |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-asks-court-to-block-sale-of-private-character-ai-chats-including-kids-data/
+[2026-11-24 01:09:24]   NEW: AG Rayfield Takes Legal Action to Stop Federal Rule  That Would Force Families Out of Their Homes |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-takes-legal-action-to-stop-rule-that-could-evict-families-for-staying-together/
+[2026-11-24 01:09:24]   NEW: Oregon Attorney General Rayfield and Virginia Attorney General Jay Jones Hold Grok Accountable for Failing to Block Child Exploitation |  | https://www.doj.state.or.us/media-home/news-media-releases/ag-rayfield-takes-legal-action-against-grok-for-failing-to-block-child-exploitation/
+[2026-11-24 01:09:24] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-11-24 01:09:25] [PA] Found 12 item(s) on page.
+[2026-11-24 01:09:25] [PA] 3 new item(s):
+[2026-11-24 01:09:25]   NEW: Press ReleaseNOV 23, 2026Attorney General Sunday Announces Temporary Suspension of Company’s Bill Collection Efforts from Patients of Now-Closed Crozer Health SystemHARRISBURG – Attorney General Dave Sunday and the Office of Attorney General’s Healthcare Section have obtained an agreement with United MediCorp to temporarily cease the company’s bill collection…Read more | 2026-11-23T13:06:52-05:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-announces-temporary-suspension-of-companys-bill-collection-efforts-from-patients-of-now-closed-crozer-health-system/
+[2026-11-24 01:09:25]   NEW: CrimeNOV 23, 2026AG Sunday’s Child Predator Section Charges Washington County Man with Creation, Possession of CSAM; He Installed Hidden Camera in HomeHARRISBURG — Attorney General Dave Sunday announced that a Washington County man is facing dozens of charges for manufacturing and possessing child sexual abuse material (CSAM) — some…Read more | 2026-11-23T12:07:25-05:00 | https://www.attorneygeneral.gov/taking-action/ag-sundays-child-predator-section-charges-washington-county-man-with-creation-possession-of-csam-he-installed-hidden-camera-in-home/
+[2026-11-24 01:09:25]   NEW: Press ReleaseNOV 23, 2026Attorney General Sunday Announces Restitution for Patients Impacted by Alpha DentalRestitution Payments Have Begun for Impacted Patients Following Settlement HARRISBURG — Attorney General Dave Sunday announced that after his office reached a settlement with Alpha Dental, restitution payments…Read more | 2026-11-23T10:26:55-05:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-announces-restitution-for-patients-impacted-by-alpha-dental/
+[2026-11-24 01:09:25] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-11-24 01:09:25] [RI] Found 10 item(s) on page.
+[2026-11-24 01:09:25] [RI] No new items.
+[2026-11-24 01:09:25] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-11-24 01:09:25]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-11-24 01:09:29]   Playwright loaded page: 'News - South Carolina Attorney General' (109216 chars)
+[2026-11-24 01:09:29]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-11-24 01:09:29] [SC] Found 9 item(s) on page.
+[2026-11-24 01:09:29] [SC] 3 new item(s):
+[2026-11-24 01:09:29]   NEW: Goose Creek man arrested on Child Sexual Abuse Material* chargesRead More | Nov 23, 2026 | https://www.scag.gov/about-the-office/news/goose-creek-man-arrested-on-child-sexual-abuse-materialstar-charges-10/
+[2026-11-24 01:09:29]   NEW: Lancaster County man arrested on distribution and possession of Child Sexual Abuse Material* chargesRead More | Nov 23, 2026 | https://www.scag.gov/about-the-office/news/lancaster-county-man-arrested-on-distribution-and-possession-of-child-sexual-abuse-materialstar-charges/
+[2026-11-24 01:09:29]   NEW: Florence man arrested on Child Sexual Abuse Material* chargeRead More | Nov 23, 2026 | https://www.scag.gov/about-the-office/news/florence-man-arrested-on-child-sexual-abuse-materialstar-charge/
+[2026-11-24 01:09:29] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-11-24 01:09:29]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=11
+[2026-11-24 01:09:32]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-11-24 01:09:32]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-11-24 01:09:32] [SD] Found 1 item(s) on page.
+[2026-11-24 01:09:32] [SD] No new items.
+[2026-11-24 01:09:32] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-11-24 01:09:32]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-11-24 01:09:52] [TN] Found 50 item(s) on page.
+[2026-11-24 01:09:52] [TN] No new items.
+[2026-11-24 01:09:52] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-11-24 01:09:53] [TX] Found 50 item(s) on page.
+[2026-11-24 01:09:53] [TX] No new items.
+[2026-11-24 01:09:53] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-11-24 01:09:53]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-11-24 01:09:55]   Playwright loaded page: 'Press Releases - Utah Attorney General' (300472 chars)
+[2026-11-24 01:09:55]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-11-24 01:09:55] [UT] Found 50 item(s) on page.
+[2026-11-24 01:09:55] [UT] No new items.
+[2026-11-24 01:09:55] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-11-24 01:09:56] [VT] Found 50 item(s) on page.
+[2026-11-24 01:09:56] [VT] 2 new item(s):
+[2026-11-24 01:09:56]   NEW: Brattleboro Resident Charged with Possession of Child Sexual Abuse Materials | DateNovember 23, 2026 | https://ago.vermont.gov/blog/2026/11/23/brattleboro-resident-charged-possession-child-sexual-abuse-materials
+[2026-11-24 01:09:56]   NEW: Attorney General Clark Sues HUD to Protect Housing Assistance for Mixed-Status Families | DateNovember 23, 2026 | https://ago.vermont.gov/blog/2026/11/23/attorney-general-clark-sues-hud-protect-housing-assistance-mixed-status-families
+[2026-11-24 01:09:56] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-11-24 01:09:57] [VA] Found 50 item(s) on page.
+[2026-11-24 01:09:57] [VA] 2 new item(s):
+[2026-11-24 01:09:57]   NEW: Attorney General Jones Statement on Fourth Circuit's Decision Regarding Virginia's 287(g) Law |  | https://www.oag.state.va.us/media-center/news-releases/jay-jones/3163-attorney-general-jones-statement-on-fourth-circuits-decision-regarding-virginias-287-g-law
+[2026-11-24 01:09:57]   NEW: Attorneys General Jones and Rayfield File Suit Against SpaceX, Parent Company of X, xAI, and Grok, Over Creation and Promotion of Child Exploitation and Non-Consensual Images on Platform |  | https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform
+[2026-11-24 01:09:57] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-11-24 01:09:57] [WA] Found 15 item(s) on page.
+[2026-11-24 01:09:57] [WA] 2 new item(s):
+[2026-11-24 01:09:57]   NEW: Seattle Public Schools will revise policies and procedures to ensure it provides pregnancy accommodations following AG suit | Mon, 23 Nov 2026 17:00:41 +0000 | https://www.atg.wa.gov/news/news-releases/seattle-public-schools-will-revise-policies-and-procedures-ensure-it-provides
+[2026-11-24 01:09:57]   NEW: Washington joins coalition suing to protect housing assistance for mixed-status families | Mon, 23 Nov 2026 16:45:04 +0000 | https://www.atg.wa.gov/news/news-releases/washington-joins-coalition-suing-protect-housing-assistance-mixed-status
+[2026-11-24 01:09:57] [WV] Fetching https://ago.wv.gov/news
+[2026-11-24 01:09:57]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-11-24 01:09:59]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55661 chars)
+[2026-11-24 01:09:59]   Playwright found 30 item(s) with configured selector
+[2026-11-24 01:09:59] [WV] Found 30 item(s) on page.
+[2026-11-24 01:09:59] [WV] No new items.
+[2026-11-24 01:09:59] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-24 01:09:59]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-24 01:10:03]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1601665 chars)
+[2026-11-24 01:10:03]   Playwright found 50 item(s) with configured selector
+[2026-11-24 01:10:03] [WI] Found 50 item(s) on page.
+[2026-11-24 01:10:03] [WI] No new items.
+[2026-11-24 01:10:03] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-11-24 01:10:03] [WY] Found 2 item(s) on page.
+[2026-11-24 01:10:03] [WY] No new items.
+[2026-11-24 01:10:03] States with fetch errors: KS, NH, NC, OK
+[2026-11-24 01:10:03] Sending email: 43 new item(s) across 20 state(s).
+[2026-11-24 01:10:04] ERROR sending email: Connection unexpectedly closed
+[2026-11-24 01:10:04] Done.
