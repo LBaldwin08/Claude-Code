@@ -13410,3 +13410,18 @@ Call log:
 [2026-11-25 14:46:55]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403930
 [2026-11-25 14:46:55] ERROR sending email: Connection unexpectedly closed
 [2026-11-25 14:46:55] Done.
+[2026-11-25 23:27:03] Checking for new DE court opinions...
+[2026-11-25 23:27:03] Using Playwright to fetch opinions page...
+[2026-11-25 23:27:07] Playwright found 25 opinion(s).
+[2026-11-25 23:27:07] Found 25 opinions on page.
+[2026-11-25 23:27:07] 4 new opinion(s)!
+[2026-11-25 23:27:07]   NEW: [11/25/2026] [Court of Chancery] Dan Pei v. Morris Puma | C.A. No. 2023-0465-DG | GibbsM.
+[2026-11-25 23:27:07]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403960
+[2026-11-25 23:27:07]   NEW: [11/25/2026] [Superior Court] State v. Harris | 2005002325A | Green-StreettJ.
+[2026-11-25 23:27:07]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403950
+[2026-11-25 23:27:07]   NEW: [11/24/2026] [Superior Court] Global Tradings, LLC v. Lofton Enterprise Group, LLC, et al. | N25C-10-238 DJB | BrennanJ.
+[2026-11-25 23:27:07]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403940
+[2026-11-25 23:27:07]   NEW: [11/24/2026] [Supreme Court(Superior Court)] Townsend v. State | 364, 2026 | ZurnJ.
+[2026-11-25 23:27:07]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403900
+[2026-11-25 23:27:07] ERROR sending email: Connection unexpectedly closed
+[2026-11-25 23:27:07] Done.
