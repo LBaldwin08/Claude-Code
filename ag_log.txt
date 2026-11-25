@@ -46770,3 +46770,216 @@ Call log:
 [2026-11-24 23:14:17] Sending email: 35 new item(s) across 17 state(s).
 [2026-11-24 23:14:17] ERROR sending email: Connection unexpectedly closed
 [2026-11-24 23:14:17] Done.
+[2026-11-25 22:39:02] Checking for new AG press releases...
+[2026-11-25 22:39:02] Checking 50 state(s).
+[2026-11-25 22:39:02] [AL] Fetching https://www.alabamaag.gov/news/
+[2026-11-25 22:39:02]   Using Playwright headless browser for https://www.alabamaag.gov/news/
+[2026-11-25 22:39:05]   Playwright loaded page: 'Archived News - Alabama Attorney General's Office' (244086 chars)
+[2026-11-25 22:39:05]   Playwright found 27 item(s) with configured selector
+[2026-11-25 22:39:05] [AL] Found 27 item(s) on page.
+[2026-11-25 22:39:05] [AL] No new items.
+[2026-11-25 22:39:05] [AK] Fetching https://law.alaska.gov/press/news.html
+[2026-11-25 22:39:06] [AK] Found 50 item(s) on page.
+[2026-11-25 22:39:06] [AK] No new items.
+[2026-11-25 22:39:06] [AZ] Fetching https://www.azag.gov/media/press-releases
+[2026-11-25 22:39:06] [AZ] Found 10 item(s) on page.
+[2026-11-25 22:39:06] [AZ] No new items.
+[2026-11-25 22:39:06] [AR] Fetching https://arkansasag.gov/news-alerts/news-releases/
+[2026-11-25 22:39:06] [AR] Found 50 item(s) on page.
+[2026-11-25 22:39:06] [AR] No new items.
+[2026-11-25 22:39:06] [CA] Fetching https://oag.ca.gov/news/feed
+[2026-11-25 22:39:07] [CA] Found 10 item(s) on page.
+[2026-11-25 22:39:07] [CA] 1 new item(s):
+[2026-11-25 22:39:07]   NEW: Signed, Sealed, Delivered, They’re Yolks! Attorney General Bonta Announces Delivery of 8.9 Million Eggs to California Food Banks | Wed, 25 Nov 2026 16:54:48 +0000 | https://oag.ca.gov/news/press-releases/signed-sealed-delivered-they%E2%80%99re-yolks-attorney-general-bonta-announces-delivery
+[2026-11-25 22:39:07] [CO] Fetching https://coag.gov/media-center/press-room/
+[2026-11-25 22:39:07] [CO] Found 50 item(s) on page.
+[2026-11-25 22:39:07] [CO] No new items.
+[2026-11-25 22:39:07] [CT] Fetching https://portal.ct.gov/ag/press-releases
+[2026-11-25 22:39:08] [CT] Found 33 item(s) on page.
+[2026-11-25 22:39:08] [CT] No new items.
+[2026-11-25 22:39:08] [DE] Fetching https://news.delaware.gov/category/justice/feed/
+[2026-11-25 22:39:08] [DE] Found 300 item(s) on page.
+[2026-11-25 22:39:08] [DE] 1 new item(s):
+[2026-11-25 22:39:08]   NEW: AG Jennings reminds Delawareans to be safe this giving season | Wed, 25 Nov 2026 05:31:32 +0000 | https://news.delaware.gov/2026/11/25/ag-jennings-reminds-delawareans-to-be-safe-this-giving-season/
+[2026-11-25 22:39:08] [FL] Fetching https://www.myfloridalegal.com/newsreleases
+[2026-11-25 22:39:09] [FL] Found 20 item(s) on page.
+[2026-11-25 22:39:09] [FL] No new items.
+[2026-11-25 22:39:09] [GA] Fetching https://law.georgia.gov/press-releases
+[2026-11-25 22:39:09] [GA] Found 11 item(s) on page.
+[2026-11-25 22:39:09] [GA] No new items.
+[2026-11-25 22:39:09] [HI] Fetching https://ag.hawaii.gov/news-releases/
+[2026-11-25 22:39:09] [HI] Found 26 item(s) on page.
+[2026-11-25 22:39:09] [HI] No new items.
+[2026-11-25 22:39:09] [ID] Fetching https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-25 22:39:09]   Using Playwright headless browser for https://www.ag.idaho.gov/newsroom/category/press-releases/
+[2026-11-25 22:39:12]   Playwright loaded page: 'Press Releases Archives - Idaho Office of Attorney General' (69129 chars)
+[2026-11-25 22:39:12]   Playwright found 28 item(s) with fallback 'a' selector
+[2026-11-25 22:39:12] [ID] Found 28 item(s) on page.
+[2026-11-25 22:39:12] [ID] No new items.
+[2026-11-25 22:39:12] [IL] Fetching https://illinoisattorneygeneral.gov/news-room/
+[2026-11-25 22:39:13] [IL] Found 50 item(s) on page.
+[2026-11-25 22:39:13] [IL] 2 new item(s):
+[2026-11-25 22:39:13]   NEW: November 25, 2026***CONSUMER ALERT***ATTORNEY GENERAL RAOUL URGES CONSUMERS TO DO THEIR HOLIDAY SHOPPING WITH CAUTION | 2026-11-25 11:00 AM | https://illinoisattorneygeneral.gov/news/story/consumer-alertattorney-general-raoul-urges-consumers-to-do-their-holiday-shopping-with-caution
+[2026-11-25 22:39:13]   NEW: November 24, 2026ATTORNEY GENERAL RAOUL CHALLENGES PLAN TO AUCTION OFF CHARACTER.AI USERS’ PRIVATE CHATS TO THE HIGHEST BIDDER | 2026-11-25 11:00 AM | https://illinoisattorneygeneral.gov/news/story/attorney-general-raoul-challenges-plan-to-auction-off-characterai-users-private-chats-to-the-highest-bidder
+[2026-11-25 22:39:13] [IN] Fetching https://www.in.gov/attorneygeneral/newsroom
+[2026-11-25 22:39:13] [IN] Found 34 item(s) on page.
+[2026-11-25 22:39:13] [IN] No new items.
+[2026-11-25 22:39:13] [IA] Fetching https://www.iowaattorneygeneral.gov/newsroom
+[2026-11-25 22:39:14] [IA] Found 10 item(s) on page.
+[2026-11-25 22:39:14] [IA] No new items.
+[2026-11-25 22:39:14] [KS] Fetching https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-25 22:39:14]   Using Playwright headless browser for https://ag.ks.gov/about-the-office/news/press-releases
+[2026-11-25 22:39:17]   Playwright loaded page: 'Access Denied' (341 chars)
+[2026-11-25 22:39:17]   Playwright: page loaded but no links matched — check selectors
+[2026-11-25 22:39:17]   [KS] Playwright fetch failed, falling back to regular scrape
+[2026-11-25 22:39:17]   Attempt 1/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-25 22:39:38]   Attempt 2/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-25 22:39:58]   Attempt 3/3 failed for https://ag.ks.gov/about-the-office/news/press-releases: 403 Client Error: Forbidden for url: https://www.ag.ks.gov/about-the-office/news/press-releases
+[2026-11-25 22:39:58] [KS] No items returned (fetch failed or empty page).
+[2026-11-25 22:39:58] [KY] Fetching https://ag.ky.gov/news/Pages/default.aspx
+[2026-11-25 22:39:59] [KY] Found 27 item(s) on page.
+[2026-11-25 22:39:59] [KY] No new items.
+[2026-11-25 22:39:59] [LA] Fetching https://ag.louisiana.gov/News
+[2026-11-25 22:39:59] [LA] Found 20 item(s) on page.
+[2026-11-25 22:39:59] [LA] No new items.
+[2026-11-25 22:39:59] [ME] Fetching https://www.maine.gov/ag/news-and-library/press-releases
+[2026-11-25 22:40:00] [ME] Found 21 item(s) on page.
+[2026-11-25 22:40:00] [ME] No new items.
+[2026-11-25 22:40:00] [MD] Fetching https://oag.maryland.gov/News/Pages/press-release-archive.aspx
+[2026-11-25 22:40:01] [MD] Found 50 item(s) on page.
+[2026-11-25 22:40:01] [MD] No new items.
+[2026-11-25 22:40:01] [MA] Fetching https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-25 22:40:01]   Using Playwright headless browser for https://www.mass.gov/orgs/office-of-the-attorney-general/news
+[2026-11-25 22:40:04]   Playwright loaded page: 'News and Announcements | Mass.gov' (180089 chars)
+[2026-11-25 22:40:04]   Playwright found 15 item(s) with configured selector
+[2026-11-25 22:40:04] [MA] Found 15 item(s) on page.
+[2026-11-25 22:40:04] [MA] No new items.
+[2026-11-25 22:40:04] [MI] Fetching https://www.michigan.gov/ag/news/press-releases
+[2026-11-25 22:40:04]   Using Playwright headless browser for https://www.michigan.gov/ag/news/press-releases
+[2026-11-25 22:40:07]   Playwright loaded page: 'Attorney General: Press Releases' (377185 chars)
+[2026-11-25 22:40:07]   Playwright found 10 item(s) with configured selector
+[2026-11-25 22:40:07] [MI] Found 10 item(s) on page.
+[2026-11-25 22:40:07] [MI] 1 new item(s):
+[2026-11-25 22:40:07]   NEW: AG Nessel Launches Annual Holiday Consumer Protection ‘Scampaign’ |  | https://www.michigan.gov/ag/news/press-releases/2026/11/25/ag-nessel-launches-annual-holiday-consumer-protection-scampaign
+[2026-11-25 22:40:07] [MN] Fetching https://www.ag.state.mn.us/Office/Communications.asp
+[2026-11-25 22:40:07] [MN] Found 50 item(s) on page.
+[2026-11-25 22:40:07] [MN] No new items.
+[2026-11-25 22:40:07] [MS] Fetching https://attorneygenerallynnfitch.com/media/press-releases/
+[2026-11-25 22:40:07] [MS] Found 1 item(s) on page.
+[2026-11-25 22:40:07] [MS] 1 new item(s):
+[2026-11-25 22:40:07]   NEW: AG Fitch Urges Federal Government to Leave Authority Over Gambling Regulation with States (November 25, 2026) |  | https://attorneygenerallynnfitch.com/2026/11/25/ag-fitch-urges-federal-government-to-leave-authority-over-gambling-regulation-with-states-november-25-2026/
+[2026-11-25 22:40:07] [MO] Fetching https://ago.mo.gov/press-releases/
+[2026-11-25 22:40:07] [MO] Found 50 item(s) on page.
+[2026-11-25 22:40:07] [MO] No new items.
+[2026-11-25 22:40:07] [MT] Fetching https://dojmt.gov/category/press-release/
+[2026-11-25 22:40:08] [MT] Found 10 item(s) on page.
+[2026-11-25 22:40:08] [MT] 1 new item(s):
+[2026-11-25 22:40:08]   NEW: Attorney General Knudsen shares tips to help Montanans avoid holiday scams |  | https://dojmt.gov/attorney-general-knudsen-shares-tips-to-help-montanans-avoid-holiday-scams/
+[2026-11-25 22:40:08] [NE] Fetching https://ago.nebraska.gov/rss/news
+[2026-11-25 22:40:08] [NE] Found 10 item(s) on page.
+[2026-11-25 22:40:08] [NE] 1 new item(s):
+[2026-11-25 22:40:08]   NEW: Attorney General Hilgers Files Suit Against TCL For Illegally Spying on Nebraskans | Wed, 25 Nov 2026 16:36:11 +0000 | https://ago.nebraska.gov/news/attorney-general-hilgers-files-suit-against-tcl-illegally-spying-nebraskans
+[2026-11-25 22:40:08] [NV] Fetching https://ag.nv.gov/News/Press_Releases/
+[2026-11-25 22:40:09] [NV] Found 50 item(s) on page.
+[2026-11-25 22:40:09] [NV] No new items.
+[2026-11-25 22:40:09] [NH] Fetching https://www.doj.nh.gov/resources/press-releases
+[2026-11-25 22:40:09]   Using Playwright headless browser for https://www.doj.nh.gov/resources/press-releases
+[2026-11-25 22:40:11]   Playwright loaded page: 'Access Denied' (316 chars)
+[2026-11-25 22:40:11]   Playwright: page loaded but no links matched — check selectors
+[2026-11-25 22:40:11]   [NH] Playwright fetch failed, falling back to regular scrape
+[2026-11-25 22:40:11]   Attempt 1/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-25 22:40:31]   Attempt 2/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-25 22:40:52]   Attempt 3/3 failed for https://www.doj.nh.gov/resources/press-releases: 403 Client Error: Forbidden for url: https://www.doj.nh.gov/resources/press-releases
+[2026-11-25 22:40:52] [NH] No items returned (fetch failed or empty page).
+[2026-11-25 22:40:52] [NJ] Fetching https://www.njoag.gov/news/
+[2026-11-25 22:40:53] [NJ] Found 5 item(s) on page.
+[2026-11-25 22:40:53] [NJ] No new items.
+[2026-11-25 22:40:53] [NM] Fetching https://nmdoj.gov/press-releases/
+[2026-11-25 22:40:55] [NM] Found 13 item(s) on page.
+[2026-11-25 22:40:55] [NM] No new items.
+[2026-11-25 22:40:55] [NY] Fetching https://ag.ny.gov/press-releases
+[2026-11-25 22:40:55] [NY] Found 25 item(s) on page.
+[2026-11-25 22:40:55] [NY] 1 new item(s):
+[2026-11-25 22:40:55]   NEW: Attorney General James Wins $1.3 Billion Judgment Against Crypto Scammers Who Targeted Haitian Community |  | https://ag.ny.gov/press-release/2026/attorney-general-james-wins-13-billion-judgment-against-crypto-scammers-who
+[2026-11-25 22:40:55] [NC] Fetching https://ncdoj.gov/newsroom/press-releases/
+[2026-11-25 22:40:57]   Attempt 1/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-25 22:41:18]   Attempt 2/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-25 22:41:40]   Attempt 3/3 failed for https://ncdoj.gov/newsroom/press-releases/: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[2026-11-25 22:41:40] [NC] No items returned (fetch failed or empty page).
+[2026-11-25 22:41:40] [ND] Fetching https://attorneygeneral.nd.gov/news/
+[2026-11-25 22:41:40] [ND] Found 10 item(s) on page.
+[2026-11-25 22:41:40] [ND] No new items.
+[2026-11-25 22:41:40] [OH] Fetching https://www.ohioattorneygeneral.gov/Media/News-Releases
+[2026-11-25 22:41:40] [OH] Found 10 item(s) on page.
+[2026-11-25 22:41:40] [OH] No new items.
+[2026-11-25 22:41:40] [OK] Fetching https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-25 22:41:40]   Using Playwright headless browser for https://oklahoma.gov/oag/news/newsroom.html
+[2026-11-25 22:41:43]   Playwright loaded page: 'News Releases' (847422 chars)
+[2026-11-25 22:41:44]   Playwright: page loaded but no links matched — check selectors
+[2026-11-25 22:41:44]   [OK] Playwright fetch failed, falling back to regular scrape
+[2026-11-25 22:41:44] [OK] No items returned (fetch failed or empty page).
+[2026-11-25 22:41:44] [OR] Fetching https://www.doj.state.or.us/media/news-media-releases/all-media-releases/
+[2026-11-25 22:41:45] [OR] Found 10 item(s) on page.
+[2026-11-25 22:41:45] [OR] No new items.
+[2026-11-25 22:41:45] [PA] Fetching https://www.attorneygeneral.gov/taking-action/
+[2026-11-25 22:41:45] [PA] Found 12 item(s) on page.
+[2026-11-25 22:41:45] [PA] 1 new item(s):
+[2026-11-25 22:41:45]   NEW: Fraud Protection & Consumer AlertsNOV 25, 2026Attorney General Sunday: Stop and Think While Shopping this Holiday Season to Keep Your Money and Info Safe from ScammersHARRISBURG – Attorney General Dave Sunday is encouraging Pennsylvanians to use caution when shopping for deals for the holidays, making donations for Giving Tuesday, and trying to book…Read more | 2026-11-25T08:31:32-05:00 | https://www.attorneygeneral.gov/taking-action/attorney-general-sunday-stop-and-think-while-shopping-this-holiday-season-to-keep-your-money-and-info-safe-from-scammers/
+[2026-11-25 22:41:45] [RI] Fetching https://riag.ri.gov/press-releases.xml
+[2026-11-25 22:41:45] [RI] Found 10 item(s) on page.
+[2026-11-25 22:41:45] [RI] No new items.
+[2026-11-25 22:41:45] [SC] Fetching https://www.scag.gov/about-the-office/news/
+[2026-11-25 22:41:45]   Using Playwright headless browser for https://www.scag.gov/about-the-office/news/
+[2026-11-25 22:41:48]   Playwright loaded page: 'News - South Carolina Attorney General' (109122 chars)
+[2026-11-25 22:41:48]   Playwright found 9 item(s) with fallback 'a' selector
+[2026-11-25 22:41:48] [SC] Found 9 item(s) on page.
+[2026-11-25 22:41:48] [SC] 2 new item(s):
+[2026-11-25 22:41:48]   NEW: Attorney General Alan Wilson announces Upstate woman charged with stealing thousands from vulnerable adultRead More | Nov 25, 2026 | https://www.scag.gov/about-the-office/news/attorney-general-alan-wilson-announces-upstate-woman-charged-with-stealing-thousands-from-vulnerable-adult/
+[2026-11-25 22:41:48]   NEW: Greenville man arrested on Child Sexual Abuse Material* distribution and possession chargesRead More | Nov 25, 2026 | https://www.scag.gov/about-the-office/news/greenville-man-arrested-on-child-sexual-abuse-materialstar-distribution-and-possession-charges/
+[2026-11-25 22:41:48] [SD] Fetching https://atg.sd.gov/pressreleasearchive.aspx
+[2026-11-25 22:41:48]   Using Playwright headless browser for https://atg.sd.gov/pressreleasearchive.aspx?year=2026&month=11
+[2026-11-25 22:41:51]   Playwright loaded page: 'South Dakota Attorney General' (36019 chars)
+[2026-11-25 22:41:51]   Playwright found 1 item(s) with fallback 'a' selector
+[2026-11-25 22:41:51] [SD] Found 1 item(s) on page.
+[2026-11-25 22:41:51] [SD] No new items.
+[2026-11-25 22:41:51] [TN] Fetching https://www.tn.gov/attorneygeneral/news.html
+[2026-11-25 22:41:52]   Attempt 1/3 failed for https://www.tn.gov/attorneygeneral/news.html: ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+[2026-11-25 22:42:12] [TN] Found 50 item(s) on page.
+[2026-11-25 22:42:12] [TN] No new items.
+[2026-11-25 22:42:12] [TX] Fetching https://www.texasattorneygeneral.gov/news/releases
+[2026-11-25 22:42:12] [TX] Found 50 item(s) on page.
+[2026-11-25 22:42:12] [TX] No new items.
+[2026-11-25 22:42:12] [UT] Fetching https://attorneygeneral.utah.gov/newsroom/
+[2026-11-25 22:42:12]   Using Playwright headless browser for https://attorneygeneral.utah.gov/newsroom/
+[2026-11-25 22:42:15]   Playwright loaded page: 'Press Releases - Utah Attorney General' (300580 chars)
+[2026-11-25 22:42:15]   Playwright found 50 item(s) with fallback 'a' selector
+[2026-11-25 22:42:15] [UT] Found 50 item(s) on page.
+[2026-11-25 22:42:15] [UT] No new items.
+[2026-11-25 22:42:15] [VT] Fetching https://ago.vermont.gov/blog/category/press-releases
+[2026-11-25 22:42:15] [VT] Found 50 item(s) on page.
+[2026-11-25 22:42:15] [VT] No new items.
+[2026-11-25 22:42:15] [VA] Fetching https://www.oag.state.va.us/media-center/news-releases
+[2026-11-25 22:42:16] [VA] Found 50 item(s) on page.
+[2026-11-25 22:42:16] [VA] No new items.
+[2026-11-25 22:42:16] [WA] Fetching https://www.atg.wa.gov/news/news-releases-rss
+[2026-11-25 22:42:16] [WA] Found 15 item(s) on page.
+[2026-11-25 22:42:16] [WA] No new items.
+[2026-11-25 22:42:16] [WV] Fetching https://ago.wv.gov/news
+[2026-11-25 22:42:16]   Using Playwright headless browser for https://ago.wv.gov/news
+[2026-11-25 22:42:19]   Playwright loaded page: 'News | Office of the WV Attorney General John B. McCuskey' (55661 chars)
+[2026-11-25 22:42:19]   Playwright found 30 item(s) with configured selector
+[2026-11-25 22:42:19] [WV] Found 30 item(s) on page.
+[2026-11-25 22:42:19] [WV] No new items.
+[2026-11-25 22:42:19] [WI] Fetching https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-25 22:42:19]   Using Playwright headless browser for https://www.wisdoj.gov/Pages/AboutUs/press-releases.aspx
+[2026-11-25 22:42:23]   Playwright loaded page: 'Wisconsin Department of Justice Press Release Archive' (1602861 chars)
+[2026-11-25 22:42:23]   Playwright found 50 item(s) with configured selector
+[2026-11-25 22:42:23] [WI] Found 50 item(s) on page.
+[2026-11-25 22:42:23] [WI] No new items.
+[2026-11-25 22:42:23] [WY] Fetching https://sites.google.com/a/wyo.gov/wy-ag/press-releases
+[2026-11-25 22:42:23] [WY] Found 2 item(s) on page.
+[2026-11-25 22:42:23] [WY] No new items.
+[2026-11-25 22:42:23] States with fetch errors: KS, NH, NC, OK
+[2026-11-25 22:42:23] Sending email: 12 new item(s) across 10 state(s).
+[2026-11-25 22:42:24] ERROR sending email: Connection unexpectedly closed
+[2026-11-25 22:42:24] Done.
