@@ -13401,3 +13401,12 @@ Call log:
 [2026-11-25 04:26:31]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403920
 [2026-11-25 04:26:31] ERROR sending email: Connection unexpectedly closed
 [2026-11-25 04:26:31] Done.
+[2026-11-25 14:46:50] Checking for new DE court opinions...
+[2026-11-25 14:46:50] Using Playwright to fetch opinions page...
+[2026-11-25 14:46:55] Playwright found 25 opinion(s).
+[2026-11-25 14:46:55] Found 25 opinions on page.
+[2026-11-25 14:46:55] 1 new opinion(s)!
+[2026-11-25 14:46:55]   NEW: [11/25/2026] [Court of Chancery] Fabian Schmahl v. LFM Capital Partners III-A, L.P., et. al. | 2025-1383-KHL | LachmundV.C.
+[2026-11-25 14:46:55]        https://courts.delaware.gov/opinions/opinions/download.aspx?id=403930
+[2026-11-25 14:46:55] ERROR sending email: Connection unexpectedly closed
+[2026-11-25 14:46:55] Done.
